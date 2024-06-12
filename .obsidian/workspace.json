@@ -222,12 +222,11 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -248,7 +247,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "16de87b098e9fc0b",
+  "active": "322c528cb7f7b225",
   "lastOpenFiles": [
     "School studies/Physics/Thermal Physics.md",
     "School studies/CS/Data Representation.md",
