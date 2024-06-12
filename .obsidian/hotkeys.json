@@ -1,0 +1,20 @@
+{
+  "editor:open-search": [],
+  "table-editor-obsidian:format-table": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "Enter"
+    }
+  ],
+  "table-editor-obsidian:next-row": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Enter"
+    }
+  ]
+}

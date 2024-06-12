@@ -1,0 +1,229 @@
+{
+  "workspaces": {
+    "search intensive": {
+      "main": {
+        "id": "02891aaf2666f9ef",
+        "type": "split",
+        "children": [
+          {
+            "id": "70cc0dedd2425f59",
+            "type": "tabs",
+            "dimension": 67.31391585760518,
+            "children": [
+              {
+                "id": "bb0693d3ea59552c",
+                "type": "leaf",
+                "state": {
+                  "type": "surfing-view",
+                  "state": {
+                    "url": "https://improving-your-english.com/vocabulary/describe-rain/"
+                  }
+                }
+              },
+              {
+                "id": "e0b216b12bf74f8c",
+                "type": "leaf",
+                "state": {
+                  "type": "surfing-view",
+                  "state": {
+                    "url": "https://duckduckgo.com/?q=how+to+describe+thunder&ia=web"
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "5dd8932691f1009b",
+            "type": "tabs",
+            "dimension": 32.68608414239482,
+            "children": [
+              {
+                "id": "a79a9b3c5f2b93b0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "School studies/English Language El/SP Q.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "6e66f581101f211b",
+        "type": "split",
+        "children": [
+          {
+            "id": "4e2c86ab495e93b5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "54c5a6e575f4cd1d",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "4b0ad9f429b2d16e",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "002756a7baf7f748",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "b3380d9d387243fa",
+                "type": "leaf",
+                "state": {
+                  "type": "surfing-tab-tree",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200,
+        "collapsed": true
+      },
+      "right": {
+        "id": "d967d98868519a35",
+        "type": "split",
+        "children": [
+          {
+            "id": "3a4f977b7dec7d16",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1ce0af683d391aac",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "1262eba30e8d6b9a",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "9747f1b0dbdaae7d",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "40b33ddf6941da5e",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {}
+                }
+              },
+              {
+                "id": "322c528cb7f7b225",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "acb0b20ef808921c",
+                "type": "leaf",
+                "state": {
+                  "type": "git-history-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "0ab76707b5465b06",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "10654fb406c46b7c",
+                "type": "leaf",
+                "state": {
+                  "type": "review-queue-list-view",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 7
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "surfing:surfing-bookmark-manager": false,
+          "workspaces:Manage workspace layouts": false,
+          "markdown-importer:Open format converter": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "obsidian-spaced-repetition:Review flashcards": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false
+        }
+      },
+      "active": "e0b216b12bf74f8c"
+    }
+  },
+  "active": "search intensive"
+}

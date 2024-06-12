@@ -1,0 +1,118 @@
+{
+  "bookmarks": [
+    {
+      "id": "1939152732",
+      "name": "GitHub - paragon1006/Obsidian_git: For my personal git backup of files",
+      "url": "https://github.com/paragon1006/Obsidian_git",
+      "description": "",
+      "category": [
+        "ROOT"
+      ],
+      "tags": "",
+      "created": 1696406333130,
+      "modified": 1696406333130
+    },
+    {
+      "id": "496559554",
+      "name": "Airtel 4G HotSpot",
+      "url": "http://192.168.1.1/html/home.html",
+      "description": "",
+      "category": [
+        "ROOT"
+      ],
+      "tags": "",
+      "created": 1695616924090,
+      "modified": 1695616924091
+    },
+    {
+      "id": "1572598834",
+      "name": "Interactive Vim tutorial",
+      "url": "https://www.openvim.com/",
+      "description": "",
+      "category": [
+        "ROOT"
+      ],
+      "tags": "",
+      "created": 1695490477916,
+      "modified": 1695490477916
+    },
+    {
+      "id": "1836938752",
+      "name": "Reddit",
+      "url": "https://reddit.com",
+      "description": "reddit",
+      "category": [
+        "Computer"
+      ],
+      "tags": "",
+      "created": 1693426500000,
+      "modified": 1693426500000
+    },
+    {
+      "id": "-1875438792",
+      "name": "Obsidian discord",
+      "url": "https://discord.com/channels/@me",
+      "description": "",
+      "category": [
+        "ROOT"
+      ],
+      "tags": "",
+      "created": 1693146900000,
+      "modified": 1693146900000
+    },
+    {
+      "id": "-1803638588",
+      "name": "Character.AI - Socrates",
+      "url": "https://beta.character.ai/chat?char=5Ku7FpDG3A0mI1LXN22DtZVXDBS8xVmwjbFeUwaQOec",
+      "description": "",
+      "category": [
+        "ROOT"
+      ],
+      "tags": "",
+      "created": 1693134949366,
+      "modified": 1693134949366
+    },
+    {
+      "id": "2014068036",
+      "name": "Obsidian",
+      "url": "https://obsidian.md/",
+      "description": "A awesome note-taking tool",
+      "category": [
+        "ROOT"
+      ],
+      "tags": "",
+      "created": 1672840861051,
+      "modified": 1672840861052
+    }
+  ],
+  "categories": [
+    {
+      "value": "ROOT",
+      "text": "ROOT",
+      "label": "ROOT",
+      "children": []
+    },
+    {
+      "value": "Computer",
+      "text": "Computer",
+      "label": "Computer"
+    },
+    {
+      "value": "obsidian",
+      "text": "obsidian",
+      "label": "obsidian",
+      "children": [
+        {
+          "value": "surfing",
+          "text": "surfing",
+          "label": "surfing"
+        },
+        {
+          "value": "dataview",
+          "text": "dataview",
+          "label": "dataview"
+        }
+      ]
+    }
+  ]
+}
