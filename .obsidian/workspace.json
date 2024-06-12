@@ -16,8 +16,19 @@
                 "file": "Excalidraw/benzene.png"
               }
             }
+          },
+          {
+            "id": "16de87b098e9fc0b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-06-12 19.43.53.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/Drawing 2024-06-12 19.43.53.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/Drawing 2024-06-12 19.43.53.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Untitled.md"
+                "file": "Excalidraw/Drawing 2024-06-12 19.43.53.excalidraw.md"
               }
             }
           },
@@ -183,7 +196,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Untitled.md"
+                "file": "Excalidraw/Drawing 2024-06-12 19.43.53.excalidraw.md"
               }
             }
           },
@@ -229,10 +242,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "54c5a6e575f4cd1d",
+  "active": "16de87b098e9fc0b",
   "lastOpenFiles": [
-    "Excalidraw/benzenering.png",
+    "Excalidraw/Pasted Image 20240612194400_822.png",
     "Excalidraw/Untitled.md",
+    "Excalidraw/Drawing 2024-06-12 19.43.53.excalidraw.md",
+    "Excalidraw/benzenering.png",
     "Excalidraw/benzene.png",
     "Excalidraw/benzenering.png.crdownload",
     "Excalidraw/chloro benzene.excalidraw.md",
@@ -267,7 +282,6 @@
     "Excalidraw/Drawing 2023-09-01 13.19.23.excalidraw.md",
     "Excalidraw/Drawing 2023-08-27 20.08.26.excalidraw.md",
     "Excalidraw/cs-hw-gdhjksl.excalidraw.md",
-    "Excalidraw/client-server-architecture.md",
     "Physics",
     "School studies/Chemistry/Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
     "School studies/CS/course Cambridge International AS and A Level Computer Science Coursebook.pdf",
