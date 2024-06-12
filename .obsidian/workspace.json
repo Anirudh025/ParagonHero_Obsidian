@@ -34,12 +34,24 @@
             "id": "40138ccfd99e2336",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/phenylheptane.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "18e88369a9ab51ea",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://duckduckgo.com/?q=benzyl+group&iax=images&ia=images&iai=http%3A%2F%2Fweb.chem.ucla.edu%2F~harding%2FIGOC%2FB%2Fbenzyl_group03.png"
+              }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,6 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/benzyl.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,6 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/benzyl.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -158,7 +172,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/benzyl.excalidraw.md"
+              }
             }
           },
           {
@@ -202,7 +218,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/benzyl.excalidraw.md"
+              }
             }
           },
           {
@@ -240,14 +258,14 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "54c5a6e575f4cd1d",
+  "active": "7741dadcf98a3544",
   "lastOpenFiles": [
+    "Excalidraw/phenylheptane.excalidraw.md",
     "Excalidraw/benzyl.excalidraw.md",
     "School studies/Chemistry/Benzene and its compunds.md",
     "README.md",
     "obsidian format/MathJax.md",
     "Excalidraw/ringbenzene.md",
-    "Excalidraw/phenylheptane.excalidraw.md",
     "Excalidraw/Pasted image 20230724044538.png",
     "Excalidraw/Pasted Image 20240612194848_349.png",
     "Excalidraw/Pasted Image 20240612194805_235.png",
