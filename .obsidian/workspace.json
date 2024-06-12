@@ -21,12 +21,9 @@
             "id": "16de87b098e9fc0b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compunds.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Excalidraw/phenylheptane.excalidraw.md"
               }
             }
           }
@@ -113,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compunds.md",
+                "file": "Excalidraw/phenylheptane.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compunds.md",
+                "file": "Excalidraw/phenylheptane.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compunds.md"
+                "file": "Excalidraw/phenylheptane.excalidraw.md"
               }
             }
           },
@@ -199,7 +196,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compunds.md"
+                "file": "Excalidraw/phenylheptane.excalidraw.md"
               }
             }
           },
@@ -247,17 +244,17 @@
   },
   "active": "16de87b098e9fc0b",
   "lastOpenFiles": [
-    "Excalidraw/chloro benzene.excalidraw.md",
     "Excalidraw/ringbenzene.md",
-    "Excalidraw/benzenesigmapi.excalidraw.md",
+    "Excalidraw/Pasted image 20230724044538.png",
     "Excalidraw/Pasted Image 20240612194848_349.png",
     "Excalidraw/Pasted Image 20240612194805_235.png",
+    "Excalidraw/phenylheptane.excalidraw.md",
+    "Excalidraw/chloro benzene.excalidraw.md",
+    "Excalidraw/benzenesigmapi.excalidraw.md",
+    "School studies/Chemistry/Benzene and its compunds.md",
     "Excalidraw/ringbenzene.excalidraw.md",
     "Excalidraw/benzene.png",
     "Excalidraw/Screenshot 2023-07-24 044228.png",
-    "Excalidraw/phenylheptane.excalidraw.md",
-    "Excalidraw/Pasted image 20230724044538.png",
-    "School studies/Chemistry/Benzene and its compunds.md",
     "Excalidraw/Pasted Image 20240612194400_822.png",
     "Excalidraw/Untitled.md",
     "Excalidraw/benzenering.png",

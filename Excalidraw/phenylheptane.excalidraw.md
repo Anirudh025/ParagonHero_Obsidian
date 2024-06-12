@@ -12,10 +12,6 @@ CH₂-CH₂-CH₂-CH₂-CH₂-CH₂-CH₃ ^f3CaUbMF
 
 Phenylhept-1-ane ^APUQ2Cyq
 
-
-# Embedded files
-b12c314243a2d0a2ce310fb1edc3058da580f7c2: [[benzene.png]]
-
 %%
 # Drawing
 ```json
@@ -106,39 +102,6 @@ b12c314243a2d0a2ce310fb1edc3058da580f7c2: [[benzene.png]]
 			]
 		},
 		{
-			"type": "image",
-			"version": 404,
-			"versionNonce": 1547933881,
-			"isDeleted": false,
-			"id": "nGzjVsGN",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 6.263025605924266,
-			"x": -260.2499694824219,
-			"y": -131.71187082926434,
-			"strokeColor": "transparent",
-			"backgroundColor": "transparent",
-			"width": 80.66668701171876,
-			"height": 97.47224680582684,
-			"seed": 10442,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1718201056393,
-			"link": null,
-			"locked": false,
-			"status": "pending",
-			"fileId": "b12c314243a2d0a2ce310fb1edc3058da580f7c2",
-			"scale": [
-				1,
-				1
-			]
-		},
-		{
 			"type": "text",
 			"version": 119,
 			"versionNonce": 2049612470,
@@ -174,6 +137,40 @@ b12c314243a2d0a2ce310fb1edc3058da580f7c2: [[benzene.png]]
 			"originalText": "Phenylhept-1-ane",
 			"lineHeight": 1.25,
 			"baseline": 24
+		},
+		{
+			"id": "3gQUrlQ9",
+			"type": "image",
+			"x": -278.75948128839866,
+			"y": -143.10314278973436,
+			"width": 118,
+			"height": 132,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"roundness": null,
+			"seed": 90017,
+			"version": 67,
+			"versionNonce": 457991801,
+			"updated": 1718202399385,
+			"isDeleted": true,
+			"groupIds": [],
+			"boundElements": [],
+			"link": null,
+			"locked": false,
+			"fileId": "a928d52a38b8f06d6c82885ee64d120f4f0ba1fd",
+			"scale": [
+				1,
+				1
+			],
+			"customData": {
+				"isAnchored": true
+			}
 		}
 	],
 	"appState": {
@@ -191,10 +188,10 @@ b12c314243a2d0a2ce310fb1edc3058da580f7c2: [[benzene.png]]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 304.44285595678764,
-		"scrollY": 260.2182599472568,
+		"scrollX": 344.59144660458566,
+		"scrollY": 187.20032892909873,
 		"zoom": {
-			"value": 2
+			"value": 1.6489700043360187
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
