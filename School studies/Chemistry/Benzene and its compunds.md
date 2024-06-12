@@ -1,6 +1,6 @@
 ## Benzene Structure
 Benzene:
-![[Pasted image 20230724044538.png|100]] ![[Screenshot 2023-07-24 044228.png|100]] ![[ringbenzene|125]]
+![[Pasted image 20230724044538.png|100]] ![[Screenshot 2023-07-24 044228.png|100]] ![[ringbenzene|140]]
 1. It has planar symmetry and each bond has a length of 0.139nm
 2. Each carbon atoms has 3 sigma bonds and 1 pi bond ![[benzenesigmapi.excalidraw|200]]
 ## Naming compounds
