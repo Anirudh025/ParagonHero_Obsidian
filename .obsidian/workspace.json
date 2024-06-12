@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/CS/Data Representation.md",
+                "file": "School studies/Physics/Thermal Physics.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/CS/Data Representation.md",
+                "file": "School studies/Physics/Thermal Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/CS/Data Representation.md",
+                "file": "School studies/Physics/Thermal Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/CS/Data Representation.md"
+                "file": "School studies/Physics/Thermal Physics.md"
               }
             }
           },
@@ -188,7 +188,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/CS/Data Representation.md"
+                "file": "School studies/Physics/Thermal Physics.md"
               }
             }
           },
@@ -236,6 +236,7 @@
   },
   "active": "ee3819a871c4fd33",
   "lastOpenFiles": [
+    "School studies/CS/Data Representation.md",
     "Excalidraw/phenylheptane.excalidraw.md",
     "School studies/Chemistry/Benzene and its compunds.md",
     "Excalidraw/procedure.excalidraw.md",
@@ -273,7 +274,6 @@
     "conflict-files-obsidian-git.md",
     "School studies/Chemistry/Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
     "Excalidraw/benzeneroughlydrawn.excalidraw.md",
-    "School studies/CS/Data Representation.md",
     "School studies/CS/course Cambridge International AS and A Level Computer Science Coursebook.pdf",
     "School studies/A LEVEL/CS/text Cambridge International AS and A Levels Computer Science.pdf",
     "School studies/AS LEVEL/Chem notes/Organic chem.canvas",
