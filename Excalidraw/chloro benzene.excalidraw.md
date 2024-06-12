@@ -12,10 +12,6 @@ Cl ^2higaGEv
 
 Chlorobenzene ^Qd9xtwNu
 
-
-# Embedded files
-493ce6ba5ebd4d6aa56e2a9a1636cdf44eac4cd1: [[benzene.png]]
-
 %%
 # Drawing
 ```json
@@ -106,39 +102,6 @@ Chlorobenzene ^Qd9xtwNu
 			]
 		},
 		{
-			"type": "image",
-			"version": 469,
-			"versionNonce": 1383186090,
-			"isDeleted": false,
-			"id": "kdC-RgjLXI6DW9pb9fo2E",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 4.702252033411849,
-			"x": -170.16764019724167,
-			"y": -38.2787951692406,
-			"strokeColor": "transparent",
-			"backgroundColor": "transparent",
-			"width": 64.11493958934466,
-			"height": 77.41878955413368,
-			"seed": 1476372214,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1718170585241,
-			"link": null,
-			"locked": false,
-			"status": "pending",
-			"fileId": "493ce6ba5ebd4d6aa56e2a9a1636cdf44eac4cd1",
-			"scale": [
-				1,
-				1
-			]
-		},
-		{
 			"type": "text",
 			"version": 74,
 			"versionNonce": 898361066,
@@ -176,14 +139,47 @@ Chlorobenzene ^Qd9xtwNu
 			"baseline": 17
 		},
 		{
-			"id": "-5gDkOhFHlPEuhnckIrOO",
 			"type": "image",
-			"x": -203.94792422157744,
-			"y": -114.25009614744422,
-			"width": 139.4871794871795,
-			"height": 160,
-			"angle": 0,
+			"version": 470,
+			"versionNonce": 165109463,
+			"isDeleted": true,
+			"id": "kdC-RgjLXI6DW9pb9fo2E",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 4.702252033411849,
+			"x": -170.15658399074118,
+			"y": -38.29215014454809,
 			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"width": 64.09282717634372,
+			"height": 77.44549950474865,
+			"seed": 1476372214,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1718201935070,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "493ce6ba5ebd4d6aa56e2a9a1636cdf44eac4cd1",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"id": "1XHKuMI2",
+			"type": "text",
+			"x": -118.20433447798769,
+			"y": 10.577787227369043,
+			"width": 10,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#f08c00",
 			"backgroundColor": "transparent",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -193,20 +189,24 @@ Chlorobenzene ^Qd9xtwNu
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1732929913,
-			"version": 46,
-			"versionNonce": 169479609,
+			"seed": 971923319,
+			"version": 2,
+			"versionNonce": 1137664089,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1718200833707,
+			"updated": 1718201934120,
 			"link": null,
 			"locked": false,
-			"status": "pending",
-			"fileId": "6f1deffd161a391d0b0b0e4b9d8ecf415df58c92",
-			"scale": [
-				1,
-				1
-			]
+			"text": "",
+			"rawText": "",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 17,
+			"containerId": null,
+			"originalText": "",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
@@ -225,7 +225,7 @@ Chlorobenzene ^Qd9xtwNu
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
 		"scrollX": 355.9543344779877,
-		"scrollY": 146.51050264158485,
+		"scrollY": 146.51596277263096,
 		"zoom": {
 			"value": 2
 		},
