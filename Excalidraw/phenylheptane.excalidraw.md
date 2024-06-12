@@ -12,6 +12,10 @@ CH₂-CH₂-CH₂-CH₂-CH₂-CH₂-CH₃ ^f3CaUbMF
 
 Phenylhept-1-ane ^APUQ2Cyq
 
+
+# Embedded files
+957355a962d05a834d38267dfb93876bf331f373: [[ringbenzene]]
+
 %%
 # Drawing
 ```json
@@ -139,12 +143,12 @@ Phenylhept-1-ane ^APUQ2Cyq
 			"baseline": 24
 		},
 		{
-			"id": "3gQUrlQ9",
+			"id": "x5qzr3Em",
 			"type": "image",
-			"x": -278.75948128839866,
-			"y": -143.10314278973436,
-			"width": 118,
-			"height": 132,
+			"x": -247.39895678535547,
+			"y": -134.6756655651614,
+			"width": 56.1003608768132,
+			"height": 62.756335896096125,
 			"angle": 0,
 			"strokeColor": "transparent",
 			"backgroundColor": "transparent",
@@ -154,23 +158,20 @@ Phenylhept-1-ane ^APUQ2Cyq
 			"roughness": 1,
 			"opacity": 100,
 			"roundness": null,
-			"seed": 90017,
-			"version": 67,
-			"versionNonce": 457991801,
-			"updated": 1718202399385,
-			"isDeleted": true,
+			"seed": 78096,
+			"version": 357,
+			"versionNonce": 929453975,
+			"updated": 1718202429096,
+			"isDeleted": false,
 			"groupIds": [],
 			"boundElements": [],
 			"link": null,
 			"locked": false,
-			"fileId": "a928d52a38b8f06d6c82885ee64d120f4f0ba1fd",
+			"fileId": "957355a962d05a834d38267dfb93876bf331f373",
 			"scale": [
 				1,
 				1
-			],
-			"customData": {
-				"isAnchored": true
-			}
+			]
 		}
 	],
 	"appState": {
@@ -189,7 +190,7 @@ Phenylhept-1-ane ^APUQ2Cyq
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
 		"scrollX": 344.59144660458566,
-		"scrollY": 187.20032892909873,
+		"scrollY": 278.16620435774223,
 		"zoom": {
 			"value": 1.6489700043360187
 		},
