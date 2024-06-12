@@ -11,12 +11,9 @@
             "id": "ee3819a871c4fd33",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "School studies/Physics/Thermal Physics.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Excalidraw/benzene.png"
               }
             }
           }
@@ -102,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Physics/Thermal Physics.md",
+                "file": "Excalidraw/benzene.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Physics/Thermal Physics.md",
+                "file": "Excalidraw/benzene.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/Physics/Thermal Physics.md"
+                "file": "Excalidraw/benzene.png"
               }
             }
           },
@@ -188,7 +185,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/Physics/Thermal Physics.md"
+                "file": "Excalidraw/benzene.png"
               }
             }
           },
@@ -236,22 +233,29 @@
   },
   "active": "ee3819a871c4fd33",
   "lastOpenFiles": [
-    "School studies/CS/Data Representation.md",
+    "Excalidraw/chloro benzene.excalidraw.md",
+    "Excalidraw/benzenesigmapi.excalidraw.md",
+    "Excalidraw/Pasted image 20230724044538.png",
+    "Excalidraw/Pasted Image 20240612074905_751.png",
+    "Excalidraw/Pasted Image 20240612074936_687.png",
+    "Excalidraw/pg187pageant.excalidraw.md",
     "Excalidraw/phenylheptane.excalidraw.md",
-    "School studies/Chemistry/Benzene and its compunds.md",
     "Excalidraw/procedure.excalidraw.md",
+    "Excalidraw/Screenshot 2023-07-24 044228.png",
+    "Excalidraw/resolving-vectors.excalidraw.md",
+    "School studies/Physics/Thermal Physics.md",
+    "Excalidraw/Untitled.canvas",
+    "Excalidraw/SQL.excalidraw.md",
+    "School studies/CS/Data Representation.md",
+    "School studies/Chemistry/Benzene and its compunds.md",
     "Excalidraw/prescisionoraccuracy.excalidraw.md",
     "Excalidraw/pizza-of-work.excalidraw.md",
     "Excalidraw/benzene.png",
-    "Excalidraw/Pasted Image 20240612074905_751.png",
-    "Excalidraw/Pasted image 20230724044538.png",
     "Excalidraw/Pasted Image 20240612074302_703.png",
     "Excalidraw/Pasted image 20231219192124.png",
     "Excalidraw/Pasted image 20231006193704.png",
     "Excalidraw/Pasted image 20231006130751.png",
     "Excalidraw/Pasted image 20231006130730.png",
-    "Excalidraw/Pasted image 20231006130655.png",
-    "Excalidraw/Pasted image 20231006130633.png",
     "Excalidraw/Memory.excalidraw.md",
     "Excalidraw/mathquestions.excalidraw.md",
     "Excalidraw/Hess-Law.excalidraw.md",
@@ -264,20 +268,12 @@
     "Excalidraw/Drawing 2023-08-27 20.08.26.excalidraw.md",
     "Excalidraw/cs-hw-gdhjksl.excalidraw.md",
     "Excalidraw/client-server-architecture.md",
-    "Excalidraw/chloro benzene.excalidraw.md",
-    "Excalidraw/benzenesigmapi.excalidraw.md",
     "Excalidraw/chem questions.excalidraw.md",
-    "README.md",
-    "'Elaborate coping mechanisms'.md",
-    "School studies/Physics/Thermal Physics.md",
     "Physics",
-    "conflict-files-obsidian-git.md",
     "School studies/Chemistry/Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
-    "Excalidraw/benzeneroughlydrawn.excalidraw.md",
     "School studies/CS/course Cambridge International AS and A Level Computer Science Coursebook.pdf",
     "School studies/A LEVEL/CS/text Cambridge International AS and A Levels Computer Science.pdf",
     "School studies/AS LEVEL/Chem notes/Organic chem.canvas",
-    "Excalidraw/Untitled.canvas",
     "School studies/CS",
     "School studies/Math",
     "School studies/Physics",
