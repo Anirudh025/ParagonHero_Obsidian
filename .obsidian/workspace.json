@@ -40,7 +40,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md",
+                "file": "Excalidraw/phenylheptane.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md",
+                "file": "Excalidraw/phenylheptane.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -163,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md"
+                "file": "Excalidraw/phenylheptane.excalidraw.md"
               }
             }
           },
@@ -209,7 +210,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md"
+                "file": "Excalidraw/phenylheptane.excalidraw.md"
               }
             }
           },
@@ -247,11 +248,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "16de87b098e9fc0b",
+  "active": "40138ccfd99e2336",
   "lastOpenFiles": [
+    "School studies/Chemistry/Benzene and its compounds.md",
     "School studies/Physics/Thermal Physics.md",
     "School studies/CS/Data Representation.md",
-    "School studies/Chemistry/Benzene and its compounds.md",
     "Excalidraw/benzyl.excalidraw.md",
     "Excalidraw/phenylheptane.excalidraw.md",
     "README.md",
