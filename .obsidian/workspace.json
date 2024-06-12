@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/Physics/Thermal Physics.md",
+                "file": "School studies/Chemistry/Benzene and its compounds.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -98,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.50418853759766
+    "width": 226.50418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "d967d98868519a35",
@@ -122,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Physics/Thermal Physics.md",
+                "file": "School studies/Chemistry/Benzene and its compounds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Physics/Thermal Physics.md",
+                "file": "School studies/Chemistry/Benzene and its compounds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/Physics/Thermal Physics.md"
+                "file": "School studies/Chemistry/Benzene and its compounds.md"
               }
             }
           },
@@ -208,7 +209,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/Physics/Thermal Physics.md"
+                "file": "School studies/Chemistry/Benzene and its compounds.md"
               }
             }
           },
@@ -249,6 +250,7 @@
   },
   "active": "16de87b098e9fc0b",
   "lastOpenFiles": [
+    "School studies/Physics/Thermal Physics.md",
     "School studies/CS/Data Representation.md",
     "School studies/Chemistry/Benzene and its compounds.md",
     "Excalidraw/benzyl.excalidraw.md",
@@ -273,7 +275,6 @@
     "Excalidraw/pg187pageant.excalidraw.md",
     "Excalidraw/procedure.excalidraw.md",
     "Excalidraw/resolving-vectors.excalidraw.md",
-    "School studies/Physics/Thermal Physics.md",
     "Excalidraw/Untitled.canvas",
     "Excalidraw/SQL.excalidraw.md",
     "Excalidraw/prescisionoraccuracy.excalidraw.md",
