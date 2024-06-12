@@ -11,9 +11,9 @@
             "id": "ee3819a871c4fd33",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/benzene.png"
+                "file": "Excalidraw/chloro benzene.excalidraw.md"
               }
             }
           }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/benzene.png",
+                "file": "Excalidraw/chloro benzene.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/benzene.png",
+                "file": "Excalidraw/chloro benzene.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/benzene.png"
+                "file": "Excalidraw/chloro benzene.excalidraw.md"
               }
             }
           },
@@ -185,7 +185,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/benzene.png"
+                "file": "Excalidraw/chloro benzene.excalidraw.md"
               }
             }
           },
@@ -233,11 +233,12 @@
   },
   "active": "ee3819a871c4fd33",
   "lastOpenFiles": [
-    "Excalidraw/chem questions.excalidraw.md",
     "Excalidraw/benzenesigmapi.excalidraw.md",
+    "Excalidraw/client-server-architecture.md",
+    "Excalidraw/benzene.png",
+    "Excalidraw/chem questions.excalidraw.md",
     "README.md",
     "'Elaborate coping mechanisms'.md",
-    "Excalidraw/benzene.png",
     "School studies/Chemistry/Benzene and its compunds.md",
     "Excalidraw/pngwing.com.png",
     "School studies/Physics/Thermal Physics.md",
@@ -273,7 +274,6 @@
     "Excalidraw/ExcalidrawDrawing 2023-09-01 13.19.23.excalidraw.md",
     "Excalidraw/englishhomework1_9_23.excalidraw.md",
     "Excalidraw/elpg158traffic.excalidraw.md",
-    "Excalidraw/Drawing 2023-09-01 13.19.23.excalidraw.md",
     "Excalidraw/Untitled.canvas",
     "School studies/CS",
     "School studies/Math",
