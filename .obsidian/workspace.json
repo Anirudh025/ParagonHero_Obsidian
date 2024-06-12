@@ -24,7 +24,7 @@
               "type": "markdown",
               "state": {
                 "file": "School studies/Chemistry/Benzene and its compunds.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -85,7 +85,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -239,7 +240,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "a3d21c7ad933cefe",
+  "active": "4b0ad9f429b2d16e",
   "lastOpenFiles": [
     "School studies/Chemistry/Benzene and its compunds.md",
     "README.md",
