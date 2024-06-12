@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Excalidraw/benzenering.png"
+                "file": "Excalidraw/benzene.png"
               }
             }
           }
@@ -99,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/benzenering.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/benzenering.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/benzenering.png"
+                "file": "Excalidraw/Untitled.md"
               }
             }
           },
@@ -185,7 +183,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/benzenering.png"
+                "file": "Excalidraw/Untitled.md"
               }
             }
           },
@@ -231,10 +229,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "ee3819a871c4fd33",
+  "active": "54c5a6e575f4cd1d",
   "lastOpenFiles": [
-    "Excalidraw/benzene.png",
     "Excalidraw/benzenering.png",
+    "Excalidraw/Untitled.md",
+    "Excalidraw/benzene.png",
     "Excalidraw/benzenering.png.crdownload",
     "Excalidraw/chloro benzene.excalidraw.md",
     "Excalidraw/benzenesigmapi.excalidraw.md",
@@ -257,7 +256,6 @@
     "Excalidraw/Pasted image 20231219192124.png",
     "Excalidraw/Pasted image 20231006193704.png",
     "Excalidraw/Pasted image 20231006130751.png",
-    "Excalidraw/Pasted image 20231006130730.png",
     "Excalidraw/Memory.excalidraw.md",
     "Excalidraw/mathquestions.excalidraw.md",
     "Excalidraw/Hess-Law.excalidraw.md",
@@ -270,7 +268,6 @@
     "Excalidraw/Drawing 2023-08-27 20.08.26.excalidraw.md",
     "Excalidraw/cs-hw-gdhjksl.excalidraw.md",
     "Excalidraw/client-server-architecture.md",
-    "Excalidraw/chem questions.excalidraw.md",
     "Physics",
     "School studies/Chemistry/Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
     "School studies/CS/course Cambridge International AS and A Level Computer Science Coursebook.pdf",
