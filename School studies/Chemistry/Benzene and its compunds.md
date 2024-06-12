@@ -9,5 +9,5 @@ Benzene %% #benzene %%:
 		-  phenylhept-1-ane![[phenylheptane.excalidraw]]
 	2. Benzene Parent is called {insertname}benzene 
 		- 1-chlorobenzene![[chloro benzene.excalidraw|200]]
-	3. When Benzyl substituent is present it's struc 
+	3. When Benzyl substituent is present it's structure is %% #benzyl %%:
 

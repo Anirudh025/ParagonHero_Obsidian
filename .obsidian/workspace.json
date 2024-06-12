@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ee3819a871c4fd33",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Excalidraw/benzene.png"
-              }
-            }
-          },
-          {
             "id": "16de87b098e9fc0b",
             "type": "leaf",
             "state": {
@@ -29,9 +19,27 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7741dadcf98a3544",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/benzyl.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "40138ccfd99e2336",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,13 +93,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 226.50418853759766,
-    "collapsed": true
+    "width": 226.50418853759766
   },
   "right": {
     "id": "d967d98868519a35",
@@ -115,7 +121,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compunds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +137,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compunds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -154,9 +158,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "School studies/Chemistry/Benzene and its compunds.md"
-              }
+              "state": {}
             }
           },
           {
@@ -200,9 +202,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "School studies/Chemistry/Benzene and its compunds.md"
-              }
+              "state": {}
             }
           },
           {
@@ -240,8 +240,9 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "4b0ad9f429b2d16e",
+  "active": "54c5a6e575f4cd1d",
   "lastOpenFiles": [
+    "Excalidraw/benzyl.excalidraw.md",
     "School studies/Chemistry/Benzene and its compunds.md",
     "README.md",
     "obsidian format/MathJax.md",
@@ -279,7 +280,6 @@
     "Excalidraw/englishhomework1_9_23.excalidraw.md",
     "Excalidraw/elpg158traffic.excalidraw.md",
     "Excalidraw/Drawing 2024-06-12 09.43.47.excalidraw.md",
-    "Excalidraw/Drawing 2023-09-01 13.19.23.excalidraw.md",
     "Physics",
     "School studies/Chemistry/Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
     "School studies/CS/course Cambridge International AS and A Level Computer Science Coursebook.pdf",
