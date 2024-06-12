@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/chloro benzene.excalidraw.md"
+                "file": "Excalidraw/client-server-architecture.md"
               }
             }
           }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/chloro benzene.excalidraw.md",
+                "file": "Excalidraw/client-server-architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/chloro benzene.excalidraw.md",
+                "file": "Excalidraw/client-server-architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/chloro benzene.excalidraw.md"
+                "file": "Excalidraw/client-server-architecture.md"
               }
             }
           },
@@ -185,7 +185,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/chloro benzene.excalidraw.md"
+                "file": "Excalidraw/client-server-architecture.md"
               }
             }
           },
@@ -233,9 +233,10 @@
   },
   "active": "ee3819a871c4fd33",
   "lastOpenFiles": [
+    "Excalidraw/benzene.png",
+    "Excalidraw/chloro benzene.excalidraw.md",
     "Excalidraw/benzenesigmapi.excalidraw.md",
     "Excalidraw/client-server-architecture.md",
-    "Excalidraw/benzene.png",
     "Excalidraw/chem questions.excalidraw.md",
     "README.md",
     "'Elaborate coping mechanisms'.md",
@@ -245,7 +246,6 @@
     "Physics",
     "conflict-files-obsidian-git.md",
     "Excalidraw/Drawing 2024-06-12 09.43.47.excalidraw.md",
-    "Excalidraw/chloro benzene.excalidraw.md",
     "Excalidraw/phenylheptane.excalidraw.md",
     "School studies/Chemistry/Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
     "Excalidraw/Pasted image 20230724044538.png",
@@ -273,7 +273,6 @@
     "School studies/AS LEVEL/Chem notes/1.Chemistry.readme.md",
     "Excalidraw/ExcalidrawDrawing 2023-09-01 13.19.23.excalidraw.md",
     "Excalidraw/englishhomework1_9_23.excalidraw.md",
-    "Excalidraw/elpg158traffic.excalidraw.md",
     "Excalidraw/Untitled.canvas",
     "School studies/CS",
     "School studies/Math",
