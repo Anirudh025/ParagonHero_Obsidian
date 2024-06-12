@@ -23,8 +23,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "School studies/Chemistry/Benzene and its compunds.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.50418853759766
+    "width": 226.50418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "d967d98868519a35",
@@ -113,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "School studies/Chemistry/Benzene and its compunds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "School studies/Chemistry/Benzene and its compunds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "School studies/Chemistry/Benzene and its compunds.md"
               }
             }
           },
@@ -199,7 +200,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "README.md"
+                "file": "School studies/Chemistry/Benzene and its compunds.md"
               }
             }
           },
@@ -210,21 +211,14 @@
               "type": "review-queue-list-view",
               "state": {}
             }
-          },
-          {
-            "id": "edc9c1cf1eb8ab24",
-            "type": "leaf",
-            "state": {
-              "type": "code-execute-manage-executors",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -245,10 +239,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "16de87b098e9fc0b",
+  "active": "a3d21c7ad933cefe",
   "lastOpenFiles": [
-    "obsidian format/MathJax.md",
     "School studies/Chemistry/Benzene and its compunds.md",
+    "README.md",
+    "obsidian format/MathJax.md",
     "Excalidraw/ringbenzene.md",
     "Excalidraw/phenylheptane.excalidraw.md",
     "Excalidraw/Pasted image 20230724044538.png",
@@ -284,7 +279,6 @@
     "Excalidraw/elpg158traffic.excalidraw.md",
     "Excalidraw/Drawing 2024-06-12 09.43.47.excalidraw.md",
     "Excalidraw/Drawing 2023-09-01 13.19.23.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-27 20.08.26.excalidraw.md",
     "Physics",
     "School studies/Chemistry/Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
     "School studies/CS/course Cambridge International AS and A Level Computer Science Coursebook.pdf",
