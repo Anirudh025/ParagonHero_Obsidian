@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian format/MathJax.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian format/MathJax.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian format/MathJax.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian format/MathJax.md"
+                "file": "README.md"
               }
             }
           },
@@ -199,7 +199,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "obsidian format/MathJax.md"
+                "file": "README.md"
               }
             }
           },
@@ -247,6 +247,7 @@
   },
   "active": "16de87b098e9fc0b",
   "lastOpenFiles": [
+    "obsidian format/MathJax.md",
     "School studies/Chemistry/Benzene and its compunds.md",
     "Excalidraw/ringbenzene.md",
     "Excalidraw/phenylheptane.excalidraw.md",
