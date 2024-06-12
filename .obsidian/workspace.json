@@ -11,9 +11,12 @@
             "id": "ee3819a871c4fd33",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Pasted Image 20240612074905_751.png"
+                "file": "School studies/Chemistry/Benzene and its compunds.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -99,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Pasted Image 20240612074905_751.png",
+                "file": "School studies/Chemistry/Benzene and its compunds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Pasted Image 20240612074905_751.png",
+                "file": "School studies/Chemistry/Benzene and its compunds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Pasted Image 20240612074905_751.png"
+                "file": "School studies/Chemistry/Benzene and its compunds.md"
               }
             }
           },
@@ -185,7 +188,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Pasted Image 20240612074905_751.png"
+                "file": "School studies/Chemistry/Benzene and its compunds.md"
               }
             }
           },
@@ -231,8 +234,14 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "54c5a6e575f4cd1d",
+  "active": "ee3819a871c4fd33",
   "lastOpenFiles": [
+    "Excalidraw/procedure.excalidraw.md",
+    "Excalidraw/prescisionoraccuracy.excalidraw.md",
+    "Excalidraw/pizza-of-work.excalidraw.md",
+    "School studies/Chemistry/Benzene and its compunds.md",
+    "Excalidraw/benzene.png",
+    "Excalidraw/Pasted Image 20240612074905_751.png",
     "Excalidraw/Pasted image 20230724044538.png",
     "Excalidraw/Pasted Image 20240612074302_703.png",
     "Excalidraw/Pasted image 20231219192124.png",
@@ -241,9 +250,6 @@
     "Excalidraw/Pasted image 20231006130730.png",
     "Excalidraw/Pasted image 20231006130655.png",
     "Excalidraw/Pasted image 20231006130633.png",
-    "Excalidraw/Pasted image 20231006130609.png",
-    "Excalidraw/Pasted image 20231006130553.png",
-    "Excalidraw/Pasted Image 20231006130523_896.png",
     "Excalidraw/Memory.excalidraw.md",
     "Excalidraw/mathquestions.excalidraw.md",
     "Excalidraw/Hess-Law.excalidraw.md",
@@ -261,7 +267,6 @@
     "Excalidraw/chem questions.excalidraw.md",
     "README.md",
     "'Elaborate coping mechanisms'.md",
-    "School studies/Chemistry/Benzene and its compunds.md",
     "School studies/Physics/Thermal Physics.md",
     "Physics",
     "conflict-files-obsidian-git.md",
@@ -271,8 +276,6 @@
     "School studies/CS/Data Representation.md",
     "School studies/CS/course Cambridge International AS and A Level Computer Science Coursebook.pdf",
     "School studies/A LEVEL/CS/text Cambridge International AS and A Levels Computer Science.pdf",
-    "obsidian format/Obsidian-formatting.md",
-    "obsidian format/Ascii symbols.md",
     "School studies/AS LEVEL/Chem notes/Organic chem.canvas",
     "Excalidraw/Untitled.canvas",
     "School studies/CS",
