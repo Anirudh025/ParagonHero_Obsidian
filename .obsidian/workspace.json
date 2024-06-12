@@ -213,7 +213,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 446.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -234,7 +234,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "54c5a6e575f4cd1d",
+  "active": "322c528cb7f7b225",
   "lastOpenFiles": [
     "School studies/Physics/Thermal Physics.md",
     "Physics",
