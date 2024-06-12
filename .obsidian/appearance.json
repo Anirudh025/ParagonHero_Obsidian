@@ -2,5 +2,6 @@
   "accentColor": "#15d00d",
   "baseFontSize": 21,
   "cssTheme": "Vanilla AMOLED",
-  "translucency": false
+  "translucency": false,
+  "theme": "obsidian"
 }
