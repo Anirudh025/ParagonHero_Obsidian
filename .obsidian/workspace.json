@@ -11,12 +11,9 @@
             "id": "ee3819a871c4fd33",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "'Elaborate coping mechanisms'.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Excalidraw/benzene.png"
               }
             }
           }
@@ -102,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "'Elaborate coping mechanisms'.md",
+                "file": "Excalidraw/benzene.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "'Elaborate coping mechanisms'.md",
+                "file": "Excalidraw/benzene.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "'Elaborate coping mechanisms'.md"
+                "file": "Excalidraw/benzene.png"
               }
             }
           },
@@ -188,7 +185,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "'Elaborate coping mechanisms'.md"
+                "file": "Excalidraw/benzene.png"
               }
             }
           },
@@ -236,12 +233,15 @@
   },
   "active": "ee3819a871c4fd33",
   "lastOpenFiles": [
+    "Excalidraw/chem questions.excalidraw.md",
+    "Excalidraw/benzenesigmapi.excalidraw.md",
+    "README.md",
+    "'Elaborate coping mechanisms'.md",
     "Excalidraw/benzene.png",
     "School studies/Chemistry/Benzene and its compunds.md",
     "Excalidraw/pngwing.com.png",
     "School studies/Physics/Thermal Physics.md",
     "Physics",
-    "Excalidraw/benzenesigmapi.excalidraw.md",
     "conflict-files-obsidian-git.md",
     "Excalidraw/Drawing 2024-06-12 09.43.47.excalidraw.md",
     "Excalidraw/chloro benzene.excalidraw.md",
@@ -274,8 +274,6 @@
     "Excalidraw/englishhomework1_9_23.excalidraw.md",
     "Excalidraw/elpg158traffic.excalidraw.md",
     "Excalidraw/Drawing 2023-09-01 13.19.23.excalidraw.md",
-    "Excalidraw/cs-hw-gdhjksl.excalidraw.md",
-    "Excalidraw/client-server-architecture.md",
     "Excalidraw/Untitled.canvas",
     "School studies/CS",
     "School studies/Math",
