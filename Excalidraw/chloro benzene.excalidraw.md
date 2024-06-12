@@ -12,6 +12,10 @@ Cl ^2higaGEv
 
 Chlorobenzene ^Qd9xtwNu
 
+
+# Embedded files
+e1113c5c986674117e8e24ef5bd43028d19a5f13: [[ringbenzene]]
+
 %%
 # Drawing
 ```json
@@ -139,74 +143,35 @@ Chlorobenzene ^Qd9xtwNu
 			"baseline": 17
 		},
 		{
+			"id": "wfiCrMbQ",
 			"type": "image",
-			"version": 470,
-			"versionNonce": 165109463,
-			"isDeleted": true,
-			"id": "kdC-RgjLXI6DW9pb9fo2E",
+			"x": -161.55967436435088,
+			"y": -51.89489429037806,
+			"width": 118,
+			"height": 132,
+			"angle": 1.570219013600755,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"angle": 4.702252033411849,
-			"x": -170.15658399074118,
-			"y": -38.29215014454809,
-			"strokeColor": "transparent",
-			"backgroundColor": "transparent",
-			"width": 64.09282717634372,
-			"height": 77.44549950474865,
-			"seed": 1476372214,
-			"groupIds": [],
-			"frameId": null,
 			"roundness": null,
+			"seed": 18275,
+			"version": 236,
+			"versionNonce": 153841913,
+			"updated": 1718202005323,
+			"isDeleted": false,
+			"groupIds": [],
 			"boundElements": [],
-			"updated": 1718201935070,
 			"link": null,
 			"locked": false,
-			"status": "pending",
-			"fileId": "493ce6ba5ebd4d6aa56e2a9a1636cdf44eac4cd1",
+			"fileId": "e1113c5c986674117e8e24ef5bd43028d19a5f13",
 			"scale": [
 				1,
 				1
 			]
-		},
-		{
-			"id": "1XHKuMI2",
-			"type": "text",
-			"x": -118.20433447798769,
-			"y": 10.577787227369043,
-			"width": 10,
-			"height": 25,
-			"angle": 0,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 971923319,
-			"version": 2,
-			"versionNonce": 1137664089,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1718201934120,
-			"link": null,
-			"locked": false,
-			"text": "",
-			"rawText": "",
-			"fontSize": 20,
-			"fontFamily": 1,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"baseline": 17,
-			"containerId": null,
-			"originalText": "",
-			"lineHeight": 1.25
 		}
 	],
 	"appState": {
@@ -224,10 +189,10 @@ Chlorobenzene ^Qd9xtwNu
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 355.9543344779877,
-		"scrollY": 146.51596277263096,
+		"scrollX": 607.9152944360812,
+		"scrollY": 276.43274995778427,
 		"zoom": {
-			"value": 2
+			"value": 1.0266346303408809
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

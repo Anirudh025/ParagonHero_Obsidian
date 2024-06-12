@@ -8,6 +8,10 @@ tags: [excalidraw]
 
 
 # Text Elements
+
+# Embedded files
+2e31d9ea17e93c9f405ab5d7604276da33e11bb6: [[Pasted Image 20240612194848_349.png]]
+
 %%
 # Drawing
 ```json
@@ -17,66 +21,33 @@ tags: [excalidraw]
 	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.19",
 	"elements": [
 		{
-			"id": "SnH7qcfUFsC0sTrpmz6S1",
 			"type": "image",
-			"x": -90.58331298828125,
-			"y": -170.40625,
-			"width": 238,
-			"height": 273,
-			"angle": 0,
-			"strokeColor": "transparent",
-			"backgroundColor": "transparent",
+			"version": 175,
+			"versionNonce": 603666745,
+			"isDeleted": false,
+			"id": "SnH7qcfUFsC0sTrpmz6S1",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -19.249969482421875,
+			"y": -108.48468645881204,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"width": 98,
+			"height": 112.41176470588235,
+			"seed": 1991537815,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1991537815,
-			"version": 23,
-			"versionNonce": 488998519,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1718201906678,
+			"boundElements": [],
+			"updated": 1718201969361,
 			"link": null,
 			"locked": false,
 			"status": "pending",
 			"fileId": "2e31d9ea17e93c9f405ab5d7604276da33e11bb6",
-			"scale": [
-				1,
-				1
-			]
-		},
-		{
-			"id": "EMSOq6umqXiiU5C5NDbhz",
-			"type": "image",
-			"x": -147.9166259765625,
-			"y": -174.40628051757812,
-			"width": 238,
-			"height": 273,
-			"angle": 0,
-			"strokeColor": "transparent",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 927735255,
-			"version": 36,
-			"versionNonce": 1440021367,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1718201885495,
-			"link": null,
-			"locked": false,
-			"status": "pending",
-			"fileId": "a58de96541e9f37e22fc299b2a6f3bb59caafd1d",
 			"scale": [
 				1,
 				1
@@ -98,10 +69,10 @@ tags: [excalidraw]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 403.75,
-		"scrollY": 320.76043701171875,
+		"scrollX": 173.45831298828125,
+		"scrollY": 194.28646850585938,
 		"zoom": {
-			"value": 1
+			"value": 2
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
