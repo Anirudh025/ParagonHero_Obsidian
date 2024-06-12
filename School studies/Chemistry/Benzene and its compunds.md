@@ -10,5 +10,5 @@ Benzene %% #benzene %%:
 	2. Benzene Parent is called {insertname}benzene 
 		- 1-chlorobenzene![[chloro benzene.excalidraw|200]]
 	3. When Benzyl substituent is present it's structure is %% #benzyl %%:
-		- benzyl R ![[benzyl.excalidraw]]
+		- benzyl R ![[benzyl.excalidraw|200]]
 

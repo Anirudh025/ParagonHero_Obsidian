@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "School studies/Chemistry/Benzene and its compunds.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -37,16 +37,6 @@
               "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/phenylheptane.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "18e88369a9ab51ea",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://duckduckgo.com/?q=benzyl+group&iax=images&ia=images&iai=http%3A%2F%2Fweb.chem.ucla.edu%2F~harding%2FIGOC%2FB%2Fbenzyl_group03.png"
               }
             }
           }
@@ -108,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.50418853759766
+    "width": 226.50418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "d967d98868519a35",
