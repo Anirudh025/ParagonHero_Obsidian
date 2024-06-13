@@ -11,9 +11,22 @@
             "id": "16de87b098e9fc0b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "A Level A Class Timetable.png"
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ad81cad2577f834",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://www.w3schools.com/tags/tag_iframe.asp"
               }
             }
           }
@@ -99,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A Level A Class Timetable.png",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A Level A Class Timetable.png",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A Level A Class Timetable.png"
+                "file": "README.md"
               }
             }
           },
@@ -177,7 +190,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "A Level A Class Timetable.png"
+                "file": "README.md"
               }
             }
           },
@@ -226,6 +239,7 @@
   "active": "16de87b098e9fc0b",
   "lastOpenFiles": [
     "README.md",
+    "A Level A Class Timetable.png",
     "Obsidian help/WhatsApp Image 2024-06-12 at 08.04.42_289c3eb2.jpg",
     "Obsidian help/MathJax.md",
     "Obsidian help/Obsidian-formatting.md",
@@ -234,7 +248,6 @@
     "School studies/CS/Data Representation.md",
     "School studies/CS/course Cambridge International AS and A Level Computer Science Coursebook.pdf",
     "School studies/Physics/Thermal Physics.md",
-    "A Level A Class Timetable.png",
     "Excalidraw/A Level A Class Timetable.png",
     "Excalidraw/A Level A Class Timetable.png.crdownload",
     "Excalidraw/phenylheptane.excalidraw.md",
