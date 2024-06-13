@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md",
-                "mode": "preview",
+                "file": "README.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,16 +142,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md"
+                "file": "README.md"
               }
-            }
-          },
-          {
-            "id": "322c528cb7f7b225",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
             }
           },
           {
@@ -188,7 +180,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md"
+                "file": "README.md"
               }
             }
           },
@@ -199,13 +191,21 @@
               "type": "review-queue-list-view",
               "state": {}
             }
+          },
+          {
+            "id": "9b05b26a481f2902",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
-    "width": 338.5
+    "width": 317.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,13 +226,13 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "54c5a6e575f4cd1d",
+  "active": "16de87b098e9fc0b",
   "lastOpenFiles": [
+    "School studies/Chemistry/Benzene and its compounds.md",
     "A Level A Class Timetable.png",
     "Excalidraw/A Level A Class Timetable.png",
     "Excalidraw/A Level A Class Timetable.png.crdownload",
     "Excalidraw/phenylheptane.excalidraw.md",
-    "School studies/Chemistry/Benzene and its compounds.md",
     "School studies/Physics/Thermal Physics.md",
     "School studies/CS/Data Representation.md",
     "Excalidraw/benzyl.excalidraw.md",
@@ -252,7 +252,6 @@
     "Excalidraw/benzenering.png",
     "Excalidraw/benzenering.png.crdownload",
     "Excalidraw/Pasted Image 20240612074905_751.png",
-    "Excalidraw/Pasted Image 20240612074936_687.png",
     "Excalidraw/pg187pageant.excalidraw.md",
     "Excalidraw/procedure.excalidraw.md",
     "Excalidraw/resolving-vectors.excalidraw.md",

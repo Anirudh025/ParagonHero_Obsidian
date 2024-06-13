@@ -43,17 +43,5 @@
     ],
     "defaultFilterType": "menu"
   },
-  "treeData": [
-    {
-      "id": "18e88369a9ab51ea",
-      "parent": 0,
-      "droppable": true,
-      "text": "benzyl group at DuckDuckGo",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    }
-  ]
+  "treeData": []
 }
