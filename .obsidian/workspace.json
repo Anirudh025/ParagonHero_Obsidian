@@ -11,12 +11,9 @@
             "id": "16de87b098e9fc0b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "A Level A Class Timetable.png"
               }
             }
           }
@@ -102,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "A Level A Class Timetable.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "A Level A Class Timetable.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "A Level A Class Timetable.png"
               }
             }
           },
@@ -180,7 +177,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "README.md"
+                "file": "A Level A Class Timetable.png"
               }
             }
           },
@@ -228,11 +225,15 @@
   },
   "active": "16de87b098e9fc0b",
   "lastOpenFiles": [
+    "README.md",
+    "Obsidian help/WhatsApp Image 2024-06-12 at 08.04.42_289c3eb2.jpg",
+    "Obsidian help/MathJax.md",
+    "Obsidian help/Obsidian-formatting.md",
+    "Obsidian help",
     "School studies/Chemistry/Benzene and its compounds.md",
     "School studies/CS/Data Representation.md",
     "School studies/CS/course Cambridge International AS and A Level Computer Science Coursebook.pdf",
     "School studies/Physics/Thermal Physics.md",
-    "README.md",
     "A Level A Class Timetable.png",
     "Excalidraw/A Level A Class Timetable.png",
     "Excalidraw/A Level A Class Timetable.png.crdownload",
@@ -252,7 +253,6 @@
     "Excalidraw/Untitled.md",
     "Excalidraw/benzenering.png",
     "Excalidraw/benzenering.png.crdownload",
-    "Excalidraw/Pasted Image 20240612074905_751.png",
     "Excalidraw/pg187pageant.excalidraw.md",
     "Excalidraw/procedure.excalidraw.md",
     "Excalidraw/resolving-vectors.excalidraw.md",
@@ -265,8 +265,6 @@
     "Excalidraw/Hess-Law.excalidraw.md",
     "Excalidraw/hdd-ssd.excalidraw.md",
     "Excalidraw/ExcalidrawDrawing 2023-09-01 13.19.23.excalidraw.md",
-    "Excalidraw/englishhomework1_9_23.excalidraw.md",
-    "Excalidraw/elpg158traffic.excalidraw.md",
     "Physics",
     "School studies/Chemistry/Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
     "School studies/A LEVEL/CS/text Cambridge International AS and A Levels Computer Science.pdf",
@@ -274,7 +272,6 @@
     "School studies/CS",
     "School studies/Math",
     "School studies/Physics",
-    "School studies/Chemistry",
     "School studies/AS LEVEL/CS/Logic gates.canvas",
     "School studies/AS LEVEL/CS/Logic gates practice.canvas",
     "School studies/Chem notes/Untitled.canvas",
