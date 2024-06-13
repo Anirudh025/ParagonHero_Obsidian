@@ -24,4 +24,7 @@ Tweek <-- 2 //can only be the values specified above 1,2,3,4//
 #### Pointer Data Type: 
 1. A non-composite data type that uses the memory address of where the data is stored.
 
-hello
+```PSEUDOCODE
+Num1 <-- 10
+
+```
