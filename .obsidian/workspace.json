@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "School studies/Chemistry/Benzene and its compounds.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "School studies/Chemistry/Benzene and its compounds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "School studies/Chemistry/Benzene and its compounds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "School studies/Chemistry/Benzene and its compounds.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "README.md"
+                "file": "School studies/Chemistry/Benzene and its compounds.md"
               }
             }
           },
@@ -228,15 +228,16 @@
   },
   "active": "16de87b098e9fc0b",
   "lastOpenFiles": [
+    "School studies/CS/Data Representation.md",
+    "School studies/CS/course Cambridge International AS and A Level Computer Science Coursebook.pdf",
+    "School studies/Physics/Thermal Physics.md",
+    "README.md",
     "School studies/Chemistry/Benzene and its compounds.md",
     "A Level A Class Timetable.png",
     "Excalidraw/A Level A Class Timetable.png",
     "Excalidraw/A Level A Class Timetable.png.crdownload",
     "Excalidraw/phenylheptane.excalidraw.md",
-    "School studies/Physics/Thermal Physics.md",
-    "School studies/CS/Data Representation.md",
     "Excalidraw/benzyl.excalidraw.md",
-    "README.md",
     "obsidian format/MathJax.md",
     "Excalidraw/ringbenzene.md",
     "Excalidraw/Pasted image 20230724044538.png",
@@ -268,7 +269,6 @@
     "Excalidraw/elpg158traffic.excalidraw.md",
     "Physics",
     "School studies/Chemistry/Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
-    "School studies/CS/course Cambridge International AS and A Level Computer Science Coursebook.pdf",
     "School studies/A LEVEL/CS/text Cambridge International AS and A Levels Computer Science.pdf",
     "School studies/AS LEVEL/Chem notes/Organic chem.canvas",
     "School studies/CS",
