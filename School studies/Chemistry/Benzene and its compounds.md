@@ -11,6 +11,7 @@ Benzene %% #benzene %%:
 		- 1-chlorobenzene![[chloro benzene.excalidraw|200]]
 	3. When Benzyl substituent is present it's structure is %% #benzyl %%:
 		- benzyl R ![[benzyl.excalidraw|200]]
+<<<<<<< HEAD
 - When other functional groups are present benzene becomes the substituent:![[naming benzene compunds with other functional groups.excalidraw]]
 - Some benzene examples: ![[somebenzenecompunds.excalidraw|500]]
 - Special benzene compounds: ![[benzenecoumpounds with special names.excalidraw|500]]
@@ -32,4 +33,6 @@ Some Examples of Aromatic compounds are:
 
 
 
+=======
+>>>>>>> origin/main
 
