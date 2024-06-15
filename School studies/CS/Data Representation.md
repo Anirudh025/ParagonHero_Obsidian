@@ -115,7 +115,7 @@ M = $\frac{(1/2) + 1/8 +1/16 + 1/64 $
 M = (32+8+4+1)/64
 M = 45/64
 M = 0.703125
-- Add Exponents valyes when 1 bit appears
+- Add Exponents values when 1 bit appears
 	- E=4
 	- M x  2<sup>E</sup>
 M = 0.703125 x 2<sup>4</sup>
