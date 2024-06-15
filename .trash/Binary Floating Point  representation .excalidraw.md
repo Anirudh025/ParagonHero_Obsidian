@@ -23,7 +23,7 @@ Mantissa ^sKbbe34I
 		{
 			"id": "uM43voMZ",
 			"type": "text",
-			"x": -337.25,
+			"x": -336.36116536458326,
 			"y": -175.23959350585938,
 			"width": 490.09967041015625,
 			"height": 25,
@@ -39,11 +39,11 @@ Mantissa ^sKbbe34I
 			"frameId": null,
 			"roundness": null,
 			"seed": 1268216438,
-			"version": 84,
-			"versionNonce": 333107178,
+			"version": 85,
+			"versionNonce": 18901174,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1718430993160,
+			"updated": 1718431028506,
 			"link": null,
 			"locked": false,
 			"text": "Using 8 bits for           & 8 bits for exponent",
@@ -93,6 +93,35 @@ Mantissa ^sKbbe34I
 			"containerId": null,
 			"originalText": "Mantissa",
 			"lineHeight": 1.25
+		},
+		{
+			"id": "StZnBM74tbGmX5Ssbv5kG",
+			"type": "rectangle",
+			"x": -337.3164185956044,
+			"y": -126.91861355587679,
+			"width": 510.22224934895854,
+			"height": 152.88887532552087,
+			"angle": 0,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 3
+			},
+			"seed": 2078498154,
+			"version": 94,
+			"versionNonce": 1290734838,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1718431014737,
+			"link": null,
+			"locked": false
 		}
 	],
 	"appState": {
@@ -110,10 +139,10 @@ Mantissa ^sKbbe34I
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 503.75,
-		"scrollY": 320.76043701171875,
+		"scrollX": 825.9830852622712,
+		"scrollY": 402.72419623816853,
 		"zoom": {
-			"value": 1
+			"value": 0.7499999999999998
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

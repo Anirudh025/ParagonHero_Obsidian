@@ -29,19 +29,8 @@
                 "file": "Excalidraw/floating point representaion .excalidraw.md"
               }
             }
-          },
-          {
-            "id": "b46eeea52a571371",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Binary Floating Point  representation .excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Binary Floating Point  representation .excalidraw.md",
+                "file": "School studies/CS/Data Representation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Binary Floating Point  representation .excalidraw.md",
+                "file": "School studies/CS/Data Representation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -163,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Binary Floating Point  representation .excalidraw.md"
+                "file": "School studies/CS/Data Representation.md"
               }
             }
           },
@@ -201,7 +190,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Binary Floating Point  representation .excalidraw.md"
+                "file": "School studies/CS/Data Representation.md"
               }
             }
           },
@@ -247,7 +236,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "b46eeea52a571371",
+  "active": "bbf69a43c095f540",
   "lastOpenFiles": [
     "Excalidraw/floating point representaion .excalidraw.md",
     "Excalidraw/Binary Floating Point  representation .excalidraw.md",
