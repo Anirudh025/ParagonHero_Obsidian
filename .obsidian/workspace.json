@@ -21,36 +21,17 @@
             }
           },
           {
-            "id": "ada7870f3b101038",
+            "id": "5d6ab4482bf858df",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Site change electrophyllic reaction.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "c6a15f8a67839b42",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Oxidation of benzene.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "86000792d40ce120",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Hydrogenation of benzene .excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-06-15 12.37.01.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -133,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md",
+                "file": "Excalidraw/Drawing 2024-06-15 12.37.01.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md",
+                "file": "Excalidraw/Drawing 2024-06-15 12.37.01.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md"
+                "file": "Excalidraw/Drawing 2024-06-15 12.37.01.excalidraw.md"
               }
             }
           },
@@ -211,7 +192,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md"
+                "file": "Excalidraw/Drawing 2024-06-15 12.37.01.excalidraw.md"
               }
             }
           },
@@ -257,13 +238,14 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "3904dd075f5868a2",
+  "active": "5d6ab4482bf858df",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-06-15 12.33.45.excalidraw.md",
     "School studies/Chemistry/Benzene and its compounds.md",
+    "Excalidraw/Drawing 2024-06-15 12.37.01.excalidraw.md",
     "Excalidraw/Hydrogenation of benzene .excalidraw.md",
-    "Excalidraw/Oxidation of benzene.excalidraw.md",
     "Excalidraw/Site change electrophyllic reaction.excalidraw.md",
+    "Excalidraw/Drawing 2024-06-15 12.33.45.excalidraw.md",
+    "Excalidraw/Oxidation of benzene.excalidraw.md",
     "Excalidraw/Reaction mechanism no2+benzene.excalidraw.md",
     "Excalidraw/bonding benzene.excalidraw.md",
     "Excalidraw/benzyl.excalidraw.md",
@@ -285,7 +267,6 @@
     "Excalidraw/File Organization.excalidraw.md",
     "Excalidraw/Drawing 2024-06-15 10.31.55.excalidraw.md",
     "Excalidraw/phenylheptane.excalidraw.md",
-    "Excalidraw/OrthoMetaParabenzene.excalidraw.md",
     "Excalidraw/Pasted image 20230724044538.png",
     "Excalidraw/benzene.png",
     "Excalidraw/Pasted image 20240615073438.png",
