@@ -29,9 +29,19 @@
                 "file": "Excalidraw/Site change electrophyllic reaction.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "c6a15f8a67839b42",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Oxidation of benzene.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Site change electrophyllic reaction.excalidraw.md",
+                "file": "Excalidraw/Oxidation of benzene.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Site change electrophyllic reaction.excalidraw.md",
+                "file": "Excalidraw/Oxidation of benzene.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -154,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Site change electrophyllic reaction.excalidraw.md"
+                "file": "Excalidraw/Oxidation of benzene.excalidraw.md"
               }
             }
           },
@@ -192,7 +202,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Site change electrophyllic reaction.excalidraw.md"
+                "file": "Excalidraw/Oxidation of benzene.excalidraw.md"
               }
             }
           },
@@ -238,10 +248,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "ada7870f3b101038",
+  "active": "c6a15f8a67839b42",
   "lastOpenFiles": [
-    "School studies/Chemistry/Benzene and its compounds.md",
     "Excalidraw/Site change electrophyllic reaction.excalidraw.md",
+    "Excalidraw/Oxidation of benzene.excalidraw.md",
+    "School studies/Chemistry/Benzene and its compounds.md",
     "Excalidraw/Reaction mechanism no2+benzene.excalidraw.md",
     "Excalidraw/bonding benzene.excalidraw.md",
     "Excalidraw/benzyl.excalidraw.md",
@@ -267,7 +278,6 @@
     "Excalidraw/Pasted image 20230724044538.png",
     "Excalidraw/naming benzene compunds with other functional groups.excalidraw.md",
     "Excalidraw/Compositedatatypes.excalidraw.md",
-    "Excalidraw/chloro benzene.excalidraw.md",
     "Excalidraw/benzene.png",
     "Excalidraw/Pasted image 20240615073438.png",
     "Excalidraw/Pasted Image 20240612194848_349.png",
