@@ -26,7 +26,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/benzenecoumpounds with special names.excalidraw.md"
+                "file": "Excalidraw/bonding benzene.excalidraw.md"
               }
             }
           },
@@ -36,12 +36,12 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-15 12.13.01.excalidraw.md"
+                "file": "Excalidraw/bonding benzene.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-15 12.13.01.excalidraw.md",
+                "file": "Excalidraw/bonding benzene.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-15 12.13.01.excalidraw.md",
+                "file": "Excalidraw/bonding benzene.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-15 12.13.01.excalidraw.md"
+                "file": "Excalidraw/bonding benzene.excalidraw.md"
               }
             }
           },
@@ -201,7 +201,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-15 12.13.01.excalidraw.md"
+                "file": "Excalidraw/bonding benzene.excalidraw.md"
               }
             }
           },
@@ -247,10 +247,13 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "d5d5a84bf8bf999b",
+  "active": "b81e3b69c378d0b8",
   "lastOpenFiles": [
+    "Excalidraw/benzyl.excalidraw.md",
+    "Excalidraw/benzne+cl2 (alcl3).excalidraw.md",
+    "Excalidraw/benzenesigmapi.excalidraw.md",
     "Excalidraw/benzenecoumpounds with special names.excalidraw.md",
-    "Excalidraw/Drawing 2024-06-15 12.13.01.excalidraw.md",
+    "Excalidraw/bonding benzene.excalidraw.md",
     "Excalidraw/benzene Double bond.png",
     "School studies/Chemistry/Benzene and its compounds.md",
     "Excalidraw/Friedel Craft Alkylation of benzene.excalidraw.md",
@@ -272,9 +275,6 @@
     "Excalidraw/naming benzene compunds with other functional groups.excalidraw.md",
     "Excalidraw/Compositedatatypes.excalidraw.md",
     "Excalidraw/chloro benzene.excalidraw.md",
-    "Excalidraw/benzyl.excalidraw.md",
-    "Excalidraw/benzne+cl2 (alcl3).excalidraw.md",
-    "Excalidraw/benzenesigmapi.excalidraw.md",
     "Excalidraw/benzene.png",
     "Excalidraw/acids.excalidraw.md",
     "Excalidraw/Pasted image 20240615073438.png",
