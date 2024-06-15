@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/CS/Data Representation.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/CS/Data Representation.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/CS/Data Representation.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/CS/Data Representation.md"
+                "file": "README.md"
               }
             }
           },
@@ -190,7 +190,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/CS/Data Representation.md"
+                "file": "README.md"
               }
             }
           },
@@ -237,8 +237,8 @@
   },
   "active": "bbf69a43c095f540",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "School studies/CS/Data Representation.md",
+    "conflict-files-obsidian-git.md",
     "Excalidraw/floating point representaion .excalidraw.md",
     "Excalidraw/Floating point Representation .excalidraw.md",
     "Excalidraw/Drawing 2024-06-15 11.15.11.excalidraw.md",
