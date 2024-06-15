@@ -21,22 +21,12 @@
             }
           },
           {
-            "id": "b81e3b69c378d0b8",
+            "id": "cc6cb53b7a12b885",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/bonding benzene.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "d5d5a84bf8bf999b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/bonding benzene.excalidraw.md"
+                "file": "Excalidraw/Reaction mechanism no2+benzene.excalidraw.md"
               }
             }
           }
@@ -123,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/bonding benzene.excalidraw.md",
+                "file": "Excalidraw/Reaction mechanism no2+benzene.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/bonding benzene.excalidraw.md",
+                "file": "Excalidraw/Reaction mechanism no2+benzene.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -163,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/bonding benzene.excalidraw.md"
+                "file": "Excalidraw/Reaction mechanism no2+benzene.excalidraw.md"
               }
             }
           },
@@ -201,7 +191,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/bonding benzene.excalidraw.md"
+                "file": "Excalidraw/Reaction mechanism no2+benzene.excalidraw.md"
               }
             }
           },
@@ -247,15 +237,15 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "b81e3b69c378d0b8",
+  "active": "cc6cb53b7a12b885",
   "lastOpenFiles": [
+    "School studies/Chemistry/Benzene and its compounds.md",
+    "Excalidraw/bonding benzene.excalidraw.md",
     "Excalidraw/benzyl.excalidraw.md",
     "Excalidraw/benzne+cl2 (alcl3).excalidraw.md",
     "Excalidraw/benzenesigmapi.excalidraw.md",
     "Excalidraw/benzenecoumpounds with special names.excalidraw.md",
-    "Excalidraw/bonding benzene.excalidraw.md",
     "Excalidraw/benzene Double bond.png",
-    "School studies/Chemistry/Benzene and its compounds.md",
     "Excalidraw/Friedel Craft Alkylation of benzene.excalidraw.md",
     "Excalidraw/Friedel craft Acylation of benzene.excalidraw.md",
     "Obsidian help/MathJax.md",
