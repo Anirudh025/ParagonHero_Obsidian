@@ -21,16 +21,20 @@
             }
           },
           {
-            "id": "f993668c44072a3e",
+            "id": "9bd2aae2cf0a4310",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/floating point representaion .excalidraw.md"
+                "file": "Obsidian help/MathJax.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/CS/Data Representation.md",
+                "file": "Obsidian help/MathJax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/CS/Data Representation.md",
+                "file": "Obsidian help/MathJax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -152,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/CS/Data Representation.md"
+                "file": "Obsidian help/MathJax.md"
               }
             }
           },
@@ -190,7 +194,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/CS/Data Representation.md"
+                "file": "Obsidian help/MathJax.md"
               }
             }
           },
@@ -236,10 +240,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "bbf69a43c095f540",
+  "active": "9bd2aae2cf0a4310",
   "lastOpenFiles": [
-    "Obsidian help/MathJax.md",
     "School studies/CS/Data Representation.md",
+    "Obsidian help/MathJax.md",
     "Excalidraw/floating point representaion .excalidraw.md",
     "Excalidraw/Binary Floating Point  representation .excalidraw.md",
     "README.md",
