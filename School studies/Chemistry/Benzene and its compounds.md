@@ -20,6 +20,7 @@ Benzene %% #benzene %%:
 - Benzene reacts with NO₂ to form Nitrobenzene: ![[Reaction mechanism no2+benzene.excalidraw|600]]
 - Benzene reacts with  CH₃Cl to form methyl-benzene:![[Friedel Craft Alkylation of benzene.excalidraw|550]]
 - Benzene reacts with Ch₃C(O)Cl to form Phenylehtanone: ![[Friedel craft Acylation of benzene.excalidraw|650]]
+- 
 ==Due to its stability benzene does not undergo some of the addition reactions that other alkenes do== 
 ### Aromatic Compounds
 **Aromatic Compounds** :: **Compounds are those that contain a ring of delocalized electrons**

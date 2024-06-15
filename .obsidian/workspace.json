@@ -19,8 +19,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b81e3b69c378d0b8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/benzenecoumpounds with special names.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "d5d5a84bf8bf999b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-06-15 12.13.01.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,8 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.50418853759766,
-    "collapsed": true
+    "width": 226.50418853759766
   },
   "right": {
     "id": "d967d98868519a35",
@@ -103,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md",
+                "file": "Excalidraw/Drawing 2024-06-15 12.13.01.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md",
+                "file": "Excalidraw/Drawing 2024-06-15 12.13.01.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md"
+                "file": "Excalidraw/Drawing 2024-06-15 12.13.01.excalidraw.md"
               }
             }
           },
@@ -181,7 +201,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md"
+                "file": "Excalidraw/Drawing 2024-06-15 12.13.01.excalidraw.md"
               }
             }
           },
@@ -227,10 +247,13 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "3904dd075f5868a2",
+  "active": "d5d5a84bf8bf999b",
   "lastOpenFiles": [
-    "Excalidraw/Friedel Craft Alkylation of benzene.excalidraw.md",
+    "Excalidraw/benzenecoumpounds with special names.excalidraw.md",
+    "Excalidraw/Drawing 2024-06-15 12.13.01.excalidraw.md",
+    "Excalidraw/benzene Double bond.png",
     "School studies/Chemistry/Benzene and its compounds.md",
+    "Excalidraw/Friedel Craft Alkylation of benzene.excalidraw.md",
     "Excalidraw/Friedel craft Acylation of benzene.excalidraw.md",
     "Obsidian help/MathJax.md",
     "School studies/CS/Data Representation.md",
@@ -252,8 +275,6 @@
     "Excalidraw/benzyl.excalidraw.md",
     "Excalidraw/benzne+cl2 (alcl3).excalidraw.md",
     "Excalidraw/benzenesigmapi.excalidraw.md",
-    "Excalidraw/benzenecoumpounds with special names.excalidraw.md",
-    "Excalidraw/benzene Double bond.png",
     "Excalidraw/benzene.png",
     "Excalidraw/acids.excalidraw.md",
     "Excalidraw/Pasted image 20240615073438.png",
@@ -261,7 +282,6 @@
     "Excalidraw/Pasted image 20240615073708.png",
     "Excalidraw/Pasted Image 20240615073548_125.png",
     "Excalidraw/Reaction mechanism no2+benzene.excalidraw.md",
-    "Excalidraw/somebenzenecompunds.excalidraw.md",
     "Excalidraw/pngwing.com.png.crdownload",
     "Untitled.pdf",
     "Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
