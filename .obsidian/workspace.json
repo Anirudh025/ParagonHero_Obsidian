@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e019df3109d544a2",
+        "id": "e16c3429a1bfe8ae",
         "type": "tabs",
         "children": [
           {
-            "id": "bbf69a43c095f540",
+            "id": "3904dd075f5868a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/CS/Data Representation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9bd2aae2cf0a4310",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian help/MathJax.md",
+                "file": "School studies/Chemistry/Benzene and its compounds.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -115,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/CS/Data Representation.md",
+                "file": "School studies/Chemistry/Benzene and its compounds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/CS/Data Representation.md",
+                "file": "School studies/Chemistry/Benzene and its compounds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -155,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/CS/Data Representation.md"
+                "file": "School studies/Chemistry/Benzene and its compounds.md"
               }
             }
           },
@@ -193,7 +180,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/CS/Data Representation.md"
+                "file": "School studies/Chemistry/Benzene and its compounds.md"
               }
             }
           },
@@ -239,7 +226,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "bbf69a43c095f540",
+  "active": "3904dd075f5868a2",
   "lastOpenFiles": [
     "Obsidian help/MathJax.md",
     "School studies/CS/Data Representation.md",
