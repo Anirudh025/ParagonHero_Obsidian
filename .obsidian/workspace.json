@@ -4,19 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "0c94a62031867580",
+        "id": "e019df3109d544a2",
         "type": "tabs",
         "children": [
           {
-            "id": "9642703f31998b97",
+            "id": "bbf69a43c095f540",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compunds.md",
+                "file": "School studies/CS/Data Representation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "f993668c44072a3e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/floating point representaion .excalidraw.md"
               }
             }
           }
@@ -67,7 +77,7 @@
             }
           },
           {
-            "id": "b3380d9d387243fa",
+            "id": "347ac0bb5dd85372",
             "type": "leaf",
             "state": {
               "type": "surfing-tab-tree",
@@ -102,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compunds.md",
+                "file": "School studies/CS/Data Representation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compunds.md",
+                "file": "School studies/CS/Data Representation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,16 +152,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compunds.md"
+                "file": "School studies/CS/Data Representation.md"
               }
-            }
-          },
-          {
-            "id": "322c528cb7f7b225",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
             }
           },
           {
@@ -188,7 +190,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compunds.md"
+                "file": "School studies/CS/Data Representation.md"
               }
             }
           },
@@ -199,17 +201,9 @@
               "type": "review-queue-list-view",
               "state": {}
             }
-          },
-          {
-            "id": "edc9c1cf1eb8ab24",
-            "type": "leaf",
-            "state": {
-              "type": "code-execute-manage-executors",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -226,7 +220,6 @@
       "command-palette:Open command palette": false,
       "daily-notes:Open today's daily note": false,
       "audio-recorder:Start/stop recording": false,
-      "surfing:surfing-bookmark-manager": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "meld-encrypt:New encrypted note": false,
       "meld-encrypt:Convert to or from an Encrypted note": false,
@@ -234,56 +227,56 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "9642703f31998b97",
+  "active": "bbf69a43c095f540",
   "lastOpenFiles": [
-    "Excalidraw/benzene.png",
-    "Excalidraw/pngwing.com.png",
-    "School studies/Chemistry/Benzene and its compunds.md",
-    "School studies/Physics/Thermal Physics.md",
-    "Physics",
-    "Excalidraw/benzenesigmapi.excalidraw.md",
-    "conflict-files-obsidian-git.md",
-    "Excalidraw/Drawing 2024-06-12 09.43.47.excalidraw.md",
-    "Excalidraw/chloro benzene.excalidraw.md",
-    "Excalidraw/phenylheptane.excalidraw.md",
-    "School studies/Chemistry/Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
-    "Excalidraw/Pasted image 20230724044538.png",
-    "Excalidraw/Drawing 2023-08-27 20.08.26.excalidraw.md",
-    "Excalidraw/benzeneroughlydrawn.excalidraw.md",
-    "Excalidraw/Screenshot 2023-07-24 044228.png",
+    "Excalidraw/floating point representaion .excalidraw.md",
     "School studies/CS/Data Representation.md",
+    "Excalidraw/Floating point Representation .excalidraw.md",
+    "Excalidraw/Drawing 2024-06-15 11.15.11.excalidraw.md",
+    "Excalidraw/File access.excalidraw.md",
+    "Excalidraw/File Organization.excalidraw.md",
+    "School studies/Chemistry/Benzene and its compounds.md",
+    "Excalidraw/Drawing 2024-06-15 10.31.55.excalidraw.md",
+    "Excalidraw/phenylheptane.excalidraw.md",
+    "Excalidraw/OrthoMetaParabenzene.excalidraw.md",
+    "Excalidraw/Pasted image 20230724044538.png",
+    "Excalidraw/naming benzene compunds with other functional groups.excalidraw.md",
+    "Excalidraw/Friedel Craft Alkylation of benzene.excalidraw.md",
+    "Excalidraw/Friedel craft Acylation of benzene.excalidraw.md",
+    "Excalidraw/Compositedatatypes.excalidraw.md",
+    "Excalidraw/chloro benzene.excalidraw.md",
+    "Excalidraw/benzyl.excalidraw.md",
+    "Excalidraw/benzne+cl2 (alcl3).excalidraw.md",
+    "Excalidraw/benzenesigmapi.excalidraw.md",
+    "Excalidraw/benzenecoumpounds with special names.excalidraw.md",
+    "Excalidraw/benzene Double bond.png",
+    "Excalidraw/benzene.png",
+    "Excalidraw/acids.excalidraw.md",
+    "Excalidraw/Pasted image 20240615073438.png",
+    "Excalidraw/Pasted Image 20240612194848_349.png",
+    "Excalidraw/Pasted image 20240615073708.png",
+    "Excalidraw/Pasted Image 20240615073548_125.png",
+    "Excalidraw/Reaction mechanism no2+benzene.excalidraw.md",
+    "Excalidraw/somebenzenecompunds.excalidraw.md",
+    "Excalidraw/pngwing.com.png.crdownload",
+    "Excalidraw/Drawing 2024-06-15 08.35.20.excalidraw.md",
+    "School studies/Chemistry/Untitled.md",
+    "Untitled.pdf",
+    "Excalidraw/Drawing 2024-06-15 07.35.43.excalidraw.md",
+    "README.md",
+    "Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
+    "Cambridge International AS and A Levels Computer Science by David Watson, Helen Williams (z-lib.org).pdf",
+    "School studies/Chemistry/Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
+    "School studies/CS/Cambridge International AS and A Levels Computer Science by David Watson, Helen Williams (z-lib.org).pdf",
     "School studies/CS/course Cambridge International AS and A Level Computer Science Coursebook.pdf",
-    "School studies/A LEVEL/CS/text Cambridge International AS and A Levels Computer Science.pdf",
-    "obsidian format/Obsidian-formatting.md",
-    "obsidian format/Ascii symbols.md",
-    "Excalidraw/Pasted Image 20240612074936_687.png",
-    "Excalidraw/Pasted Image 20240612074905_751.png",
-    "Excalidraw/Pasted Image 20240612074302_703.png",
-    "School studies/AS LEVEL/Chem notes/Pasted image 20230724044538.png",
-    "School studies/AS LEVEL/Chem notes/Drawing 2024-06-12 07.25.39.excalidraw.md",
-    "School studies/AS LEVEL/Chem notes/Screenshot 2023-07-24 044228.png",
-    "Excalidraw/prescisionoraccuracy.excalidraw.md",
-    "Excalidraw/pizza-of-work.excalidraw.md",
-    "Excalidraw/pg187pageant.excalidraw.md",
-    "Excalidraw/Pasted image 20231219192124.png",
-    "Excalidraw/Pasted image 20231006193704.png",
-    "School studies/AS LEVEL/Chem notes/Organic chem.canvas",
-    "School studies/AS LEVEL/Chem notes/Enthalpy.md",
-    "School studies/AS LEVEL/Chem notes/Chem stuff from past papers.md",
-    "School studies/AS LEVEL/Chem notes/1.Chemistry.readme.md",
-    "Excalidraw/ExcalidrawDrawing 2023-09-01 13.19.23.excalidraw.md",
-    "Excalidraw/englishhomework1_9_23.excalidraw.md",
-    "Excalidraw/elpg158traffic.excalidraw.md",
-    "Excalidraw/Drawing 2023-09-01 13.19.23.excalidraw.md",
-    "Excalidraw/cs-hw-gdhjksl.excalidraw.md",
-    "Excalidraw/client-server-architecture.md",
+    "Obsidian help/WhatsApp Image 2024-06-12 at 08.04.42_289c3eb2.jpg",
+    "Obsidian help",
+    "cambridge-international-as-amp-a-level-mathematics-pure-mathematics-2-and-3-worked-solutions-manual-with-cambridge-elevate-edition-1108758908-9781108758901_compress.pdf",
+    "A Level A Class Timetable.png",
+    "Excalidraw/A Level A Class Timetable.png",
+    "Excalidraw/A Level A Class Timetable.png.crdownload",
     "Excalidraw/Untitled.canvas",
-    "School studies/CS",
-    "School studies/Math",
-    "School studies/Physics",
-    "School studies/Chemistry",
-    "School studies/A LEVEL",
-    "Untitled 1",
+    "School studies/AS LEVEL/Chem notes/Organic chem.canvas",
     "School studies/AS LEVEL/CS/Logic gates.canvas",
     "School studies/AS LEVEL/CS/Logic gates practice.canvas",
     "School studies/Chem notes/Untitled.canvas",

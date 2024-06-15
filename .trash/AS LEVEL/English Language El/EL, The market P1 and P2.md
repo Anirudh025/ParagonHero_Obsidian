@@ -1,1 +1,0 @@
-The scent of a dozen spices filled blanketed the air, fresh cinnamon, turmeric, cardamon and black peppers, the heavenly scents called out to the shoppers engulfing their nostrils.  

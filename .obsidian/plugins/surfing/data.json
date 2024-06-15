@@ -6,6 +6,7 @@
       "url": "https://duckduckgo.com/?q="
     }
   ],
+  "hoverPopover": true,
   "ignoreList": [
     "notion",
     "craft"
@@ -24,12 +25,14 @@
   "useWebview": false,
   "useIconList": true,
   "darkMode": true,
+  "randomBackground": false,
+  "lastOpenedFiles": true,
   "bookmarkManager": {
-    "openBookMark": true,
-    "saveBookMark": true,
+    "openBookMark": false,
+    "saveBookMark": false,
     "sendToReadWise": false,
     "pagination": "12",
-    "category": "- Computer\n- obsidian\n    - surfing\n    - dataview\n",
+    "category": "- Computer\n    - 算法\n    - 数据结构\n- obsidian\n    - surfing\n    - dataview\n",
     "defaultCategory": "ROOT",
     "defaultColumnList": [
       "name",
@@ -41,7 +44,22 @@
       "modified",
       "action"
     ],
-    "defaultFilterType": "menu"
+    "defaultFilterType": "tree"
   },
-  "treeData": []
+  "treeData": [
+    {
+      "id": "fb6dcf3a350511b8",
+      "parent": 0,
+      "droppable": true,
+      "text": "spaced repitation at DuckDuckGo",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    }
+  ],
+  "enableHtmlPreview": true,
+  "supportLivePreviewInlineUrl": false,
+  "enableTreeView": true
 }

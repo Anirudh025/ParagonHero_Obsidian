@@ -22,4 +22,78 @@ DECLARE CurrentWeek: Tweek
 Tweek <-- 2 //can only be the values specified above 1,2,3,4// 
 ```
 #### Pointer Data Type: 
-1. A non-composite data type that uses the memory address of where the data is stored.
+1. A non-composite data type that references the memory address of where the data is stored.
+	- It used to refer to a memory location
+>[!example]-  Example of pointer
+> ``` PSEUDOCODE
+DECLARE Num1: INTEGER
+Num1 <-- 10``` 
+So in this case a table is created to store the value of Num1
+| Addr  | Value |
+| ----- | ----- |
+| x1010 |       |
+| x1011 |       |
+| x1012 | 10    |
+A pointer value instead of containing `10` contains the address of the value `x1012` 
+for example ```PointerName <-- ^Num1  ```
+
+There are 2 types of pointers
+1. Datatype _(Used much more often)_ 
+2. Variable
+```PSEUDOCODE
+TYPE TweekPointer = ^Tweek
+DECLARE CurrentWeekPointer: TweekPointer
+CurrentWeekPointer <-- ^CurvWeek //Normal referencing//
+CurrentValue <-- CurWeek^ //Dereferencing//
+```
+
+| Datatype pointer                           | Variable Pointer                 |
+| ------------------------------------------ | -------------------------------- |
+| ```Datatypepointer = ^Datatype ```         | <>                               |
+| ```DECLARE PointerName:Datatype Pointer``` | <>                               |
+| ```PointerName <-- ^VariableName```        | ```Value <-- VariableName^```    |
+| References to the location                 | Dereferences to the value itself |
+
+| Variable | Datatype | Location            | Value |
+| -------- | -------- | ------------------- | ----- |
+| CurrWeek | Tweek    | x1010, x1011, x1012 | 2     |
+
+## Composite Datatypes
+Composite Datatype: Datatype that refers to other data types in its defination
+
+![[Compositedatatypes.excalidraw|450]]
+#### Records
+1. Uses a header and variable to keep data
+>[!example] A record looks like: 
+>```PSEUDOCODE
+TYPE
+StudentRecord
+DECLARE Name:STRING
+DECLARE Age:INTEGER
+DECLARE Address:STRING
+ENDTYPE```
+#### Sets
+Set :: List of worded elements that can use set theory operations such as union, intersection, etc.
+>[!example] A Set looks like:
+>```PSEUDOCODE
+>DECLARE NEven = SET OF INTEGER
+>//to declare a variable use define instead of declare and add a bracket with values//
+>DEFINE EvenNums(2,4,6,8):NEven
+>```
+
+# File Organization and Access
+## File Organization
+![[File Organization.excalidraw|850]]
+## File Access
+![[File access.excalidraw|700]]
+# Hashing Algorythms
+# Floating-point numbers, representation and manipulation
+## Floating-point Represention
+![[floating point representaion .excalidraw]]
+
+
+
+
+
+
+
