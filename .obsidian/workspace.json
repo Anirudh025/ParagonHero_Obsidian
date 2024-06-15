@@ -215,7 +215,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348.5
+    "width": 348.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,7 +236,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0ab76707b5465b06",
+  "active": "bbf69a43c095f540",
   "lastOpenFiles": [
     "Excalidraw/floating point representaion .excalidraw.md",
     "Excalidraw/Binary Floating Point  representation .excalidraw.md",
