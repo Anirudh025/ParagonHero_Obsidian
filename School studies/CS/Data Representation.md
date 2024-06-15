@@ -93,7 +93,13 @@ Set :: List of worded elements that can use set theory operations such as union,
 
 
 ### binary floating point representation
-using 8 bits for Mantissa & 8 bits 
+using 8 bits for Mantissa & 8 bits for exponent
+
+|     |     |
+| --- | --- |
+|     |     |
+
+
 
 
 
