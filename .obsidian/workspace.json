@@ -50,8 +50,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Hydrogenation of benzene .excalidraw.md",
+                "file": "School studies/Chemistry/Benzene and its compounds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Hydrogenation of benzene .excalidraw.md",
+                "file": "School studies/Chemistry/Benzene and its compounds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -174,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Hydrogenation of benzene .excalidraw.md"
+                "file": "School studies/Chemistry/Benzene and its compounds.md"
               }
             }
           },
@@ -212,7 +211,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Hydrogenation of benzene .excalidraw.md"
+                "file": "School studies/Chemistry/Benzene and its compounds.md"
               }
             }
           },
@@ -258,10 +257,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "86000792d40ce120",
+  "active": "3904dd075f5868a2",
   "lastOpenFiles": [
-    "Excalidraw/Oxidation of benzene.excalidraw.md",
     "Excalidraw/Hydrogenation of benzene .excalidraw.md",
+    "Excalidraw/Oxidation of benzene.excalidraw.md",
     "Excalidraw/Site change electrophyllic reaction.excalidraw.md",
     "School studies/Chemistry/Benzene and its compounds.md",
     "Excalidraw/Reaction mechanism no2+benzene.excalidraw.md",
