@@ -103,7 +103,7 @@ using 8 bits for Mantissa & 8 bits for exponent
 | ------ | ---- | --- | --- | --- | --- | --- | --- | --- |
 | Binary | 0    | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
 
-
+##### Convert Binary to floating point number into denary
 
 
 
