@@ -95,9 +95,13 @@ Set :: List of worded elements that can use set theory operations such as union,
 ### binary floating point representation
 using 8 bits for Mantissa & 8 bits for exponent
 
-| Header | 1/2 | 1/4 | 1/8 |     |     |     |     |     |
-| ------ | --- | --- | --- | --- | --- | --- | --- | --- |
-| Binary | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
+| Header | 1/2 | 1/4 | 1/8 | 1/16 | 1/32 | 1/64 | 1/128 |
+| ------ | --- | --- | --- | ---- | ---- | ---- | ----- |
+| Binary | 0   | 0   | 0   | 0    | 0    | 0    | 0     |
+
+| Header | 1   |
+| ------ | --- |
+| Binary |     |
 
 
 
