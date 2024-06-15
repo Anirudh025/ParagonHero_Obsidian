@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "School studies/CS/Data Representation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -29,8 +29,19 @@
                 "file": "Excalidraw/floating point representaion .excalidraw.md"
               }
             }
+          },
+          {
+            "id": "b46eeea52a571371",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Binary Floating Point  representation .excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Excalidraw/Binary Floating Point  representation .excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Excalidraw/Binary Floating Point  representation .excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -152,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Excalidraw/Binary Floating Point  representation .excalidraw.md"
               }
             }
           },
@@ -190,7 +201,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "README.md"
+                "file": "Excalidraw/Binary Floating Point  representation .excalidraw.md"
               }
             }
           },
@@ -236,11 +247,13 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "bbf69a43c095f540",
+  "active": "b46eeea52a571371",
   "lastOpenFiles": [
-    "School studies/CS/Data Representation.md",
-    "conflict-files-obsidian-git.md",
     "Excalidraw/floating point representaion .excalidraw.md",
+    "Excalidraw/Binary Floating Point  representation .excalidraw.md",
+    "School studies/CS/Data Representation.md",
+    "README.md",
+    "conflict-files-obsidian-git.md",
     "Excalidraw/Floating point Representation .excalidraw.md",
     "Excalidraw/Drawing 2024-06-15 11.15.11.excalidraw.md",
     "Excalidraw/File access.excalidraw.md",
@@ -270,9 +283,7 @@
     "Excalidraw/somebenzenecompunds.excalidraw.md",
     "Excalidraw/pngwing.com.png.crdownload",
     "Excalidraw/Drawing 2024-06-15 08.35.20.excalidraw.md",
-    "School studies/Chemistry/Untitled.md",
     "Untitled.pdf",
-    "Excalidraw/Drawing 2024-06-15 07.35.43.excalidraw.md",
     "Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
     "Cambridge International AS and A Levels Computer Science by David Watson, Helen Williams (z-lib.org).pdf",
     "School studies/Chemistry/Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
