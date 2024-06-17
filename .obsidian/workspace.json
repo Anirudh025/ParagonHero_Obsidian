@@ -19,6 +19,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3e546980c0f64a71",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ]
       }
@@ -228,8 +236,8 @@
   },
   "active": "3904dd075f5868a2",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-06-15 12.37.01.excalidraw.md",
     "School studies/Chemistry/Benzene and its compounds.md",
+    "Excalidraw/Drawing 2024-06-15 12.37.01.excalidraw.md",
     "Excalidraw/Hydrogenation of benzene .excalidraw.md",
     "Excalidraw/Site change electrophyllic reaction.excalidraw.md",
     "Excalidraw/Drawing 2024-06-15 12.33.45.excalidraw.md",
