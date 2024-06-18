@@ -46,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -128,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian help/MathJax.md",
+                "file": "School studies/CS/Data Representation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian help/MathJax.md",
+                "file": "School studies/CS/Data Representation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -168,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian help/MathJax.md"
+                "file": "School studies/CS/Data Representation.md"
               }
             }
           },
@@ -206,7 +207,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Obsidian help/MathJax.md"
+                "file": "School studies/CS/Data Representation.md"
               }
             }
           },
@@ -252,11 +253,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "3904dd075f5868a2",
+  "active": "44738a3d687eb021",
   "lastOpenFiles": [
-    "School studies/CS/Data Representation.md",
     "School studies/Physics/Circular Motion.md",
     "Obsidian help/MathJax.md",
+    "School studies/CS/Data Representation.md",
     "School studies/Physics/Thermal Physics.md",
     "School studies/Chemistry/Benzene and its compounds.md",
     "Excalidraw/Drawing 2024-06-17 14.59.33.excalidraw.md",
