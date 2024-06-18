@@ -8,38 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3904dd075f5868a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian help/MathJax.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ab6baa8bcdc59462",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/CS/Data Representation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7976cc927804133c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian format/Ascii symbols.md",
+                "file": "School studies/Physics/Circular Motion.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -136,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian help/MathJax.md",
+                "file": "School studies/Physics/Circular Motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian help/MathJax.md",
+                "file": "School studies/Physics/Circular Motion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian help/MathJax.md"
+                "file": "School studies/Physics/Circular Motion.md"
               }
             }
           },
@@ -214,7 +188,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Obsidian help/MathJax.md"
+                "file": "School studies/Physics/Circular Motion.md"
               }
             }
           },
@@ -251,14 +225,14 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "3904dd075f5868a2",
+  "active": "ab6baa8bcdc59462",
   "lastOpenFiles": [
     "School studies/CS/Data Representation.md",
+    "Obsidian help/MathJax.md",
     "conflict-files-obsidian-git.md",
     "School studies/Physics/Thermal Physics.md",
     "Excalidraw/Thermocouple.excalidraw.md",
     "School studies/Chemistry/Benzene and its compounds.md",
-    "Obsidian help/MathJax.md",
     "School studies/Physics/Circular Motion.md",
     "obsidian format/Ascii symbols.md",
     "Excalidraw/circularmotion.excalidraw.md",
