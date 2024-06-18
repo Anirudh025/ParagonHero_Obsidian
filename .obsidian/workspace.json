@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/Physics/Circular Motion.md",
+                "file": "School studies/Chemistry/Benzene and its compounds.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Physics/Circular Motion.md",
+                "file": "School studies/Chemistry/Benzene and its compounds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Physics/Circular Motion.md",
+                "file": "School studies/Chemistry/Benzene and its compounds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/Physics/Circular Motion.md"
+                "file": "School studies/Chemistry/Benzene and its compounds.md"
               }
             }
           },
@@ -188,7 +188,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/Physics/Circular Motion.md"
+                "file": "School studies/Chemistry/Benzene and its compounds.md"
               }
             }
           },
@@ -227,13 +227,13 @@
   },
   "active": "ab6baa8bcdc59462",
   "lastOpenFiles": [
+    "School studies/Physics/Circular Motion.md",
     "School studies/CS/Data Representation.md",
     "Obsidian help/MathJax.md",
     "conflict-files-obsidian-git.md",
     "School studies/Physics/Thermal Physics.md",
     "Excalidraw/Thermocouple.excalidraw.md",
     "School studies/Chemistry/Benzene and its compounds.md",
-    "School studies/Physics/Circular Motion.md",
     "obsidian format/Ascii symbols.md",
     "Excalidraw/circularmotion.excalidraw.md",
     "Excalidraw/Drawing 2024-06-17 14.59.33.excalidraw.md",
