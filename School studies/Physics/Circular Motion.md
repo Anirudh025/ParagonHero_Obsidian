@@ -18,4 +18,4 @@ Where s = displacement and r = angle
 
 If theta = s/r 
 - Linear velocity = v = 2pi r/T, where 'T' is time period.
-- Angular velocity
+- Angular velocity = 2pi/T
