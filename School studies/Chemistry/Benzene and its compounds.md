@@ -25,10 +25,13 @@ Benzene %% #benzene %%:
 	- ![[Friedel Craft Alkylation of benzene.excalidraw|550]]
 4. Benzene reacts with Ch₃C(O)Cl to form Phenylehtanone: 
 	- ![[Friedel craft Acylation of benzene.excalidraw|650]]
-5. Site Change Reaction of benzene: ![[Site change electrophyllic reaction.excalidraw|500]]
-- Oxidation of Benzene: ![[Oxidation of benzene.excalidraw|500]]
-- Hydrogenation of Benzene: ![[Hydrogenation of benzene .excalidraw|500]]
--  
+5. Site Change Reaction of benzene: 
+	- ![[Site change electrophyllic reaction.excalidraw|500]]
+6. Oxidation of Benzene: 
+	- ![[Oxidation of benzene.excalidraw|500]]
+7. Hydrogenation of Benzene: 
+	- ![[Hydrogenation of benzene .excalidraw|500]]
+
 ==Due to its stability benzene does not undergo some of the addition reactions that other alkenes do== 
 ### Aromatic Compounds
 **Aromatic Compounds** :: **Compounds are those that contain a ring of delocalized electrons**
