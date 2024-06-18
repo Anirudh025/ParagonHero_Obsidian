@@ -92,7 +92,7 @@ Set :: List of worded elements that can use set theory operations such as union,
 ![[floating point representaion .excalidraw]]
 
 
-### binary floating point representation
+### Binary floating point representation
 using 8 bits for Mantissa & 8 bits for exponent
 
 | Header | -1  | 1/2 | 1/4 | 1/8 | 1/16 | 1/32 | 1/64 | 1/128 |

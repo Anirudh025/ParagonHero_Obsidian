@@ -1,4 +1,4 @@
-#obsidian To see how any formula was written in any question or answer, including this one, right-click on the expression and choose "Show Math As > TeX Commands". (When you do this, the '$' will not display. Make sure you add these: see the next point. There are also [other ways](https://math.meta.stackexchange.com/questions/659/how-to-view-latex-source-of-equations) to view the code for the formula or the whole post.)
+%%#obsidian To see how any formula was written in any question or answer, including this one, right-click on the expression and choose "Show Math As > TeX Commands". (When you do this, the '$' will not display. Make sure you add these: see the next point. There are also [other ways](https://math.meta.stackexchange.com/questions/659/how-to-view-latex-source-of-equations) to view the code for the formula or the whole post.)
 
 1. **For inline formulas, enclose the formula in `$`…`$`. For displayed formulas, use `$$`…`$$`.**
 	* These render differently. For example, type the following to show _inline_ mode:  
