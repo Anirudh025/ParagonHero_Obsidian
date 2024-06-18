@@ -17,4 +17,5 @@ Where s = displacement and r = angle
 1 radian is the angle subtended at the centre of the circle where the arc length is equal to the radius of the circle.
 
 If theta = s/r 
-- Linear velocity = v
+- Linear velocity = v = 2pi r/T, where 'T' is time period.
+- Angular velocity
