@@ -4,6 +4,10 @@ Circular motion :: An object performing a motion such that the distance of the o
 >[!example] An object performing circular motion moves from point A to B, covering an arc length S ![[circularmotion.excalidraw|350]]
 >This is measured in radians
 
+<<<<<<< HEAD
+
+
+=======
 # Angular Displacement
 Theta = s/r
 Where s = displacement and r = angle
@@ -21,3 +25,4 @@ If theta = s/r
 - Angular velocity= w = 2pi/T
 - v = (2pi/T) * r
 - v = wr
+>>>>>>> origin/main
