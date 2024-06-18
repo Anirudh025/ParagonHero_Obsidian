@@ -26,10 +26,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/Physics/Thermal Physics.md",
+                "file": "School studies/Physics/Circular Motion.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Physics/Thermal Physics.md",
+                "file": "School studies/Physics/Circular Motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Physics/Thermal Physics.md",
+                "file": "School studies/Physics/Circular Motion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/Physics/Thermal Physics.md"
+                "file": "School studies/Physics/Circular Motion.md"
               }
             }
           },
@@ -194,7 +194,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/Physics/Thermal Physics.md"
+                "file": "School studies/Physics/Circular Motion.md"
               }
             }
           },
@@ -241,9 +241,9 @@
   },
   "active": "1b0196456f76ae1d",
   "lastOpenFiles": [
+    "School studies/Physics/Thermal Physics.md",
     "School studies/Physics/Circular Motion.md",
     "School studies/CS/Data Representation.md",
-    "School studies/Physics/Thermal Physics.md",
     "conflict-files-obsidian-git.md",
     "School studies/Chemistry/Benzene and its compounds.md",
     "A Level A Class Timetable.png",
