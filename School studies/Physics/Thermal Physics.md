@@ -9,7 +9,7 @@ Heat :: a form of energy, energy :: the ability to do work
 2. It must have low melting point & high boiling point.
 3. It must be clearly visible/opaque.
 4. It must not stick to the glass tube.
-To calibrate a thermometer :: Use meltin
+To calibrate a thermometer :: Use melting and boiling point of ***pure water*** and mark distance between them
 ## Thermocouple Interplotation
 ![[Thermocouple.excalidraw|500]]
 
