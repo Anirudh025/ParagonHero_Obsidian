@@ -34,6 +34,16 @@
             }
           },
           {
+            "id": "019164f04515a081",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Thermocouple.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "7976cc927804133c",
             "type": "leaf",
             "state": {
@@ -47,7 +57,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Physics/Thermal Physics.md",
+                "file": "Excalidraw/Thermocouple.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Physics/Thermal Physics.md",
+                "file": "Excalidraw/Thermocouple.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -178,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/Physics/Thermal Physics.md"
+                "file": "Excalidraw/Thermocouple.excalidraw.md"
               }
             }
           },
@@ -216,7 +226,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/Physics/Thermal Physics.md"
+                "file": "Excalidraw/Thermocouple.excalidraw.md"
               }
             }
           },
@@ -253,8 +263,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "ab6baa8bcdc59462",
+  "active": "019164f04515a081",
   "lastOpenFiles": [
+    "School studies/Physics/Thermal Physics.md",
+    "Excalidraw/Thermocouple.excalidraw.md",
     "School studies/Chemistry/Benzene and its compounds.md",
     "Obsidian help/MathJax.md",
     "School studies/Physics/Circular Motion.md",
@@ -262,7 +274,6 @@
     "School studies/CS/Data Representation.md",
     "Excalidraw/circularmotion.excalidraw.md",
     "conflict-files-obsidian-git.md",
-    "School studies/Physics/Thermal Physics.md",
     "Excalidraw/Drawing 2024-06-17 14.59.33.excalidraw.md",
     "Excalidraw/Drawing 2024-06-15 12.37.01.excalidraw.md",
     "Excalidraw/Hydrogenation of benzene .excalidraw.md",
@@ -281,7 +292,6 @@
     "Excalidraw/floating point representaion .excalidraw.md",
     "Excalidraw/Binary Floating Point  representation .excalidraw.md",
     "README.md",
-    "Excalidraw/Floating point Representation .excalidraw.md",
     "Excalidraw/Pasted image 20230724044538.png",
     "Excalidraw/benzene.png",
     "Excalidraw/Pasted image 20240615073438.png",
