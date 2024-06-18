@@ -34,16 +34,6 @@
             }
           },
           {
-            "id": "61f5e677b873def0",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/circularmotion.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "44738a3d687eb021",
             "type": "leaf",
             "state": {
@@ -160,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/circularmotion.excalidraw.md",
+                "file": "School studies/CS/Data Representation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/circularmotion.excalidraw.md",
+                "file": "School studies/CS/Data Representation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -200,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/circularmotion.excalidraw.md"
+                "file": "School studies/CS/Data Representation.md"
               }
             }
           },
@@ -238,7 +228,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/circularmotion.excalidraw.md"
+                "file": "School studies/CS/Data Representation.md"
               }
             }
           },
@@ -274,7 +264,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "61f5e677b873def0",
+  "active": "44738a3d687eb021",
   "lastOpenFiles": [
     "School studies/Physics/Circular Motion.md",
     "Excalidraw/circularmotion.excalidraw.md",

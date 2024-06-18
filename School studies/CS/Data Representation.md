@@ -116,8 +116,8 @@ $M= \frac{32+8+4+1}{64}$
 $M = \frac{45}{64}$
 $M = 0.703125$
 - Add Exponents values when 1 bit appears
-	- E=4
-	- M x  2<sup>E</sup>
+	- $E=4$
+	- $M x  2^E$
 M = 0.703125 x 2<sup>4</sup>
 =11.02
 
