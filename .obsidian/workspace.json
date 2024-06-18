@@ -232,7 +232,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348.5
+    "width": 348.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -252,7 +253,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "ab6baa8bcdc59462",
+  "active": "9317a1770b4fbb1c",
   "lastOpenFiles": [
     "Excalidraw/Thermocouple.excalidraw.md",
     "School studies/Physics/Thermal Physics.md",
