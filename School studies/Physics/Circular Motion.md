@@ -4,7 +4,8 @@ Circular motion :: An object performing a motion such that the distance of the o
 >[!example] An object performing circular motion moves from point A to B, covering an arc length S ![[circularmotion.excalidraw|350]]
 
 Theta = s/r
-W
+Where s = displacement and r = 
 
  For one complete revolution:
  1. Total angle = 360 degrees
+ 2. Total radians = 2pi
