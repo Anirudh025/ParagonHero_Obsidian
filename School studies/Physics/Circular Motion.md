@@ -3,3 +3,5 @@ There is continuous change in velocity therefore there constant acceleration, th
 Circular motion :: An object performing a motion such that the distance of the object from the fixed point remains constant
 >[!example] An object performing circular motion moves from point A to B, covering an arc length S ![[circularmotion.excalidraw|350]]
 
+
+
