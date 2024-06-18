@@ -17,4 +17,4 @@ Where s = displacement and r = angle
 1 radian is the angle subtended at the centre of the circle where the arc length is equal to the radius of the circle.
 
 If theta = s/r 
-- Linear
+- Linear velocity = v
