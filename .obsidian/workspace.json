@@ -57,7 +57,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-18 07.59.10.excalidraw.md",
+                "file": "School studies/Physics/Circular Motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-18 07.59.10.excalidraw.md",
+                "file": "School studies/Physics/Circular Motion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-18 07.59.10.excalidraw.md"
+                "file": "School studies/Physics/Circular Motion.md"
               }
             }
           },
@@ -217,7 +217,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-18 07.59.10.excalidraw.md"
+                "file": "School studies/Physics/Circular Motion.md"
               }
             }
           },
@@ -263,10 +263,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "61f5e677b873def0",
+  "active": "ab6baa8bcdc59462",
   "lastOpenFiles": [
-    "School studies/Physics/Circular Motion.md",
     "Excalidraw/Drawing 2024-06-18 07.59.10.excalidraw.md",
+    "School studies/Physics/Circular Motion.md",
     "School studies/CS/Data Representation.md",
     "Obsidian help/MathJax.md",
     "School studies/Physics/Thermal Physics.md",
