@@ -4,7 +4,7 @@ Circular motion :: An object performing a motion such that the distance of the o
 >[!example] An object performing circular motion moves from point A to B, covering an arc length S ![[circularmotion.excalidraw|350]]
 >This is measured in radians
 
-
+# Angular Displacement
 Theta = s/r
 Where s = displacement and r = angle
 
@@ -14,4 +14,4 @@ Where s = displacement and r = angle
 2pi = 360
 1 radian (rad) = 360/2pi = 57.3 degree
 
-1 radian is the angle subtended at the centre of the circle 
+1 radian is the angle subtended at the centre of the circle where the arc length is equal to the radius of the circle.
