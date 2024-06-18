@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ab2945066689e80e",
+        "id": "f81612b4ee071765",
         "type": "tabs",
         "children": [
           {
-            "id": "16de87b098e9fc0b",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md",
-                "staged": false
-              }
-            }
-          },
-          {
-            "id": "5edfbb44c27e1b16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "07c826529a02cd15",
+            "id": "2883a0fd109de03a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -45,7 +21,7 @@
             }
           },
           {
-            "id": "8fa1bb14e5391570",
+            "id": "1b0196456f76ae1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -54,35 +30,11 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "c10a2ddd7a2bd5b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School studies/Physics/Thermal Physics.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4468a4c4c2891635",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "School studies/Physics/Thermal Physics.md",
-                "staged": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "School studies/Physics/Thermal Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "School studies/Physics/Thermal Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -201,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "School studies/Physics/Thermal Physics.md"
+              }
             }
           },
           {
@@ -237,7 +193,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "School studies/Physics/Thermal Physics.md"
+              }
             }
           },
           {
@@ -281,14 +239,15 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "4468a4c4c2891635",
+  "active": "9b05b26a481f2902",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "School studies/Physics/Thermal Physics.md",
-    "A Level A Class Timetable.png",
-    "School studies/CS/Data Representation.md",
-    "School studies/Physics/Circular Motion.md",
     "School studies/Chemistry/Benzene and its compounds.md",
+    "School studies/Physics/Circular Motion.md",
+    "A Level A Class Timetable.png",
+    "Excalidraw/Thermocouple.excalidraw.md",
+    "School studies/CS/Data Representation.md",
     "Excalidraw/circularmotion.excalidraw.md",
     "README.md",
     "Obsidian help/Obsidian-formatting.md",
@@ -322,7 +281,6 @@
     "Excalidraw/procedure.excalidraw.md",
     "Excalidraw/resolving-vectors.excalidraw.md",
     "Excalidraw/Untitled.canvas",
-    "Excalidraw/SQL.excalidraw.md",
     "Physics",
     "School studies/Chemistry/Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
     "School studies/A LEVEL/CS/text Cambridge International AS and A Levels Computer Science.pdf",
