@@ -11,9 +11,11 @@ Benzene %% #benzene %%:
 		- 1-chlorobenzene![[chloro benzene.excalidraw|200]]
 	3. When Benzyl substituent is present it's structure is %% #benzyl %%:
 		- benzyl R ![[benzyl.excalidraw|200]]
-2.  When other functional groups are present benzene becomes the substituent:![[naming benzene compunds with other functional groups.excalidraw]]
-- Some benzene examples: ![[somebenzenecompunds.excalidraw|500]]
-- Special benzene compounds: ![[benzenecoumpounds with special names.excalidraw|500]]
+2.  When other functional groups are present benzene becomes the substituent:
+	![[naming benzene compunds with other functional groups.excalidraw]]
+	- Some benzene examples: ![[somebenzenecompunds.excalidraw|500]]
+3. Special benzene compounds: 
+	![[benzenecoumpounds with special names.excalidraw|500]]
 ### Reacting Benzene
 - By using Cl₂ with a catalyst of AlCl₃ we can create Chlorobenzene ![[benzne+cl2 (alcl3).excalidraw|550]]
 - Benzene reacts with NO₂ to form Nitrobenzene: ![[Reaction mechanism no2+benzene.excalidraw|600]]
