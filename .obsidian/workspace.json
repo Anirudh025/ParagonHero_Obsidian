@@ -26,8 +26,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md",
-                "mode": "preview",
+                "file": "School studies/Physics/Thermal Physics.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -105,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.50418853759766,
-    "collapsed": true
+    "width": 226.50418853759766
   },
   "right": {
     "id": "d967d98868519a35",
@@ -138,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md",
+                "file": "School studies/Physics/Thermal Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md",
+                "file": "School studies/Physics/Thermal Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -178,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md"
+                "file": "School studies/Physics/Thermal Physics.md"
               }
             }
           },
@@ -216,7 +215,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md"
+                "file": "School studies/Physics/Thermal Physics.md"
               }
             }
           },
@@ -255,14 +254,14 @@
   },
   "active": "ab6baa8bcdc59462",
   "lastOpenFiles": [
+    "School studies/Chemistry/Benzene and its compounds.md",
+    "Obsidian help/MathJax.md",
     "School studies/Physics/Circular Motion.md",
     "obsidian format/Ascii symbols.md",
-    "Obsidian help/MathJax.md",
     "School studies/CS/Data Representation.md",
     "Excalidraw/circularmotion.excalidraw.md",
     "conflict-files-obsidian-git.md",
     "School studies/Physics/Thermal Physics.md",
-    "School studies/Chemistry/Benzene and its compounds.md",
     "Excalidraw/Drawing 2024-06-17 14.59.33.excalidraw.md",
     "Excalidraw/Drawing 2024-06-15 12.37.01.excalidraw.md",
     "Excalidraw/Hydrogenation of benzene .excalidraw.md",
