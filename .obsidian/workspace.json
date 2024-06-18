@@ -44,6 +44,19 @@
             }
           },
           {
+            "id": "ea2a7ba5b482d0fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "44738a3d687eb021",
             "type": "leaf",
             "state": {
@@ -70,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -139,6 +152,14 @@
         "type": "tabs",
         "children": [
           {
+            "id": "9317a1770b4fbb1c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
             "id": "acb0b20ef808921c",
             "type": "leaf",
             "state": {
@@ -152,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/circularmotion.excalidraw.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/circularmotion.excalidraw.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -192,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/circularmotion.excalidraw.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -230,7 +251,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/circularmotion.excalidraw.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -241,22 +262,12 @@
               "type": "review-queue-list-view",
               "state": {}
             }
-          },
-          {
-            "id": "9317a1770b4fbb1c",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 348.5,
-    "collapsed": true
+    "width": 348.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -276,10 +287,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "61f5e677b873def0",
+  "active": "9317a1770b4fbb1c",
   "lastOpenFiles": [
-    "School studies/Physics/Circular Motion.md",
     "Excalidraw/circularmotion.excalidraw.md",
+    "conflict-files-obsidian-git.md",
+    "School studies/Physics/Circular Motion.md",
     "obsidian format/Ascii symbols.md",
     "School studies/CS/Data Representation.md",
     "Obsidian help/MathJax.md",
@@ -303,7 +315,6 @@
     "Excalidraw/floating point representaion .excalidraw.md",
     "Excalidraw/Binary Floating Point  representation .excalidraw.md",
     "README.md",
-    "conflict-files-obsidian-git.md",
     "Excalidraw/Floating point Representation .excalidraw.md",
     "Excalidraw/Pasted image 20230724044538.png",
     "Excalidraw/benzene.png",
