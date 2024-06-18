@@ -37,10 +37,10 @@ Thermocouple Graph ^51zHWf1i
 		{
 			"id": "irAj_dJJnIcLTrhgF7_GQ",
 			"type": "rectangle",
-			"x": -133.33331298828125,
-			"y": -137.90625,
-			"width": 151.33331298828125,
-			"height": 61.33331298828125,
+			"x": -110,
+			"y": -138.57290649414062,
+			"width": 97.33328247070311,
+			"height": 42.6666259765625,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -55,19 +55,19 @@ Thermocouple Graph ^51zHWf1i
 				"type": 3
 			},
 			"seed": 1937672263,
-			"version": 65,
-			"versionNonce": 474506601,
+			"version": 222,
+			"versionNonce": 1084023593,
 			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1718683604703,
+			"updated": 1718684552737,
 			"link": null,
 			"locked": false
 		},
 		{
 			"id": "ngixxmK8",
 			"type": "text",
-			"x": -104,
-			"y": -112.57293701171875,
+			"x": -106.66668701171875,
+			"y": -129.23959350585938,
 			"width": 92.41990661621094,
 			"height": 25,
 			"angle": 0,
@@ -82,11 +82,11 @@ Thermocouple Graph ^51zHWf1i
 			"frameId": null,
 			"roundness": null,
 			"seed": 1025970697,
-			"version": 10,
-			"versionNonce": 1250844455,
+			"version": 24,
+			"versionNonce": 1061721609,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1718683608372,
+			"updated": 1718684552737,
 			"link": null,
 			"locked": false,
 			"text": "Voltmeter",
@@ -103,10 +103,10 @@ Thermocouple Graph ^51zHWf1i
 		{
 			"id": "NhuVfdJ23Aam-0gUQ_dS5",
 			"type": "line",
-			"x": -136,
-			"y": -107.90625,
-			"width": 112,
-			"height": 158.66665649414062,
+			"x": -110,
+			"y": -115.90625,
+			"width": 138,
+			"height": 166.66665649414062,
 			"angle": 0,
 			"strokeColor": "#78b2e8",
 			"backgroundColor": "transparent",
@@ -121,11 +121,11 @@ Thermocouple Graph ^51zHWf1i
 				"type": 2
 			},
 			"seed": 27263335,
-			"version": 98,
-			"versionNonce": 245458345,
+			"version": 122,
+			"versionNonce": 1356405961,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1718683680680,
+			"updated": 1718684557570,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -134,12 +134,12 @@ Thermocouple Graph ^51zHWf1i
 					0
 				],
 				[
-					-80,
-					66.66665649414062
+					-106,
+					74.66665649414062
 				],
 				[
-					-112,
-					158.66665649414062
+					-138,
+					166.66665649414062
 				]
 			],
 			"lastCommittedPoint": null,
@@ -150,8 +150,8 @@ Thermocouple Graph ^51zHWf1i
 		},
 		{
 			"type": "line",
-			"version": 146,
-			"versionNonce": 852485479,
+			"version": 164,
+			"versionNonce": 1893856167,
 			"isDeleted": false,
 			"id": "bHe6wMBowGDddFvZGqbMj",
 			"fillStyle": "hachure",
@@ -160,12 +160,12 @@ Thermocouple Graph ^51zHWf1i
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 19.08313882380725,
-			"y": -106.51102481923996,
+			"x": -10.916861176192754,
+			"y": -115.84436832509934,
 			"strokeColor": "#78b2e8",
 			"backgroundColor": "transparent",
-			"width": 112,
-			"height": 158.66665649414062,
+			"width": 142,
+			"height": 168,
 			"seed": 1338605095,
 			"groupIds": [],
 			"frameId": null,
@@ -173,7 +173,7 @@ Thermocouple Graph ^51zHWf1i
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1718683680681,
+			"updated": 1718684561586,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -187,12 +187,12 @@ Thermocouple Graph ^51zHWf1i
 					0
 				],
 				[
-					80,
-					66.66665649414062
+					110,
+					76
 				],
 				[
-					112,
-					158.66665649414062
+					142,
+					168
 				]
 			]
 		},
@@ -536,11 +536,11 @@ Thermocouple Graph ^51zHWf1i
 			"frameId": null,
 			"roundness": null,
 			"seed": 1634843337,
-			"version": 12,
-			"versionNonce": 1647048457,
+			"version": 14,
+			"versionNonce": 568280393,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1718683811000,
+			"updated": 1718684528243,
 			"link": null,
 			"locked": false,
 			"text": "V/V",
@@ -692,8 +692,8 @@ Thermocouple Graph ^51zHWf1i
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 245.66668701171875,
-		"scrollY": 344.76043701171875,
+		"scrollX": 404.3333740234375,
+		"scrollY": 382.0937805175781,
 		"zoom": {
 			"value": 1
 		},
