@@ -19,19 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6774f459b7a50f58",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/naming benzene compunds with other functional groups.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/naming benzene compunds with other functional groups.excalidraw.md",
+                "file": "School studies/Chemistry/Benzene and its compounds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/naming benzene compunds with other functional groups.excalidraw.md",
+                "file": "School studies/Chemistry/Benzene and its compounds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -161,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/naming benzene compunds with other functional groups.excalidraw.md"
+                "file": "School studies/Chemistry/Benzene and its compounds.md"
               }
             }
           },
@@ -199,7 +188,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/naming benzene compunds with other functional groups.excalidraw.md"
+                "file": "School studies/Chemistry/Benzene and its compounds.md"
               }
             }
           },
@@ -236,8 +225,9 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "6774f459b7a50f58",
+  "active": "ab6baa8bcdc59462",
   "lastOpenFiles": [
+    "Excalidraw/naming benzene compunds with other functional groups.excalidraw.md",
     "School studies/Chemistry/Benzene and its compounds.md",
     "School studies/Physics/Circular Motion.md",
     "School studies/CS/Data Representation.md",
@@ -264,7 +254,6 @@
     "Excalidraw/Friedel craft Acylation of benzene.excalidraw.md",
     "Excalidraw/floating point representaion .excalidraw.md",
     "Excalidraw/Binary Floating Point  representation .excalidraw.md",
-    "README.md",
     "Excalidraw/Pasted image 20230724044538.png",
     "Excalidraw/benzene.png",
     "Excalidraw/Pasted image 20240615073438.png",
