@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Obsidian help/MathJax.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -46,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian help/MathJax.md",
+                "file": "School studies/Physics/Circular Motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian help/MathJax.md",
+                "file": "School studies/Physics/Circular Motion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian help/MathJax.md"
+                "file": "School studies/Physics/Circular Motion.md"
               }
             }
           },
@@ -214,7 +215,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Obsidian help/MathJax.md"
+                "file": "School studies/Physics/Circular Motion.md"
               }
             }
           },
@@ -250,14 +251,14 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "3904dd075f5868a2",
+  "active": "ab6baa8bcdc59462",
   "lastOpenFiles": [
     "obsidian format/Ascii symbols.md",
+    "Obsidian help/MathJax.md",
     "School studies/Physics/Circular Motion.md",
     "School studies/CS/Data Representation.md",
     "Excalidraw/circularmotion.excalidraw.md",
     "conflict-files-obsidian-git.md",
-    "Obsidian help/MathJax.md",
     "School studies/Physics/Thermal Physics.md",
     "School studies/Chemistry/Benzene and its compounds.md",
     "Excalidraw/Drawing 2024-06-17 14.59.33.excalidraw.md",
