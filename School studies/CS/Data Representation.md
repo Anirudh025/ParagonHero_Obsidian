@@ -118,6 +118,6 @@ $M = 0.703125$
 - Add Exponents values when 1 bit appears
 	- $E=4$
 	- $M x  2^E$
-M = 0.703125 x 2<sup>4</sup>
+$M = {0.703125}  x  {2^4}$
 =11.02
 
