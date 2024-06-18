@@ -111,13 +111,13 @@ using 8 bits for Mantissa & 8 bits for exponent
 | Header | -128 | 64  | 32  | 16  | 8   | 4   | 2   | 1   |
 | ------ | ---- | --- | --- | --- | --- | --- | --- | --- |
 | Binary | 0    | 0   | 0   | 0   | 0   | 1   | 0   | 0   |
-M = $\frac{(1/2) + 1/8 +1/16 + 1/64 $
-M = (32+8+4+1)/64
-M = 45/64
-M = 0.703125
+$M= \frac{1} 2+ \frac{1} 8 +\frac{1}{16} + \frac {1}{64}$
+$M= \frac{32+8+4+1}{64}$
+$M = \frac{45}{64}$
+$M = 0.703125$
 - Add Exponents values when 1 bit appears
-	- E=4
-	- M x  2<sup>E</sup>
-M = 0.703125 x 2<sup>4</sup>
-=11.02
+	- $E=4$
+	- $M x  2^E$
+$M = {0.703125}  x  {2^4}$
+$=11.02$
 

@@ -17,8 +17,48 @@
                 "staged": false
               }
             }
+          },
+          {
+            "id": "5edfbb44c27e1b16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School studies/Chemistry/Benzene and its compounds.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "07c826529a02cd15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School studies/Physics/Thermal Physics.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "77f27bb1d8b2babc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -100,6 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -137,7 +179,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           },
           {
@@ -173,7 +217,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           },
           {
@@ -197,8 +243,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,15 +263,18 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "9b05b26a481f2902",
+  "active": "77f27bb1d8b2babc",
   "lastOpenFiles": [
+    "School studies/Physics/Thermal Physics.md",
+    "conflict-files-obsidian-git.md",
+    "School studies/CS/Data Representation.md",
+    "School studies/Physics/Circular Motion.md",
+    "A Level A Class Timetable.png",
+    "School studies/Chemistry/Benzene and its compounds.md",
+    "Excalidraw/circularmotion.excalidraw.md",
     "README.md",
     "Obsidian help/Obsidian-formatting.md",
     "Obsidian help/WhatsApp Image 2024-06-12 at 08.04.42_289c3eb2.jpg",
-    "School studies/Chemistry/Benzene and its compounds.md",
-    "School studies/Physics/Thermal Physics.md",
-    "School studies/CS/Data Representation.md",
-    "A Level A Class Timetable.png",
     "Excalidraw/File access.excalidraw.md",
     "Excalidraw/File Organization.excalidraw.md",
     "Excalidraw/Drawing 2024-06-17 14.59.33.excalidraw.md",
@@ -257,9 +305,6 @@
     "Excalidraw/resolving-vectors.excalidraw.md",
     "Excalidraw/Untitled.canvas",
     "Excalidraw/SQL.excalidraw.md",
-    "Excalidraw/prescisionoraccuracy.excalidraw.md",
-    "Excalidraw/pizza-of-work.excalidraw.md",
-    "Excalidraw/Memory.excalidraw.md",
     "Physics",
     "School studies/Chemistry/Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
     "School studies/A LEVEL/CS/text Cambridge International AS and A Levels Computer Science.pdf",
