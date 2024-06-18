@@ -60,12 +60,17 @@
             "id": "7976cc927804133c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "obsidian format/Ascii symbols.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -147,6 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/Drawing 2024-06-18 07.59.10.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,6 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/Drawing 2024-06-18 07.59.10.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -184,7 +191,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/Drawing 2024-06-18 07.59.10.excalidraw.md"
+              }
             }
           },
           {
@@ -220,7 +229,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/Drawing 2024-06-18 07.59.10.excalidraw.md"
+              }
             }
           },
           {
@@ -265,10 +276,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "7976cc927804133c",
+  "active": "61f5e677b873def0",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-06-18 07.59.10.excalidraw.md",
     "School studies/Physics/Circular Motion.md",
+    "Excalidraw/Drawing 2024-06-18 07.59.10.excalidraw.md",
+    "obsidian format/Ascii symbols.md",
     "School studies/CS/Data Representation.md",
     "Obsidian help/MathJax.md",
     "School studies/Physics/Thermal Physics.md",
@@ -293,7 +305,6 @@
     "README.md",
     "conflict-files-obsidian-git.md",
     "Excalidraw/Floating point Representation .excalidraw.md",
-    "Excalidraw/Drawing 2024-06-15 11.15.11.excalidraw.md",
     "Excalidraw/Pasted image 20230724044538.png",
     "Excalidraw/benzene.png",
     "Excalidraw/Pasted image 20240615073438.png",
