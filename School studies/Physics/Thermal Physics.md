@@ -13,6 +13,8 @@ To calibrate a thermometer :: Use melting and boiling point of ***pure water*** 
 #### Thermocouple Interpolation
 ![[Thermocouple.excalidraw|500]]
 
-$θ=\frac{100(P_θ-P_i)}{(P)}$
+$θ=\frac{100(P_θ-P_i)}{(P_s-P_i)}$
+where 
+- $P_s=$Property of liquid at steam point
 
 
