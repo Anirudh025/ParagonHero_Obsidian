@@ -34,6 +34,16 @@
             }
           },
           {
+            "id": "61f5e677b873def0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-06-18 07.59.10.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "44738a3d687eb021",
             "type": "leaf",
             "state": {
@@ -129,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/CS/Data Representation.md",
+                "file": "Excalidraw/Drawing 2024-06-18 07.59.10.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/CS/Data Representation.md",
+                "file": "Excalidraw/Drawing 2024-06-18 07.59.10.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -169,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/CS/Data Representation.md"
+                "file": "Excalidraw/Drawing 2024-06-18 07.59.10.excalidraw.md"
               }
             }
           },
@@ -207,7 +217,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/CS/Data Representation.md"
+                "file": "Excalidraw/Drawing 2024-06-18 07.59.10.excalidraw.md"
               }
             }
           },
@@ -253,11 +263,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "44738a3d687eb021",
+  "active": "61f5e677b873def0",
   "lastOpenFiles": [
     "School studies/Physics/Circular Motion.md",
-    "Obsidian help/MathJax.md",
+    "Excalidraw/Drawing 2024-06-18 07.59.10.excalidraw.md",
     "School studies/CS/Data Representation.md",
+    "Obsidian help/MathJax.md",
     "School studies/Physics/Thermal Physics.md",
     "School studies/Chemistry/Benzene and its compounds.md",
     "Excalidraw/Drawing 2024-06-17 14.59.33.excalidraw.md",
@@ -281,7 +292,6 @@
     "conflict-files-obsidian-git.md",
     "Excalidraw/Floating point Representation .excalidraw.md",
     "Excalidraw/Drawing 2024-06-15 11.15.11.excalidraw.md",
-    "Excalidraw/File access.excalidraw.md",
     "Excalidraw/Pasted image 20230724044538.png",
     "Excalidraw/benzene.png",
     "Excalidraw/Pasted image 20240615073438.png",
