@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/Physics/Thermal Physics.md",
+                "file": "School studies/CS/Data Representation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -116,6 +116,10 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
+=======
+                "file": "School studies/CS/Data Representation.md",
+>>>>>>> origin/main
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +136,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
+=======
+                "file": "School studies/CS/Data Representation.md",
+>>>>>>> origin/main
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -154,7 +162,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "conflict-files-obsidian-git.md"
+=======
+                "file": "School studies/CS/Data Representation.md"
+>>>>>>> origin/main
               }
             }
           },
@@ -192,7 +204,11 @@
             "state": {
               "type": "file-properties",
               "state": {
+<<<<<<< HEAD
                 "file": "conflict-files-obsidian-git.md"
+=======
+                "file": "School studies/CS/Data Representation.md"
+>>>>>>> origin/main
               }
             }
           },
@@ -240,7 +256,11 @@
   "active": "9b05b26a481f2902",
   "lastOpenFiles": [
     "School studies/Physics/Thermal Physics.md",
+<<<<<<< HEAD
     "conflict-files-obsidian-git.md",
+=======
+    "Excalidraw/Thermocouple.excalidraw.md",
+>>>>>>> origin/main
     "School studies/Chemistry/Benzene and its compounds.md",
     "School studies/Physics/Circular Motion.md",
     "A Level A Class Timetable.png",
