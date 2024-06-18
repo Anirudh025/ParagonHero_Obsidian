@@ -55,9 +55,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7976cc927804133c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -139,7 +147,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-18 07.59.10.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +163,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-18 07.59.10.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -178,9 +184,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-06-18 07.59.10.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -216,9 +220,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-06-18 07.59.10.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -263,10 +265,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "61f5e677b873def0",
+  "active": "7976cc927804133c",
   "lastOpenFiles": [
-    "School studies/Physics/Circular Motion.md",
     "Excalidraw/Drawing 2024-06-18 07.59.10.excalidraw.md",
+    "School studies/Physics/Circular Motion.md",
     "School studies/CS/Data Representation.md",
     "Obsidian help/MathJax.md",
     "School studies/Physics/Thermal Physics.md",
