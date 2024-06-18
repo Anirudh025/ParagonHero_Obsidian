@@ -24,6 +24,8 @@ V/V ^KEnJLnB3
 
 T/°C ^8LIwrZi9
 
+Thermocouple Graph ^51zHWf1i
+
 %%
 # Drawing
 ```json
@@ -636,6 +638,43 @@ T/°C ^8LIwrZi9
 			"endBinding": null,
 			"startArrowhead": null,
 			"endArrowhead": null
+		},
+		{
+			"id": "51zHWf1i",
+			"type": "text",
+			"x": 195.3333740234375,
+			"y": -145.23959350585938,
+			"width": 195.2398223876953,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 914243399,
+			"version": 89,
+			"versionNonce": 56270857,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1718683867681,
+			"link": null,
+			"locked": false,
+			"text": "Thermocouple Graph",
+			"rawText": "Thermocouple Graph",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 17,
+			"containerId": null,
+			"originalText": "Thermocouple Graph",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {

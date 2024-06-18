@@ -57,7 +57,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Thermocouple.excalidraw.md",
+                "file": "School studies/Physics/Thermal Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Thermocouple.excalidraw.md",
+                "file": "School studies/Physics/Thermal Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Thermocouple.excalidraw.md"
+                "file": "School studies/Physics/Thermal Physics.md"
               }
             }
           },
@@ -226,7 +226,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Thermocouple.excalidraw.md"
+                "file": "School studies/Physics/Thermal Physics.md"
               }
             }
           },
@@ -263,10 +263,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "019164f04515a081",
+  "active": "ab6baa8bcdc59462",
   "lastOpenFiles": [
-    "School studies/Physics/Thermal Physics.md",
     "Excalidraw/Thermocouple.excalidraw.md",
+    "School studies/Physics/Thermal Physics.md",
     "School studies/Chemistry/Benzene and its compounds.md",
     "Obsidian help/MathJax.md",
     "School studies/Physics/Circular Motion.md",
