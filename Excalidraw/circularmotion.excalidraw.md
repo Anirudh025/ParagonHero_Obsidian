@@ -366,10 +366,10 @@ S ^wsZBaoCL
 			"type": "arrow",
 			"x": -137.43187988001603,
 			"y": -221.35683807329934,
-			"width": 177.70410022006456,
-			"height": 87.31479880644838,
+			"width": 167.25088142791333,
+			"height": 96.53822218524621,
 			"angle": 0,
-			"strokeColor": "#1e1e1e",
+			"strokeColor": "#f08c00",
 			"backgroundColor": "transparent",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -382,11 +382,11 @@ S ^wsZBaoCL
 				"type": 2
 			},
 			"seed": 172293344,
-			"version": 79,
-			"versionNonce": 1123085600,
+			"version": 174,
+			"versionNonce": 666543392,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1718680861920,
+			"updated": 1718680871159,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -395,16 +395,20 @@ S ^wsZBaoCL
 					0
 				],
 				[
-					177.70410022006456,
-					87.31479880644838
+					109.4509755089673,
+					-14.14254873707452
+				],
+				[
+					167.25088142791333,
+					82.39567344817169
 				]
 			],
 			"lastCommittedPoint": null,
 			"startBinding": null,
 			"endBinding": {
 				"elementId": "GZjzSjb1",
-				"focus": 1.1185935143384393,
-				"gap": 2.218945031677123
+				"focus": 0.5380063376429013,
+				"gap": 7.1380703899538105
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
@@ -506,7 +510,7 @@ S ^wsZBaoCL
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#1e1e1e",
+		"currentItemStrokeColor": "#f08c00",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "hachure",
 		"currentItemStrokeWidth": 1,
