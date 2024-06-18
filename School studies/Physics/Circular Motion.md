@@ -15,3 +15,6 @@ Where s = displacement and r = angle
 1 radian (rad) = 360/2pi = 57.3 degree
 
 1 radian is the angle subtended at the centre of the circle where the arc length is equal to the radius of the circle.
+
+If theta = s/r 
+- Linear
