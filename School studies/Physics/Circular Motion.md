@@ -2,6 +2,27 @@
 There is continuous change in velocity therefore there constant acceleration, thus there is a force required%%
 Circular motion :: An object performing a motion such that the distance of the object from the fixed point remains constant
 >[!example] An object performing circular motion moves from point A to B, covering an arc length S ![[circularmotion.excalidraw|350]]
+>This is measured in radians
+
+<<<<<<< HEAD
 
 
+=======
+# Angular Displacement
+Theta = s/r
+Where s = displacement and r = angle
 
+ For one complete revolution:
+ 1. Total angle = 360 degrees
+ 2. Total radians = 2pi
+2pi = 360
+1 radian (rad) = 360/2pi = 57.3 degree
+
+1 radian is the angle subtended at the centre of the circle where the arc length is equal to the radius of the circle.
+
+If theta = s/r 
+- Linear velocity = v = 2pi r/T, where 'T' is time period.
+- Angular velocity= w = 2pi/T
+- v = (2pi/T) * r
+- v = wr
+>>>>>>> origin/main
