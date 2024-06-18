@@ -1,1 +1,1 @@
-The object performing the mot
+The object performing the motion is always equidistant to the fixed point, r represents this distance from the centre of the circle

@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Physics/Circular Motion.md",
+                "file": "School studies/CS/Data Representation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Physics/Circular Motion.md",
+                "file": "School studies/CS/Data Representation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/Physics/Circular Motion.md"
+                "file": "School studies/CS/Data Representation.md"
               }
             }
           },
@@ -207,7 +207,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/Physics/Circular Motion.md"
+                "file": "School studies/CS/Data Representation.md"
               }
             }
           },
@@ -253,12 +253,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "ab6baa8bcdc59462",
+  "active": "44738a3d687eb021",
   "lastOpenFiles": [
+    "School studies/Physics/Circular Motion.md",
     "School studies/CS/Data Representation.md",
     "Obsidian help/MathJax.md",
     "School studies/Physics/Thermal Physics.md",
-    "School studies/Physics/Circular Motion.md",
     "School studies/Chemistry/Benzene and its compounds.md",
     "Excalidraw/Drawing 2024-06-17 14.59.33.excalidraw.md",
     "Excalidraw/Drawing 2024-06-15 12.37.01.excalidraw.md",
