@@ -19,15 +19,15 @@ Benzene %% #benzene %%:
 ### Reacting Benzene
 1. By using Cl₂ with a catalyst of AlCl₃ we can create Chlorobenzene %% #chlorination%%
 	- ![[benzne+cl2 (alcl3).excalidraw|550]]
-2. Benzene reacts with NO₂ to form Nitrobenzene: 
+2. Benzene reacts with NO₂ to form Nitrobenzene: %% #nitration%%
 	- ![[Reaction mechanism no2+benzene.excalidraw|600]]
-3. Benzene reacts with  CH₃Cl to form methyl-benzene: %%
+3. Benzene reacts with  CH₃Cl to form methyl-benzene: %% #alkylation%%
 	- ![[Friedel Craft Alkylation of benzene.excalidraw|550]]
-4. Benzene reacts with Ch₃C(O)Cl to form Phenylehtanone: 
+4. Benzene reacts with Ch₃C(O)Cl to form Phenylehtanone: %% #acylation%%
 	- ![[Friedel craft Acylation of benzene.excalidraw|650]]
 5. Site Change Reaction of benzene: 
 	- ![[Site change electrophyllic reaction.excalidraw|500]]
-6. Oxidation of Benzene: 
+6. Oxidation of Benzene: %% #oxi
 	- ![[Oxidation of benzene.excalidraw|500]]
 7. Hydrogenation of Benzene: 
 	- ![[Hydrogenation of benzene .excalidraw|500]]
