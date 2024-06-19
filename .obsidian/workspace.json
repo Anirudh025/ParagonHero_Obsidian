@@ -24,8 +24,13 @@
             "id": "17f64b71a70a2dcd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "obsidian format/MathJax.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -119,6 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "obsidian format/MathJax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,6 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "obsidian format/MathJax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -156,7 +163,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "obsidian format/MathJax.md"
+              }
             }
           },
           {
@@ -192,7 +201,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "obsidian format/MathJax.md"
+              }
             }
           },
           {
