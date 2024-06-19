@@ -21,3 +21,4 @@ If theta = s/r
 - Angular velocity= w = 2pi/T
 - v = (2pi/T) * r
 - v = wr
+![[Thermocouple.excalidraw]]
