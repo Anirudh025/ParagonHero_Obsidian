@@ -141,8 +141,9 @@ $=11.02$
 >$E=3$
 >$M \times 2^E$
 >$\frac{5}{16} \times 2^3$
->answer = 
->2.5
+>$\
+>$=2.5$
+
 
 >[!question]- Mantissa question
 >Mantissa:
