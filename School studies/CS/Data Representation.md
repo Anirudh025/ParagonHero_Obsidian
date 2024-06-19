@@ -167,7 +167,7 @@ using 8 bits for Mantissa & 8 bits for exponent
 >$M= - 1 + \frac{1}{2} + \frac{1}{16} + \frac{1}{32}$ 
 >$M = -1  + \frac{16+2+1}{32}$
 >$M=-1 +\frac{19}{32}$
->$M = -1 \frac{-13}{32}$
+>$M = \frac{-13}{32}$
 >$E = -128+64+32+16+8+4$
 >$E = -4$
 >$M \times 2^E$
