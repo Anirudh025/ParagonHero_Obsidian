@@ -209,8 +209,17 @@
               "type": "review-queue-list-view",
               "state": {}
             }
+          },
+          {
+            "id": "8f13c2750f67f161",
+            "type": "leaf",
+            "state": {
+              "type": "mathpad-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 11
       }
     ],
     "direction": "horizontal",
@@ -231,10 +240,11 @@
       "meld-encrypt:New encrypted note": false,
       "meld-encrypt:Convert to or from an Encrypted note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "mathpad:Open Mathpad": false
     }
   },
-  "active": "9317a1770b4fbb1c",
+  "active": "8f13c2750f67f161",
   "lastOpenFiles": [
     "0 Help.md/MathJax symbol reference.pdf",
     "School studies/CS/Data Representation.md",
