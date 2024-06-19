@@ -151,7 +151,6 @@ using 8 bits for Mantissa & 8 bits for exponent
 >$\frac{5}{16} \times 8$
 >$=2.5$
 
-
 >[!question]- Mantissa question 2
 >Mantissa:
 >
