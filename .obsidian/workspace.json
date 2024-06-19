@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Excalidraw example.excalidraw.md"
+                "file": "0 Help.md/Excalidraw example.excalidraw.md"
               }
             }
           }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Excalidraw example.excalidraw.md"
+                "file": "0 Help.md/Excalidraw example.excalidraw.md"
               }
             }
           },
@@ -150,7 +150,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Excalidraw example.excalidraw.md"
+                "file": "0 Help.md/Excalidraw example.excalidraw.md"
               }
             }
           },
@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Excalidraw example.excalidraw.md",
+                "file": "0 Help.md/Excalidraw example.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Excalidraw example.excalidraw.md",
+                "file": "0 Help.md/Excalidraw example.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -243,7 +243,8 @@
   },
   "active": "c04cd6417c434135",
   "lastOpenFiles": [
-    "Excalidraw/Excalidraw example.excalidraw.md",
+    "Excalidraw/Pasted Image 20240619103445_600.png",
+    "0 Help.md/Excalidraw example.excalidraw.md",
     "School studies/CS/Data Representation.md",
     "0 Help.md/MathJax symbol reference.pdf",
     "conflict-files-obsidian-git.md",
@@ -270,7 +271,6 @@
     "Excalidraw/bonding benzene.excalidraw.md",
     "Excalidraw/benzyl.excalidraw.md",
     "Excalidraw/benzne+cl2 (alcl3).excalidraw.md",
-    "Excalidraw/benzenesigmapi.excalidraw.md",
     "Excalidraw/benzene Double bond.png",
     "Excalidraw/Pasted image 20230724044538.png",
     "Excalidraw/benzene.png",

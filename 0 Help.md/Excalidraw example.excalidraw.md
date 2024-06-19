@@ -8,6 +8,10 @@ tags: [excalidraw]
 
 
 # Text Elements
+
+# Embedded files
+f527dfa0e921692fddd46737b67d83270dece671: [[Pasted Image 20240619103445_600.png]]
+
 %%
 # Drawing
 ```json
@@ -15,7 +19,41 @@ tags: [excalidraw]
 	"type": "excalidraw",
 	"version": 2,
 	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.19",
-	"elements": [],
+	"elements": [
+		{
+			"id": "osrnygX_PvsdLkTBuNNZ7",
+			"type": "image",
+			"x": -366.80249677651113,
+			"y": -291.9062805175781,
+			"width": 239.1051156233347,
+			"height": 635.292232772679,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 923034182,
+			"version": 201,
+			"versionNonce": 2063862810,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1718773499543,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "f527dfa0e921692fddd46737b67d83270dece671",
+			"scale": [
+				1,
+				1
+			]
+		}
+	],
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "#ffffff",
