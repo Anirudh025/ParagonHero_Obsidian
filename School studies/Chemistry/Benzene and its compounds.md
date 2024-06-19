@@ -17,7 +17,7 @@ Benzene %% #benzene %%:
 3. Special benzene compounds: 
 	![[benzenecoumpounds with special names.excalidraw|500]]
 ### Reacting Benzene
-1. By using Cl₂ with a catalyst of AlCl₃ we can create Chlorobenzene 
+1. By using Cl₂ with a catalyst of AlCl₃ we can create Chlorobenzene %% #chlorination
 	- ![[benzne+cl2 (alcl3).excalidraw|550]]
 2. Benzene reacts with NO₂ to form Nitrobenzene: 
 	- ![[Reaction mechanism no2+benzene.excalidraw|600]]
