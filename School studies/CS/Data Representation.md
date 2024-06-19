@@ -104,7 +104,7 @@ using 8 bits for Mantissa & 8 bits for exponent
 | Binary | 0    | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
 
 ##### Convert Binary to floating point number into denary
->[!example]- Mantissa Solving:
+>[!example]- Mantissa Solving Example:
 >Mantissa:
 >
 >| Header | -1  | 1/2 | 1/4 | 1/8 | 1/16 | 1/32 | 1/64 | 1/128 |
@@ -126,6 +126,7 @@ using 8 bits for Mantissa & 8 bits for exponent
 >	- $M \times 2^E$
 >$M = {0.703125}  x  {2^4}$
 >$=11.02$
+
 
 
 >[!question]- Mantissa question 1
