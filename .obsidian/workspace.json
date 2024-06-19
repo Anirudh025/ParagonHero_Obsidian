@@ -32,19 +32,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e8849768a6377275",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "file:///C:\\Users\\beast\\OneDrive\\Desktop\\Praguns%20work\\ParagonHero_Obsidian/obsidian%20format/MathJax%20symbol%20reference%20.html"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,6 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "obsidian format/MathJax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,6 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "obsidian format/MathJax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -171,7 +163,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "obsidian format/MathJax.md"
+              }
             }
           },
           {
@@ -207,7 +201,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "obsidian format/MathJax.md"
+              }
             }
           },
           {
@@ -242,11 +238,13 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "e8849768a6377275",
+  "active": "17f64b71a70a2dcd",
   "lastOpenFiles": [
+    "obsidian format/MathJax symbol reference.md",
+    "obsidian format/MathJax symbol reference .html",
+    "obsidian format/MathJax.md",
     "School studies/CS/Data Representation.md",
     "conflict-files-obsidian-git.md",
-    "obsidian format/MathJax.md",
     "School studies/Physics/Thermal Physics.md",
     "Excalidraw/File Organization.excalidraw.md",
     "School studies/Chemistry/Benzene and its compounds.md",
@@ -269,8 +267,6 @@
     "Excalidraw/benzenesigmapi.excalidraw.md",
     "Excalidraw/benzenecoumpounds with special names.excalidraw.md",
     "Excalidraw/benzene Double bond.png",
-    "Excalidraw/Friedel Craft Alkylation of benzene.excalidraw.md",
-    "Excalidraw/Friedel craft Acylation of benzene.excalidraw.md",
     "Excalidraw/Pasted image 20230724044538.png",
     "Excalidraw/benzene.png",
     "Excalidraw/Pasted image 20240615073438.png",
@@ -289,7 +285,6 @@
     "cambridge-international-as-amp-a-level-mathematics-pure-mathematics-2-and-3-worked-solutions-manual-with-cambridge-elevate-edition-1108758908-9781108758901_compress.pdf",
     "A Level A Class Timetable.png",
     "Excalidraw/A Level A Class Timetable.png",
-    "Excalidraw/A Level A Class Timetable.png.crdownload",
     "Excalidraw/Untitled.canvas",
     "School studies/AS LEVEL/Chem notes/Organic chem.canvas",
     "School studies/AS LEVEL/CS/Logic gates.canvas",
