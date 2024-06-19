@@ -27,7 +27,7 @@ Benzene %% #benzene %%:
 	- ![[Reaction mechanism no2+benzene.excalidraw|600]]
 3. Benzene reacts with  CH₃Cl to form methyl-benzene: %% #alkylation%%
 	- ![[Friedel Craft Alkylation of benzene.excalidraw|550]]
-4. Benzene reacts with Ch₃C(O)Cl to form Phenylehtanone: %% #acylation%%
+4. Benzene reacts with Ch₃C(O)Cl to form Phenylehtanone: %% #chemiscylation%%
 	- ![[Friedel craft Acylation of benzene.excalidraw|650]]
 5. Site Change Reaction of benzene: 
 	- ![[Site change electrophyllic reaction.excalidraw|500]]
