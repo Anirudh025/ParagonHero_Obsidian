@@ -75,7 +75,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.50418853759766
+    "width": 226.50418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "d967d98868519a35",
@@ -243,6 +244,7 @@
   },
   "active": "c04cd6417c434135",
   "lastOpenFiles": [
+    "Excalidraw/Pasted Image 20240619103650_650.png",
     "Excalidraw/Pasted Image 20240619103533_634.png",
     "Excalidraw/Pasted Image 20240619103445_600.png",
     "0 Help.md/Excalidraw example.excalidraw.md",
@@ -288,7 +290,6 @@
     "School studies/CS/course Cambridge International AS and A Level Computer Science Coursebook.pdf",
     "Obsidian help/WhatsApp Image 2024-06-12 at 08.04.42_289c3eb2.jpg",
     "Obsidian help",
-    "A Level A Class Timetable.png",
     "Excalidraw/Untitled.canvas",
     "School studies/AS LEVEL/Chem notes/Organic chem.canvas",
     "School studies/AS LEVEL/CS/Logic gates.canvas",
