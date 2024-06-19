@@ -135,9 +135,11 @@ $=11.02$
 
 >[!success]- answer
 >
-$M= \frac{1}{4} + \frac{1}{16}$
-$M=\frac{5}{16}$
+>$M= \frac{1}{4} + \frac{1}{16}$
+>$M=\frac{5}{16}$
 >$E=2+1$
+>$E=3$
+>$M \times 2
 >2.5
 
 >[!question]- Mantissa question
