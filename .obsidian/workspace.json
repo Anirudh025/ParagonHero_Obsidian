@@ -72,7 +72,7 @@
       {
         "id": "3a4f977b7dec7d16",
         "type": "tabs",
-        "dimension": 40.89012517385257,
+        "dimension": 60.08344923504868,
         "children": [
           {
             "id": "9317a1770b4fbb1c",
@@ -114,13 +114,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "cb675aca7cd66052",
         "type": "tabs",
-        "dimension": 59.109874826147426,
+        "dimension": 39.91655076495132,
         "children": [
           {
             "id": "40b33ddf6941da5e",
@@ -242,7 +241,7 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "d36e1030c589c405",
+  "active": "9317a1770b4fbb1c",
   "lastOpenFiles": [
     "School studies/Physics/Circular Motion.md",
     "Excalidraw/Thermocouple.excalidraw.md",
