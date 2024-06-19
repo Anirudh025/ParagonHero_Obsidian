@@ -74,11 +74,31 @@
               "state": {}
             }
           }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "aa27626b2258a7df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d341d6136b88c00",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view-list",
+              "state": {
+                "tags": [
+                  "thermalequilibrium"
+                ],
+                "title": "thermalequilibrium"
+              }
+            }
+          }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 226.50418853759766
+    "width": 513.5
   },
   "right": {
     "id": "d967d98868519a35",
@@ -216,9 +236,17 @@
                 "unlinkedCollapsed": false
               }
             }
+          },
+          {
+            "id": "5b80a6b27476c906",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -243,7 +271,7 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "9747f1b0dbdaae7d",
+  "active": "8d341d6136b88c00",
   "lastOpenFiles": [
     "School studies/Chemistry/Benzene and its compounds.md",
     "School studies/Physics/Circular Motion.md",
