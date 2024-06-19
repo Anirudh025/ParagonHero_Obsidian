@@ -8,13 +8,9 @@ Heat :: a form of energy, energy :: the ability to do work
 2. It must have low melting point & high boiling point.
 3. It must be clearly visible/opaque.
 4. It must not stick to the glass tube.
-<<<<<<< HEAD
-<<<<<<< HEAD
 5. It must have high density.
-=======
 ## Thermocouple Interplotation
 
-=======
 To calibrate a thermometer :: Use melting and boiling point of ***pure water*** and mark temperatures uniformly between them
 #### Thermocouple Interpolation
 ![[Thermocouple.excalidraw|500]]
