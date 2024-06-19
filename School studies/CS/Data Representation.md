@@ -137,7 +137,7 @@ $=11.02$
 >
 $M= \frac{1}{4} + \frac{1}{16}$
 $M=\frac{5}{16}$
->
+>$E=2+1$
 >2.5
 
 >[!question]- Mantissa question
