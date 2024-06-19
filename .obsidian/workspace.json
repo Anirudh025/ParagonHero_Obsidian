@@ -11,13 +11,8 @@
             "id": "e8e4f906f1dbb3d1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 Help.md/MathJax.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -142,9 +137,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "0 Help.md/MathJax.md"
-              }
+              "state": {}
             }
           },
           {
@@ -152,9 +145,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "0 Help.md/MathJax.md"
-              }
+              "state": {}
             }
           },
           {
@@ -194,7 +185,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 Help.md/MathJax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +201,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0 Help.md/MathJax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -245,12 +234,12 @@
   },
   "active": "e8e4f906f1dbb3d1",
   "lastOpenFiles": [
+    "0 Help.md/Ascii symbols.md",
+    "0 Help.md/Excalidraw example.excalidraw.md",
+    "0 Help.md/MathJax.md",
     "0 Help.md/MathJax symbol reference.pdf",
     "0 Help.md/Obsidian-formatting.md",
-    "0 Help.md/MathJax.md",
     "0 Help.md/markus-spiske-666905-unsplash.jpg",
-    "0 Help.md/Excalidraw example.excalidraw.md",
-    "0 Help.md/Ascii symbols.md",
     "Excalidraw/ringbenzene.md",
     "Excalidraw/OrthoMetaParabenzene.excalidraw.md",
     "Excalidraw/benzenecoumpounds with special names.excalidraw.md",

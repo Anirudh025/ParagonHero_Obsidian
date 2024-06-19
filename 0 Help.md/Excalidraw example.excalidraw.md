@@ -2,6 +2,7 @@
 excalidraw-plugin: parsed
 tags:
   - obsidian
+aliases:
 ---
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 
