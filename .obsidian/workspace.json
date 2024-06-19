@@ -11,7 +11,7 @@
             "id": "ff575d8b6f403fee",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#excalidraw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -232,7 +233,7 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "ff575d8b6f403fee",
+  "active": "4b0ad9f429b2d16e",
   "lastOpenFiles": [
     "School studies/Physics/Thermal Physics.md",
     "School studies/Physics/Circular Motion.md",
