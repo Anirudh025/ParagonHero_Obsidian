@@ -11,8 +11,13 @@
             "id": "1c4d3b12b52211e0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "School studies/Physics/Circular Motion.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -73,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.50418853759766,
-    "collapsed": true
+    "width": 226.50418853759766
   },
   "right": {
     "id": "d967d98868519a35",
@@ -138,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "School studies/Physics/Circular Motion.md"
+              }
             }
           },
           {
@@ -146,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "School studies/Physics/Circular Motion.md"
+              }
             }
           },
           {
@@ -186,6 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "School studies/Physics/Circular Motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,6 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "School studies/Physics/Circular Motion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }

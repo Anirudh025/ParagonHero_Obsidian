@@ -25,7 +25,21 @@
       "query": "path:\"School studies/Chemistry\"  ",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 15451402
+      }
+    },
+    {
+      "query": "path:\"School studies/Physics\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "tag:#excalidraw  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
       }
     }
   ],
@@ -39,6 +53,6 @@
   "repelStrength": 13.1141868512111,
   "linkStrength": 0.541522491349481,
   "linkDistance": 30,
-  "scale": 0.2713866918495565,
+  "scale": 0.2713866918495563,
   "close": false
 }
