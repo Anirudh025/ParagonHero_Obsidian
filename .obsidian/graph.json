@@ -3,7 +3,7 @@
   "search": "",
   "showTags": false,
   "showAttachments": true,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
@@ -11,7 +11,7 @@
       "query": "path:\"0 Help.md\"  ",
       "color": {
         "a": 1,
-        "rgb": 16777215
+        "rgb": 14720927
       }
     },
     {
