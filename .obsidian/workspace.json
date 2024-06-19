@@ -201,7 +201,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348.5
+    "width": 348.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,7 +222,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "cf73d34b0923bb1a",
+  "active": "9317a1770b4fbb1c",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "obsidian format/MathJax symbol reference.pdf",
