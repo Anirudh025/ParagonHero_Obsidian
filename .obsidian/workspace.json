@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a02a6efb25e08135",
+        "id": "dd1d7a328f05a663",
         "type": "tabs",
         "children": [
           {
-            "id": "1c4d3b12b52211e0",
+            "id": "d36e1030c589c405",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School studies/CS/Data Representation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -74,8 +69,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "aa27626b2258a7df",
@@ -88,9 +82,9 @@
               "type": "tagfolder-view-list",
               "state": {
                 "tags": [
-                  "thermalequilibrium"
+                  "chemistry"
                 ],
-                "title": "thermalequilibrium"
+                "title": "chemistry"
               }
             }
           }
@@ -162,9 +156,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "School studies/CS/Data Representation.md"
-              }
+              "state": {}
             }
           },
           {
@@ -172,9 +164,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "School studies/CS/Data Representation.md"
-              }
+              "state": {}
             }
           },
           {
@@ -214,7 +204,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/CS/Data Representation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +220,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/CS/Data Representation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -271,8 +259,10 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "8d341d6136b88c00",
+  "active": "54c5a6e575f4cd1d",
   "lastOpenFiles": [
+    "School studies/CS/Untitled.md",
+    "School studies/CS/Data Representation.md",
     "School studies/Chemistry/Benzene and its compounds.md",
     "School studies/Physics/Circular Motion.md",
     "School studies/Physics/Thermal Physics.md",
@@ -298,7 +288,6 @@
     "Excalidraw/benzenesigmapi.excalidraw.md",
     "Excalidraw/Drawing 2024-06-17 14.59.33.excalidraw.md",
     "Excalidraw/Drawing 2024-06-19 11.00.17.excalidraw.md",
-    "School studies/CS/Data Representation.md",
     "conflict-files-obsidian-git.md",
     "obsidian format/MathJax symbol reference.md",
     "obsidian format/MathJax symbol reference .html",
@@ -309,7 +298,6 @@
     "Excalidraw/circularmotion.excalidraw.md",
     "Excalidraw/Drawing 2024-06-15 12.37.01.excalidraw.md",
     "Excalidraw/Hydrogenation of benzene .excalidraw.md",
-    "Excalidraw/Site change electrophyllic reaction.excalidraw.md",
     "Excalidraw/benzene Double bond.png",
     "Excalidraw/pngwing.com.png.crdownload",
     "Untitled.pdf",
