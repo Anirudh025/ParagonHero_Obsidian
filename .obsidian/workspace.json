@@ -30,8 +30,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 Help.md/MathJax symbol reference.pdf",
+                "file": "School studies/CS/Data Representation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0 Help.md/MathJax symbol reference.pdf",
+                "file": "School studies/CS/Data Representation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 Help.md/MathJax symbol reference.pdf"
+                "file": "School studies/CS/Data Representation.md"
               }
             }
           },
@@ -200,7 +199,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0 Help.md/MathJax symbol reference.pdf"
+                "file": "School studies/CS/Data Representation.md"
               }
             }
           },
@@ -236,10 +235,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "1be764ff3220b73a",
+  "active": "cf73d34b0923bb1a",
   "lastOpenFiles": [
-    "School studies/CS/Data Representation.md",
     "0 Help.md/MathJax symbol reference.pdf",
+    "School studies/CS/Data Representation.md",
     "conflict-files-obsidian-git.md",
     "0 Help.md/Obsidian-formatting.md",
     "0 Help.md/MathJax.md",
