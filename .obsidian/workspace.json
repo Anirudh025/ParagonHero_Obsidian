@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "School studies/Chemistry/Benzene and its compounds.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "School studies/Chemistry/Benzene and its compounds.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "README.md"
+                "file": "School studies/Chemistry/Benzene and its compounds.md"
               }
             }
           },
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "School studies/Chemistry/Benzene and its compounds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "School studies/Chemistry/Benzene and its compounds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -242,8 +242,9 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "54c5a6e575f4cd1d",
+  "active": "d36e1030c589c405",
   "lastOpenFiles": [
+    "README.md",
     "School studies/Physics/Thermal Physics.md",
     "School studies/Physics/Circular Motion.md",
     "School studies/Chemistry/Benzene and its compounds.md",
@@ -280,7 +281,6 @@
     "Excalidraw/Thermocouple.excalidraw.md",
     "Excalidraw/circularmotion.excalidraw.md",
     "Excalidraw/Drawing 2024-06-15 12.37.01.excalidraw.md",
-    "Excalidraw/Hydrogenation of benzene .excalidraw.md",
     "Excalidraw/benzene Double bond.png",
     "Excalidraw/pngwing.com.png.crdownload",
     "Untitled.pdf",
