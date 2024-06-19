@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.50418853759766
+    "width": 226.50418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "d967d98868519a35",
@@ -253,7 +254,7 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "a3d21c7ad933cefe",
+  "active": "cf73d34b0923bb1a",
   "lastOpenFiles": [
     "0 Help.md/MathJax symbol reference.pdf",
     "School studies/CS/Data Representation.md",
