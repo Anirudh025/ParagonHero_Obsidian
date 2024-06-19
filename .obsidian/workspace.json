@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.50418853759766,
-    "collapsed": true
+    "width": 226.50418853759766
   },
   "right": {
     "id": "d967d98868519a35",
@@ -235,7 +234,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "cf73d34b0923bb1a",
+  "active": "9317a1770b4fbb1c",
   "lastOpenFiles": [
     "0 Help.md/MathJax symbol reference.pdf",
     "School studies/CS/Data Representation.md",
