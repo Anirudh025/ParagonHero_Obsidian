@@ -15,5 +15,6 @@
   "readableLineLength": false,
   "livePreview": true,
   "promptDelete": false,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "useMarkdownLinks": true
 }
