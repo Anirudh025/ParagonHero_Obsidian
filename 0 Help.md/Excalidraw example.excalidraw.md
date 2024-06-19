@@ -24,7 +24,9 @@ Main toolbar ^0GEqb8Dr
 
 1) Click an arrow twice to write in the middle of it
 2) Stick and arrow in an object's borders to attach it
-3) Click the add button to attach other drawings or images ^UztlNw9F
+3) Click the Add button to attach other drawings or images ^UztlNw9F
+
+Add button ^M0ORahqy
 
 
 # Embedded files
@@ -32,6 +34,7 @@ f527dfa0e921692fddd46737b67d83270dece671: [[Pasted Image 20240619103445_600.png]
 ba3c78b41aa40632a462b34d69422674a326aa00: [[Pasted Image 20240619103533_634.png]]
 50b4204935bae7ce96b3667539e9a8d0b6c34595: [[Pasted Image 20240619103650_650.png]]
 1e4dad12866cd5345cf3376ef1ff87c274211f06: [[Pasted Image 20240619104133_108.png]]
+8663e76d93b78caf5bf3ce298ce8009ce4483bc5: [[Pasted Image 20240619105930_233.png]]
 
 %%
 # Drawing
@@ -660,7 +663,7 @@ ba3c78b41aa40632a462b34d69422674a326aa00: [[Pasted Image 20240619103533_634.png]
 			"type": "text",
 			"x": -1065.156001320011,
 			"y": 278.9487742902727,
-			"width": 600.799560546875,
+			"width": 600.5795288085938,
 			"height": 75,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
@@ -674,23 +677,180 @@ ba3c78b41aa40632a462b34d69422674a326aa00: [[Pasted Image 20240619103533_634.png]
 			"frameId": null,
 			"roundness": null,
 			"seed": 1802427412,
-			"version": 281,
-			"versionNonce": 633117356,
+			"version": 289,
+			"versionNonce": 115277996,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1718774175760,
+			"updated": 1718774959300,
 			"link": null,
 			"locked": false,
-			"text": "1) Click an arrow twice to write in the middle of it\n2) Stick and arrow in an object's borders to attach it\n3) Click the add button to attach other drawings or images",
-			"rawText": "1) Click an arrow twice to write in the middle of it\n2) Stick and arrow in an object's borders to attach it\n3) Click the add button to attach other drawings or images",
+			"text": "1) Click an arrow twice to write in the middle of it\n2) Stick and arrow in an object's borders to attach it\n3) Click the Add button to attach other drawings or images",
+			"rawText": "1) Click an arrow twice to write in the middle of it\n2) Stick and arrow in an object's borders to attach it\n3) Click the Add button to attach other drawings or images",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"baseline": 67,
 			"containerId": null,
-			"originalText": "1) Click an arrow twice to write in the middle of it\n2) Stick and arrow in an object's borders to attach it\n3) Click the add button to attach other drawings or images",
+			"originalText": "1) Click an arrow twice to write in the middle of it\n2) Stick and arrow in an object's borders to attach it\n3) Click the Add button to attach other drawings or images",
 			"lineHeight": 1.25
+		},
+		{
+			"id": "L-crxarWqGOwfdEDfUddc",
+			"type": "image",
+			"x": -1020.4123724513215,
+			"y": 367.82055351202746,
+			"width": 50,
+			"height": 52,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1009330836,
+			"version": 73,
+			"versionNonce": 1076492820,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"id": "Js4YmxUXcga7KMxbcGxYZ",
+					"type": "arrow"
+				}
+			],
+			"updated": 1718774945023,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "8663e76d93b78caf5bf3ce298ce8009ce4483bc5",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"id": "Js4YmxUXcga7KMxbcGxYZ",
+			"type": "arrow",
+			"x": -740.0277335916463,
+			"y": 391.7693966610658,
+			"width": 219.48716383713952,
+			"height": 1.025719275841226,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1875457836,
+			"version": 307,
+			"versionNonce": 841927572,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "M0ORahqy"
+				}
+			],
+			"updated": 1718774950418,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-219.48716383713952,
+					-1.025719275841226
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": {
+				"elementId": "L-crxarWqGOwfdEDfUddc",
+				"focus": -0.1242353677395758,
+				"gap": 10.897475022535673
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "M0ORahqy",
+			"type": "text",
+			"x": -908.0581918952446,
+			"y": 377.73088817248413,
+			"width": 110.41990661621094,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1658755372,
+			"version": 66,
+			"versionNonce": 207889068,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1718774949859,
+			"link": null,
+			"locked": false,
+			"text": "Add button",
+			"rawText": "Add button",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"baseline": 17,
+			"containerId": "Js4YmxUXcga7KMxbcGxYZ",
+			"originalText": "Add button",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "fLv1bAwZhoC5UWvcrCymN",
+			"type": "rectangle",
+			"x": -1119.4822449006488,
+			"y": 235.4521982344927,
+			"width": 687.272782759233,
+			"height": 198.787841796875,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "dotted",
+			"roughness": 2,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 3
+			},
+			"seed": 159368620,
+			"version": 75,
+			"versionNonce": 1797526036,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1718774984851,
+			"link": null,
+			"locked": false
 		}
 	],
 	"appState": {
@@ -699,8 +859,8 @@ ba3c78b41aa40632a462b34d69422674a326aa00: [[Pasted Image 20240619103533_634.png]
 		"currentItemStrokeColor": "#1e1e1e",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "hachure",
-		"currentItemStrokeWidth": 1,
-		"currentItemStrokeStyle": "solid",
+		"currentItemStrokeWidth": 4,
+		"currentItemStrokeStyle": "dotted",
 		"currentItemRoughness": 2,
 		"currentItemOpacity": 100,
 		"currentItemFontFamily": 1,
@@ -708,10 +868,10 @@ ba3c78b41aa40632a462b34d69422674a326aa00: [[Pasted Image 20240619103533_634.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1195.925185139122,
-		"scrollY": 212.6217541802802,
+		"scrollX": 1472.815596729484,
+		"scrollY": 449.73723269590516,
 		"zoom": {
-			"value": 0.65
+			"value": 0.5499999999999999
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
