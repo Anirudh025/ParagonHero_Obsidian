@@ -70,29 +70,10 @@
             }
           }
         ]
-      },
-      {
-        "id": "aa27626b2258a7df",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8d341d6136b88c00",
-            "type": "leaf",
-            "state": {
-              "type": "tagfolder-view-list",
-              "state": {
-                "tags": [
-                  "chemistry"
-                ],
-                "title": "chemistry"
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 513.5
+    "width": 200
   },
   "right": {
     "id": "d967d98868519a35",
@@ -101,7 +82,7 @@
       {
         "id": "3a4f977b7dec7d16",
         "type": "tabs",
-        "dimension": 40.214216163583245,
+        "dimension": 40.89012517385257,
         "children": [
           {
             "id": "9317a1770b4fbb1c",
@@ -149,7 +130,7 @@
       {
         "id": "cb675aca7cd66052",
         "type": "tabs",
-        "dimension": 59.78578383641675,
+        "dimension": 59.109874826147426,
         "children": [
           {
             "id": "40b33ddf6941da5e",
@@ -224,21 +205,13 @@
                 "unlinkedCollapsed": false
               }
             }
-          },
-          {
-            "id": "5b80a6b27476c906",
-            "type": "leaf",
-            "state": {
-              "type": "tagfolder-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 348.5
+    "width": 257.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -259,7 +232,7 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "54c5a6e575f4cd1d",
+  "active": "8f13c2750f67f161",
   "lastOpenFiles": [
     "School studies/CS/Untitled.md",
     "School studies/CS/Data Representation.md",
