@@ -11,9 +11,12 @@
             "id": "d36e1030c589c405",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Oxidation of benzene.excalidraw.md"
+                "file": "School studies/CS/Data Representation.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Oxidation of benzene.excalidraw.md"
+                "file": "School studies/CS/Data Representation.md"
               }
             }
           },
@@ -150,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Oxidation of benzene.excalidraw.md"
+                "file": "School studies/CS/Data Representation.md"
               }
             }
           },
@@ -191,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Oxidation of benzene.excalidraw.md",
+                "file": "School studies/CS/Data Representation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Oxidation of benzene.excalidraw.md",
+                "file": "School studies/CS/Data Representation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -241,6 +244,14 @@
   },
   "active": "d36e1030c589c405",
   "lastOpenFiles": [
+    "School studies/Physics/Circular Motion.md",
+    "Excalidraw/Thermocouple.excalidraw.md",
+    "Excalidraw/somebenzenecompunds.excalidraw.md",
+    "Excalidraw/Site change electrophyllic reaction.excalidraw.md",
+    "Excalidraw/Reaction mechanism no2+benzene.excalidraw.md",
+    "Excalidraw/ringbenzene.md",
+    "Excalidraw/phenylheptane.excalidraw.md",
+    "Excalidraw/Oxidation of benzene.excalidraw.md",
     "Excalidraw/OrthoMetaParabenzene.excalidraw.md",
     "Excalidraw/naming benzene compunds with other functional groups.excalidraw.md",
     "Excalidraw/Friedel Craft Alkylation of benzene.excalidraw.md",
@@ -260,13 +271,6 @@
     "Excalidraw/benzne+cl2 (alcl3).excalidraw.md",
     "School studies/Chemistry/Benzene and its compounds.md",
     "Excalidraw/Drawing 2024-06-19 18.42.24.excalidraw.md",
-    "README.md",
-    "School studies/Physics/Thermal Physics.md",
-    "School studies/Physics/Circular Motion.md",
-    "School studies/CS/Untitled.md",
-    "School studies/CS/Data Representation.md",
-    "0 Help.md/Obsidian-formatting.md",
-    "sdfdfdknfkdn.md",
     "0 Help.md/Pasted Image 20240619103445_600.png",
     "Excalidraw/Pasted image 20240615073438.png",
     "0 Help.md/Pasted Image 20240619105930_233.png",
@@ -275,7 +279,6 @@
     "0 Help.md/Pasted Image 20240619103533_634.png",
     "Excalidraw/Pasted Image 20240612194848_349.png",
     "Excalidraw/Pasted image 20230724044538.png",
-    "0 Help.md/Ascii symbols.md",
     "0 Help.md/MathJax symbol reference.pdf",
     "0 Help.md/markus-spiske-666905-unsplash.jpg",
     "obsidian format/MathJax symbol reference .html",
