@@ -4,9 +4,17 @@
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": true,
-  "showOrphans": false,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -0.4,
@@ -18,5 +26,5 @@
   "linkStrength": 0.521724120925186,
   "linkDistance": 30,
   "scale": 0.2713866918495569,
-  "close": true
+  "close": false
 }

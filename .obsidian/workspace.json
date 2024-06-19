@@ -11,10 +11,8 @@
             "id": "ff575d8b6f403fee",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/benzenesigmapi.excalidraw.md"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -140,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/benzenesigmapi.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -150,9 +146,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Excalidraw/benzenesigmapi.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -192,7 +186,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/benzenesigmapi.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +202,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/benzenesigmapi.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -243,9 +235,10 @@
   },
   "active": "ff575d8b6f403fee",
   "lastOpenFiles": [
-    "Excalidraw/acids.excalidraw.md",
-    "Excalidraw/benzenecoumpounds with special names.excalidraw.md",
     "Excalidraw/OrthoMetaParabenzene.excalidraw.md",
+    "Excalidraw/benzenecoumpounds with special names.excalidraw.md",
+    "Excalidraw/acids.excalidraw.md",
+    "Excalidraw/benzenesigmapi.excalidraw.md",
     "Excalidraw/Drawing 2024-06-17 14.59.33.excalidraw.md",
     "School studies/Physics/Thermal Physics.md",
     "School studies/Physics/Circular Motion.md",
@@ -275,7 +268,6 @@
     "Excalidraw/Site change electrophyllic reaction.excalidraw.md",
     "Excalidraw/Drawing 2024-06-15 12.33.45.excalidraw.md",
     "Excalidraw/Oxidation of benzene.excalidraw.md",
-    "Excalidraw/Reaction mechanism no2+benzene.excalidraw.md",
     "Excalidraw/benzene Double bond.png",
     "Excalidraw/Pasted image 20230724044538.png",
     "Excalidraw/benzene.png",
