@@ -227,8 +227,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348.5,
-    "collapsed": true
+    "width": 348.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -248,7 +247,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "ab6baa8bcdc59462",
+  "active": "9317a1770b4fbb1c",
   "lastOpenFiles": [
     "School studies/CS/Data Representation.md",
     "obsidian format/MathJax.md",
