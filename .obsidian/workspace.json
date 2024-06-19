@@ -11,8 +11,13 @@
             "id": "ea40889f56fb770c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "School studies/CS/Data Representation.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -97,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "School studies/CS/Data Representation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "School studies/CS/Data Representation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "School studies/CS/Data Representation.md"
+              }
             }
           },
           {
@@ -170,7 +179,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "School studies/CS/Data Representation.md"
+              }
             }
           },
           {
@@ -214,7 +225,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "54c5a6e575f4cd1d",
+  "active": "ea40889f56fb770c",
   "lastOpenFiles": [
     "obsidian format/MathJax symbol reference.pdf",
     "0 Help.md/markus-spiske-666905-unsplash.jpg",
