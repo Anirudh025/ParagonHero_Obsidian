@@ -13,14 +13,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/Physics/Thermal Physics.md",
+                "file": "School studies/CS/Data Representation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "17f64b71a70a2dcd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +119,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Physics/Thermal Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +135,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Physics/Thermal Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,9 +156,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "School studies/Physics/Thermal Physics.md"
-              }
+              "state": {}
             }
           },
           {
@@ -187,9 +192,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "School studies/Physics/Thermal Physics.md"
-              }
+              "state": {}
             }
           },
           {
@@ -225,16 +228,16 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "ab6baa8bcdc59462",
+  "active": "17f64b71a70a2dcd",
   "lastOpenFiles": [
-    "Excalidraw/File Organization.excalidraw.md",
     "School studies/CS/Data Representation.md",
+    "School studies/Physics/Thermal Physics.md",
+    "Excalidraw/File Organization.excalidraw.md",
     "School studies/Chemistry/Benzene and its compounds.md",
     "conflict-files-obsidian-git.md",
     "Excalidraw/naming benzene compunds with other functional groups.excalidraw.md",
     "School studies/Physics/Circular Motion.md",
     "Obsidian help/MathJax.md",
-    "School studies/Physics/Thermal Physics.md",
     "Excalidraw/Thermocouple.excalidraw.md",
     "obsidian format/Ascii symbols.md",
     "Excalidraw/circularmotion.excalidraw.md",
