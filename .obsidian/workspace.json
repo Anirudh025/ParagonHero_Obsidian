@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#excalidraw",
+                "query": "tag:#thermalequilibrium",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -243,7 +244,7 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "a3d21c7ad933cefe",
+  "active": "4b0ad9f429b2d16e",
   "lastOpenFiles": [
     "School studies/Physics/Circular Motion.md",
     "0 Help.md/Obsidian-formatting.md",
