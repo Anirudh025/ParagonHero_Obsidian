@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f81612b4ee071765",
+        "id": "a9c442c2cb9f213a",
         "type": "tabs",
         "children": [
           {
-            "id": "1b0196456f76ae1d",
+            "id": "8f0ca14cfdba3364",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School studies/CS/Data Representation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -102,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/CS/Data Representation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/CS/Data Representation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -141,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "School studies/CS/Data Representation.md"
-              }
+              "state": {}
             }
           },
           {
@@ -179,9 +170,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "School studies/CS/Data Representation.md"
-              }
+              "state": {}
             }
           },
           {
@@ -225,10 +214,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "1b0196456f76ae1d",
+  "active": "9b05b26a481f2902",
   "lastOpenFiles": [
-    "School studies/Chemistry/Benzene and its compounds.md",
     "School studies/CS/Data Representation.md",
+    "School studies/Chemistry/Benzene and its compounds.md",
     "School studies/Physics/Circular Motion.md",
     "School studies/Physics/Thermal Physics.md",
     "A Level A Class Timetable.png",
