@@ -20,11 +20,14 @@ Changes the hand-writingness
 
 Decreasing slop inwards ^y69EiSMR
 
+Main toolbar ^0GEqb8Dr
+
 
 # Embedded files
 f527dfa0e921692fddd46737b67d83270dece671: [[Pasted Image 20240619103445_600.png]]
 ba3c78b41aa40632a462b34d69422674a326aa00: [[Pasted Image 20240619103533_634.png]]
 50b4204935bae7ce96b3667539e9a8d0b6c34595: [[Pasted Image 20240619103650_650.png]]
+1e4dad12866cd5345cf3376ef1ff87c274211f06: [[Pasted Image 20240619104133_108.png]]
 
 %%
 # Drawing
@@ -577,6 +580,76 @@ ba3c78b41aa40632a462b34d69422674a326aa00: [[Pasted Image 20240619103533_634.png]
 			"containerId": null,
 			"originalText": "Decreasing slop inwards",
 			"lineHeight": 1.25
+		},
+		{
+			"id": "BtNzyhf9wmQyjS0FrNC9u",
+			"type": "image",
+			"x": -978.0026863589725,
+			"y": -408.7331607085016,
+			"width": 593,
+			"height": 65,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1573986566,
+			"version": 62,
+			"versionNonce": 992369286,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1718773895038,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "1e4dad12866cd5345cf3376ef1ff87c274211f06",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"id": "0GEqb8Dr",
+			"type": "text",
+			"x": -915.2613161738313,
+			"y": -452.3716313405413,
+			"width": 123.19990539550781,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1892282630,
+			"version": 31,
+			"versionNonce": 1482363098,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1718773904709,
+			"link": null,
+			"locked": false,
+			"text": "Main toolbar",
+			"rawText": "Main toolbar",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 17,
+			"containerId": null,
+			"originalText": "Main toolbar",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
@@ -594,10 +667,10 @@ ba3c78b41aa40632a462b34d69422674a326aa00: [[Pasted Image 20240619103533_634.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1461.4497878249279,
-		"scrollY": 432.6555455137716,
+		"scrollX": 1415.5048683596754,
+		"scrollY": 934.9580569132909,
 		"zoom": {
-			"value": 0.7500000000000002
+			"value": 0.4990902649735019
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
