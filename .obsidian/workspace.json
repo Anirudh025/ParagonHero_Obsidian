@@ -19,8 +19,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "053a6e9426bc2a4d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.50418853759766,
-    "collapsed": true
+    "width": 226.50418853759766
   },
   "right": {
     "id": "d967d98868519a35",
@@ -111,7 +119,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/CS/Data Representation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +135,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/CS/Data Representation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,9 +156,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "School studies/CS/Data Representation.md"
-              }
+              "state": {}
             }
           },
           {
@@ -188,9 +192,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "School studies/CS/Data Representation.md"
-              }
+              "state": {}
             }
           },
           {
@@ -225,10 +227,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "cf73d34b0923bb1a",
+  "active": "053a6e9426bc2a4d",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "School studies/CS/Data Representation.md",
+    "conflict-files-obsidian-git.md",
     "0 Help.md/Obsidian-formatting.md",
     "0 Help.md/MathJax.md",
     "0 Help.md/MathJax symbol reference.pdf",
