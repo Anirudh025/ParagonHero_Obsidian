@@ -1,3 +1,7 @@
+---
+tags:
+  - obsidian
+---
 #obsidian 
 [Obsidian Help](https://help.obsidian.md)
 # Basic formatting
