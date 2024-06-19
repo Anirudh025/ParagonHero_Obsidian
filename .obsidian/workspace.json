@@ -11,9 +11,12 @@
             "id": "cf73d34b0923bb1a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "obsidian format/MathJax symbol reference.pdf"
+                "file": "0 Help.md/Obsidian-formatting.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -107,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian format/MathJax symbol reference.pdf",
+                "file": "0 Help.md/Obsidian-formatting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian format/MathJax symbol reference.pdf",
+                "file": "0 Help.md/Obsidian-formatting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -147,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian format/MathJax symbol reference.pdf"
+                "file": "0 Help.md/Obsidian-formatting.md"
               }
             }
           },
@@ -185,7 +188,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "obsidian format/MathJax symbol reference.pdf"
+                "file": "0 Help.md/Obsidian-formatting.md"
               }
             }
           },
@@ -201,8 +204,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348.5,
-    "collapsed": true
+    "width": 348.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,11 +224,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "9317a1770b4fbb1c",
+  "active": "54c5a6e575f4cd1d",
   "lastOpenFiles": [
+    "0 Help.md/MathJax.md",
+    "0 Help.md/MathJax symbol reference.pdf",
     "conflict-files-obsidian-git.md",
-    "obsidian format/MathJax symbol reference.pdf",
-    "obsidian format/MathJax.md",
     "School studies/CS/Data Representation.md",
     "obsidian format/MathJax symbol reference.md",
     "obsidian format/MathJax symbol reference .html",
@@ -237,7 +239,7 @@
     "School studies/Physics/Circular Motion.md",
     "Obsidian help/MathJax.md",
     "Excalidraw/Thermocouple.excalidraw.md",
-    "obsidian format/Ascii symbols.md",
+    "0 Help.md/Ascii symbols.md",
     "Excalidraw/circularmotion.excalidraw.md",
     "Excalidraw/Drawing 2024-06-17 14.59.33.excalidraw.md",
     "Excalidraw/Drawing 2024-06-15 12.37.01.excalidraw.md",
