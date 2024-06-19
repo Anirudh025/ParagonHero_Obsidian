@@ -99,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "obsidian format/MathJax symbol reference.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "obsidian format/MathJax symbol reference.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -137,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "obsidian format/MathJax symbol reference.pdf"
               }
             }
           },
@@ -175,7 +177,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "obsidian format/MathJax symbol reference.pdf"
               }
             }
           },
