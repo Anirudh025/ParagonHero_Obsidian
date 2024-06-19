@@ -24,12 +24,27 @@
             "id": "053a6e9426bc2a4d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "School studies/CS/Data Representation.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1be764ff3220b73a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "0 Help.md/MathJax symbol reference.pdf"
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -119,6 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0 Help.md/MathJax symbol reference.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,6 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "0 Help.md/MathJax symbol reference.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -156,7 +173,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "0 Help.md/MathJax symbol reference.pdf"
+              }
             }
           },
           {
@@ -192,7 +211,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "0 Help.md/MathJax symbol reference.pdf"
+              }
             }
           },
           {
@@ -227,7 +248,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "053a6e9426bc2a4d",
+  "active": "1be764ff3220b73a",
   "lastOpenFiles": [
     "School studies/CS/Data Representation.md",
     "conflict-files-obsidian-git.md",
