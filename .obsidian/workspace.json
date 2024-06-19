@@ -4,15 +4,46 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "a9c442c2cb9f213a",
         "type": "tabs",
         "children": [
           {
             "id": "8f0ca14cfdba3364",
+=======
+        "id": "e16c3429a1bfe8ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab6baa8bcdc59462",
+>>>>>>> origin/main
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
+            }
+          },
+          {
+            "id": "17f64b71a70a2dcd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian format/MathJax.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c88c8170e9086de4",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "file:///C:\\Users\\beast\\OneDrive\\Desktop\\Praguns%20work\\ParagonHero_Obsidian/obsidian%20format/MathJax%20symbol%20reference%20.html"
+              }
             }
           }
         ]
@@ -62,7 +93,7 @@
             }
           },
           {
-            "id": "b3380d9d387243fa",
+            "id": "347ac0bb5dd85372",
             "type": "leaf",
             "state": {
               "type": "surfing-tab-tree",
@@ -83,6 +114,14 @@
         "id": "3a4f977b7dec7d16",
         "type": "tabs",
         "children": [
+          {
+            "id": "9317a1770b4fbb1c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
           {
             "id": "acb0b20ef808921c",
             "type": "leaf",
@@ -180,21 +219,12 @@
               "type": "review-queue-list-view",
               "state": {}
             }
-          },
-          {
-            "id": "9b05b26a481f2902",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 348.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,8 +234,8 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
-      "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
+      "daily-notes:Open today's daily note": false,
       "audio-recorder:Start/stop recording": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "meld-encrypt:New encrypted note": false,
@@ -214,6 +244,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
+<<<<<<< HEAD
   "active": "9b05b26a481f2902",
   "lastOpenFiles": [
     "School studies/CS/Data Representation.md",
@@ -240,29 +271,57 @@
     "Excalidraw/A Level A Class Timetable.png.crdownload",
     "Excalidraw/phenylheptane.excalidraw.md",
     "Excalidraw/benzyl.excalidraw.md",
+=======
+  "active": "9317a1770b4fbb1c",
+  "lastOpenFiles": [
+    "School studies/CS/Data Representation.md",
+>>>>>>> origin/main
     "obsidian format/MathJax.md",
-    "Excalidraw/ringbenzene.md",
-    "Excalidraw/Pasted image 20230724044538.png",
-    "Excalidraw/Pasted Image 20240612194848_349.png",
-    "Excalidraw/Pasted Image 20240612194805_235.png",
-    "Excalidraw/chloro benzene.excalidraw.md",
+    "obsidian format/MathJax symbol reference.md",
+    "obsidian format/MathJax symbol reference .html",
+    "conflict-files-obsidian-git.md",
+    "School studies/Physics/Thermal Physics.md",
+    "Excalidraw/File Organization.excalidraw.md",
+    "School studies/Chemistry/Benzene and its compounds.md",
+    "Excalidraw/naming benzene compunds with other functional groups.excalidraw.md",
+    "School studies/Physics/Circular Motion.md",
+    "Obsidian help/MathJax.md",
+    "Excalidraw/Thermocouple.excalidraw.md",
+    "obsidian format/Ascii symbols.md",
+    "Excalidraw/circularmotion.excalidraw.md",
+    "Excalidraw/Drawing 2024-06-17 14.59.33.excalidraw.md",
+    "Excalidraw/Drawing 2024-06-15 12.37.01.excalidraw.md",
+    "Excalidraw/Hydrogenation of benzene .excalidraw.md",
+    "Excalidraw/Site change electrophyllic reaction.excalidraw.md",
+    "Excalidraw/Drawing 2024-06-15 12.33.45.excalidraw.md",
+    "Excalidraw/Oxidation of benzene.excalidraw.md",
+    "Excalidraw/Reaction mechanism no2+benzene.excalidraw.md",
+    "Excalidraw/bonding benzene.excalidraw.md",
+    "Excalidraw/benzyl.excalidraw.md",
+    "Excalidraw/benzne+cl2 (alcl3).excalidraw.md",
     "Excalidraw/benzenesigmapi.excalidraw.md",
-    "Excalidraw/ringbenzene.excalidraw.md",
-    "Excalidraw/Screenshot 2023-07-24 044228.png",
-    "Excalidraw/Pasted Image 20240612194400_822.png",
-    "Excalidraw/Untitled.md",
-    "Excalidraw/benzenering.png",
-    "Excalidraw/benzenering.png.crdownload",
-    "Excalidraw/pg187pageant.excalidraw.md",
-    "Excalidraw/procedure.excalidraw.md",
-    "Excalidraw/Untitled.canvas",
-    "Physics",
+    "Excalidraw/benzenecoumpounds with special names.excalidraw.md",
+    "Excalidraw/benzene Double bond.png",
+    "Excalidraw/Pasted image 20230724044538.png",
+    "Excalidraw/benzene.png",
+    "Excalidraw/Pasted image 20240615073438.png",
+    "Excalidraw/Pasted Image 20240612194848_349.png",
+    "Excalidraw/Pasted image 20240615073708.png",
+    "Excalidraw/Pasted Image 20240615073548_125.png",
+    "Excalidraw/pngwing.com.png.crdownload",
+    "Untitled.pdf",
+    "Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
+    "Cambridge International AS and A Levels Computer Science by David Watson, Helen Williams (z-lib.org).pdf",
     "School studies/Chemistry/Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
-    "School studies/A LEVEL/CS/text Cambridge International AS and A Levels Computer Science.pdf",
+    "School studies/CS/Cambridge International AS and A Levels Computer Science by David Watson, Helen Williams (z-lib.org).pdf",
+    "School studies/CS/course Cambridge International AS and A Level Computer Science Coursebook.pdf",
+    "Obsidian help/WhatsApp Image 2024-06-12 at 08.04.42_289c3eb2.jpg",
+    "Obsidian help",
+    "cambridge-international-as-amp-a-level-mathematics-pure-mathematics-2-and-3-worked-solutions-manual-with-cambridge-elevate-edition-1108758908-9781108758901_compress.pdf",
+    "A Level A Class Timetable.png",
+    "Excalidraw/A Level A Class Timetable.png",
+    "Excalidraw/Untitled.canvas",
     "School studies/AS LEVEL/Chem notes/Organic chem.canvas",
-    "School studies/CS",
-    "School studies/Math",
-    "School studies/Physics",
     "School studies/AS LEVEL/CS/Logic gates.canvas",
     "School studies/AS LEVEL/CS/Logic gates practice.canvas",
     "School studies/Chem notes/Untitled.canvas",
