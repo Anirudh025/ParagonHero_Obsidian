@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#excalidraw",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -233,8 +233,10 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "4b0ad9f429b2d16e",
+  "active": "ff575d8b6f403fee",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-06-17 14.59.33.excalidraw.md",
+    "Excalidraw/acids.excalidraw.md",
     "School studies/Physics/Thermal Physics.md",
     "School studies/Physics/Circular Motion.md",
     "0 Help.md/Excalidraw example.excalidraw.md",
@@ -258,7 +260,6 @@
     "Excalidraw/Thermocouple.excalidraw.md",
     "0 Help.md/Ascii symbols.md",
     "Excalidraw/circularmotion.excalidraw.md",
-    "Excalidraw/Drawing 2024-06-17 14.59.33.excalidraw.md",
     "Excalidraw/Drawing 2024-06-15 12.37.01.excalidraw.md",
     "Excalidraw/Hydrogenation of benzene .excalidraw.md",
     "Excalidraw/Site change electrophyllic reaction.excalidraw.md",
@@ -267,7 +268,6 @@
     "Excalidraw/Reaction mechanism no2+benzene.excalidraw.md",
     "Excalidraw/bonding benzene.excalidraw.md",
     "Excalidraw/benzyl.excalidraw.md",
-    "Excalidraw/benzne+cl2 (alcl3).excalidraw.md",
     "Excalidraw/benzene Double bond.png",
     "Excalidraw/Pasted image 20230724044538.png",
     "Excalidraw/benzene.png",
