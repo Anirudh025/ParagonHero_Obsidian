@@ -16,7 +16,7 @@
                 "file": "School studies/CS/Data Representation.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": true
+                "source": false
               }
             }
           },
@@ -140,8 +140,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "cb675aca7cd66052",
@@ -254,7 +253,7 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "cf73d34b0923bb1a",
+  "active": "9317a1770b4fbb1c",
   "lastOpenFiles": [
     "0 Help.md/MathJax symbol reference.pdf",
     "School studies/CS/Data Representation.md",
