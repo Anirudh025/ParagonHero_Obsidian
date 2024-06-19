@@ -4,7 +4,7 @@ tags:
 ---
 # Temperature
 Heat :: a form of energy, energy :: the ability to do work
-1.  Thermal Equilibrium %% #thermalequilibrium%%
+1.  Thermal Equilibrium %% #physics/thermalequilibrium%%
 	- When two objects at different temperatures are in contact with each other, heat flows from the hot object to the cold object. The flow of heat continues till both the objects are at same temperature. 
 	- Thermal equilibrium is a dynamic process (The flow of heat continues in both directions without ever stopping)
 - Temperature :: Average Kinetic of measured object(s)
@@ -14,10 +14,10 @@ Heat :: a form of energy, energy :: the ability to do work
 3. It must be clearly visible/opaque.
 4. It must not stick to the glass tube.
 5. It must have high density.
-%% #thermometric%%
+%% #physics/thermometric%%
 ## Thermocouple Interplotation
 
-To calibrate a thermometer :: Use melting and boiling point of ***pure water*** and mark temperatures uniformly between them %% #thermocouple%%
+To calibrate a thermometer :: Use melting and boiling point of ***pure water*** and mark temperatures uniformly between them %% #physics/thermocouple%%
 #### Thermocouple Interpolation
 ![[Thermocouple.excalidraw|500]]
 
