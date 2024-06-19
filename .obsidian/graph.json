@@ -25,14 +25,7 @@
       "query": "path:\"School studies/Chemistry\"  ",
       "color": {
         "a": 1,
-        "rgb": 14998801
-      }
-    },
-    {
-      "query": "path:\"School studies/Physics\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 14749198
+        "rgb": 11657298
       }
     }
   ],
@@ -42,10 +35,10 @@
   "nodeSizeMultiplier": 1.60477388173793,
   "lineSizeMultiplier": 2.40899541352271,
   "collapse-forces": false,
-  "centerStrength": 0.586505190311419,
-  "repelStrength": 14.0957735365192,
-  "linkStrength": 0.521724120925186,
+  "centerStrength": 0.64878892733564,
+  "repelStrength": 13.1141868512111,
+  "linkStrength": 0.541522491349481,
   "linkDistance": 30,
-  "scale": 0.7478537827650167,
+  "scale": 0.2713866918495565,
   "close": false
 }
