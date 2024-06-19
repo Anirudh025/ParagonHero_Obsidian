@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -130,8 +129,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "cb675aca7cd66052",
@@ -219,7 +217,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -244,7 +242,7 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "4b0ad9f429b2d16e",
+  "active": "54c5a6e575f4cd1d",
   "lastOpenFiles": [
     "School studies/Physics/Circular Motion.md",
     "0 Help.md/Obsidian-formatting.md",
