@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/Physics/Thermal Physics.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -44,21 +44,6 @@
             }
           },
           {
-            "id": "4b0ad9f429b2d16e",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "tag:#obsidian",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
             "id": "002756a7baf7f748",
             "type": "leaf",
             "state": {
@@ -74,8 +59,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -130,8 +114,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "cb675aca7cd66052",
@@ -144,7 +127,22 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/Physics/Thermal Physics.md"
+                "file": "README.md"
+              }
+            }
+          },
+          {
+            "id": "4b0ad9f429b2d16e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -154,7 +152,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/Physics/Thermal Physics.md"
+                "file": "README.md"
               }
             }
           },
@@ -195,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Physics/Thermal Physics.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,18 +210,17 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Physics/Thermal Physics.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,13 +241,13 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "9747f1b0dbdaae7d",
+  "active": "54c5a6e575f4cd1d",
   "lastOpenFiles": [
+    "School studies/Physics/Thermal Physics.md",
     "School studies/Physics/Circular Motion.md",
     "School studies/Chemistry/Benzene and its compounds.md",
     "School studies/CS/Untitled.md",
     "School studies/CS/Data Representation.md",
-    "School studies/Physics/Thermal Physics.md",
     "0 Help.md/Obsidian-formatting.md",
     "sdfdfdknfkdn.md",
     "0 Help.md/Pasted Image 20240619103445_600.png",
