@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e9650040ec7db398",
+        "id": "876e2375584b739d",
         "type": "tabs",
         "children": [
           {
-            "id": "c04cd6417c434135",
+            "id": "ff575d8b6f403fee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School studies/Physics/Circular Motion.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -142,9 +137,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "School studies/Physics/Circular Motion.md"
-              }
+              "state": {}
             }
           },
           {
@@ -152,9 +145,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "School studies/Physics/Circular Motion.md"
-              }
+              "state": {}
             }
           },
           {
@@ -194,7 +185,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Physics/Circular Motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +201,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Physics/Circular Motion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -222,8 +211,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348.5,
-    "collapsed": true
+    "width": 348.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,8 +232,10 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "c04cd6417c434135",
+  "active": "ff575d8b6f403fee",
   "lastOpenFiles": [
+    "School studies/Physics/Thermal Physics.md",
+    "School studies/Physics/Circular Motion.md",
     "0 Help.md/Excalidraw example.excalidraw.md",
     "Excalidraw/Drawing 2024-06-19 11.00.17.excalidraw.md",
     "Excalidraw/Pasted Image 20240619105930_233.png",
@@ -260,11 +250,9 @@
     "0 Help.md/MathJax.md",
     "obsidian format/MathJax symbol reference.md",
     "obsidian format/MathJax symbol reference .html",
-    "School studies/Physics/Thermal Physics.md",
     "Excalidraw/File Organization.excalidraw.md",
     "School studies/Chemistry/Benzene and its compounds.md",
     "Excalidraw/naming benzene compunds with other functional groups.excalidraw.md",
-    "School studies/Physics/Circular Motion.md",
     "Obsidian help/MathJax.md",
     "Excalidraw/Thermocouple.excalidraw.md",
     "0 Help.md/Ascii symbols.md",
