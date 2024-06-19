@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian format/MathJax.md",
+                "file": "School studies/CS/Data Representation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian format/MathJax.md",
+                "file": "School studies/CS/Data Representation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -164,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian format/MathJax.md"
+                "file": "School studies/CS/Data Representation.md"
               }
             }
           },
@@ -202,7 +201,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "obsidian format/MathJax.md"
+                "file": "School studies/CS/Data Representation.md"
               }
             }
           },
@@ -239,8 +238,9 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "17f64b71a70a2dcd",
+  "active": "ab6baa8bcdc59462",
   "lastOpenFiles": [
+    "obsidian format/MathJax.md",
     "School studies/CS/Data Representation.md",
     "School studies/Physics/Thermal Physics.md",
     "Excalidraw/File Organization.excalidraw.md",
@@ -267,7 +267,6 @@
     "Excalidraw/benzene Double bond.png",
     "Excalidraw/Friedel Craft Alkylation of benzene.excalidraw.md",
     "Excalidraw/Friedel craft Acylation of benzene.excalidraw.md",
-    "Excalidraw/floating point representaion .excalidraw.md",
     "Excalidraw/Pasted image 20230724044538.png",
     "Excalidraw/benzene.png",
     "Excalidraw/Pasted image 20240615073438.png",

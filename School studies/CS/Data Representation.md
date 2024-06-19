@@ -117,7 +117,7 @@ $M = \frac{45}{64}$
 $M = 0.703125$
 - Add Exponents values when 1 bit appears
 	- $E=4$
-	- $M 2^E$
+	- $M x 2^E$
 $M = {0.703125}  x  {2^4}$
 $=11.02$
 
