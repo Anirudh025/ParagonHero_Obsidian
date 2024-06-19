@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#thermalequilibrium",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -129,7 +130,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "cb675aca7cd66052",
@@ -242,7 +244,7 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "1c4d3b12b52211e0",
+  "active": "347ac0bb5dd85372",
   "lastOpenFiles": [
     "School studies/Physics/Circular Motion.md",
     "School studies/Physics/Thermal Physics.md",
