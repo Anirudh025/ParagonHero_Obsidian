@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/Physics/Circular Motion.md",
+                "file": "School studies/Physics/Thermal Physics.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/Physics/Circular Motion.md"
+                "file": "School studies/Physics/Thermal Physics.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/Physics/Circular Motion.md"
+                "file": "School studies/Physics/Thermal Physics.md"
               }
             }
           },
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Physics/Circular Motion.md",
+                "file": "School studies/Physics/Thermal Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Physics/Circular Motion.md",
+                "file": "School studies/Physics/Thermal Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -222,8 +222,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348.5,
-    "collapsed": true
+    "width": 348.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,8 +243,9 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "1c4d3b12b52211e0",
+  "active": "a3d21c7ad933cefe",
   "lastOpenFiles": [
+    "School studies/Physics/Circular Motion.md",
     "0 Help.md/Obsidian-formatting.md",
     "sdfdfdknfkdn.md",
     "0 Help.md/Pasted Image 20240619103445_600.png",
@@ -268,7 +268,6 @@
     "Excalidraw/benzenesigmapi.excalidraw.md",
     "Excalidraw/Drawing 2024-06-17 14.59.33.excalidraw.md",
     "School studies/Physics/Thermal Physics.md",
-    "School studies/Physics/Circular Motion.md",
     "Excalidraw/Drawing 2024-06-19 11.00.17.excalidraw.md",
     "School studies/CS/Data Representation.md",
     "conflict-files-obsidian-git.md",

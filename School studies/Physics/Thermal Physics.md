@@ -1,6 +1,10 @@
+---
+tags:
+  - physics
+---
 # Temperature
 Heat :: a form of energy, energy :: the ability to do work
-1.  Thermal Equilibrium 
+1.  Thermal Equilibrium %% 3
 	- When two objects at different temperatures are in contact with each other, heat flows from the hot object to the cold object. The flow of heat continues till both the objects are at same temperature. 
 	- Thermal equilibrium is a dynamic process (The flow of heat continues in both directions without ever stopping)
 - Temperature :: Average Kinetic of measured object(s)
@@ -11,7 +15,7 @@ Heat :: a form of energy, energy :: the ability to do work
 5. It must have high density.
 ## Thermocouple Interplotation
 
-To calibrate a thermometer :: Use melting and boiling point of ***pure water*** and mark temperatures uniformly between them
+To calibrate a thermometer :: Use melting and boiling point of ***pure water*** and mark temperatures uniformly between them %% #thermocouple%%
 #### Thermocouple Interpolation
 ![[Thermocouple.excalidraw|500]]
 
@@ -22,4 +26,4 @@ $θ=\frac{100(P_θ-P_i)}{(P_s-P_i)}$
 Absolute Zero :: -273.15°C or 0K
 Celsius to Kelvin :: $TK = t°C + 273.15$
 #### Triple Point of Water
-It is the temperature at which Ice, Water, Water vapour are in equilibrium
+It is the temperature at which Ice, Water, Water vapour are in equilibrium 
