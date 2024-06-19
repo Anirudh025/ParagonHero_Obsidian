@@ -11,8 +11,10 @@
             "id": "ff575d8b6f403fee",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/OrthoMetaParabenzene.excalidraw.md"
+              }
             }
           }
         ]
@@ -138,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/OrthoMetaParabenzene.excalidraw.md"
+              }
             }
           },
           {
@@ -146,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/OrthoMetaParabenzene.excalidraw.md"
+              }
             }
           },
           {
@@ -186,6 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/OrthoMetaParabenzene.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,6 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/OrthoMetaParabenzene.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
