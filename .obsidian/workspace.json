@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/Physics/Circular Motion.md",
+                "file": "School studies/Chemistry/Benzene and its compounds.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#benzyl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -102,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Physics/Circular Motion.md",
+                "file": "School studies/Chemistry/Benzene and its compounds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Physics/Circular Motion.md",
+                "file": "School studies/Chemistry/Benzene and its compounds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/Physics/Circular Motion.md"
+                "file": "School studies/Chemistry/Benzene and its compounds.md"
               }
             }
           },
@@ -180,7 +181,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/Physics/Circular Motion.md"
+                "file": "School studies/Chemistry/Benzene and its compounds.md"
               }
             }
           },
@@ -225,12 +226,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "1b0196456f76ae1d",
+  "active": "4b0ad9f429b2d16e",
   "lastOpenFiles": [
-    "School studies/Physics/Thermal Physics.md",
-    "A Level A Class Timetable.png",
     "School studies/CS/Data Representation.md",
     "School studies/Physics/Circular Motion.md",
+    "School studies/Physics/Thermal Physics.md",
+    "A Level A Class Timetable.png",
     "conflict-files-obsidian-git.md",
     "School studies/Chemistry/Benzene and its compounds.md",
     "Excalidraw/benzene.png",
