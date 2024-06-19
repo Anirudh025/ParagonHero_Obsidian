@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7e8159b8b0cf6533",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-06-19 18.42.24.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md"
+                "file": "Excalidraw/Drawing 2024-06-19 18.42.24.excalidraw.md"
               }
             }
           },
@@ -153,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md"
+                "file": "Excalidraw/Drawing 2024-06-19 18.42.24.excalidraw.md"
               }
             }
           },
@@ -194,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md",
+                "file": "Excalidraw/Drawing 2024-06-19 18.42.24.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md",
+                "file": "Excalidraw/Drawing 2024-06-19 18.42.24.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -242,12 +253,13 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "d36e1030c589c405",
+  "active": "7e8159b8b0cf6533",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-06-19 18.42.24.excalidraw.md",
+    "School studies/Chemistry/Benzene and its compounds.md",
     "README.md",
     "School studies/Physics/Thermal Physics.md",
     "School studies/Physics/Circular Motion.md",
-    "School studies/Chemistry/Benzene and its compounds.md",
     "School studies/CS/Untitled.md",
     "School studies/CS/Data Representation.md",
     "0 Help.md/Obsidian-formatting.md",
@@ -280,7 +292,6 @@
     "Obsidian help/MathJax.md",
     "Excalidraw/Thermocouple.excalidraw.md",
     "Excalidraw/circularmotion.excalidraw.md",
-    "Excalidraw/Drawing 2024-06-15 12.37.01.excalidraw.md",
     "Excalidraw/benzene Double bond.png",
     "Excalidraw/pngwing.com.png.crdownload",
     "Untitled.pdf",
