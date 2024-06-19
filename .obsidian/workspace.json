@@ -111,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "School studies/CS/Data Representation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "School studies/CS/Data Representation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "School studies/CS/Data Representation.md"
               }
             }
           },
@@ -187,7 +189,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "School studies/CS/Data Representation.md"
               }
             }
           },
@@ -223,10 +225,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "9317a1770b4fbb1c",
+  "active": "cf73d34b0923bb1a",
   "lastOpenFiles": [
-    "School studies/CS/Data Representation.md",
     "conflict-files-obsidian-git.md",
+    "School studies/CS/Data Representation.md",
     "0 Help.md/Obsidian-formatting.md",
     "0 Help.md/MathJax.md",
     "0 Help.md/MathJax symbol reference.pdf",
