@@ -97,12 +97,29 @@
       {
         "id": "3a4f977b7dec7d16",
         "type": "tabs",
+        "dimension": 57.36111111111111,
         "children": [
           {
             "id": "9317a1770b4fbb1c",
             "type": "leaf",
             "state": {
               "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "0ab76707b5465b06",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "8f13c2750f67f161",
+            "type": "leaf",
+            "state": {
+              "type": "mathpad-view",
               "state": {}
             }
           },
@@ -155,48 +172,26 @@
             }
           },
           {
-            "id": "40b33ddf6941da5e",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "School studies/CS/Data Representation.md"
-              }
-            }
-          },
-          {
-            "id": "0ab76707b5465b06",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "1902457e6bf22f46",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              }
-            }
-          },
-          {
             "id": "014caf12753e35de",
             "type": "leaf",
             "state": {
               "type": "dictionary-view",
               "state": {}
             }
-          },
+          }
+        ],
+        "currentTab": 6
+      },
+      {
+        "id": "cb675aca7cd66052",
+        "type": "tabs",
+        "dimension": 42.638888888888886,
+        "children": [
           {
-            "id": "a3d21c7ad933cefe",
+            "id": "40b33ddf6941da5e",
             "type": "leaf",
             "state": {
-              "type": "file-properties",
+              "type": "outline",
               "state": {
                 "file": "School studies/CS/Data Representation.md"
               }
@@ -211,11 +206,25 @@
             }
           },
           {
-            "id": "8f13c2750f67f161",
+            "id": "a3d21c7ad933cefe",
             "type": "leaf",
             "state": {
-              "type": "mathpad-view",
-              "state": {}
+              "type": "file-properties",
+              "state": {
+                "file": "School studies/CS/Data Representation.md"
+              }
+            }
+          },
+          {
+            "id": "1902457e6bf22f46",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
             }
           }
         ]
@@ -243,7 +252,7 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "9317a1770b4fbb1c",
+  "active": "9747f1b0dbdaae7d",
   "lastOpenFiles": [
     "0 Help.md/MathJax symbol reference.pdf",
     "School studies/CS/Data Representation.md",
