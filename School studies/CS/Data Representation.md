@@ -128,7 +128,7 @@ using 8 bits for Mantissa & 8 bits for exponent
 >- Add Exponents values when 1 bit appears
 >	- $E=4$
 >	- $M \times 2^E$
->$M = {0.703125}  x  {2^4}$
+>$M = {0.703125}  \times  {2^4}$
 >$=11.02$
 
 ###### Solved Examples
