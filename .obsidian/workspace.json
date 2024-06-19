@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/CS/Data Representation.md",
+                "file": "School studies/Physics/Thermal Physics.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/CS/Data Representation.md",
+                "file": "School studies/Physics/Thermal Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/CS/Data Representation.md",
+                "file": "School studies/Physics/Thermal Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/CS/Data Representation.md"
+                "file": "School studies/Physics/Thermal Physics.md"
               }
             }
           },
@@ -188,7 +188,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/CS/Data Representation.md"
+                "file": "School studies/Physics/Thermal Physics.md"
               }
             }
           },
@@ -227,11 +227,12 @@
   },
   "active": "ab6baa8bcdc59462",
   "lastOpenFiles": [
+    "Excalidraw/File Organization.excalidraw.md",
+    "School studies/CS/Data Representation.md",
     "School studies/Chemistry/Benzene and its compounds.md",
     "conflict-files-obsidian-git.md",
     "Excalidraw/naming benzene compunds with other functional groups.excalidraw.md",
     "School studies/Physics/Circular Motion.md",
-    "School studies/CS/Data Representation.md",
     "Obsidian help/MathJax.md",
     "School studies/Physics/Thermal Physics.md",
     "Excalidraw/Thermocouple.excalidraw.md",
@@ -253,7 +254,6 @@
     "Excalidraw/Friedel Craft Alkylation of benzene.excalidraw.md",
     "Excalidraw/Friedel craft Acylation of benzene.excalidraw.md",
     "Excalidraw/floating point representaion .excalidraw.md",
-    "Excalidraw/Binary Floating Point  representation .excalidraw.md",
     "Excalidraw/Pasted image 20230724044538.png",
     "Excalidraw/benzene.png",
     "Excalidraw/Pasted image 20240615073438.png",
