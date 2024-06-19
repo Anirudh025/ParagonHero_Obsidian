@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "56927ddd7aad0de8",
+        "id": "2b4ddb1f2a4e4926",
         "type": "tabs",
         "children": [
           {
-            "id": "29cf2b2d46b53b7b",
+            "id": "cf73d34b0923bb1a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "obsidian format/MathJax symbol reference.pdf"
+              }
             }
           }
         ]
@@ -105,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "obsidian format/MathJax symbol reference.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "obsidian format/MathJax symbol reference.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "obsidian format/MathJax symbol reference.pdf"
+              }
             }
           },
           {
@@ -178,7 +184,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "obsidian format/MathJax symbol reference.pdf"
+              }
             }
           },
           {
@@ -213,13 +221,14 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "29cf2b2d46b53b7b",
+  "active": "cf73d34b0923bb1a",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "obsidian format/MathJax symbol reference.pdf",
     "obsidian format/MathJax.md",
     "School studies/CS/Data Representation.md",
     "obsidian format/MathJax symbol reference.md",
     "obsidian format/MathJax symbol reference .html",
-    "conflict-files-obsidian-git.md",
     "School studies/Physics/Thermal Physics.md",
     "Excalidraw/File Organization.excalidraw.md",
     "School studies/Chemistry/Benzene and its compounds.md",
@@ -257,7 +266,6 @@
     "School studies/CS/course Cambridge International AS and A Level Computer Science Coursebook.pdf",
     "Obsidian help/WhatsApp Image 2024-06-12 at 08.04.42_289c3eb2.jpg",
     "Obsidian help",
-    "cambridge-international-as-amp-a-level-mathematics-pure-mathematics-2-and-3-worked-solutions-manual-with-cambridge-elevate-edition-1108758908-9781108758901_compress.pdf",
     "A Level A Class Timetable.png",
     "Excalidraw/A Level A Class Timetable.png",
     "Excalidraw/Untitled.canvas",
