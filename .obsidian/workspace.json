@@ -97,7 +97,7 @@
       {
         "id": "3a4f977b7dec7d16",
         "type": "tabs",
-        "dimension": 57.36111111111111,
+        "dimension": 40.214216163583245,
         "children": [
           {
             "id": "9317a1770b4fbb1c",
@@ -121,6 +121,73 @@
             "state": {
               "type": "mathpad-view",
               "state": {}
+            }
+          },
+          {
+            "id": "014caf12753e35de",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "363316b58ba63505",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "cb675aca7cd66052",
+        "type": "tabs",
+        "dimension": 59.78578383641675,
+        "children": [
+          {
+            "id": "40b33ddf6941da5e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "School studies/CS/Data Representation.md"
+              }
+            }
+          },
+          {
+            "id": "a3d21c7ad933cefe",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "School studies/CS/Data Representation.md"
+              }
+            }
+          },
+          {
+            "id": "1902457e6bf22f46",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "9747f1b0dbdaae7d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
             }
           },
           {
@@ -159,75 +226,9 @@
                 "unlinkedCollapsed": false
               }
             }
-          },
-          {
-            "id": "9747f1b0dbdaae7d",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "014caf12753e35de",
-            "type": "leaf",
-            "state": {
-              "type": "dictionary-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 6
-      },
-      {
-        "id": "cb675aca7cd66052",
-        "type": "tabs",
-        "dimension": 42.638888888888886,
-        "children": [
-          {
-            "id": "40b33ddf6941da5e",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "School studies/CS/Data Representation.md"
-              }
-            }
-          },
-          {
-            "id": "363316b58ba63505",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "a3d21c7ad933cefe",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "School studies/CS/Data Representation.md"
-              }
-            }
-          },
-          {
-            "id": "1902457e6bf22f46",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              }
-            }
-          }
-        ]
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -252,7 +253,7 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "9747f1b0dbdaae7d",
+  "active": "a3d21c7ad933cefe",
   "lastOpenFiles": [
     "0 Help.md/MathJax symbol reference.pdf",
     "School studies/CS/Data Representation.md",
