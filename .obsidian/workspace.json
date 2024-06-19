@@ -4,43 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e16c3429a1bfe8ae",
+        "id": "56927ddd7aad0de8",
         "type": "tabs",
         "children": [
           {
-            "id": "ab6baa8bcdc59462",
+            "id": "29cf2b2d46b53b7b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School studies/CS/Data Representation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "17f64b71a70a2dcd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian format/MathJax.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c88c8170e9086de4",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "file:///C:\\Users\\beast\\OneDrive\\Desktop\\Praguns%20work\\ParagonHero_Obsidian/obsidian%20format/MathJax%20symbol%20reference%20.html"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -133,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/CS/Data Representation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +121,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/CS/Data Representation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -172,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "School studies/CS/Data Representation.md"
-              }
+              "state": {}
             }
           },
           {
@@ -210,9 +178,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "School studies/CS/Data Representation.md"
-              }
+              "state": {}
             }
           },
           {
@@ -247,10 +213,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "9317a1770b4fbb1c",
+  "active": "29cf2b2d46b53b7b",
   "lastOpenFiles": [
-    "School studies/CS/Data Representation.md",
     "obsidian format/MathJax.md",
+    "School studies/CS/Data Representation.md",
     "obsidian format/MathJax symbol reference.md",
     "obsidian format/MathJax symbol reference .html",
     "conflict-files-obsidian-git.md",
