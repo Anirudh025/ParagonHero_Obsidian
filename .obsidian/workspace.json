@@ -16,8 +16,22 @@
                 "file": "obsidian format/MathJax symbol reference.pdf"
               }
             }
+          },
+          {
+            "id": "baa248c17093b2d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian format/MathJax symbol reference.pdf",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian format/MathJax symbol reference.pdf",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian format/MathJax symbol reference.pdf"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -177,7 +191,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "obsidian format/MathJax symbol reference.pdf"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -222,12 +236,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "ea40889f56fb770c",
+  "active": "baa248c17093b2d9",
   "lastOpenFiles": [
-    "obsidian format/Obsidian-formatting.md",
-    "obsidian format/MathJax.md",
     "obsidian format/MathJax symbol reference.pdf",
     "conflict-files-obsidian-git.md",
+    "obsidian format/Obsidian-formatting.md",
+    "obsidian format/MathJax.md",
     "School studies/CS/Data Representation.md",
     "School studies/Chemistry/Benzene and its compounds.md",
     "School studies/Physics/Circular Motion.md",
@@ -264,7 +278,6 @@
     "Excalidraw/benzenering.png",
     "Excalidraw/benzenering.png.crdownload",
     "Excalidraw/pg187pageant.excalidraw.md",
-    "Excalidraw/procedure.excalidraw.md",
     "Excalidraw/Untitled.canvas",
     "Physics",
     "School studies/Chemistry/Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
