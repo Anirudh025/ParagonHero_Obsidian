@@ -14,6 +14,10 @@ Drawing Pallet ^IzrAZG8X
 
 Image Background Menu  ^z4oqasdV
 
+Changes the hand-writingness
+
+ of  the drawings ^4cxGbzMG
+
 
 # Embedded files
 f527dfa0e921692fddd46737b67d83270dece671: [[Pasted Image 20240619103445_600.png]]
@@ -345,6 +349,87 @@ ba3c78b41aa40632a462b34d69422674a326aa00: [[Pasted Image 20240619103533_634.png]
 			"lineHeight": 1.25
 		},
 		{
+			"id": "y4_4DeqmwUgstdTfL6vf9",
+			"type": "arrow",
+			"x": -349.4168207919612,
+			"y": 51.78498153933441,
+			"width": 424.44442749023415,
+			"height": 20,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 654141082,
+			"version": 51,
+			"versionNonce": 1630612058,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1718773683204,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-424.44442749023415,
+					20
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "4cxGbzMG",
+			"type": "text",
+			"x": -716.0834874586278,
+			"y": 20.67388738243335,
+			"width": 388.828476802177,
+			"height": 102.77776082356775,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1868351366,
+			"version": 79,
+			"versionNonce": 1511676634,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1718773736210,
+			"link": null,
+			"locked": false,
+			"text": "Changes the hand-writingness\n\n of  the drawings",
+			"rawText": "Changes the hand-writingness\n\n of  the drawings",
+			"fontSize": 27.407402886284725,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 93.00000000000003,
+			"containerId": null,
+			"originalText": "Changes the hand-writingness\n\n of  the drawings",
+			"lineHeight": 1.25
+		},
+		{
 			"id": "L943s7Cd",
 			"type": "text",
 			"x": 244.7066161905418,
@@ -486,6 +571,43 @@ ba3c78b41aa40632a462b34d69422674a326aa00: [[Pasted Image 20240619103533_634.png]
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
+		},
+		{
+			"id": "33u3enE3",
+			"type": "text",
+			"x": -811.6390599683933,
+			"y": 22.89607569623547,
+			"width": 10,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1941975622,
+			"version": 2,
+			"versionNonce": 743229914,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1718773681727,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 17,
+			"containerId": null,
+			"originalText": "",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
