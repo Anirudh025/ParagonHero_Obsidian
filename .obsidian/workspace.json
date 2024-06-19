@@ -134,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "obsidian format/MathJax symbol reference.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -172,9 +170,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "obsidian format/MathJax symbol reference.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -218,15 +214,15 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "9b05b26a481f2902",
+  "active": "54c5a6e575f4cd1d",
   "lastOpenFiles": [
+    "obsidian format/MathJax symbol reference.pdf",
     "0 Help.md/markus-spiske-666905-unsplash.jpg",
     "0 Help.md/Obsidian-formatting.md",
     "0 Help.md/MathJax.md",
     "0 Help.md/MathJax symbol reference.pdf",
     "0 Help.md/Ascii symbols.md",
     "0 Help.md",
-    "obsidian format/MathJax symbol reference.pdf",
     "conflict-files-obsidian-git.md",
     "obsidian format/Obsidian-formatting.md",
     "obsidian format/MathJax.md",
@@ -260,7 +256,6 @@
     "Excalidraw/chloro benzene.excalidraw.md",
     "Excalidraw/Screenshot 2023-07-24 044228.png",
     "Excalidraw/Pasted Image 20240612194400_822.png",
-    "Excalidraw/benzenering.png",
     "Excalidraw/benzenering.png.crdownload",
     "Excalidraw/Untitled.canvas",
     "Physics",
