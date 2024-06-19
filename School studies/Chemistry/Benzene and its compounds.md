@@ -3,7 +3,7 @@ tags:
   - "#chemistry"
 ---
 ## Benzene Structure
-Benzene %% #benzene %%:
+Benzene %% #chemistry/benzene %%:
 ![[Pasted image 20230724044538.png|100]] ![[Screenshot 2023-07-24 044228.png|100]] ![[ringbenzene|140]]
 1. It has planar symmetry and each bond has a length of 0.139nm
 2. Each carbon atoms has 3 sigma bonds and 1 pi bond ![[benzenesigmapi.excalidraw|200]]
@@ -33,7 +33,7 @@ Benzene %% #benzene %%:
 	- ![[Site change electrophyllic reaction.excalidraw|500]]
 6. Oxidation of Benzene: %% #chemistry/oxidation%%
 	- ![[Oxidation of benzene.excalidraw|500]]
-7. Hydrogenation of Benzene: %% #hydrogenation%%
+7. Hydrogenation of Benzene: %% #chemistry/hydrogenation%%
 	- ![[Hydrogenation of benzene .excalidraw|500]]
 
 ==Due to its stability benzene does not undergo some of the addition reactions that other alkenes do== 
