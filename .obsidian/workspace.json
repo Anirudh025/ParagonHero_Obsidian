@@ -11,8 +11,10 @@
             "id": "c04cd6417c434135",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-06-19 10.32.14.excalidraw.md"
+              }
             }
           }
         ]
@@ -137,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/Drawing 2024-06-19 10.32.14.excalidraw.md"
+              }
             }
           },
           {
@@ -145,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/Drawing 2024-06-19 10.32.14.excalidraw.md"
+              }
             }
           },
           {
@@ -185,6 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/Drawing 2024-06-19 10.32.14.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,6 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/Drawing 2024-06-19 10.32.14.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -211,7 +219,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348.5
+    "width": 348.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -234,6 +243,7 @@
   },
   "active": "c04cd6417c434135",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-06-19 10.32.14.excalidraw.md",
     "School studies/CS/Data Representation.md",
     "0 Help.md/MathJax symbol reference.pdf",
     "conflict-files-obsidian-git.md",
