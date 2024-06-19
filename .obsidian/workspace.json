@@ -218,8 +218,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "horizontal",
@@ -244,7 +243,7 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "8f13c2750f67f161",
+  "active": "9317a1770b4fbb1c",
   "lastOpenFiles": [
     "0 Help.md/MathJax symbol reference.pdf",
     "School studies/CS/Data Representation.md",
