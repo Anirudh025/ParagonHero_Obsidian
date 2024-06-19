@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md",
+                "file": "School studies/CS/Data Representation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#benzyl",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -103,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md",
+                "file": "School studies/CS/Data Representation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md",
+                "file": "School studies/CS/Data Representation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md"
+                "file": "School studies/CS/Data Representation.md"
               }
             }
           },
@@ -181,7 +180,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md"
+                "file": "School studies/CS/Data Representation.md"
               }
             }
           },
@@ -226,14 +225,14 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "4b0ad9f429b2d16e",
+  "active": "1b0196456f76ae1d",
   "lastOpenFiles": [
+    "School studies/Chemistry/Benzene and its compounds.md",
     "School studies/CS/Data Representation.md",
     "School studies/Physics/Circular Motion.md",
     "School studies/Physics/Thermal Physics.md",
     "A Level A Class Timetable.png",
     "conflict-files-obsidian-git.md",
-    "School studies/Chemistry/Benzene and its compounds.md",
     "Excalidraw/benzene.png",
     "Excalidraw/acids.excalidraw.md",
     "Excalidraw/Thermocouple.excalidraw.md",
