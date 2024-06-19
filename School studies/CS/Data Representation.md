@@ -1,3 +1,7 @@
+---
+tags:
+  - "#cs"
+---
 ## Non Composite Data Types
 ###### Datatypes 
 > [!tip]- What do datatypes do? 

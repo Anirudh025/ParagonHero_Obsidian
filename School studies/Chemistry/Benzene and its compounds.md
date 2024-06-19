@@ -1,3 +1,7 @@
+---
+tags:
+  - "#chemistry"
+---
 ## Benzene Structure
 Benzene %% #benzene %%:
 ![[Pasted image 20230724044538.png|100]] ![[Screenshot 2023-07-24 044228.png|100]] ![[ringbenzene|140]]
