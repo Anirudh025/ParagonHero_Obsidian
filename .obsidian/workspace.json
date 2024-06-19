@@ -32,9 +32,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c88c8170e9086de4",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "file:///C:\\Users\\beast\\OneDrive\\Desktop\\Praguns%20work\\ParagonHero_Obsidian/obsidian%20format/MathJax%20symbol%20reference%20.html"
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian format/MathJax.md",
+                "file": "School studies/CS/Data Representation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian format/MathJax.md",
+                "file": "School studies/CS/Data Representation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -164,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian format/MathJax.md"
+                "file": "School studies/CS/Data Representation.md"
               }
             }
           },
@@ -202,7 +211,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "obsidian format/MathJax.md"
+                "file": "School studies/CS/Data Representation.md"
               }
             }
           },
@@ -218,7 +227,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348.5
+    "width": 348.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -238,11 +248,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "17f64b71a70a2dcd",
+  "active": "ab6baa8bcdc59462",
   "lastOpenFiles": [
+    "obsidian format/MathJax.md",
     "obsidian format/MathJax symbol reference.md",
     "obsidian format/MathJax symbol reference .html",
-    "obsidian format/MathJax.md",
     "School studies/CS/Data Representation.md",
     "conflict-files-obsidian-git.md",
     "School studies/Physics/Thermal Physics.md",
