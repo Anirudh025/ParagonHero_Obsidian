@@ -15,17 +15,24 @@
       }
     },
     {
-      "query": "path:\"School studies\"  ",
+      "query": "path:\"School studies/CS\"  ",
       "color": {
         "a": 1,
-        "rgb": 6052956
+        "rgb": 65280
       }
     },
     {
-      "query": "",
+      "query": "path:\"School studies/Chemistry\"  ",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 14998801
+      }
+    },
+    {
+      "query": "path:\"School studies/Physics\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14749198
       }
     }
   ],
