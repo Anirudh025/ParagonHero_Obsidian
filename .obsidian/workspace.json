@@ -110,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 Help.md/Obsidian-formatting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0 Help.md/Obsidian-formatting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 Help.md/Obsidian-formatting.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -188,7 +186,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0 Help.md/Obsidian-formatting.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -224,11 +222,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "54c5a6e575f4cd1d",
+  "active": "9317a1770b4fbb1c",
   "lastOpenFiles": [
+    "0 Help.md/Obsidian-formatting.md",
+    "conflict-files-obsidian-git.md",
     "0 Help.md/MathJax.md",
     "0 Help.md/MathJax symbol reference.pdf",
-    "conflict-files-obsidian-git.md",
     "School studies/CS/Data Representation.md",
     "obsidian format/MathJax symbol reference.md",
     "obsidian format/MathJax symbol reference .html",
