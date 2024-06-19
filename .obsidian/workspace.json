@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "876e2375584b739d",
+        "id": "d098b1aad390894f",
         "type": "tabs",
         "children": [
           {
-            "id": "ff575d8b6f403fee",
+            "id": "e8e4f906f1dbb3d1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "0 Help.md/markus-spiske-666905-unsplash.jpg"
+              }
             }
           }
         ]
@@ -69,8 +71,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -138,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "0 Help.md/markus-spiske-666905-unsplash.jpg"
+              }
             }
           },
           {
@@ -146,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "0 Help.md/markus-spiske-666905-unsplash.jpg"
+              }
             }
           },
           {
@@ -186,6 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0 Help.md/markus-spiske-666905-unsplash.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,6 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "0 Help.md/markus-spiske-666905-unsplash.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -233,8 +240,11 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "ff575d8b6f403fee",
+  "active": "e8e4f906f1dbb3d1",
   "lastOpenFiles": [
+    "0 Help.md/Excalidraw example.excalidraw.md",
+    "0 Help.md/Ascii symbols.md",
+    "Excalidraw/ringbenzene.md",
     "Excalidraw/OrthoMetaParabenzene.excalidraw.md",
     "Excalidraw/benzenecoumpounds with special names.excalidraw.md",
     "Excalidraw/acids.excalidraw.md",
@@ -242,7 +252,6 @@
     "Excalidraw/Drawing 2024-06-17 14.59.33.excalidraw.md",
     "School studies/Physics/Thermal Physics.md",
     "School studies/Physics/Circular Motion.md",
-    "0 Help.md/Excalidraw example.excalidraw.md",
     "Excalidraw/Drawing 2024-06-19 11.00.17.excalidraw.md",
     "Excalidraw/Pasted Image 20240619105930_233.png",
     "Excalidraw/Pasted Image 20240619104133_108.png",
@@ -261,13 +270,11 @@
     "Excalidraw/naming benzene compunds with other functional groups.excalidraw.md",
     "Obsidian help/MathJax.md",
     "Excalidraw/Thermocouple.excalidraw.md",
-    "0 Help.md/Ascii symbols.md",
     "Excalidraw/circularmotion.excalidraw.md",
     "Excalidraw/Drawing 2024-06-15 12.37.01.excalidraw.md",
     "Excalidraw/Hydrogenation of benzene .excalidraw.md",
     "Excalidraw/Site change electrophyllic reaction.excalidraw.md",
     "Excalidraw/Drawing 2024-06-15 12.33.45.excalidraw.md",
-    "Excalidraw/Oxidation of benzene.excalidraw.md",
     "Excalidraw/benzene Double bond.png",
     "Excalidraw/Pasted image 20230724044538.png",
     "Excalidraw/benzene.png",
