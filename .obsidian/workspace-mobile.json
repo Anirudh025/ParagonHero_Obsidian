@@ -22,9 +22,16 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "eab4f67e5eb74273",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "63c6a545b036bf1d",
@@ -193,7 +200,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "1e969bb9e59a1038",
+  "active": "78f6e2deb0de51c5",
   "lastOpenFiles": [
     "School studies/CS/Pseudocode.md",
     "School studies/English Language El/EL, The market P1 and P2.md",
