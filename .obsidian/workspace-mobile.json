@@ -31,7 +31,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "63c6a545b036bf1d",
@@ -200,7 +201,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "78f6e2deb0de51c5",
+  "active": "1e969bb9e59a1038",
   "lastOpenFiles": [
     "School studies/CS/Pseudocode.md",
     "School studies/English Language El/EL, The market P1 and P2.md",
