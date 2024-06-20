@@ -86,7 +86,7 @@ Set :: List of worded elements that can use set theory operations such as union,
 ![[File Organization.excalidraw|850]]
 ## File Access
 ![[File access.excalidraw|700]]
-# Hashing Algorythms
+# Hashing Algorithms
 # Floating-point numbers, representation and manipulation
 ## Floating-point Represention
 ![[floating point representaion .excalidraw]]
