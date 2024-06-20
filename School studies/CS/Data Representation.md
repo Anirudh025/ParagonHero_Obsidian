@@ -175,7 +175,7 @@ using 8 bits for Mantissa & 8 bits for exponent
 >$= \frac{-13}{512}$
 >$= -0.0254$
 
-
+Convert the following denary number into binary floating-point numbers
 
 
 
