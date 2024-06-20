@@ -29,19 +29,9 @@
                 "file": "0 Help.md/MathJax symbol reference.pdf"
               }
             }
-          },
-          {
-            "id": "c351d2f058c41936",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://mathematica.stackexchange.com/questions/147141/convert-radian-to-degree-and-add"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "0 Help.md/MathJax symbol reference.pdf"
+              }
             }
           },
           {
@@ -171,7 +163,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "0 Help.md/MathJax symbol reference.pdf"
+              }
             }
           },
           {
@@ -211,6 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0 Help.md/MathJax symbol reference.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,6 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "0 Help.md/MathJax symbol reference.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -257,7 +253,7 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "c351d2f058c41936",
+  "active": "2760c89ba087a60a",
   "lastOpenFiles": [
     "School studies/Physics/Circular Motion.md",
     "0 Help.md/MathJax symbol reference.pdf",
