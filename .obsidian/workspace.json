@@ -30,8 +30,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 Help.md/MathJax symbol reference.pdf"
+                "file": "School studies/Physics/Circular Motion.md"
               }
             }
           },
@@ -164,7 +163,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0 Help.md/MathJax symbol reference.pdf"
+                "file": "School studies/Physics/Circular Motion.md"
               }
             }
           },
@@ -205,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 Help.md/MathJax symbol reference.pdf",
+                "file": "School studies/Physics/Circular Motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0 Help.md/MathJax symbol reference.pdf",
+                "file": "School studies/Physics/Circular Motion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -253,8 +252,9 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "2760c89ba087a60a",
+  "active": "d36e1030c589c405",
   "lastOpenFiles": [
+    "0 Help.md/MathJax symbol reference.pdf",
     "School studies/Physics/Circular Motion.md",
     "School studies/Physics/Thermal Physics.md",
     "School studies/Chemistry/Benzene and its compounds.md",
@@ -281,7 +281,6 @@
     "Excalidraw/benzenesigmapi.excalidraw.md",
     "Excalidraw/acids.excalidraw.md",
     "Excalidraw/benzene Double bond.png",
-    "Excalidraw/benzenecoumpounds with special names.excalidraw.md",
     "0 Help.md/Pasted Image 20240619103445_600.png",
     "Excalidraw/Pasted image 20240615073438.png",
     "0 Help.md/Pasted Image 20240619105930_233.png",
@@ -290,7 +289,6 @@
     "0 Help.md/Pasted Image 20240619103533_634.png",
     "Excalidraw/Pasted Image 20240612194848_349.png",
     "Excalidraw/Pasted image 20230724044538.png",
-    "0 Help.md/MathJax symbol reference.pdf",
     "0 Help.md/markus-spiske-666905-unsplash.jpg",
     "obsidian format/MathJax symbol reference .html",
     "Excalidraw/pngwing.com.png.crdownload",
