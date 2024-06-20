@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2760c89ba087a60a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "0 Help.md/MathJax symbol reference.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/Physics/Circular Motion.md"
+                "file": "0 Help.md/MathJax symbol reference.pdf"
               }
             }
           },
@@ -153,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/Physics/Circular Motion.md"
+                "file": "0 Help.md/MathJax symbol reference.pdf"
               }
             }
           },
@@ -194,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Physics/Circular Motion.md",
+                "file": "0 Help.md/MathJax symbol reference.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Physics/Circular Motion.md",
+                "file": "0 Help.md/MathJax symbol reference.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -242,12 +253,12 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "d36e1030c589c405",
+  "active": "2760c89ba087a60a",
   "lastOpenFiles": [
+    "School studies/Physics/Circular Motion.md",
     "School studies/Physics/Thermal Physics.md",
     "School studies/Chemistry/Benzene and its compounds.md",
     "School studies/CS/Data Representation.md",
-    "School studies/Physics/Circular Motion.md",
     "Excalidraw/Thermocouple.excalidraw.md",
     "Excalidraw/somebenzenecompunds.excalidraw.md",
     "Excalidraw/Site change electrophyllic reaction.excalidraw.md",
