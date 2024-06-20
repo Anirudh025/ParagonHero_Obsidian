@@ -13,10 +13,10 @@ $\theta = s/r$
 Where $s = displacement$ and $r = angle$
 
  For one complete revolution:
- 1. Total angle = $360\degree$
- 2. Total radians = $2\pi$
+ 1. Total angle $= 360\degree$
+ 2. Total radians $= 2\pi$
 $2\pi = 360$
-$1 radian (rad) = \frac{360}{2\pi} = 57.3 \degree$
+$1 \space radian (rad) = \frac{360}{2\pi} = 57.3 \degree$
 
 1 radian is the angle subtended at the centre of the circle where the arc length is equal to the radius of the circle.
 
