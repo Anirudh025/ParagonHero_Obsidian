@@ -40,7 +40,13 @@
     "maxLinkFactor": 1,
     "showDebugMessages": false
   },
-  "buryDate": "2023-10-09",
-  "buryList": [],
-  "historyDeck": ""
+  "buryDate": "2024-06-20",
+  "buryList": [
+    "1609b28c5ac89b",
+    "f0737a2db9c9a",
+    "e5272d267628e",
+    "15503db4e0daa",
+    "255ec67b532cf"
+  ],
+  "historyDeck": "Physics"
 }
