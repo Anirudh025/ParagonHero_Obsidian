@@ -212,7 +212,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -237,7 +238,7 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "363316b58ba63505",
+  "active": "a3d21c7ad933cefe",
   "lastOpenFiles": [
     "School studies/Physics/Circular Motion.md",
     "0 Help.md/MathJax symbol reference.pdf",
