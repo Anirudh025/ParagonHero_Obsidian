@@ -19,7 +19,7 @@
             "id": "1e969bb9e59a1038",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -193,7 +193,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "ee8dc2d84a2c2258",
+  "active": "1e969bb9e59a1038",
   "lastOpenFiles": [
     "School studies/CS/Pseudocode.md",
     "School studies/English Language El/EL, The market P1 and P2.md",
