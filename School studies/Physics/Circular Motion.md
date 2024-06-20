@@ -9,11 +9,11 @@ Circular motion :: An object performing a motion such that the distance of the o
 >This is measured in radians
 
 # Angular Displacement
-Theta = s/r
-Where s = displacement and r = angle
+$\theta = s/r$
+Where $s = displacement$ and $r = angle$
 
  For one complete revolution:
- 1. Total angle = $360 degrees
+ 1. Total angle = $360\degree$
  2. Total radians = $2\pi$
 $2\pi = 360$
 $1 radian (rad) = \frac{360}{2\pi} = 57.3 \degree$
