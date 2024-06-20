@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8d9f75ba2bd10c24",
+        "id": "194fa48124ca0ebf",
         "type": "tabs",
         "children": [
           {
-            "id": "859eb66ca8bc687f",
+            "id": "2ec277ebc63dafe2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School studies/Physics/Thermal Physics.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -115,7 +110,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       },
       {
         "id": "cb675aca7cd66052",
@@ -221,7 +216,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 323.5
   },
   "left-ribbon": {
     "hiddenItems": {
