@@ -29,8 +29,19 @@
                 "file": "0 Help.md/MathJax symbol reference.pdf"
               }
             }
+          },
+          {
+            "id": "c351d2f058c41936",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://mathematica.stackexchange.com/questions/147141/convert-radian-to-degree-and-add"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -137,9 +148,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "School studies/Physics/Circular Motion.md"
-              }
+              "state": {}
             }
           },
           {
@@ -162,9 +171,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "School studies/Physics/Circular Motion.md"
-              }
+              "state": {}
             }
           },
           {
@@ -204,7 +211,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Physics/Circular Motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +227,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Physics/Circular Motion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -252,10 +257,10 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "d36e1030c589c405",
+  "active": "c351d2f058c41936",
   "lastOpenFiles": [
-    "0 Help.md/MathJax symbol reference.pdf",
     "School studies/Physics/Circular Motion.md",
+    "0 Help.md/MathJax symbol reference.pdf",
     "School studies/Physics/Thermal Physics.md",
     "School studies/Chemistry/Benzene and its compounds.md",
     "School studies/CS/Data Representation.md",

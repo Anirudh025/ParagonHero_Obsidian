@@ -46,7 +46,19 @@
     ],
     "defaultFilterType": "tree"
   },
-  "treeData": [],
+  "treeData": [
+    {
+      "id": "c351d2f058c41936",
+      "parent": 0,
+      "droppable": true,
+      "text": "trigonometry - Convert radian to degree and add ° - Mathematica Stack Exchange",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    }
+  ],
   "enableHtmlPreview": true,
   "supportLivePreviewInlineUrl": false,
   "enableTreeView": true
