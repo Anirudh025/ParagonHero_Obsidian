@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/Physics/Circular Motion.md",
+                "file": "School studies/Physics/Thermal Physics.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -115,7 +115,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       },
       {
         "id": "cb675aca7cd66052",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/Physics/Circular Motion.md"
+                "file": "School studies/Physics/Thermal Physics.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/Physics/Circular Motion.md"
+                "file": "School studies/Physics/Thermal Physics.md"
               }
             }
           },
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Physics/Circular Motion.md",
+                "file": "School studies/Physics/Thermal Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Physics/Circular Motion.md",
+                "file": "School studies/Physics/Thermal Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -221,7 +221,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 252.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -242,11 +242,11 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "859eb66ca8bc687f",
+  "active": "363316b58ba63505",
   "lastOpenFiles": [
+    "School studies/Physics/Circular Motion.md",
     "0 Help.md/MathJax symbol reference.pdf",
     "0 Help.md/Obsidian-formatting.md",
-    "School studies/Physics/Circular Motion.md",
     "School studies/Physics/Thermal Physics.md",
     "School studies/Chemistry/Benzene and its compounds.md",
     "School studies/CS/Data Representation.md",
