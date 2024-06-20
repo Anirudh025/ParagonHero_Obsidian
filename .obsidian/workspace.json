@@ -11,13 +11,8 @@
             "id": "d36e1030c589c405",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -114,7 +109,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "cb675aca7cd66052",
@@ -126,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md"
-              }
+              "state": {}
             }
           },
           {
@@ -151,9 +145,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md"
-              }
+              "state": {}
             }
           },
           {
@@ -193,7 +185,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +201,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -243,6 +233,7 @@
   },
   "active": "d36e1030c589c405",
   "lastOpenFiles": [
+    "School studies/Chemistry/Benzene and its compounds.md",
     "School studies/CS/Data Representation.md",
     "School studies/Physics/Circular Motion.md",
     "Excalidraw/Thermocouple.excalidraw.md",
@@ -269,7 +260,6 @@
     "Excalidraw/benzene Double bond.png",
     "Excalidraw/benzenecoumpounds with special names.excalidraw.md",
     "Excalidraw/benzne+cl2 (alcl3).excalidraw.md",
-    "School studies/Chemistry/Benzene and its compounds.md",
     "0 Help.md/Pasted Image 20240619103445_600.png",
     "Excalidraw/Pasted image 20240615073438.png",
     "0 Help.md/Pasted Image 20240619105930_233.png",
