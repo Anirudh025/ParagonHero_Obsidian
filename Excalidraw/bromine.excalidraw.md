@@ -1,8 +1,8 @@
 ---
-
 excalidraw-plugin: parsed
-tags: [excalidraw]
-
+tags:
+  - excalidraw
+  - "#todo/chemistry/bromophenol"
 ---
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 
@@ -57,6 +57,8 @@ H ^dox5hSt7
 Cl ^AQDNE1Fj
 
 + HCl + AlCl₄ ^eVn7owNI
+
+Make reaction of Bromophenol ^kBnUadkd
 
 
 # Embedded files
@@ -2616,6 +2618,43 @@ Cl ^AQDNE1Fj
 			"lastCommittedPoint": null,
 			"simulatePressure": true,
 			"pressures": []
+		},
+		{
+			"id": "kBnUadkd",
+			"type": "text",
+			"x": -332.7615169382754,
+			"y": -145.55019279654124,
+			"width": 293.479736328125,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1371914610,
+			"version": 53,
+			"versionNonce": 286196526,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1718936655105,
+			"link": null,
+			"locked": false,
+			"text": "Make reaction of Bromophenol",
+			"rawText": "Make reaction of Bromophenol",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 17,
+			"containerId": null,
+			"originalText": "Make reaction of Bromophenol",
+			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
