@@ -150,8 +150,8 @@ Electrophilic Substitution Reaction ^8hdIgWzV
 		},
 		{
 			"type": "arrow",
-			"version": 189,
-			"versionNonce": 819612206,
+			"version": 191,
+			"versionNonce": 1629985198,
 			"isDeleted": false,
 			"id": "vb_KaklGjVt8igK4RACgX",
 			"fillStyle": "hachure",
@@ -171,7 +171,7 @@ Electrophilic Substitution Reaction ^8hdIgWzV
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1718936940979,
+			"updated": 1718937147777,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -371,8 +371,8 @@ Electrophilic Substitution Reaction ^8hdIgWzV
 		},
 		{
 			"type": "arrow",
-			"version": 503,
-			"versionNonce": 808720046,
+			"version": 505,
+			"versionNonce": 1377011246,
 			"isDeleted": false,
 			"id": "Urp3yQ88YOwnN7qtGjpPC",
 			"fillStyle": "hachure",
@@ -392,7 +392,7 @@ Electrophilic Substitution Reaction ^8hdIgWzV
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1718936940979,
+			"updated": 1718937147778,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -425,8 +425,8 @@ Electrophilic Substitution Reaction ^8hdIgWzV
 		},
 		{
 			"type": "arrow",
-			"version": 249,
-			"versionNonce": 1541718830,
+			"version": 251,
+			"versionNonce": 156127918,
 			"isDeleted": false,
 			"id": "R_v0ym3MWx1rDcR95avgL",
 			"fillStyle": "hachure",
@@ -446,7 +446,7 @@ Electrophilic Substitution Reaction ^8hdIgWzV
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1718936940980,
+			"updated": 1718937147778,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -814,8 +814,8 @@ Electrophilic Substitution Reaction ^8hdIgWzV
 		},
 		{
 			"type": "arrow",
-			"version": 260,
-			"versionNonce": 486550894,
+			"version": 261,
+			"versionNonce": 361483502,
 			"isDeleted": false,
 			"id": "4wKYJbX-eRRVeBPpxGOTM",
 			"fillStyle": "hachure",
@@ -835,7 +835,7 @@ Electrophilic Substitution Reaction ^8hdIgWzV
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1718936940980,
+			"updated": 1718937147781,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1368,8 +1368,8 @@ Electrophilic Substitution Reaction ^8hdIgWzV
 		},
 		{
 			"type": "arrow",
-			"version": 1120,
-			"versionNonce": 472525294,
+			"version": 1122,
+			"versionNonce": 653519214,
 			"isDeleted": false,
 			"id": "1wRCdNZZfdpDahz55-wjP",
 			"fillStyle": "hachure",
@@ -1389,7 +1389,7 @@ Electrophilic Substitution Reaction ^8hdIgWzV
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1718936940980,
+			"updated": 1718937147781,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1650,8 +1650,8 @@ Electrophilic Substitution Reaction ^8hdIgWzV
 		},
 		{
 			"type": "arrow",
-			"version": 357,
-			"versionNonce": 1701493806,
+			"version": 358,
+			"versionNonce": 2144373678,
 			"isDeleted": false,
 			"id": "E1hKmpnfmqzT5FLzh5i4S",
 			"fillStyle": "hachure",
@@ -1671,7 +1671,7 @@ Electrophilic Substitution Reaction ^8hdIgWzV
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1718936940980,
+			"updated": 1718937147781,
 			"link": null,
 			"locked": false,
 			"startBinding": {
