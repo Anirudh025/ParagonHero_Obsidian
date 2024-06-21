@@ -1,8 +1,8 @@
 ---
-
 excalidraw-plugin: parsed
-tags: [excalidraw]
-
+tags:
+  - excalidraw
+  - "#todo/chemistry/nitrogroupstability"
 ---
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 
@@ -22,6 +22,8 @@ O= ^qZ6fvIdd
 
 : ^HOZ1N6xe
 
+Create the passing the parcel ^0RnJ70Wm
+
 
 # Embedded files
 f7c18c704a9364b601bb2be5cc4369cbba9cd5c8: [[benzene Double bond.png]]
@@ -36,8 +38,8 @@ f7c18c704a9364b601bb2be5cc4369cbba9cd5c8: [[benzene Double bond.png]]
 	"elements": [
 		{
 			"type": "image",
-			"version": 229,
-			"versionNonce": 1841226418,
+			"version": 268,
+			"versionNonce": 699303282,
 			"isDeleted": false,
 			"id": "5BcrUVC05N4wjx0Aj3lzO",
 			"fillStyle": "hachure",
@@ -46,8 +48,8 @@ f7c18c704a9364b601bb2be5cc4369cbba9cd5c8: [[benzene Double bond.png]]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 134.81221504652484,
-			"y": -25.897606267125,
+			"x": -61.854441447615784,
+			"y": -94.5642627612656,
 			"strokeColor": "transparent",
 			"backgroundColor": "transparent",
 			"width": 63.14201616158378,
@@ -57,7 +59,7 @@ f7c18c704a9364b601bb2be5cc4369cbba9cd5c8: [[benzene Double bond.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1718937439393,
+			"updated": 1718937440848,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -69,8 +71,8 @@ f7c18c704a9364b601bb2be5cc4369cbba9cd5c8: [[benzene Double bond.png]]
 		},
 		{
 			"type": "line",
-			"version": 29,
-			"versionNonce": 1760803954,
+			"version": 68,
+			"versionNonce": 878774066,
 			"isDeleted": false,
 			"id": "EEAdjo1L1mR8flkPPH8ib",
 			"fillStyle": "hachure",
@@ -79,8 +81,8 @@ f7c18c704a9364b601bb2be5cc4369cbba9cd5c8: [[benzene Double bond.png]]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 166.47423260354705,
-			"y": -20.641156500679145,
+			"x": -30.192423890593574,
+			"y": -89.30781299481974,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 0.7521566334739589,
@@ -92,7 +94,7 @@ f7c18c704a9364b601bb2be5cc4369cbba9cd5c8: [[benzene Double bond.png]]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1718937439393,
+			"updated": 1718937440848,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -113,8 +115,8 @@ f7c18c704a9364b601bb2be5cc4369cbba9cd5c8: [[benzene Double bond.png]]
 		},
 		{
 			"type": "line",
-			"version": 38,
-			"versionNonce": 1676107314,
+			"version": 77,
+			"versionNonce": 1356681458,
 			"isDeleted": false,
 			"id": "6zd05JCENnaZvCNm36gvn",
 			"fillStyle": "hachure",
@@ -123,8 +125,8 @@ f7c18c704a9364b601bb2be5cc4369cbba9cd5c8: [[benzene Double bond.png]]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 194.30380424230282,
-			"y": -5.97421404782726,
+			"x": -2.3628522518378077,
+			"y": -74.64087054196786,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 13.914803034745688,
@@ -136,7 +138,7 @@ f7c18c704a9364b601bb2be5cc4369cbba9cd5c8: [[benzene Double bond.png]]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1718937439393,
+			"updated": 1718937440848,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -157,8 +159,8 @@ f7c18c704a9364b601bb2be5cc4369cbba9cd5c8: [[benzene Double bond.png]]
 		},
 		{
 			"type": "text",
-			"version": 58,
-			"versionNonce": 192989170,
+			"version": 97,
+			"versionNonce": 850027186,
 			"isDeleted": false,
 			"id": "6HNqdOs0",
 			"fillStyle": "hachure",
@@ -167,8 +169,8 @@ f7c18c704a9364b601bb2be5cc4369cbba9cd5c8: [[benzene Double bond.png]]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 163.8417102094398,
-			"y": -57.872625804072314,
+			"x": -32.824946284700815,
+			"y": -126.53928229821291,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 25.53997802734375,
@@ -178,7 +180,7 @@ f7c18c704a9364b601bb2be5cc4369cbba9cd5c8: [[benzene Double bond.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1718937439393,
+			"updated": 1718937440848,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -194,8 +196,8 @@ f7c18c704a9364b601bb2be5cc4369cbba9cd5c8: [[benzene Double bond.png]]
 		},
 		{
 			"type": "text",
-			"version": 55,
-			"versionNonce": 1472657842,
+			"version": 94,
+			"versionNonce": 74398834,
 			"isDeleted": false,
 			"id": "2mJGCtF1",
 			"fillStyle": "hachure",
@@ -204,8 +206,8 @@ f7c18c704a9364b601bb2be5cc4369cbba9cd5c8: [[benzene Double bond.png]]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 208.2186072770485,
-			"y": -24.401922452681205,
+			"x": 11.55195078290788,
+			"y": -93.0685789468218,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 22.879989624023438,
@@ -220,7 +222,7 @@ f7c18c704a9364b601bb2be5cc4369cbba9cd5c8: [[benzene Double bond.png]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1718937439393,
+			"updated": 1718937440848,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -236,8 +238,8 @@ f7c18c704a9364b601bb2be5cc4369cbba9cd5c8: [[benzene Double bond.png]]
 		},
 		{
 			"type": "arrow",
-			"version": 343,
-			"versionNonce": 669053810,
+			"version": 461,
+			"versionNonce": 441419758,
 			"isDeleted": false,
 			"id": "mbyn8VLwLPC7vk_wqXTH0",
 			"fillStyle": "hachure",
@@ -246,8 +248,8 @@ f7c18c704a9364b601bb2be5cc4369cbba9cd5c8: [[benzene Double bond.png]]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 223.8756886243958,
-			"y": -12.749248308126468,
+			"x": 27.209032130255167,
+			"y": -81.41590480226706,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 9.675076488241206,
@@ -259,12 +261,12 @@ f7c18c704a9364b601bb2be5cc4369cbba9cd5c8: [[benzene Double bond.png]]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1718937439393,
+			"updated": 1718937440848,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "sAfiVVQb",
-				"focus": -0.11845074527231982,
+				"focus": -0.11845074527231914,
 				"gap": 1
 			},
 			"endBinding": {
@@ -288,8 +290,8 @@ f7c18c704a9364b601bb2be5cc4369cbba9cd5c8: [[benzene Double bond.png]]
 		},
 		{
 			"type": "text",
-			"version": 43,
-			"versionNonce": 1578480946,
+			"version": 82,
+			"versionNonce": 183663026,
 			"isDeleted": false,
 			"id": "2XnIUu1g",
 			"fillStyle": "hachure",
@@ -298,8 +300,8 @@ f7c18c704a9364b601bb2be5cc4369cbba9cd5c8: [[benzene Double bond.png]]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 234.16779593980326,
-			"y": -14.247885369937606,
+			"x": 37.50113944566263,
+			"y": -82.9145418640782,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 14.519989013671875,
@@ -309,7 +311,7 @@ f7c18c704a9364b601bb2be5cc4369cbba9cd5c8: [[benzene Double bond.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1718937439394,
+			"updated": 1718937440848,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -325,8 +327,8 @@ f7c18c704a9364b601bb2be5cc4369cbba9cd5c8: [[benzene Double bond.png]]
 		},
 		{
 			"type": "text",
-			"version": 173,
-			"versionNonce": 2076983026,
+			"version": 212,
+			"versionNonce": 1771860850,
 			"isDeleted": false,
 			"id": "qZ6fvIdd",
 			"fillStyle": "hachure",
@@ -335,8 +337,8 @@ f7c18c704a9364b601bb2be5cc4369cbba9cd5c8: [[benzene Double bond.png]]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 1.8191976161244732,
-			"x": 202.08682189737186,
-			"y": -46.491846364161304,
+			"x": 5.420165403231238,
+			"y": -115.1585028583019,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 26.8599853515625,
@@ -351,7 +353,7 @@ f7c18c704a9364b601bb2be5cc4369cbba9cd5c8: [[benzene Double bond.png]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1718937439394,
+			"updated": 1718937440848,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -367,8 +369,8 @@ f7c18c704a9364b601bb2be5cc4369cbba9cd5c8: [[benzene Double bond.png]]
 		},
 		{
 			"type": "text",
-			"version": 101,
-			"versionNonce": 1032556722,
+			"version": 140,
+			"versionNonce": 1549874482,
 			"isDeleted": false,
 			"id": "sAfiVVQb",
 			"fillStyle": "hachure",
@@ -377,8 +379,8 @@ f7c18c704a9364b601bb2be5cc4369cbba9cd5c8: [[benzene Double bond.png]]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0.3673456452117936,
-			"x": 218.7487140688452,
-			"y": -25.1540618707874,
+			"x": 22.082057574704578,
+			"y": -93.820718364928,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
 			"width": 4.839996337890625,
@@ -393,7 +395,7 @@ f7c18c704a9364b601bb2be5cc4369cbba9cd5c8: [[benzene Double bond.png]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1718937439394,
+			"updated": 1718937440848,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -409,8 +411,8 @@ f7c18c704a9364b601bb2be5cc4369cbba9cd5c8: [[benzene Double bond.png]]
 		},
 		{
 			"type": "text",
-			"version": 227,
-			"versionNonce": 922397298,
+			"version": 266,
+			"versionNonce": 1056379058,
 			"isDeleted": false,
 			"id": "zxtb0J6t",
 			"fillStyle": "hachure",
@@ -419,8 +421,8 @@ f7c18c704a9364b601bb2be5cc4369cbba9cd5c8: [[benzene Double bond.png]]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 6.2689007794170575,
-			"x": 157.28489359480702,
-			"y": -58.714309885116464,
+			"x": -39.38176289933361,
+			"y": -127.38096637925705,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
 			"width": 4.839996337890625,
@@ -430,7 +432,7 @@ f7c18c704a9364b601bb2be5cc4369cbba9cd5c8: [[benzene Double bond.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1718937439394,
+			"updated": 1718937440848,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -446,8 +448,8 @@ f7c18c704a9364b601bb2be5cc4369cbba9cd5c8: [[benzene Double bond.png]]
 		},
 		{
 			"type": "text",
-			"version": 325,
-			"versionNonce": 1860209714,
+			"version": 364,
+			"versionNonce": 2130061938,
 			"isDeleted": false,
 			"id": "HOZ1N6xe",
 			"fillStyle": "hachure",
@@ -456,8 +458,8 @@ f7c18c704a9364b601bb2be5cc4369cbba9cd5c8: [[benzene Double bond.png]]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 1.557284471573606,
-			"x": 168.9010419257814,
-			"y": -68.90235334732692,
+			"x": -27.76561456835921,
+			"y": -137.56900984146756,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
 			"width": 4.839996337890625,
@@ -467,7 +469,7 @@ f7c18c704a9364b601bb2be5cc4369cbba9cd5c8: [[benzene Double bond.png]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1718937439394,
+			"updated": 1718937440848,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -480,6 +482,43 @@ f7c18c704a9364b601bb2be5cc4369cbba9cd5c8: [[benzene Double bond.png]]
 			"originalText": ":",
 			"lineHeight": 1.25,
 			"baseline": 17
+		},
+		{
+			"id": "0RnJ70Wm",
+			"type": "text",
+			"x": -28.31445093040577,
+			"y": -174.6005616216804,
+			"width": 298.93975830078125,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1282942898,
+			"version": 30,
+			"versionNonce": 328545710,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1718937451394,
+			"link": null,
+			"locked": false,
+			"text": "Create the passing the parcel",
+			"rawText": "Create the passing the parcel",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 17,
+			"containerId": null,
+			"originalText": "Create the passing the parcel",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
@@ -497,10 +536,10 @@ f7c18c704a9364b601bb2be5cc4369cbba9cd5c8: [[benzene Double bond.png]]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 455.25,
-		"scrollY": 320.76043701171875,
+		"scrollX": 253.0028628862757,
+		"scrollY": 300.1568259042929,
 		"zoom": {
-			"value": 1
+			"value": 1.8995205785617102
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
