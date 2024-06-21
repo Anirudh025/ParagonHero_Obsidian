@@ -26,7 +26,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-21 07.55.48.excalidraw.md"
+                "file": "Excalidraw/Creating nitrobenzene but better.excalidraw.md"
               }
             }
           },
@@ -40,8 +40,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-21 07.55.48.excalidraw.md"
+                "file": "School studies/Chemistry/Benzene and its compounds.md"
               }
             }
           },
@@ -175,7 +174,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-21 07.55.48.excalidraw.md"
+                "file": "School studies/Chemistry/Benzene and its compounds.md"
               }
             }
           },
@@ -216,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-21 07.55.48.excalidraw.md",
+                "file": "School studies/Chemistry/Benzene and its compounds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-21 07.55.48.excalidraw.md",
+                "file": "School studies/Chemistry/Benzene and its compounds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -266,10 +265,10 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "243baec62b377047",
+  "active": "2ec277ebc63dafe2",
   "lastOpenFiles": [
+    "Excalidraw/Creating nitrobenzene but better.excalidraw.md",
     "Excalidraw/chemthing.excalidraw.md",
-    "Excalidraw/Drawing 2024-06-21 07.55.48.excalidraw.md",
     "Excalidraw/bromine.excalidraw.md",
     "Excalidraw/benzne+cl2 (alcl3).excalidraw.md",
     "School studies/Chemistry/Benzene and its compounds.md",
