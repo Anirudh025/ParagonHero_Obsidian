@@ -11,8 +11,13 @@
             "id": "2ec277ebc63dafe2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "School studies/Chemistry/Benzene and its compounds.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -58,7 +63,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d967d98868519a35",
@@ -123,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/Physics/Thermal Physics.md"
+                "file": "School studies/Chemistry/Benzene and its compounds.md"
               }
             }
           },
@@ -148,7 +154,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/Physics/Thermal Physics.md"
+                "file": "School studies/Chemistry/Benzene and its compounds.md"
               }
             }
           },
@@ -189,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Physics/Thermal Physics.md",
+                "file": "School studies/Chemistry/Benzene and its compounds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Physics/Thermal Physics.md",
+                "file": "School studies/Chemistry/Benzene and its compounds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -238,7 +244,7 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "9317a1770b4fbb1c",
+  "active": "2ec277ebc63dafe2",
   "lastOpenFiles": [
     "School studies/Physics/Circular Motion.md",
     "0 Help.md/MathJax symbol reference.pdf",
