@@ -19,19 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d1d31abdcd3eea1b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Alcohol + acid.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -140,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Alcohol + acid.excalidraw.md"
+                "file": "School studies/Chemistry/Benzene and its compounds.md"
               }
             }
           },
@@ -165,7 +154,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Alcohol + acid.excalidraw.md"
+                "file": "School studies/Chemistry/Benzene and its compounds.md"
               }
             }
           },
@@ -206,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Alcohol + acid.excalidraw.md",
+                "file": "School studies/Chemistry/Benzene and its compounds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Alcohol + acid.excalidraw.md",
+                "file": "School studies/Chemistry/Benzene and its compounds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -255,7 +244,7 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "d1d31abdcd3eea1b",
+  "active": "2ec277ebc63dafe2",
   "lastOpenFiles": [
     "Excalidraw/Alcohol + acid.excalidraw.md",
     "School studies/Chemistry/Benzene and its compounds.md",
