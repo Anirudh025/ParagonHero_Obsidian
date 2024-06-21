@@ -32,22 +32,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3e6a64754ff44d15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -220,7 +207,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,7 +223,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -269,7 +254,7 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "3e6a64754ff44d15",
+  "active": "9317a1770b4fbb1c",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Excalidraw/types of benzene substituents.excalidraw.md",
