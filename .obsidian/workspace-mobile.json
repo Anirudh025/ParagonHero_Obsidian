@@ -21,7 +21,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "0 Help.md/Pasted Image 20240619103445_600.png"
+                "file": "0 Help.md/Drawing Pallet.png"
               }
             }
           },
@@ -46,7 +46,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0 Help.md/Pasted Image 20240619103445_600.png",
+                "file": "0 Help.md/Drawing Pallet.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "0 Help.md/Pasted Image 20240619103445_600.png",
+            "file": "0 Help.md/Drawing Pallet.png",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "0 Help.md/Pasted Image 20240619103445_600.png",
+            "file": "0 Help.md/Drawing Pallet.png",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -159,7 +159,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "0 Help.md/Pasted Image 20240619103445_600.png"
+            "file": "0 Help.md/Drawing Pallet.png"
           }
         }
       },
@@ -210,6 +210,8 @@
   },
   "active": "1e969bb9e59a1038",
   "lastOpenFiles": [
+    "0 Help.md/Excalidraw example.excalidraw.md",
+    "0 Help.md/Drawing Pallet.png",
     "Excalidraw/benzne+cl2 (alcl3).excalidraw.md",
     "School studies/Chemistry/Chem unorganized.md",
     "Excalidraw/types of benzene substituents.excalidraw.md",
@@ -237,7 +239,6 @@
     "/Excalidraw/Pasted image 20231219192124.png",
     "newsletter/Issue 4.md",
     "Excalidraw/hdd-ssd.excalidraw.md",
-    "/newsletter/Issue 4.md",
     "School studies/CS/Logic gates.canvas",
     "School studies/CS/Logic gates practice.canvas",
     "Excalidraw/Untitled.canvas",
@@ -248,7 +249,6 @@
     "Excalidraw/Pasted image 20231006130633.png",
     "Excalidraw/Pasted image 20231006130609.png",
     "Excalidraw/Pasted image 20231006130553.png",
-    "Excalidraw/Pasted Image 20231006130523_896.png",
     "/School studies/CS/Logic gates.canvas",
     "/School studies/CS/Logic gates practice.canvas",
     "/Excalidraw/Untitled.canvas",
