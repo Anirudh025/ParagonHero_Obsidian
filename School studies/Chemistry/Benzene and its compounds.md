@@ -23,7 +23,7 @@ Benzene %% #chemistry/benzene %%:
 ### Reacting Benzene
 1. By using Cl₂ with a catalyst of AlCl₃ we can create Chlorobenzene %% #chemistry/chlorination%%
 	- ![[benzne+cl2 (alcl3).excalidraw|550]]
-2. Benzene reacts with NO₂ to form Nitrobenzene: %% #chemistry/nitration%%
+2. Benzene reacts with HNO₃ to form Nitrobenzene: %% #chemistry/nitration%%
 	- ![[Reaction mechanism no2+benzene.excalidraw|600]]
 3. Benzene reacts with  CH₃Cl to form methyl-benzene: %% #chemistry/alkylation%%
 	- ![[Friedel Craft Alkylation of benzene.excalidraw|550]]
@@ -37,6 +37,7 @@ Benzene %% #chemistry/benzene %%:
 	- ![[Hydrogenation of benzene .excalidraw|500]]
 
 ==Due to its stability benzene does not undergo some of the addition reactions that other alkenes do== 
+#todo/chemistry/whyphenolismoreacididcthanethanol
 ### Aromatic Compounds
 **Aromatic Compounds** :: **Compounds are those that contain a ring of delocalized electrons**
 Some Examples of Aromatic compounds are: 
