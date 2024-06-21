@@ -19,8 +19,10 @@
             "id": "1e969bb9e59a1038",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "0 Help.md/Drawing Pallet.png"
+              }
             }
           },
           {
@@ -44,6 +46,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "0 Help.md/Drawing Pallet.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,6 +130,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "0 Help.md/Drawing Pallet.png",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -143,6 +147,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "0 Help.md/Drawing Pallet.png",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -153,7 +158,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "0 Help.md/Drawing Pallet.png"
+          }
         }
       },
       {
@@ -203,6 +210,26 @@
   },
   "active": "1e969bb9e59a1038",
   "lastOpenFiles": [
+    "0 Help.md/Excalidraw example.excalidraw.md",
+    "0 Help.md/Drawing Pallet.png",
+    "Excalidraw/benzne+cl2 (alcl3).excalidraw.md",
+    "School studies/Chemistry/Chem unorganized.md",
+    "Excalidraw/types of benzene substituents.excalidraw.md",
+    "Excalidraw/chemthing.excalidraw.md",
+    "Excalidraw/bromine.excalidraw.md",
+    "Excalidraw/Sodium pheoxide.excalidraw.md",
+    "Excalidraw/Creating nitrobenzene but better.excalidraw.md",
+    "/School studies/Physics/Thermal Physics.md",
+    "/School studies/Physics/Circular Motion.md",
+    "/School studies/Chemistry/Chem unorganized.md",
+    "/School studies/Chemistry/Benzene and its compounds.md",
+    "/School studies/CS/Data Representation.md",
+    "/Excalidraw/types of benzene substituents.excalidraw.md",
+    "/Excalidraw/chemthing.excalidraw.md",
+    "/Excalidraw/bromine.excalidraw.md",
+    "/Excalidraw/benzne+cl2 (alcl3).excalidraw.md",
+    "/Excalidraw/Sodium pheoxide.excalidraw.md",
+    "/Excalidraw/Creating nitrobenzene but better.excalidraw.md",
     "School studies/CS/Pseudocode.md",
     "School studies/English Language El/EL, The market P1 and P2.md",
     "School studies/CS/Hardware.md",
@@ -212,24 +239,8 @@
     "/Excalidraw/Pasted image 20231219192124.png",
     "newsletter/Issue 4.md",
     "Excalidraw/hdd-ssd.excalidraw.md",
-    "/newsletter/Issue 4.md",
-    "/School studies/CS/networking/Hardware.md",
-    "/Excalidraw/hdd-ssd.excalidraw.md",
-    "School studies/CS/networking/Hardware.md",
-    "Excalidraw/Memory.excalidraw.md",
-    "/Excalidraw/Memory.excalidraw.md",
-    "School studies/CS/Programming.md",
-    "Ascii symbols.md",
-    "Excalidraw/cs-hw-gdhjksl.excalidraw.md",
-    "School studies/CS/Datatypes and structures.md",
-    "School studies/physics notes/1.Physics.readme.md",
-    "School studies/CS/questions.md",
     "School studies/CS/Logic gates.canvas",
     "School studies/CS/Logic gates practice.canvas",
-    "Physics stuff from past papers.md",
-    "Ignite.md",
-    "Excalidraw/mathquestions.excalidraw.md",
-    "Excalidraw/chem questions.excalidraw.md",
     "Excalidraw/Untitled.canvas",
     "Excalidraw/Pasted image 20231006193704.png",
     "Excalidraw/Pasted image 20231006130751.png",
@@ -238,10 +249,6 @@
     "Excalidraw/Pasted image 20231006130633.png",
     "Excalidraw/Pasted image 20231006130609.png",
     "Excalidraw/Pasted image 20231006130553.png",
-    "Excalidraw/Pasted Image 20231006130523_896.png",
-    "Excalidraw/Hess-Law.excalidraw.md",
-    "Chem stuff from past papers.md",
-    "/School studies/English Language El/English Language EL.md",
     "/School studies/CS/Logic gates.canvas",
     "/School studies/CS/Logic gates practice.canvas",
     "/Excalidraw/Untitled.canvas",
