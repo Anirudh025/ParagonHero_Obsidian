@@ -31,16 +31,6 @@
             }
           },
           {
-            "id": "8d971acd46bafb11",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/benzne+cl2 (alcl3).excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "d2aa0e7ed10a17dc",
             "type": "leaf",
             "state": {
@@ -51,7 +41,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -160,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-21 07.55.48.excalidraw.md"
+                "file": "Excalidraw/bromine.excalidraw.md"
               }
             }
           },
@@ -185,7 +175,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-21 07.55.48.excalidraw.md"
+                "file": "Excalidraw/bromine.excalidraw.md"
               }
             }
           },
@@ -226,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-21 07.55.48.excalidraw.md",
+                "file": "Excalidraw/bromine.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-21 07.55.48.excalidraw.md",
+                "file": "Excalidraw/bromine.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -275,12 +265,12 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "243baec62b377047",
+  "active": "d2aa0e7ed10a17dc",
   "lastOpenFiles": [
-    "School studies/Chemistry/Benzene and its compounds.md",
     "Excalidraw/Drawing 2024-06-21 07.55.48.excalidraw.md",
-    "Excalidraw/bromine.excalidraw.md",
     "Excalidraw/benzne+cl2 (alcl3).excalidraw.md",
+    "School studies/Chemistry/Benzene and its compounds.md",
+    "Excalidraw/bromine.excalidraw.md",
     "Excalidraw/Alcohol + acid.excalidraw.md",
     "School studies/Physics/Circular Motion.md",
     "0 Help.md/MathJax symbol reference.pdf",
