@@ -73,8 +73,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/Chemistry/Chem unorganized.md"
+                "file": "School studies/Chemistry/Benzene and its compounds.md"
               }
             }
           },
@@ -207,7 +206,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/Chemistry/Chem unorganized.md"
+                "file": "School studies/Chemistry/Benzene and its compounds.md"
               }
             }
           },
@@ -248,7 +247,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Chemistry/Chem unorganized.md",
+                "file": "School studies/Chemistry/Benzene and its compounds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +264,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Chemistry/Chem unorganized.md",
+                "file": "School studies/Chemistry/Benzene and its compounds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -297,10 +296,10 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "f8c7253aa743aa35",
+  "active": "2ec277ebc63dafe2",
   "lastOpenFiles": [
-    "School studies/Chemistry/Benzene and its compounds.md",
     "School studies/Chemistry/Chem unorganized.md",
+    "School studies/Chemistry/Benzene and its compounds.md",
     "Excalidraw/Creating nitrobenzene but better.excalidraw.md",
     "Excalidraw/Sodium pheoxide.excalidraw.md",
     "Excalidraw/types of benzene substituents.excalidraw.md",
