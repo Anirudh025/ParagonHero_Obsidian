@@ -1312,8 +1312,8 @@ ca6d96d2c219292b3277372da55b7d55e215631c: [[ringbenzene]]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 275.01092475031425,
-		"scrollY": 720.647242722328,
+		"scrollX": 190.54707061845718,
+		"scrollY": 713.1544729190587,
 		"zoom": {
 			"value": 0.9787226484203204
 		},
