@@ -1,22 +1,58 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": true,
-  "hideUnresolved": true,
-  "showOrphans": false,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"0 Help.md\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 9859804
+      }
+    },
+    {
+      "query": "path:\"School studies/CS\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 47107
+      }
+    },
+    {
+      "query": "path:\"School studies/Chemistry\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15451402
+      }
+    },
+    {
+      "query": "path:\"School studies/Physics\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "tag:#excalidraw  ",
+      "color": {
+        "a": 1,
+        "rgb": 7648415
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -0.4,
+  "textFadeMultiplier": -0.7,
   "nodeSizeMultiplier": 1.60477388173793,
   "lineSizeMultiplier": 2.40899541352271,
   "collapse-forces": false,
-  "centerStrength": 0.382847561276323,
-  "repelStrength": 14.0957735365192,
-  "linkStrength": 0.521724120925186,
+  "centerStrength": 0.64878892733564,
+  "repelStrength": 13.1141868512111,
+  "linkStrength": 0.541522491349481,
   "linkDistance": 30,
-  "scale": 0.15766442137254286,
+  "scale": 0.27335966360723085,
   "close": false
 }

@@ -19,8 +19,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "161434b279403487",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School studies/CS/Data Representation.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "059be59f3805f259",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -129,8 +156,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "cb675aca7cd66052",
@@ -143,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/CS/Data Representation.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -153,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/CS/Data Representation.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -194,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/CS/Data Representation.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +237,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/CS/Data Representation.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -243,13 +269,19 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "cf73d34b0923bb1a",
+  "active": "9317a1770b4fbb1c",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-06-20 07.18.07.excalidraw.md",
     "School studies/CS/Data Representation.md",
+    "conflict-files-obsidian-git.md",
+    "0 Help.md/Pasted Image 20240619105930_233.png",
+    "0 Help.md/Pasted Image 20240619104133_108.png",
+    "0 Help.md/Pasted Image 20240619103650_650.png",
+    "0 Help.md/Pasted Image 20240619103533_634.png",
+    "0 Help.md/Pasted Image 20240619103445_600.png",
+    "0 Help.md/Excalidraw example.excalidraw.md",
+    "Excalidraw/Drawing 2024-06-20 07.18.07.excalidraw.md",
     "School studies/Chemistry/Benzene and its compounds.md",
     "0 Help.md/MathJax symbol reference.pdf",
-    "conflict-files-obsidian-git.md",
     "0 Help.md/Obsidian-formatting.md",
     "0 Help.md/MathJax.md",
     "obsidian format/MathJax symbol reference.md",
@@ -271,15 +303,11 @@
     "Excalidraw/Reaction mechanism no2+benzene.excalidraw.md",
     "Excalidraw/bonding benzene.excalidraw.md",
     "Excalidraw/benzyl.excalidraw.md",
-    "Excalidraw/benzne+cl2 (alcl3).excalidraw.md",
-    "Excalidraw/benzenesigmapi.excalidraw.md",
     "Excalidraw/benzene Double bond.png",
     "Excalidraw/Pasted image 20230724044538.png",
     "Excalidraw/benzene.png",
     "Excalidraw/Pasted image 20240615073438.png",
     "Excalidraw/Pasted Image 20240612194848_349.png",
-    "Excalidraw/Pasted image 20240615073708.png",
-    "Excalidraw/Pasted Image 20240615073548_125.png",
     "Excalidraw/pngwing.com.png.crdownload",
     "Untitled.pdf",
     "Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
@@ -287,10 +315,7 @@
     "School studies/Chemistry/Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
     "School studies/CS/Cambridge International AS and A Levels Computer Science by David Watson, Helen Williams (z-lib.org).pdf",
     "School studies/CS/course Cambridge International AS and A Level Computer Science Coursebook.pdf",
-    "Obsidian help/WhatsApp Image 2024-06-12 at 08.04.42_289c3eb2.jpg",
     "Obsidian help",
-    "A Level A Class Timetable.png",
-    "Excalidraw/A Level A Class Timetable.png",
     "Excalidraw/Untitled.canvas",
     "School studies/AS LEVEL/Chem notes/Organic chem.canvas",
     "School studies/AS LEVEL/CS/Logic gates.canvas",

@@ -1,3 +1,7 @@
+---
+tags:
+  - obsidian
+---
 #### General
 Tick-mark ✓
 #### Currency 

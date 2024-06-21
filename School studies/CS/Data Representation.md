@@ -1,3 +1,7 @@
+---
+tags:
+  - "#cs"
+---
 ## Non Composite Data Types
 ###### Datatypes 
 > [!tip]- What do datatypes do? 
@@ -104,7 +108,7 @@ using 8 bits for Mantissa & 8 bits for exponent
 | Binary | 0    | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
 
 ##### Convert Binary to floating point number into denary
->[!example]- Mantissa Solving:
+>[!example]- Mantissa Solving Example:
 >Mantissa:
 >
 >| Header | -1  | 1/2 | 1/4 | 1/8 | 1/16 | 1/32 | 1/64 | 1/128 |
@@ -124,9 +128,10 @@ using 8 bits for Mantissa & 8 bits for exponent
 >- Add Exponents values when 1 bit appears
 >	- $E=4$
 >	- $M \times 2^E$
->$M = {0.703125}  x  {2^4}$
+>$M = {0.703125}  \times  {2^4}$
 >$=11.02$
 
+###### Solved Examples
 
 >[!question]- Mantissa question 1
 >Mantissa:
@@ -164,9 +169,9 @@ using 8 bits for Mantissa & 8 bits for exponent
 >| 1    | 1   | 1   | 1   | 1   | 1   | 0   | 0   |
 
 >[!answer]- Answer 2
->$M= -1 + \frac{1}{2} + \frac{1}{16} + \frac{1}{32}$ 
->$M = - + \frac{16+2+1}{32}$
->$M=-+\frac{19}{32}$
+>$M= - 1 + \frac{1}{2} + \frac{1}{16} + \frac{1}{32}$ 
+>$M = -1  + \frac{16+2+1}{32}$
+>$M=-1 +\frac{19}{32}$
 >$M = \frac{-13}{32}$
 >$E = -128+64+32+16+8+4$
 >$E = -4$

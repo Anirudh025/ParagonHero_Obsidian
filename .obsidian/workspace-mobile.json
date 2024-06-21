@@ -19,13 +19,16 @@
             "id": "1e969bb9e59a1038",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School studies/CS/Hardware.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "eab4f67e5eb74273",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -41,7 +44,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/CS/Hardware.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +108,9 @@
         "state": {
           "type": "all-properties",
           "state": {
-            "sortOrder": "frequency"
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
           }
         }
       }
@@ -123,7 +127,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "School studies/CS/Hardware.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -140,7 +143,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "School studies/CS/Hardware.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -151,9 +153,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "School studies/CS/Hardware.md"
-          }
+          "state": {}
         }
       },
       {
@@ -194,14 +194,14 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "workspaces:Manage workspace layouts": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "meld-encrypt:New encrypted note": false,
-      "meld-encrypt:Convert to or from an Encrypted note": false
+      "meld-encrypt:Convert to or from an Encrypted note": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "ee8dc2d84a2c2258",
+  "active": "1e969bb9e59a1038",
   "lastOpenFiles": [
     "School studies/CS/Pseudocode.md",
     "School studies/English Language El/EL, The market P1 and P2.md",

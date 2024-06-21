@@ -1,4 +1,4 @@
 {
   "movementThreshold": 5,
-  "delayTime": 200
+  "delayTime": 1000
 }

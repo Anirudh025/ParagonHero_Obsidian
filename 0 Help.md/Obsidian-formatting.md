@@ -1,3 +1,7 @@
+---
+tags:
+  - obsidian
+---
 #obsidian 
 [Obsidian Help](https://help.obsidian.md)
 # Basic formatting
@@ -161,4 +165,3 @@ use for webpages
 ```html
 <iframe src="INSERT YOUR URL HERE"></iframe>
 ```
-[aknfa](sdfdfdknfkdn)

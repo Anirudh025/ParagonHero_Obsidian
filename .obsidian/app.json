@@ -11,9 +11,10 @@
   "attachmentFolderPath": "Excalidraw",
   "trashOption": "local",
   "newFileLocation": "current",
-  "propertiesInDocument": "hidden",
+  "propertiesInDocument": "source",
   "readableLineLength": false,
   "livePreview": true,
   "promptDelete": false,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "useMarkdownLinks": true
 }
