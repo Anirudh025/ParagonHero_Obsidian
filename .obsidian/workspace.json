@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "f8c7253aa743aa35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School studies/Chemistry/Chem unorganized.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "edd53959029becad",
             "type": "leaf",
             "state": {
@@ -61,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Creating nitrobenzene but better.excalidraw.md"
+                "file": "School studies/Chemistry/Chem unorganized.md"
               }
             }
           },
@@ -194,7 +207,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Creating nitrobenzene but better.excalidraw.md"
+                "file": "School studies/Chemistry/Chem unorganized.md"
               }
             }
           },
@@ -235,7 +248,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Creating nitrobenzene but better.excalidraw.md",
+                "file": "School studies/Chemistry/Chem unorganized.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,7 +265,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Creating nitrobenzene but better.excalidraw.md",
+                "file": "School studies/Chemistry/Chem unorganized.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -284,13 +297,14 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "8f13c2750f67f161",
+  "active": "f8c7253aa743aa35",
   "lastOpenFiles": [
+    "School studies/Chemistry/Benzene and its compounds.md",
+    "School studies/Chemistry/Chem unorganized.md",
+    "Excalidraw/Creating nitrobenzene but better.excalidraw.md",
     "Excalidraw/Sodium pheoxide.excalidraw.md",
     "Excalidraw/types of benzene substituents.excalidraw.md",
     "Excalidraw/chemthing.excalidraw.md",
-    "Excalidraw/Creating nitrobenzene but better.excalidraw.md",
-    "School studies/Chemistry/Benzene and its compounds.md",
     "Excalidraw/bromine.excalidraw.md",
     "Excalidraw/benzne+cl2 (alcl3).excalidraw.md",
     "Excalidraw/Alcohol + acid.excalidraw.md",
@@ -312,7 +326,6 @@
     "Excalidraw/Friedel craft Acylation of benzene.excalidraw.md",
     "Excalidraw/floating point representaion .excalidraw.md",
     "Excalidraw/File Organization.excalidraw.md",
-    "Excalidraw/File access.excalidraw.md",
     "Excalidraw/benzene Double bond.png",
     "0 Help.md/Pasted Image 20240619103445_600.png",
     "Excalidraw/Pasted image 20240615073438.png",
