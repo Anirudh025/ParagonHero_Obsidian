@@ -34,6 +34,19 @@
             }
           },
           {
+            "id": "36830a41e131f51f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "edd53959029becad",
             "type": "leaf",
             "state": {
@@ -74,7 +87,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -168,8 +181,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "cb675aca7cd66052",
@@ -182,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/Chemistry/Chem unorganized.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -207,7 +219,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/Chemistry/Chem unorganized.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -248,7 +260,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Chemistry/Chem unorganized.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +277,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Chemistry/Chem unorganized.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -297,10 +309,11 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "f8c7253aa743aa35",
+  "active": "9317a1770b4fbb1c",
   "lastOpenFiles": [
-    "School studies/Chemistry/Benzene and its compounds.md",
+    "conflict-files-obsidian-git.md",
     "School studies/Chemistry/Chem unorganized.md",
+    "School studies/Chemistry/Benzene and its compounds.md",
     "Excalidraw/Creating nitrobenzene but better.excalidraw.md",
     "Excalidraw/Sodium pheoxide.excalidraw.md",
     "Excalidraw/types of benzene substituents.excalidraw.md",
@@ -325,7 +338,6 @@
     "Excalidraw/Friedel Craft Alkylation of benzene.excalidraw.md",
     "Excalidraw/Friedel craft Acylation of benzene.excalidraw.md",
     "Excalidraw/floating point representaion .excalidraw.md",
-    "Excalidraw/File Organization.excalidraw.md",
     "Excalidraw/benzene Double bond.png",
     "0 Help.md/Pasted Image 20240619103445_600.png",
     "Excalidraw/Pasted image 20240615073438.png",
