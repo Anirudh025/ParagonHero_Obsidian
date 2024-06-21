@@ -37,6 +37,7 @@ Benzene %% #chemistry/benzene %%:
 	- ![[Hydrogenation of benzene .excalidraw|500]]
 
 ==Due to its stability benzene does not undergo some of the addition reactions that other alkenes do== 
+#todo/chemistry/whyphenolismoreacidi
 ### Aromatic Compounds
 **Aromatic Compounds** :: **Compounds are those that contain a ring of delocalized electrons**
 Some Examples of Aromatic compounds are: 
