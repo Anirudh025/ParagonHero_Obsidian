@@ -1,8 +1,8 @@
 ---
-
 excalidraw-plugin: parsed
-tags: [excalidraw]
-
+tags:
+  - excalidraw
+  - "#chemistry"
 ---
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 
@@ -221,11 +221,11 @@ ca6d96d2c219292b3277372da55b7d55e215631c: [[ringbenzene]]
 				"type": 2
 			},
 			"seed": 2033761646,
-			"version": 97,
-			"versionNonce": 284402286,
+			"version": 101,
+			"versionNonce": 1418707758,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1718938010438,
+			"updated": 1718938018703,
 			"link": null,
 			"locked": false,
 			"points": [

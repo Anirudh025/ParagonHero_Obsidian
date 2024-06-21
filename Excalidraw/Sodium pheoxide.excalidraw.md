@@ -1,8 +1,8 @@
 ---
-
 excalidraw-plugin: parsed
-tags: [excalidraw]
-
+tags:
+  - excalidraw
+  - "#chemistry"
 ---
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 
@@ -12,9 +12,11 @@ OH ^mbWfkpLy
 
 + NaOH ^XOxmSUUn
 
-OH ^wZ1xb5sE
+ONa ^wZ1xb5sE
 
 + ^pNw6o8Fr
+
+H20 ^7Frn0NRc
 
 
 # Embedded files
@@ -320,8 +322,8 @@ ca6d96d2c219292b3277372da55b7d55e215631c: [[ringbenzene]]
 		},
 		{
 			"type": "text",
-			"version": 182,
-			"versionNonce": 766136430,
+			"version": 189,
+			"versionNonce": 817179118,
 			"isDeleted": false,
 			"id": "wZ1xb5sE",
 			"fillStyle": "hachure",
@@ -334,24 +336,24 @@ ca6d96d2c219292b3277372da55b7d55e215631c: [[ringbenzene]]
 			"y": -133.8432791263391,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 25.53997802734375,
+			"width": 40.73997497558594,
 			"height": 25,
 			"seed": 415890354,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1718937985961,
+			"updated": 1718938021784,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "OH",
-			"rawText": "OH",
+			"text": "ONa",
+			"rawText": "ONa",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "OH",
+			"originalText": "ONa",
 			"lineHeight": 1.25,
 			"baseline": 17
 		},
@@ -393,85 +395,41 @@ ca6d96d2c219292b3277372da55b7d55e215631c: [[ringbenzene]]
 			"baseline": 17
 		},
 		{
-			"type": "line",
-			"version": 35,
-			"versionNonce": 918685550,
-			"isDeleted": true,
-			"id": "aj9Wyh_YMohcKdv_KXVTm",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": -12.941845812691511,
-			"y": -82.82787725868161,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 11.686120704424809,
-			"height": 10.387662848377545,
-			"seed": 355710322,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1718938001438,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					11.686120704424809,
-					-10.387662848377545
-				]
-			]
-		},
-		{
+			"id": "7Frn0NRc",
 			"type": "text",
-			"version": 36,
-			"versionNonce": 606700274,
-			"isDeleted": true,
-			"id": "21LVdx7h",
+			"x": 20.867194906724876,
+			"y": -87.76676843590755,
+			"width": 39.01997375488281,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
-			"roughness": 0,
+			"roughness": 1,
 			"opacity": 100,
-			"angle": 0,
-			"x": -1.2557251082667023,
-			"y": -108.79705419252014,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 41.63996887207031,
-			"height": 25,
-			"seed": 1472214834,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": [],
-			"updated": 1718938000610,
+			"seed": 577880814,
+			"version": 34,
+			"versionNonce": 357173678,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1718938034585,
 			"link": null,
 			"locked": false,
+			"text": "H20",
+			"rawText": "H20",
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "NO2",
-			"rawText": "NO2",
 			"textAlign": "left",
 			"verticalAlign": "top",
+			"baseline": 17,
 			"containerId": null,
-			"originalText": "NO2",
-			"lineHeight": 1.25,
-			"baseline": 17
+			"originalText": "H20",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
@@ -489,10 +447,10 @@ ca6d96d2c219292b3277372da55b7d55e215631c: [[ringbenzene]]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 617,
-		"scrollY": 320.76043701171875,
+		"scrollX": 356.76764476893106,
+		"scrollY": 237.21115230533954,
 		"zoom": {
-			"value": 1
+			"value": 1.540288728421621
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

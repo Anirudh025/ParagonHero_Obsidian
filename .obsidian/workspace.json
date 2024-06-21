@@ -61,7 +61,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Sodium pheoxide.excalidraw.md"
+                "file": "Excalidraw/chemthing.excalidraw.md"
               }
             }
           },
@@ -195,7 +195,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Sodium pheoxide.excalidraw.md"
+                "file": "Excalidraw/chemthing.excalidraw.md"
               }
             }
           },
@@ -236,7 +236,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Sodium pheoxide.excalidraw.md",
+                "file": "Excalidraw/chemthing.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,7 +253,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Sodium pheoxide.excalidraw.md",
+                "file": "Excalidraw/chemthing.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -264,8 +264,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5,
-    "collapsed": true
+    "width": 323.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -286,7 +285,7 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "015c8e1ec0005e64",
+  "active": "a6d4fa0f30e74a32",
   "lastOpenFiles": [
     "Excalidraw/Creating nitrobenzene but better.excalidraw.md",
     "Excalidraw/chemthing.excalidraw.md",
