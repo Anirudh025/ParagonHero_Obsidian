@@ -19,9 +19,9 @@
             "id": "1e969bb9e59a1038",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "image",
               "state": {
-                "file": "Excalidraw/benzne+cl2 (alcl3).excalidraw.md"
+                "file": "0 Help.md/Pasted Image 20240619103445_600.png"
               }
             }
           },
@@ -46,7 +46,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/benzne+cl2 (alcl3).excalidraw.md",
+                "file": "0 Help.md/Pasted Image 20240619103445_600.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/benzne+cl2 (alcl3).excalidraw.md",
+            "file": "0 Help.md/Pasted Image 20240619103445_600.png",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Excalidraw/benzne+cl2 (alcl3).excalidraw.md",
+            "file": "0 Help.md/Pasted Image 20240619103445_600.png",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -159,7 +159,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Excalidraw/benzne+cl2 (alcl3).excalidraw.md"
+            "file": "0 Help.md/Pasted Image 20240619103445_600.png"
           }
         }
       },
@@ -210,6 +210,7 @@
   },
   "active": "1e969bb9e59a1038",
   "lastOpenFiles": [
+    "Excalidraw/benzne+cl2 (alcl3).excalidraw.md",
     "School studies/Chemistry/Chem unorganized.md",
     "Excalidraw/types of benzene substituents.excalidraw.md",
     "Excalidraw/chemthing.excalidraw.md",
@@ -237,7 +238,6 @@
     "newsletter/Issue 4.md",
     "Excalidraw/hdd-ssd.excalidraw.md",
     "/newsletter/Issue 4.md",
-    "/School studies/CS/networking/Hardware.md",
     "School studies/CS/Logic gates.canvas",
     "School studies/CS/Logic gates practice.canvas",
     "Excalidraw/Untitled.canvas",
