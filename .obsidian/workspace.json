@@ -61,7 +61,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -104,8 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "d967d98868519a35",
@@ -170,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/chemthing.excalidraw.md"
+                "file": "Excalidraw/Creating nitrobenzene but better.excalidraw.md"
               }
             }
           },
@@ -195,7 +194,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/chemthing.excalidraw.md"
+                "file": "Excalidraw/Creating nitrobenzene but better.excalidraw.md"
               }
             }
           },
@@ -236,7 +235,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/chemthing.excalidraw.md",
+                "file": "Excalidraw/Creating nitrobenzene but better.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,7 +252,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/chemthing.excalidraw.md",
+                "file": "Excalidraw/Creating nitrobenzene but better.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -285,12 +284,12 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "a6d4fa0f30e74a32",
+  "active": "243baec62b377047",
   "lastOpenFiles": [
-    "Excalidraw/Creating nitrobenzene but better.excalidraw.md",
-    "Excalidraw/chemthing.excalidraw.md",
     "Excalidraw/Sodium pheoxide.excalidraw.md",
     "Excalidraw/types of benzene substituents.excalidraw.md",
+    "Excalidraw/chemthing.excalidraw.md",
+    "Excalidraw/Creating nitrobenzene but better.excalidraw.md",
     "School studies/Chemistry/Benzene and its compounds.md",
     "Excalidraw/bromine.excalidraw.md",
     "Excalidraw/benzne+cl2 (alcl3).excalidraw.md",
