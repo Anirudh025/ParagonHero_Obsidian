@@ -221,11 +221,11 @@ ca6d96d2c219292b3277372da55b7d55e215631c: [[ringbenzene]]
 				"type": 2
 			},
 			"seed": 2033761646,
-			"version": 93,
-			"versionNonce": 1217559282,
+			"version": 97,
+			"versionNonce": 284402286,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1718937313713,
+			"updated": 1718938010438,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -241,13 +241,13 @@ ca6d96d2c219292b3277372da55b7d55e215631c: [[ringbenzene]]
 			"lastCommittedPoint": null,
 			"startBinding": {
 				"elementId": "vUGba6Dr",
-				"focus": 0.011259509420242186,
-				"gap": 3.5104936651851872
+				"focus": 0.019315623378525534,
+				"gap": 3.51049366518518
 			},
 			"endBinding": {
 				"elementId": "ogcKQ_xxACOZBdFzh-Cjg",
-				"focus": 0.1322086884802777,
-				"gap": 9.31167013664816
+				"focus": 0.13220868848028036,
+				"gap": 9.311670136648132
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
@@ -1708,8 +1708,8 @@ ca6d96d2c219292b3277372da55b7d55e215631c: [[ringbenzene]]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 431.3155099737711,
-		"scrollY": 495.95073820009134,
+		"scrollX": 316.86236537922906,
+		"scrollY": 706.7853244033183,
 		"zoom": {
 			"value": 1.1067126944882162
 		},
