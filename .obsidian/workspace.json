@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/CS/Data Representation.md",
+                "file": "School studies/Physics/Thermal Physics.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "School studies/Physics/Thermal Physics.md"
               }
             }
           },
@@ -166,7 +166,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "School studies/Physics/Thermal Physics.md"
               }
             }
           },
@@ -207,6 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "School studies/Physics/Thermal Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,6 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "School studies/Physics/Thermal Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -254,15 +256,17 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "9317a1770b4fbb1c",
+  "active": "161434b279403487",
   "lastOpenFiles": [
+    "School studies/Physics/Circular Motion.md",
+    "School studies/Chemistry/Benzene and its compounds.md",
+    "School studies/CS/Data Representation.md",
     "conflict-files-obsidian-git.md",
     "Excalidraw/types of benzene substituents.excalidraw.md",
     "Excalidraw/chemthing.excalidraw.md",
     "Excalidraw/bromine.excalidraw.md",
     "Excalidraw/Sodium pheoxide.excalidraw.md",
     "Excalidraw/Creating nitrobenzene but better.excalidraw.md",
-    "School studies/CS/Data Representation.md",
     "0 Help.md/Pasted Image 20240619105930_233.png",
     "0 Help.md/Pasted Image 20240619104133_108.png",
     "0 Help.md/Pasted Image 20240619103650_650.png",
@@ -270,7 +274,6 @@
     "0 Help.md/Pasted Image 20240619103445_600.png",
     "0 Help.md/Excalidraw example.excalidraw.md",
     "Excalidraw/Drawing 2024-06-20 07.18.07.excalidraw.md",
-    "School studies/Chemistry/Benzene and its compounds.md",
     "0 Help.md/MathJax symbol reference.pdf",
     "0 Help.md/Obsidian-formatting.md",
     "0 Help.md/MathJax.md",
@@ -279,7 +282,6 @@
     "School studies/Physics/Thermal Physics.md",
     "Excalidraw/File Organization.excalidraw.md",
     "Excalidraw/naming benzene compunds with other functional groups.excalidraw.md",
-    "School studies/Physics/Circular Motion.md",
     "Obsidian help/MathJax.md",
     "Excalidraw/Thermocouple.excalidraw.md",
     "0 Help.md/Ascii symbols.md",
