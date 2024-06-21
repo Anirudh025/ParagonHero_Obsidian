@@ -19,8 +19,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8d971acd46bafb11",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/benzne+cl2 (alcl3).excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "d2aa0e7ed10a17dc",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-06-21 07.52.46.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -129,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md"
+                "file": "Excalidraw/Drawing 2024-06-21 07.52.46.excalidraw.md"
               }
             }
           },
@@ -154,7 +175,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md"
+                "file": "Excalidraw/Drawing 2024-06-21 07.52.46.excalidraw.md"
               }
             }
           },
@@ -195,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md",
+                "file": "Excalidraw/Drawing 2024-06-21 07.52.46.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md",
+                "file": "Excalidraw/Drawing 2024-06-21 07.52.46.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -244,10 +265,12 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "2ec277ebc63dafe2",
+  "active": "d2aa0e7ed10a17dc",
   "lastOpenFiles": [
-    "Excalidraw/Alcohol + acid.excalidraw.md",
+    "Excalidraw/benzne+cl2 (alcl3).excalidraw.md",
+    "Excalidraw/Drawing 2024-06-21 07.52.46.excalidraw.md",
     "School studies/Chemistry/Benzene and its compounds.md",
+    "Excalidraw/Alcohol + acid.excalidraw.md",
     "School studies/Physics/Circular Motion.md",
     "0 Help.md/MathJax symbol reference.pdf",
     "0 Help.md/Obsidian-formatting.md",
@@ -271,8 +294,6 @@
     "Excalidraw/circularmotion.excalidraw.md",
     "Excalidraw/chloro benzene.excalidraw.md",
     "Excalidraw/bonding benzene.excalidraw.md",
-    "Excalidraw/benzyl.excalidraw.md",
-    "Excalidraw/benzenesigmapi.excalidraw.md",
     "Excalidraw/benzene Double bond.png",
     "0 Help.md/Pasted Image 20240619103445_600.png",
     "Excalidraw/Pasted image 20240615073438.png",
