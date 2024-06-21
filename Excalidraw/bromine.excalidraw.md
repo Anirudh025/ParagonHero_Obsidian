@@ -58,8 +58,6 @@ Cl ^AQDNE1Fj
 
 + HCl + AlCl₄ ^eVn7owNI
 
-Electrophilic Substitution Reaction ^LdKI8jqU
-
 
 # Embedded files
 0f6a2bd2b8f710d0ade25bd51450235123385348: [[ringbenzene]]
@@ -1732,43 +1730,6 @@ Electrophilic Substitution Reaction ^LdKI8jqU
 			"baseline": 17
 		},
 		{
-			"type": "text",
-			"version": 137,
-			"versionNonce": 515853678,
-			"isDeleted": false,
-			"id": "LdKI8jqU",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": -392.71072921029383,
-			"y": -89.55960857775642,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "transparent",
-			"width": 337.45965576171875,
-			"height": 25,
-			"seed": 1346219698,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1718936567666,
-			"link": null,
-			"locked": false,
-			"fontSize": 20,
-			"fontFamily": 1,
-			"text": "Electrophilic Substitution Reaction",
-			"rawText": "Electrophilic Substitution Reaction",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "Electrophilic Substitution Reaction",
-			"lineHeight": 1.25,
-			"baseline": 17
-		},
-		{
 			"type": "freedraw",
 			"version": 12,
 			"versionNonce": 814706606,
@@ -2655,6 +2616,43 @@ Electrophilic Substitution Reaction ^LdKI8jqU
 			"lastCommittedPoint": null,
 			"simulatePressure": true,
 			"pressures": []
+		},
+		{
+			"type": "text",
+			"version": 138,
+			"versionNonce": 565020594,
+			"isDeleted": true,
+			"id": "LdKI8jqU",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": -392.71072921029383,
+			"y": -89.55960857775642,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 337.45965576171875,
+			"height": 25,
+			"seed": 1346219698,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1718936639266,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Electrophilic Substitution Reaction",
+			"rawText": "Electrophilic Substitution Reaction",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Electrophilic Substitution Reaction",
+			"lineHeight": 1.25,
+			"baseline": 17
 		}
 	],
 	"appState": {
@@ -2672,10 +2670,10 @@ Electrophilic Substitution Reaction ^LdKI8jqU
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 455.25,
-		"scrollY": 320.76043701171875,
+		"scrollX": 538.7927649257472,
+		"scrollY": 441.2369637823742,
 		"zoom": {
-			"value": 1
+			"value": 1.1211892990699381
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
