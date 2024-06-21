@@ -61,7 +61,7 @@ Cl ^AQDNE1Fj
 Make reaction of Bromophenol ^kBnUadkd
 
 Bromine water gives 2,4,5-Tribromophenol
-Bromine ^6cgOi8GI
+Pure bromine and Albr3 gives a bromophenol ^6cgOi8GI
 
 
 # Embedded files
@@ -2662,9 +2662,9 @@ Bromine ^6cgOi8GI
 		{
 			"id": "6cgOi8GI",
 			"type": "text",
-			"x": -258.5162135355769,
-			"y": -292.8181671088288,
-			"width": 401.4596252441406,
+			"x": -305.9041431445526,
+			"y": -249.67390417775533,
+			"width": 426.0396423339844,
 			"height": 50,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
@@ -2678,22 +2678,22 @@ Bromine ^6cgOi8GI
 			"frameId": null,
 			"roundness": null,
 			"seed": 1920191982,
-			"version": 51,
-			"versionNonce": 1197903730,
+			"version": 157,
+			"versionNonce": 255549294,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1718936710862,
+			"updated": 1718937421374,
 			"link": null,
 			"locked": false,
-			"text": "Bromine water gives 2,4,5-Tribromophenol\nBromine",
-			"rawText": "Bromine water gives 2,4,5-Tribromophenol\nBromine",
+			"text": "Bromine water gives 2,4,5-Tribromophenol\nPure bromine and Albr3 gives a bromophenol",
+			"rawText": "Bromine water gives 2,4,5-Tribromophenol\nPure bromine and Albr3 gives a bromophenol",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"baseline": 42,
 			"containerId": null,
-			"originalText": "Bromine water gives 2,4,5-Tribromophenol\nBromine",
+			"originalText": "Bromine water gives 2,4,5-Tribromophenol\nPure bromine and Albr3 gives a bromophenol",
 			"lineHeight": 1.25
 		}
 	],
@@ -2712,10 +2712,10 @@ Bromine ^6cgOi8GI
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 525.9178991558027,
-		"scrollY": 422.1904304612112,
+		"scrollX": 535.6360176062644,
+		"scrollY": 411.2305295502876,
 		"zoom": {
-			"value": 1.0732916635671792
+			"value": 0.9425739074302643
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
