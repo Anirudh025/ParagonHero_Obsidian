@@ -21,6 +21,16 @@
             }
           },
           {
+            "id": "243baec62b377047",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-06-21 07.55.48.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "8d971acd46bafb11",
             "type": "leaf",
             "state": {
@@ -41,7 +51,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/bromine.excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-06-21 07.55.48.excalidraw.md"
               }
             }
           },
@@ -175,7 +185,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/bromine.excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-06-21 07.55.48.excalidraw.md"
               }
             }
           },
@@ -216,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/bromine.excalidraw.md",
+                "file": "Excalidraw/Drawing 2024-06-21 07.55.48.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/bromine.excalidraw.md",
+                "file": "Excalidraw/Drawing 2024-06-21 07.55.48.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -265,11 +275,12 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "d2aa0e7ed10a17dc",
+  "active": "243baec62b377047",
   "lastOpenFiles": [
-    "Excalidraw/benzne+cl2 (alcl3).excalidraw.md",
-    "Excalidraw/bromine.excalidraw.md",
     "School studies/Chemistry/Benzene and its compounds.md",
+    "Excalidraw/Drawing 2024-06-21 07.55.48.excalidraw.md",
+    "Excalidraw/bromine.excalidraw.md",
+    "Excalidraw/benzne+cl2 (alcl3).excalidraw.md",
     "Excalidraw/Alcohol + acid.excalidraw.md",
     "School studies/Physics/Circular Motion.md",
     "0 Help.md/MathJax symbol reference.pdf",
@@ -293,7 +304,6 @@
     "Excalidraw/Compositedatatypes.excalidraw.md",
     "Excalidraw/circularmotion.excalidraw.md",
     "Excalidraw/chloro benzene.excalidraw.md",
-    "Excalidraw/bonding benzene.excalidraw.md",
     "Excalidraw/benzene Double bond.png",
     "0 Help.md/Pasted Image 20240619103445_600.png",
     "Excalidraw/Pasted image 20240615073438.png",
