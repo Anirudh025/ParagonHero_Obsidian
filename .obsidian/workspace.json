@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d1d31abdcd3eea1b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Alcohol + acid.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md"
+                "file": "Excalidraw/Alcohol + acid.excalidraw.md"
               }
             }
           },
@@ -154,7 +165,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md"
+                "file": "Excalidraw/Alcohol + acid.excalidraw.md"
               }
             }
           },
@@ -195,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md",
+                "file": "Excalidraw/Alcohol + acid.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md",
+                "file": "Excalidraw/Alcohol + acid.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -244,13 +255,14 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "2ec277ebc63dafe2",
+  "active": "d1d31abdcd3eea1b",
   "lastOpenFiles": [
+    "Excalidraw/Alcohol + acid.excalidraw.md",
+    "School studies/Chemistry/Benzene and its compounds.md",
     "School studies/Physics/Circular Motion.md",
     "0 Help.md/MathJax symbol reference.pdf",
     "0 Help.md/Obsidian-formatting.md",
     "School studies/Physics/Thermal Physics.md",
-    "School studies/Chemistry/Benzene and its compounds.md",
     "School studies/CS/Data Representation.md",
     "Excalidraw/Thermocouple.excalidraw.md",
     "Excalidraw/somebenzenecompunds.excalidraw.md",
