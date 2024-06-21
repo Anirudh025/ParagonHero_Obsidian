@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "School studies/Chemistry/Chem unorganized.md"
               }
             }
           },
@@ -206,7 +206,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "School studies/Chemistry/Chem unorganized.md"
               }
             }
           },
@@ -247,6 +247,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "School studies/Chemistry/Chem unorganized.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,6 +264,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "School studies/Chemistry/Chem unorganized.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -294,7 +296,7 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "9317a1770b4fbb1c",
+  "active": "f8c7253aa743aa35",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "School studies/Chemistry/Chem unorganized.md",
