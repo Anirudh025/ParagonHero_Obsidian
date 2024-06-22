@@ -30,7 +30,7 @@ Add button ^M0ORahqy
 
 
 # Embedded files
-f527dfa0e921692fddd46737b67d83270dece671: [[Pasted Image 20240619103445_600.png]]
+f527dfa0e921692fddd46737b67d83270dece671: [[Drawing Pallet.png]]
 ba3c78b41aa40632a462b34d69422674a326aa00: [[Pasted Image 20240619103533_634.png]]
 50b4204935bae7ce96b3667539e9a8d0b6c34595: [[Pasted Image 20240619103650_650.png]]
 1e4dad12866cd5345cf3376ef1ff87c274211f06: [[Pasted Image 20240619104133_108.png]]
