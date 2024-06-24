@@ -24,9 +24,12 @@
             "id": "dd6f2fc2aa29ddeb",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-24 11.16.30.excalidraw.md"
+                "file": "School studies/Chemistry/Benzene and its compounds.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -74,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "d967d98868519a35",
@@ -140,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-24 11.16.30.excalidraw.md"
+                "file": "School studies/Chemistry/Benzene and its compounds.md"
               }
             }
           },
@@ -165,7 +167,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-24 11.16.30.excalidraw.md"
+                "file": "School studies/Chemistry/Benzene and its compounds.md"
               }
             }
           },
@@ -206,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-24 11.16.30.excalidraw.md",
+                "file": "School studies/Chemistry/Benzene and its compounds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +225,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-24 11.16.30.excalidraw.md",
+                "file": "School studies/Chemistry/Benzene and its compounds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -258,8 +260,8 @@
   },
   "active": "dd6f2fc2aa29ddeb",
   "lastOpenFiles": [
-    "School studies/Chemistry/Carboxylic Acids.md",
     "Excalidraw/Drawing 2024-06-24 11.16.30.excalidraw.md",
+    "School studies/Chemistry/Carboxylic Acids.md",
     "Excalidraw/Acylchloride and water.excalidraw.md",
     "Excalidraw/Acylchloride and NH3.excalidraw.md",
     "School studies/Chemistry/Chem unorganized.md",
