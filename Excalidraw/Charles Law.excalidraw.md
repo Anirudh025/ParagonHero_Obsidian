@@ -16,6 +16,8 @@ T ^Jrh8hMrh
 
 if K ^BWd6J3PC
 
+if C ^Uypwgj6t
+
 %%
 # Drawing
 ```json
@@ -434,6 +436,43 @@ if K ^BWd6J3PC
 			"baseline": 18,
 			"containerId": null,
 			"originalText": "if K",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "Uypwgj6t",
+			"type": "text",
+			"x": -28.75,
+			"y": -122.4609375,
+			"width": 36.97996520996094,
+			"height": 25,
+			"angle": 5.487682666470985,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1685369293,
+			"version": 89,
+			"versionNonce": 1723795085,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1719199834927,
+			"link": null,
+			"locked": false,
+			"text": "if C",
+			"rawText": "if C",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 18,
+			"containerId": null,
+			"originalText": "if C",
 			"lineHeight": 1.25
 		}
 	],
