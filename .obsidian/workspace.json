@@ -24,9 +24,12 @@
             "id": "6308e8b005ec81aa",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Carboxylate a.excalidraw.md"
+                "file": "School studies/Chemistry/Carboxylic Acids.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -84,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "d967d98868519a35",
@@ -136,7 +138,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "cb675aca7cd66052",
@@ -149,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Carboxylate a.excalidraw.md"
+                "file": "School studies/Chemistry/Carboxylic Acids.md"
               }
             }
           },
@@ -174,7 +177,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Carboxylate a.excalidraw.md"
+                "file": "School studies/Chemistry/Carboxylic Acids.md"
               }
             }
           },
@@ -215,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Carboxylate a.excalidraw.md",
+                "file": "School studies/Chemistry/Carboxylic Acids.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Carboxylate a.excalidraw.md",
+                "file": "School studies/Chemistry/Carboxylic Acids.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -264,10 +267,11 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "9317a1770b4fbb1c",
+  "active": "6308e8b005ec81aa",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "School studies/Chemistry/Chem unorganized.md",
     "Excalidraw/Carboxylate a.excalidraw.md",
+    "conflict-files-obsidian-git.md",
     "School studies/Physics/Ideal Gases.md",
     "Excalidraw/Drawing 2024-06-24 09.05.44.excalidraw.md",
     "Excalidraw/Charles Law.excalidraw.md",
@@ -278,7 +282,6 @@
     "School studies/Chemistry/Benzene and its compounds.md",
     "Excalidraw/Acylchloride and water.excalidraw.md",
     "Excalidraw/Acylchloride and NH3.excalidraw.md",
-    "School studies/Chemistry/Chem unorganized.md",
     "Excalidraw/chemthing.excalidraw.md",
     "Excalidraw/Creating nitrobenzene but better.excalidraw.md",
     "Excalidraw/Sodium pheoxide.excalidraw.md",
