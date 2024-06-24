@@ -8,6 +8,10 @@ tags: [excalidraw]
 
 
 # Text Elements
+V ^5GavzLrJ
+
+T ^Jrh8hMrh
+
 %%
 # Drawing
 ```json
@@ -37,11 +41,11 @@ tags: [excalidraw]
 				"type": 2
 			},
 			"seed": 1277787053,
-			"version": 196,
-			"versionNonce": 583476515,
+			"version": 197,
+			"versionNonce": 802983747,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1719199581886,
+			"updated": 1719199590362,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -81,11 +85,11 @@ tags: [excalidraw]
 				"type": 2
 			},
 			"seed": 2050457101,
-			"version": 82,
-			"versionNonce": 746812045,
+			"version": 83,
+			"versionNonce": 896088685,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1719199581886,
+			"updated": 1719199590362,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -125,11 +129,11 @@ tags: [excalidraw]
 				"type": 2
 			},
 			"seed": 269890669,
-			"version": 102,
-			"versionNonce": 1703708867,
+			"version": 103,
+			"versionNonce": 481275619,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1719199581886,
+			"updated": 1719199590362,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -153,8 +157,8 @@ tags: [excalidraw]
 			"type": "line",
 			"x": -67.25,
 			"y": 30.039062500000004,
-			"width": 169.5,
-			"height": 0.9999999999999964,
+			"width": 103.5,
+			"height": 2.9999999999999964,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -169,11 +173,11 @@ tags: [excalidraw]
 				"type": 2
 			},
 			"seed": 965680845,
-			"version": 198,
-			"versionNonce": 1844418797,
+			"version": 388,
+			"versionNonce": 907003715,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1719199581886,
+			"updated": 1719199605472,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -182,8 +186,8 @@ tags: [excalidraw]
 					0
 				],
 				[
-					-169.5,
-					0.9999999999999964
+					-103.5,
+					2.9999999999999964
 				]
 			],
 			"lastCommittedPoint": null,
@@ -194,8 +198,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "line",
-			"version": 217,
-			"versionNonce": 1562671203,
+			"version": 218,
+			"versionNonce": 759028355,
 			"isDeleted": false,
 			"id": "Nwsq3oNss_EPCTFaAsSG-",
 			"fillStyle": "hachure",
@@ -205,7 +209,7 @@ tags: [excalidraw]
 			"opacity": 100,
 			"angle": 0,
 			"x": -169.44540020031855,
-			"y": 30.223492640387263,
+			"y": 31.223492640387263,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 178.5,
@@ -217,7 +221,7 @@ tags: [excalidraw]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1719199581886,
+			"updated": 1719199590362,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -235,6 +239,80 @@ tags: [excalidraw]
 					-187.5
 				]
 			]
+		},
+		{
+			"id": "5GavzLrJ",
+			"type": "text",
+			"x": -103.25,
+			"y": -180.9609375,
+			"width": 10.339996337890625,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "dotted",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1870965965,
+			"version": 62,
+			"versionNonce": 932531939,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1719199633354,
+			"link": null,
+			"locked": false,
+			"text": "V",
+			"rawText": "V",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 18,
+			"containerId": null,
+			"originalText": "V",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "Jrh8hMrh",
+			"type": "text",
+			"x": 145.75,
+			"y": 47.0390625,
+			"width": 16.079986572265625,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "dotted",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1682125347,
+			"version": 18,
+			"versionNonce": 1970584323,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1719199642754,
+			"link": null,
+			"locked": false,
+			"text": "T",
+			"rawText": "T",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 18,
+			"containerId": null,
+			"originalText": "T",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
