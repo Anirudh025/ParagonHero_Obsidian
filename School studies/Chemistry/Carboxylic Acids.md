@@ -1,1 +1,1 @@
-carbon compounds
+carbon compounds with a COOH group
