@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "dd6f2fc2aa29ddeb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md"
+                "file": "School studies/Chemistry/Carboxylic Acids.md"
               }
             }
           },
@@ -167,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md"
+                "file": "School studies/Chemistry/Carboxylic Acids.md"
               }
             }
           },
@@ -208,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md",
+                "file": "School studies/Chemistry/Carboxylic Acids.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md",
+                "file": "School studies/Chemistry/Carboxylic Acids.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -258,14 +244,14 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "dd6f2fc2aa29ddeb",
+  "active": "7c1b811711bb99a6",
   "lastOpenFiles": [
+    "School studies/Chemistry/Benzene and its compounds.md",
     "Excalidraw/Drawing 2024-06-24 11.16.30.excalidraw.md",
     "School studies/Chemistry/Carboxylic Acids.md",
     "Excalidraw/Acylchloride and water.excalidraw.md",
     "Excalidraw/Acylchloride and NH3.excalidraw.md",
     "School studies/Chemistry/Chem unorganized.md",
-    "School studies/Chemistry/Benzene and its compounds.md",
     "Excalidraw/chemthing.excalidraw.md",
     "Excalidraw/Creating nitrobenzene but better.excalidraw.md",
     "Excalidraw/Sodium pheoxide.excalidraw.md",
