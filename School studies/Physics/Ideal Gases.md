@@ -11,4 +11,4 @@ Boyles Law: Keeping T constant, P is inversely proportional to V
 P<sub>1</sub>V<sub>1</sub> = P<sub>2</sub>V<sub>2</sub>
 
 ### Charles Law
-Charles Law: when P constant V1/T1 
+Charles Law: when P constant V<sub>1</sub>/T<sub>1</sub> = V<sub>2</sub>/T<sub>2</sub> , V is directly proportional to T
