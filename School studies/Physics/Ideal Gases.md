@@ -1,4 +1,6 @@
 State functions
 1. Pressure P
 2. Volume V
-3. T
+3. Temperature T
+4. Moles n
+
