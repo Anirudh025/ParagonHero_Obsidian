@@ -12,6 +12,10 @@ R-C-Cl + H₂O  ^hsCDCzT3
 
 O= ^3qlpl13g
 
+R-C-OH + HCl ^Ye8v00KW
+
+O= ^RdPnHAnZ
+
 %%
 # Drawing
 ```json
@@ -62,8 +66,8 @@ O= ^3qlpl13g
 			"type": "text",
 			"x": -333.08416518963725,
 			"y": -138.84504363178203,
-			"width": 21.944447554778474,
-			"height": 20.424850635205143,
+			"width": 21.931182861328125,
+			"height": 20.424850635205132,
 			"angle": 1.6060178305196429,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -89,7 +93,7 @@ O= ^3qlpl13g
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 14.00000000000001,
+			"baseline": 14,
 			"containerId": null,
 			"originalText": "O=",
 			"lineHeight": 1.25
@@ -99,8 +103,8 @@ O= ^3qlpl13g
 			"type": "arrow",
 			"x": -219.58876506608652,
 			"y": -111.3543239596768,
-			"width": 63.624395320523575,
-			"height": 0.4328324939453978,
+			"width": 37.1225751845559,
+			"height": 0.34378572544193275,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -113,11 +117,11 @@ O= ^3qlpl13g
 			"frameId": null,
 			"roundness": null,
 			"seed": 1621475529,
-			"version": 195,
-			"versionNonce": 2068111367,
+			"version": 215,
+			"versionNonce": 521743687,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1719206788797,
+			"updated": 1719206845058,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -126,15 +130,98 @@ O= ^3qlpl13g
 					0
 				],
 				[
-					63.624395320523575,
-					0.4328324939453978
+					37.1225751845559,
+					-0.34378572544193275
 				]
 			],
 			"lastCommittedPoint": null,
 			"startBinding": null,
-			"endBinding": null,
+			"endBinding": {
+				"elementId": "Ye8v00KW",
+				"focus": 0.10831864067292789,
+				"gap": 9.93755891292102
+			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
+		},
+		{
+			"id": "Ye8v00KW",
+			"type": "text",
+			"x": -172.52863096860963,
+			"y": -123.47323753225791,
+			"width": 130.0799102783203,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1855939273,
+			"version": 61,
+			"versionNonce": 420416039,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"id": "_CziJu3ag_n4kfTZlDecv",
+					"type": "arrow"
+				}
+			],
+			"updated": 1719206845058,
+			"link": null,
+			"locked": false,
+			"text": "R-C-OH + HCl",
+			"rawText": "R-C-OH + HCl",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "center",
+			"verticalAlign": "top",
+			"baseline": 17,
+			"containerId": null,
+			"originalText": "R-C-OH + HCl",
+			"lineHeight": 1.25
+		},
+		{
+			"type": "text",
+			"version": 242,
+			"versionNonce": 471140295,
+			"isDeleted": false,
+			"id": "RdPnHAnZ",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 1.6060178305196429,
+			"x": -155.89974137234,
+			"y": -139.96155569601825,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 21.931182861328125,
+			"height": 20.424850635205132,
+			"seed": 1630617255,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1719206851574,
+			"link": null,
+			"locked": false,
+			"fontSize": 16.339880508164107,
+			"fontFamily": 1,
+			"text": "O=",
+			"rawText": "O=",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "O=",
+			"lineHeight": 1.25,
+			"baseline": 14
 		}
 	],
 	"appState": {
@@ -152,10 +239,10 @@ O= ^3qlpl13g
 		"currentItemTextAlign": "center",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 408.51446237253174,
-		"scrollY": 320.9605818883307,
+		"scrollX": 508.6454790816416,
+		"scrollY": 221.4665942958187,
 		"zoom": {
-			"value": 1.540288728421621
+			"value": 2
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,
