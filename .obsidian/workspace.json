@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "96887e81c5ae8572",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School studies/Physics/Untitled.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -157,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/Physics/Thermal Physics.md"
+                "file": "School studies/Physics/Untitled.md"
               }
             }
           },
@@ -167,7 +180,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/Physics/Thermal Physics.md"
+                "file": "School studies/Physics/Untitled.md"
               }
             }
           },
@@ -208,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Physics/Thermal Physics.md",
+                "file": "School studies/Physics/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Physics/Thermal Physics.md",
+                "file": "School studies/Physics/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -257,10 +270,11 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "161434b279403487",
+  "active": "96887e81c5ae8572",
   "lastOpenFiles": [
-    "School studies/Physics/Circular Motion.md",
     "School studies/Physics/Thermal Physics.md",
+    "School studies/Physics/Untitled.md",
+    "School studies/Physics/Circular Motion.md",
     "School studies/Chemistry/Chem unorganized.md",
     "0 Help.md/Drawing Pallet.png",
     "School studies/Chemistry/Benzene and its compounds.md",
@@ -292,7 +306,6 @@
     "Excalidraw/Drawing 2024-06-17 14.59.33.excalidraw.md",
     "Excalidraw/Drawing 2024-06-15 12.37.01.excalidraw.md",
     "Excalidraw/Hydrogenation of benzene .excalidraw.md",
-    "Excalidraw/Site change electrophyllic reaction.excalidraw.md",
     "Excalidraw/benzene Double bond.png",
     "Excalidraw/Pasted image 20230724044538.png",
     "Excalidraw/benzene.png",
