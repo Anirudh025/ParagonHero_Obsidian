@@ -21,6 +21,16 @@
             }
           },
           {
+            "id": "9e71e27e94c238fc",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-06-24 09.05.44.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "432e67ac5da96e46",
             "type": "leaf",
             "state": {
@@ -156,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/Chemistry/Chem unorganized.md"
+                "file": "Excalidraw/Drawing 2024-06-24 09.05.44.excalidraw.md"
               }
             }
           },
@@ -166,7 +176,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/Chemistry/Chem unorganized.md"
+                "file": "Excalidraw/Drawing 2024-06-24 09.05.44.excalidraw.md"
               }
             }
           },
@@ -207,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Chemistry/Chem unorganized.md",
+                "file": "Excalidraw/Drawing 2024-06-24 09.05.44.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Chemistry/Chem unorganized.md",
+                "file": "Excalidraw/Drawing 2024-06-24 09.05.44.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -256,11 +266,13 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "432e67ac5da96e46",
+  "active": "9e71e27e94c238fc",
   "lastOpenFiles": [
+    "School studies/Physics/Ideal Gases.md",
+    "Excalidraw/Drawing 2024-06-24 09.05.44.excalidraw.md",
+    "School studies/Chemistry/Chem unorganized.md",
     "School studies/Chemistry/Benzene and its compounds.md",
     "School studies/CS/Data Representation.md",
-    "School studies/Physics/Ideal Gases.md",
     "0 Help.md/Obsidian-formatting.md",
     "Excalidraw/Charles Law.excalidraw.md",
     "Excalidraw/Boyles Law.excalidraw.md",
@@ -268,7 +280,6 @@
     "Excalidraw/Drawing 2024-06-24 08.45.14.excalidraw.md",
     "School studies/Physics/Circular Motion.md",
     "School studies/Physics/Thermal Physics.md",
-    "School studies/Chemistry/Chem unorganized.md",
     "0 Help.md/Drawing Pallet.png",
     "conflict-files-obsidian-git.md",
     "Excalidraw/types of benzene substituents.excalidraw.md",
@@ -291,7 +302,6 @@
     "Excalidraw/naming benzene compunds with other functional groups.excalidraw.md",
     "Obsidian help/MathJax.md",
     "Excalidraw/Thermocouple.excalidraw.md",
-    "0 Help.md/Ascii symbols.md",
     "Excalidraw/benzene Double bond.png",
     "Excalidraw/Pasted image 20230724044538.png",
     "Excalidraw/benzene.png",
