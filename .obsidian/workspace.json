@@ -4,54 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "194fa48124ca0ebf",
+        "id": "ed148ebe60dabfd7",
         "type": "tabs",
         "children": [
           {
-            "id": "2ec277ebc63dafe2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "015c8e1ec0005e64",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Sodium pheoxide.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "243baec62b377047",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Creating nitrobenzene but better.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "a6d4fa0f30e74a32",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/chemthing.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "c6c9ddcd2726fb94",
+            "id": "7c1b811711bb99a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -171,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md"
+                "file": "School studies/Chemistry/Carboxylic Acids.md"
               }
             }
           },
@@ -196,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md"
+                "file": "School studies/Chemistry/Carboxylic Acids.md"
               }
             }
           },
@@ -237,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md",
+                "file": "School studies/Chemistry/Carboxylic Acids.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md",
+                "file": "School studies/Chemistry/Carboxylic Acids.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -286,18 +243,18 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "2ec277ebc63dafe2",
+  "active": "7c1b811711bb99a6",
   "lastOpenFiles": [
-    "Excalidraw/types of benzene substituents.excalidraw.md",
-    "Excalidraw/chemthing.excalidraw.md",
+    "School studies/Chemistry/Chem unorganized.md",
     "School studies/Chemistry/Benzene and its compounds.md",
     "School studies/Chemistry/Carboxylic Acids.md",
-    "conflict-files-obsidian-git.md",
-    "README.md",
-    "School studies/Chemistry/Chem unorganized.md",
-    "0 Help.md/Drawing Pallet.png",
+    "Excalidraw/chemthing.excalidraw.md",
     "Excalidraw/Creating nitrobenzene but better.excalidraw.md",
     "Excalidraw/Sodium pheoxide.excalidraw.md",
+    "Excalidraw/types of benzene substituents.excalidraw.md",
+    "conflict-files-obsidian-git.md",
+    "README.md",
+    "0 Help.md/Drawing Pallet.png",
     "Excalidraw/bromine.excalidraw.md",
     "Excalidraw/benzne+cl2 (alcl3).excalidraw.md",
     "Excalidraw/Alcohol + acid.excalidraw.md",
