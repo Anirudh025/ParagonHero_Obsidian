@@ -50,9 +50,12 @@
             "id": "432e67ac5da96e46",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Charles Law.excalidraw.md"
+                "file": "School studies/Physics/Ideal Gases.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -192,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Charles Law.excalidraw.md"
+                "file": "School studies/Physics/Ideal Gases.md"
               }
             }
           },
@@ -202,7 +205,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Charles Law.excalidraw.md"
+                "file": "School studies/Physics/Ideal Gases.md"
               }
             }
           },
@@ -243,7 +246,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Charles Law.excalidraw.md",
+                "file": "School studies/Physics/Ideal Gases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,7 +263,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Charles Law.excalidraw.md",
+                "file": "School studies/Physics/Ideal Gases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -294,8 +297,8 @@
   },
   "active": "432e67ac5da96e46",
   "lastOpenFiles": [
-    "School studies/Physics/Ideal Gases.md",
     "Excalidraw/Charles Law.excalidraw.md",
+    "School studies/Physics/Ideal Gases.md",
     "Excalidraw/Boyles Law.excalidraw.md",
     "Excalidraw/benzne+cl2 (alcl3).excalidraw.md",
     "Excalidraw/Drawing 2024-06-24 08.45.14.excalidraw.md",
