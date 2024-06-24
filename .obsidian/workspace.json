@@ -143,8 +143,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "cb675aca7cd66052",
@@ -157,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/Physics/Ideal Gases.md"
+                "file": "School studies/Physics/Thermal Physics.md"
               }
             }
           },
@@ -167,7 +166,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/Physics/Ideal Gases.md"
+                "file": "School studies/Physics/Thermal Physics.md"
               }
             }
           },
@@ -208,6 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "School studies/Physics/Thermal Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,6 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "School studies/Physics/Thermal Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -255,10 +256,10 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "54c5a6e575f4cd1d",
+  "active": "9317a1770b4fbb1c",
   "lastOpenFiles": [
-    "School studies/Physics/Thermal Physics.md",
     "School studies/Physics/Ideal Gases.md",
+    "School studies/Physics/Thermal Physics.md",
     "School studies/Physics/Circular Motion.md",
     "School studies/Chemistry/Chem unorganized.md",
     "0 Help.md/Drawing Pallet.png",
