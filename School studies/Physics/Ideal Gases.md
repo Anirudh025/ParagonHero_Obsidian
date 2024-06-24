@@ -6,4 +6,4 @@ State functions
 
 ## Gas Laws
 ### Boyles Law
-Boyles L
+Boyles Law:: Keeping T constant, P is inversely proportional to V
