@@ -32,22 +32,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "96887e81c5ae8572",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School studies/Physics/Untitled.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/Physics/Untitled.md"
+                "file": "School studies/Physics/Ideal Gases.md"
               }
             }
           },
@@ -180,7 +167,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/Physics/Untitled.md"
+                "file": "School studies/Physics/Ideal Gases.md"
               }
             }
           },
@@ -221,7 +208,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Physics/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +224,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Physics/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -270,10 +255,10 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "96887e81c5ae8572",
+  "active": "54c5a6e575f4cd1d",
   "lastOpenFiles": [
     "School studies/Physics/Thermal Physics.md",
-    "School studies/Physics/Untitled.md",
+    "School studies/Physics/Ideal Gases.md",
     "School studies/Physics/Circular Motion.md",
     "School studies/Chemistry/Chem unorganized.md",
     "0 Help.md/Drawing Pallet.png",
