@@ -47,9 +47,12 @@
             "id": "656a9f13b96c5d4a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "0 Help.md/MathJax symbol reference.pdf"
+                "file": "School studies/Chemistry/Benzene and its compounds.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -162,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 Help.md/MathJax symbol reference.pdf"
+                "file": "School studies/Chemistry/Benzene and its compounds.md"
               }
             }
           },
@@ -187,7 +190,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0 Help.md/MathJax symbol reference.pdf"
+                "file": "School studies/Chemistry/Benzene and its compounds.md"
               }
             }
           },
@@ -228,7 +231,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 Help.md/MathJax symbol reference.pdf",
+                "file": "School studies/Chemistry/Benzene and its compounds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +248,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0 Help.md/MathJax symbol reference.pdf",
+                "file": "School studies/Chemistry/Benzene and its compounds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -279,6 +282,7 @@
   },
   "active": "656a9f13b96c5d4a",
   "lastOpenFiles": [
+    "0 Help.md/MathJax symbol reference.pdf",
     "0 Help.md/MathJax.md",
     "School studies/Chemistry/Carboxylic Acids.md",
     "School studies/Chemistry/Chem unorganized.md",
@@ -303,10 +307,8 @@
     "Excalidraw/benzne+cl2 (alcl3).excalidraw.md",
     "Excalidraw/Alcohol + acid.excalidraw.md",
     "School studies/Physics/Circular Motion.md",
-    "0 Help.md/MathJax symbol reference.pdf",
     "0 Help.md/Obsidian-formatting.md",
     "School studies/Physics/Thermal Physics.md",
-    "School studies/CS/Data Representation.md",
     "Excalidraw/benzene Double bond.png",
     "0 Help.md/Pasted Image 20240619103445_600.png",
     "Excalidraw/Pasted image 20240615073438.png",
