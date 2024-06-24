@@ -42,9 +42,17 @@
                 "file": "Excalidraw/Carboxylic dissociation.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "656a9f13b96c5d4a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -151,9 +159,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "School studies/Chemistry/Carboxylic Acids.md"
-              }
+              "state": {}
             }
           },
           {
@@ -176,9 +182,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "School studies/Chemistry/Carboxylic Acids.md"
-              }
+              "state": {}
             }
           },
           {
@@ -218,7 +222,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Chemistry/Carboxylic Acids.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +238,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Chemistry/Carboxylic Acids.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -267,8 +269,9 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "6308e8b005ec81aa",
+  "active": "656a9f13b96c5d4a",
   "lastOpenFiles": [
+    "School studies/Chemistry/Carboxylic Acids.md",
     "School studies/Chemistry/Chem unorganized.md",
     "Excalidraw/Carboxylate a.excalidraw.md",
     "conflict-files-obsidian-git.md",
@@ -277,7 +280,6 @@
     "Excalidraw/Charles Law.excalidraw.md",
     "Excalidraw/Boyles Law.excalidraw.md",
     "Excalidraw/Drawing 2024-06-24 11.29.10.excalidraw.md",
-    "School studies/Chemistry/Carboxylic Acids.md",
     "Excalidraw/Carboxylic dissociation.excalidraw.md",
     "School studies/Chemistry/Benzene and its compounds.md",
     "Excalidraw/Acylchloride and water.excalidraw.md",
