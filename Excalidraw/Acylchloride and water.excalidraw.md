@@ -117,11 +117,11 @@ O= ^RdPnHAnZ
 			"frameId": null,
 			"roundness": null,
 			"seed": 1621475529,
-			"version": 215,
-			"versionNonce": 521743687,
+			"version": 220,
+			"versionNonce": 1000752263,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1719206845058,
+			"updated": 1719206995911,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -138,8 +138,8 @@ O= ^RdPnHAnZ
 			"startBinding": null,
 			"endBinding": {
 				"elementId": "Ye8v00KW",
-				"focus": 0.10831864067292789,
-				"gap": 9.93755891292102
+				"focus": 0.10831864067292865,
+				"gap": 9.937558912920991
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"

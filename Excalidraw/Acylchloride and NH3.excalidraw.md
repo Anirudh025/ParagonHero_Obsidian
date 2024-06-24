@@ -8,11 +8,11 @@ tags: [excalidraw]
 
 
 # Text Elements
-R-C-Cl + H₂O  ^NZwYJopO
+R-C-Cl + NH₃  ^NZwYJopO
 
 O= ^QdkKpuPK
 
-R-C-OH + HCl ^vRzAjOFy
+R-C-NH₃ + HCl ^vRzAjOFy
 
 O= ^IL1IRuyL
 
@@ -26,8 +26,8 @@ O= ^IL1IRuyL
 	"elements": [
 		{
 			"type": "text",
-			"version": 52,
-			"versionNonce": 313156073,
+			"version": 57,
+			"versionNonce": 1713553767,
 			"isDeleted": false,
 			"id": "NZwYJopO",
 			"fillStyle": "hachure",
@@ -36,28 +36,28 @@ O= ^IL1IRuyL
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -275.03007137963357,
-			"y": -35.9251128908964,
+			"x": -274.21007168480935,
+			"y": -35.65249622117213,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 135.05601501464844,
+			"width": 133.416015625,
 			"height": 25,
 			"seed": 1121461767,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1719206961853,
+			"updated": 1719206975217,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "R-C-Cl + H₂O ",
-			"rawText": "R-C-Cl + H₂O ",
+			"text": "R-C-Cl + NH₃ ",
+			"rawText": "R-C-Cl + NH₃ ",
 			"textAlign": "center",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "R-C-Cl + H₂O ",
+			"originalText": "R-C-Cl + NH₃ ",
 			"lineHeight": 1.25,
 			"baseline": 17
 		},
@@ -100,8 +100,8 @@ O= ^IL1IRuyL
 		},
 		{
 			"type": "arrow",
-			"version": 217,
-			"versionNonce": 436714409,
+			"version": 244,
+			"versionNonce": 1625765095,
 			"isDeleted": false,
 			"id": "ZTd1XyZxeTeQE6CawpU4k",
 			"fillStyle": "hachure",
@@ -114,14 +114,14 @@ O= ^IL1IRuyL
 			"y": -24.507541675576874,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 37.1225751845559,
-			"height": 0.34378572544193275,
+			"width": 37.943348810120625,
+			"height": 0.3423822769599383,
 			"seed": 1536004167,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1719206961853,
+			"updated": 1719206991325,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -139,15 +139,15 @@ O= ^IL1IRuyL
 					0
 				],
 				[
-					37.1225751845559,
-					-0.34378572544193275
+					37.943348810120625,
+					-0.3423822769599383
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 63,
-			"versionNonce": 1187274377,
+			"version": 89,
+			"versionNonce": 2028832199,
 			"isDeleted": false,
 			"id": "vRzAjOFy",
 			"fillStyle": "hachure",
@@ -156,11 +156,11 @@ O= ^IL1IRuyL
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -99.04983889868674,
+			"x": -98.22906527312202,
 			"y": -36.62645524815798,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 130.0799102783203,
+			"width": 134.43600463867188,
 			"height": 25,
 			"seed": 941748071,
 			"groupIds": [],
@@ -172,17 +172,17 @@ O= ^IL1IRuyL
 					"type": "arrow"
 				}
 			],
-			"updated": 1719206961853,
+			"updated": 1719206991325,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "R-C-OH + HCl",
-			"rawText": "R-C-OH + HCl",
+			"text": "R-C-NH₃ + HCl",
+			"rawText": "R-C-NH₃ + HCl",
 			"textAlign": "center",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "R-C-OH + HCl",
+			"originalText": "R-C-NH₃ + HCl",
 			"lineHeight": 1.25,
 			"baseline": 17
 		},
@@ -239,10 +239,10 @@ O= ^IL1IRuyL
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 617,
-		"scrollY": 320.76043701171875,
+		"scrollX": 288.95111741181785,
+		"scrollY": 161.71887251922345,
 		"zoom": {
-			"value": 1
+			"value": 2.4453988628608463
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
