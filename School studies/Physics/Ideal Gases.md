@@ -8,4 +8,4 @@ State functions
 ### Boyles Law
 Boyles Law:: Keeping T constant, P is inversely proportional to V
 ![[Boyles Law.excalidraw]]
-P
+P1
