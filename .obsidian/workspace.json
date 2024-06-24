@@ -248,7 +248,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 556.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -269,7 +269,7 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "9317a1770b4fbb1c",
+  "active": "9e71e27e94c238fc",
   "lastOpenFiles": [
     "School studies/Chemistry/Benzene and its compounds.md",
     "Excalidraw/OrthoMetaParabenzene.excalidraw.md",
