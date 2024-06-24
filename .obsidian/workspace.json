@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md",
+                "file": "School studies/Chemistry/Chem unorganized.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -156,8 +156,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "cb675aca7cd66052",
@@ -170,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md"
+                "file": "School studies/Chemistry/Chem unorganized.md"
               }
             }
           },
@@ -180,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md"
+                "file": "School studies/Chemistry/Chem unorganized.md"
               }
             }
           },
@@ -221,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md",
+                "file": "School studies/Chemistry/Chem unorganized.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +237,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md",
+                "file": "School studies/Chemistry/Chem unorganized.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -249,7 +248,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 556.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -270,12 +269,14 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "9e71e27e94c238fc",
+  "active": "9317a1770b4fbb1c",
   "lastOpenFiles": [
+    "School studies/Chemistry/Benzene and its compounds.md",
+    "Excalidraw/OrthoMetaParabenzene.excalidraw.md",
+    "Excalidraw/Oxidation of benzene.excalidraw.md",
     "School studies/Chemistry/Chem unorganized.md",
     "School studies/Physics/Ideal Gases.md",
     "Excalidraw/Drawing 2024-06-24 09.05.44.excalidraw.md",
-    "School studies/Chemistry/Benzene and its compounds.md",
     "School studies/CS/Data Representation.md",
     "0 Help.md/Obsidian-formatting.md",
     "Excalidraw/Charles Law.excalidraw.md",
@@ -304,8 +305,6 @@
     "obsidian format/MathJax symbol reference .html",
     "Excalidraw/File Organization.excalidraw.md",
     "Excalidraw/naming benzene compunds with other functional groups.excalidraw.md",
-    "Obsidian help/MathJax.md",
-    "Excalidraw/Thermocouple.excalidraw.md",
     "Excalidraw/benzene Double bond.png",
     "Excalidraw/Pasted image 20230724044538.png",
     "Excalidraw/benzene.png",
