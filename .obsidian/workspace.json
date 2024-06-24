@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/Physics/Ideal Gases.md",
+                "file": "School studies/Chemistry/Benzene and its compounds.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -156,7 +156,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "cb675aca7cd66052",
@@ -169,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/Physics/Ideal Gases.md"
+                "file": "School studies/Chemistry/Benzene and its compounds.md"
               }
             }
           },
@@ -179,7 +180,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/Physics/Ideal Gases.md"
+                "file": "School studies/Chemistry/Benzene and its compounds.md"
               }
             }
           },
@@ -220,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Physics/Ideal Gases.md",
+                "file": "School studies/Chemistry/Benzene and its compounds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Physics/Ideal Gases.md",
+                "file": "School studies/Chemistry/Benzene and its compounds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -269,11 +270,11 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "9317a1770b4fbb1c",
+  "active": "9e71e27e94c238fc",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-06-24 09.05.44.excalidraw.md",
-    "School studies/Physics/Ideal Gases.md",
     "School studies/Chemistry/Chem unorganized.md",
+    "School studies/Physics/Ideal Gases.md",
+    "Excalidraw/Drawing 2024-06-24 09.05.44.excalidraw.md",
     "School studies/Chemistry/Benzene and its compounds.md",
     "School studies/CS/Data Representation.md",
     "0 Help.md/Obsidian-formatting.md",
