@@ -24,12 +24,9 @@
             "id": "9e71e27e94c238fc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "School studies/Chemistry/Chem unorganized.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "A Level A Class Timetable.png"
               }
             }
           },
@@ -170,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/Chemistry/Chem unorganized.md"
+                "file": "A Level A Class Timetable.png"
               }
             }
           },
@@ -180,7 +177,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/Chemistry/Chem unorganized.md"
+                "file": "A Level A Class Timetable.png"
               }
             }
           },
@@ -221,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Chemistry/Chem unorganized.md",
+                "file": "A Level A Class Timetable.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Chemistry/Chem unorganized.md",
+                "file": "A Level A Class Timetable.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -273,9 +270,9 @@
   "active": "9e71e27e94c238fc",
   "lastOpenFiles": [
     "School studies/Chemistry/Benzene and its compounds.md",
+    "School studies/Chemistry/Chem unorganized.md",
     "Excalidraw/OrthoMetaParabenzene.excalidraw.md",
     "Excalidraw/Oxidation of benzene.excalidraw.md",
-    "School studies/Chemistry/Chem unorganized.md",
     "School studies/Physics/Ideal Gases.md",
     "Excalidraw/Drawing 2024-06-24 09.05.44.excalidraw.md",
     "School studies/CS/Data Representation.md",
