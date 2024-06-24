@@ -313,6 +313,50 @@ T ^Jrh8hMrh
 			"containerId": null,
 			"originalText": "T",
 			"lineHeight": 1.25
+		},
+		{
+			"id": "Wo_g1-eK9u15ZbvKIYZV9",
+			"type": "line",
+			"x": -67.25,
+			"y": 27.5390625,
+			"width": 7.5,
+			"height": 20,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1211605869,
+			"version": 278,
+			"versionNonce": 584644301,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1719199715450,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-7.5,
+					20
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
 		}
 	],
 	"appState": {
@@ -322,7 +366,7 @@ T ^Jrh8hMrh
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "hachure",
 		"currentItemStrokeWidth": 1,
-		"currentItemStrokeStyle": "dotted",
+		"currentItemStrokeStyle": "solid",
 		"currentItemRoughness": 0,
 		"currentItemOpacity": 100,
 		"currentItemFontFamily": 1,
