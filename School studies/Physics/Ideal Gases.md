@@ -7,3 +7,4 @@ State functions
 ## Gas Laws
 ### Boyles Law
 Boyles Law:: Keeping T constant, P is inversely proportional to V
+![[Boyles Law.excalidraw]]

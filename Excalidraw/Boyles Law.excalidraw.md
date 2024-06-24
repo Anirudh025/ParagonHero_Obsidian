@@ -273,8 +273,8 @@ V ^uxMnBAE1
 		},
 		{
 			"type": "arrow",
-			"version": 211,
-			"versionNonce": 265083395,
+			"version": 212,
+			"versionNonce": 2053625261,
 			"isDeleted": false,
 			"id": "mJhmK7OnToB4qpod_-xP0",
 			"fillStyle": "hachure",
@@ -283,7 +283,7 @@ V ^uxMnBAE1
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 163.7428974078968,
+			"x": 163.3582820232814,
 			"y": -76.31231487108397,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -296,7 +296,7 @@ V ^uxMnBAE1
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1719198736298,
+			"updated": 1719199053466,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
