@@ -168,7 +168,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "cb675aca7cd66052",
@@ -296,10 +297,10 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "9317a1770b4fbb1c",
+  "active": "a6d4fa0f30e74a32",
   "lastOpenFiles": [
-    "School studies/Chemistry/Carboxylic Acids.md",
     "School studies/Chemistry/Benzene and its compounds.md",
+    "School studies/Chemistry/Carboxylic Acids.md",
     "conflict-files-obsidian-git.md",
     "README.md",
     "School studies/Chemistry/Chem unorganized.md",
