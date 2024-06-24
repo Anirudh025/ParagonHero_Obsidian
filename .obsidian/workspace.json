@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "78955f13a3cf94ec",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-06-24 11.16.30.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d967d98868519a35",
@@ -128,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/Chemistry/Carboxylic Acids.md"
+                "file": "Excalidraw/Drawing 2024-06-24 11.16.30.excalidraw.md"
               }
             }
           },
@@ -153,7 +165,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/Chemistry/Carboxylic Acids.md"
+                "file": "Excalidraw/Drawing 2024-06-24 11.16.30.excalidraw.md"
               }
             }
           },
@@ -194,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Chemistry/Carboxylic Acids.md",
+                "file": "Excalidraw/Drawing 2024-06-24 11.16.30.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Chemistry/Carboxylic Acids.md",
+                "file": "Excalidraw/Drawing 2024-06-24 11.16.30.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -244,11 +256,11 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "7c1b811711bb99a6",
+  "active": "78955f13a3cf94ec",
   "lastOpenFiles": [
-    "School studies/Chemistry/Benzene and its compounds.md",
-    "Excalidraw/Drawing 2024-06-24 11.16.30.excalidraw.md",
     "School studies/Chemistry/Carboxylic Acids.md",
+    "Excalidraw/Drawing 2024-06-24 11.16.30.excalidraw.md",
+    "School studies/Chemistry/Benzene and its compounds.md",
     "Excalidraw/Acylchloride and water.excalidraw.md",
     "Excalidraw/Acylchloride and NH3.excalidraw.md",
     "School studies/Chemistry/Chem unorganized.md",
