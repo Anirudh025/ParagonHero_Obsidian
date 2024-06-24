@@ -1,6 +1,5 @@
 ---
-tags:
-  - "#cs"
+tags: []
 ---
 ## Non Composite Data Types
 ###### Datatypes 
