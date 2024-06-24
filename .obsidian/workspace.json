@@ -47,8 +47,10 @@
             "id": "656a9f13b96c5d4a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "0 Help.md/MathJax symbol reference.pdf"
+              }
             }
           }
         ],
@@ -159,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "0 Help.md/MathJax symbol reference.pdf"
+              }
             }
           },
           {
@@ -182,7 +186,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "0 Help.md/MathJax symbol reference.pdf"
+              }
             }
           },
           {
@@ -222,6 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0 Help.md/MathJax symbol reference.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,6 +245,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "0 Help.md/MathJax symbol reference.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -271,6 +279,7 @@
   },
   "active": "656a9f13b96c5d4a",
   "lastOpenFiles": [
+    "0 Help.md/MathJax.md",
     "School studies/Chemistry/Carboxylic Acids.md",
     "School studies/Chemistry/Chem unorganized.md",
     "Excalidraw/Carboxylate a.excalidraw.md",
@@ -298,7 +307,6 @@
     "0 Help.md/Obsidian-formatting.md",
     "School studies/Physics/Thermal Physics.md",
     "School studies/CS/Data Representation.md",
-    "Excalidraw/Thermocouple.excalidraw.md",
     "Excalidraw/benzene Double bond.png",
     "0 Help.md/Pasted Image 20240619103445_600.png",
     "Excalidraw/Pasted image 20240615073438.png",
