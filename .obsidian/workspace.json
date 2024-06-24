@@ -26,27 +26,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/Physics/Ideal Gases.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9adafbca3207e461",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 Help.md/Obsidian-formatting.md",
+                "file": "School studies/Chemistry/Chem unorganized.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/Physics/Ideal Gases.md"
+                "file": "School studies/Chemistry/Chem unorganized.md"
               }
             }
           },
@@ -178,7 +166,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/Physics/Ideal Gases.md"
+                "file": "School studies/Chemistry/Chem unorganized.md"
               }
             }
           },
@@ -219,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Physics/Ideal Gases.md",
+                "file": "School studies/Chemistry/Chem unorganized.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Physics/Ideal Gases.md",
+                "file": "School studies/Chemistry/Chem unorganized.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -268,20 +256,20 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "c9ba2b90357e1a67",
+  "active": "432e67ac5da96e46",
   "lastOpenFiles": [
-    "Excalidraw/Charles Law.excalidraw.md",
+    "School studies/Chemistry/Benzene and its compounds.md",
+    "School studies/CS/Data Representation.md",
     "School studies/Physics/Ideal Gases.md",
+    "0 Help.md/Obsidian-formatting.md",
+    "Excalidraw/Charles Law.excalidraw.md",
     "Excalidraw/Boyles Law.excalidraw.md",
     "Excalidraw/benzne+cl2 (alcl3).excalidraw.md",
     "Excalidraw/Drawing 2024-06-24 08.45.14.excalidraw.md",
-    "0 Help.md/Obsidian-formatting.md",
     "School studies/Physics/Circular Motion.md",
-    "School studies/CS/Data Representation.md",
     "School studies/Physics/Thermal Physics.md",
     "School studies/Chemistry/Chem unorganized.md",
     "0 Help.md/Drawing Pallet.png",
-    "School studies/Chemistry/Benzene and its compounds.md",
     "conflict-files-obsidian-git.md",
     "Excalidraw/types of benzene substituents.excalidraw.md",
     "Excalidraw/chemthing.excalidraw.md",
