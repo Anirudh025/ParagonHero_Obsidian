@@ -29,8 +29,19 @@
                 "file": "Excalidraw/Acylchloride and water.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "a6d4fcceec1183be",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Acylchloride and NH3.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -139,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/Chemistry/Carboxylic Acids.md"
+                "file": "Excalidraw/Acylchloride and NH3.excalidraw.md"
               }
             }
           },
@@ -164,7 +175,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/Chemistry/Carboxylic Acids.md"
+                "file": "Excalidraw/Acylchloride and NH3.excalidraw.md"
               }
             }
           },
@@ -205,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Chemistry/Carboxylic Acids.md",
+                "file": "Excalidraw/Acylchloride and NH3.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Chemistry/Carboxylic Acids.md",
+                "file": "Excalidraw/Acylchloride and NH3.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -255,9 +266,10 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "7c1b811711bb99a6",
+  "active": "a6d4fcceec1183be",
   "lastOpenFiles": [
     "Excalidraw/Acylchloride and water.excalidraw.md",
+    "Excalidraw/Acylchloride and NH3.excalidraw.md",
     "School studies/Chemistry/Carboxylic Acids.md",
     "School studies/Chemistry/Chem unorganized.md",
     "School studies/Chemistry/Benzene and its compounds.md",
@@ -284,7 +296,6 @@
     "Excalidraw/phenylheptane.excalidraw.md",
     "Excalidraw/Oxidation of benzene.excalidraw.md",
     "Excalidraw/OrthoMetaParabenzene.excalidraw.md",
-    "Excalidraw/naming benzene compunds with other functional groups.excalidraw.md",
     "Excalidraw/benzene Double bond.png",
     "0 Help.md/Pasted Image 20240619103445_600.png",
     "Excalidraw/Pasted image 20240615073438.png",
