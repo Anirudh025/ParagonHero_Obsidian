@@ -59,8 +59,22 @@
                 "file": "Excalidraw/chemthing.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "c6c9ddcd2726fb94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School studies/Chemistry/Untitled.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -168,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md"
+                "file": "School studies/Chemistry/Untitled.md"
               }
             }
           },
@@ -193,7 +207,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md"
+                "file": "School studies/Chemistry/Untitled.md"
               }
             }
           },
@@ -234,7 +248,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md",
+                "file": "School studies/Chemistry/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -251,7 +265,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md",
+                "file": "School studies/Chemistry/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -283,9 +297,10 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "9317a1770b4fbb1c",
+  "active": "c6c9ddcd2726fb94",
   "lastOpenFiles": [
     "School studies/Chemistry/Benzene and its compounds.md",
+    "School studies/Chemistry/Untitled.md",
     "conflict-files-obsidian-git.md",
     "README.md",
     "School studies/Chemistry/Chem unorganized.md",
@@ -312,7 +327,6 @@
     "Excalidraw/OrthoMetaParabenzene.excalidraw.md",
     "Excalidraw/naming benzene compunds with other functional groups.excalidraw.md",
     "Excalidraw/Friedel Craft Alkylation of benzene.excalidraw.md",
-    "Excalidraw/Friedel craft Acylation of benzene.excalidraw.md",
     "Excalidraw/benzene Double bond.png",
     "0 Help.md/Pasted Image 20240619103445_600.png",
     "Excalidraw/Pasted image 20240615073438.png",
