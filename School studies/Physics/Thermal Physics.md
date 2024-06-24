@@ -13,7 +13,7 @@ Heat :: a form of energy, energy :: the ability to do work
 %% #physics/thermometric%%
 ## Thermocouple Interplotation
 
-To calibrate a thermometer :: Use melting and boiling point of ***pure water*** and mark temperatures uniformly between them %% #physics/thermocouple
+To calibrate a thermometer :: Use melting and boiling point of ***pure water*** and mark temperatures uniformly between them %% #physics/thermocouple%% 
 #### Thermocouple Interpolation
 ![[Thermocouple.excalidraw|500]]
 
@@ -21,7 +21,7 @@ $θ=\frac{100(P_θ-P_i)}{(P_s-P_i)}$
 	- $P_s=$ Property of liquid at steam point
 	- $P_i =$ Property of liquid at ice point
 	- $P_θ =$ Property of liquid at point θ
-Absolute Zero :: -273.15°C or 0K <!--SR:!2024-06-24,4,270-->
-Celsius to Kelvin :: $TK = t°C + 273.15$ <!--SR:!2024-06-24,4,270-->
+Absolute Zero :: -273.15°C or 0K 
+Celsius to Kelvin :: $TK = t°C + 273.15$ 
 #### Triple Point of Water
 It is the temperature at which Ice, Water, Water vapour are in equilibrium 

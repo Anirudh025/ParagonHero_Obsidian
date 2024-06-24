@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#physics/thermocouple",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,8 +88,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -258,11 +257,12 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "4b0ad9f429b2d16e",
+  "active": "161434b279403487",
   "lastOpenFiles": [
+    "School studies/Physics/Circular Motion.md",
+    "School studies/Physics/Thermal Physics.md",
     "School studies/Chemistry/Chem unorganized.md",
     "0 Help.md/Drawing Pallet.png",
-    "School studies/Physics/Circular Motion.md",
     "School studies/Chemistry/Benzene and its compounds.md",
     "School studies/CS/Data Representation.md",
     "conflict-files-obsidian-git.md",
@@ -283,7 +283,6 @@
     "0 Help.md/MathJax.md",
     "obsidian format/MathJax symbol reference.md",
     "obsidian format/MathJax symbol reference .html",
-    "School studies/Physics/Thermal Physics.md",
     "Excalidraw/File Organization.excalidraw.md",
     "Excalidraw/naming benzene compunds with other functional groups.excalidraw.md",
     "Obsidian help/MathJax.md",
