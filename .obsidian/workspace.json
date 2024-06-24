@@ -24,9 +24,12 @@
             "id": "9e71e27e94c238fc",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "A Level A Class Timetable.png"
+                "file": "School studies/Chemistry/Benzene and its compounds.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -167,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A Level A Class Timetable.png"
+                "file": "School studies/Chemistry/Untitled.md"
               }
             }
           },
@@ -177,7 +180,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "A Level A Class Timetable.png"
+                "file": "School studies/Chemistry/Untitled.md"
               }
             }
           },
@@ -218,7 +221,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A Level A Class Timetable.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +237,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A Level A Class Timetable.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -267,9 +268,11 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "9e71e27e94c238fc",
+  "active": "54c5a6e575f4cd1d",
   "lastOpenFiles": [
     "School studies/Chemistry/Benzene and its compounds.md",
+    "School studies/Chemistry/Untitled.md",
+    "A Level A Class Timetable.png",
     "School studies/Chemistry/Chem unorganized.md",
     "Excalidraw/OrthoMetaParabenzene.excalidraw.md",
     "Excalidraw/Oxidation of benzene.excalidraw.md",
@@ -302,11 +305,9 @@
     "obsidian format/MathJax symbol reference.md",
     "obsidian format/MathJax symbol reference .html",
     "Excalidraw/File Organization.excalidraw.md",
-    "Excalidraw/naming benzene compunds with other functional groups.excalidraw.md",
     "Excalidraw/benzene Double bond.png",
     "Excalidraw/Pasted image 20230724044538.png",
     "Excalidraw/benzene.png",
-    "Excalidraw/Pasted image 20240615073438.png",
     "Excalidraw/pngwing.com.png.crdownload",
     "Untitled.pdf",
     "Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
