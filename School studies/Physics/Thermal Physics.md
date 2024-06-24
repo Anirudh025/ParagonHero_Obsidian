@@ -1,13 +1,9 @@
----
-tags:
-  - physics
----
 # Temperature
-Heat :: a form of energy, energy :: the ability to do work <!--SR:!2024-06-23,3,250-->
+Heat :: a form of energy, energy :: the ability to do work 
 1.  Thermal Equilibrium %% #physics/thermalequilibrium%%
 	- When two objects at different temperatures are in contact with each other, heat flows from the hot object to the cold object. The flow of heat continues till both the objects are at same temperature. 
 	- Thermal equilibrium is a dynamic process (The flow of heat continues in both directions without ever stopping)
-- Temperature :: Average Kinetic of measured object(s) <!--SR:!2024-06-24,4,270-->
+- Temperature :: Average Kinetic of measured object(s) 
 ###### Good thermometric properties:
  1. It must expand uniformly over a wide range of temperature.
 2. It must have low melting point & high boiling point.
@@ -17,7 +13,7 @@ Heat :: a form of energy, energy :: the ability to do work <!--SR:!2024-06-23,3,
 %% #physics/thermometric%%
 ## Thermocouple Interplotation
 
-To calibrate a thermometer :: Use melting and boiling point of ***pure water*** and mark temperatures uniformly between them %% #physics/thermocouple%% <!--SR:!2024-06-23,3,250-->
+To calibrate a thermometer :: Use melting and boiling point of ***pure water*** and mark temperatures uniformly between them %% #physics/thermocouple
 #### Thermocouple Interpolation
 ![[Thermocouple.excalidraw|500]]
 
