@@ -21,43 +21,27 @@
             }
           },
           {
-            "id": "6308e8b005ec81aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School studies/Chemistry/Carboxylic Acids.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "78955f13a3cf94ec",
+            "id": "5beba94e21b1c0fc",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Carboxylic dissociation.excalidraw.md"
+                "file": "Excalidraw/Acylchloride and NH3.excalidraw.md"
               }
             }
           },
           {
-            "id": "656a9f13b96c5d4a",
+            "id": "4d0b49a334b7c245",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "School studies/Chemistry/Carboxylic Acids.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Excalidraw/Drawing 2024-06-25 08.33.20.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/Chemistry/Carboxylic Acids.md"
+                "file": "Excalidraw/Acylchloride and NH3.excalidraw.md"
               }
             }
           },
@@ -190,7 +174,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/Chemistry/Carboxylic Acids.md"
+                "file": "Excalidraw/Acylchloride and NH3.excalidraw.md"
               }
             }
           },
@@ -231,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Chemistry/Carboxylic Acids.md",
+                "file": "Excalidraw/Acylchloride and NH3.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Chemistry/Carboxylic Acids.md",
+                "file": "Excalidraw/Acylchloride and NH3.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -280,14 +264,16 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "656a9f13b96c5d4a",
+  "active": "5beba94e21b1c0fc",
   "lastOpenFiles": [
+    "School studies/Chemistry/Carboxylic Acids.md",
+    "Excalidraw/Carboxylic dissociation.excalidraw.md",
+    "Excalidraw/Drawing 2024-06-25 08.33.20.excalidraw.md",
     "School studies/Chemistry/Chem unorganized.md",
     "School studies/Physics/Thermal Physics.md",
     "School studies/Chemistry/Benzene and its compounds.md",
     "0 Help.md/MathJax symbol reference.pdf",
     "0 Help.md/MathJax.md",
-    "School studies/Chemistry/Carboxylic Acids.md",
     "Excalidraw/Carboxylate a.excalidraw.md",
     "conflict-files-obsidian-git.md",
     "School studies/Physics/Ideal Gases.md",
@@ -295,7 +281,6 @@
     "Excalidraw/Charles Law.excalidraw.md",
     "Excalidraw/Boyles Law.excalidraw.md",
     "Excalidraw/Drawing 2024-06-24 11.29.10.excalidraw.md",
-    "Excalidraw/Carboxylic dissociation.excalidraw.md",
     "Excalidraw/Acylchloride and water.excalidraw.md",
     "Excalidraw/Acylchloride and NH3.excalidraw.md",
     "Excalidraw/chemthing.excalidraw.md",
