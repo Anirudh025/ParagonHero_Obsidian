@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/CS/Data Representation.md",
+                "file": "School studies/Physics/Ideal Gases.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "School studies/Physics/Ideal Gases.md"
               }
             }
           },
@@ -187,7 +187,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "School studies/Physics/Ideal Gases.md"
               }
             }
           },
@@ -228,6 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "School studies/Physics/Ideal Gases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,6 +245,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "School studies/Physics/Ideal Gases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -275,8 +277,9 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "9317a1770b4fbb1c",
+  "active": "9213f9e1166ea19d",
   "lastOpenFiles": [
+    "School studies/Physics/Circular Motion.md",
     "School studies/CS/Data Representation.md",
     "conflict-files-obsidian-git.md",
     "Excalidraw/acylchloride reaction mechanism with amine.excalidraw.md",
@@ -301,7 +304,6 @@
     "Excalidraw/Boyles Law.excalidraw.md",
     "Excalidraw/benzne+cl2 (alcl3).excalidraw.md",
     "Excalidraw/Drawing 2024-06-24 08.45.14.excalidraw.md",
-    "School studies/Physics/Circular Motion.md",
     "School studies/Physics/Thermal Physics.md",
     "0 Help.md/Drawing Pallet.png",
     "Excalidraw/types of benzene substituents.excalidraw.md",
