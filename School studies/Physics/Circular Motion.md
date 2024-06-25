@@ -26,9 +26,9 @@ If $\theta = \frac{s}{r}$
 - $v = (\frac{2pi}{T}) * r$
 - $v = r\omega$
 
-Angular displacement:: 
+Angular displacement:: angle subtended at the center of the circle
 
-$
+
 
 
 
