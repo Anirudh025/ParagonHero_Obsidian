@@ -45,12 +45,9 @@
             "id": "9213f9e1166ea19d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "School studies/Physics/Ideal Gases.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Excalidraw/Drawing 2024-06-24 09.05.44.excalidraw.md"
               }
             }
           }
@@ -177,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/Physics/Ideal Gases.md"
+                "file": "Excalidraw/Drawing 2024-06-24 09.05.44.excalidraw.md"
               }
             }
           },
@@ -187,7 +184,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/Physics/Ideal Gases.md"
+                "file": "Excalidraw/Drawing 2024-06-24 09.05.44.excalidraw.md"
               }
             }
           },
@@ -228,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Physics/Ideal Gases.md",
+                "file": "Excalidraw/Drawing 2024-06-24 09.05.44.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +242,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Physics/Ideal Gases.md",
+                "file": "Excalidraw/Drawing 2024-06-24 09.05.44.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -279,6 +276,7 @@
   },
   "active": "9213f9e1166ea19d",
   "lastOpenFiles": [
+    "School studies/Physics/Ideal Gases.md",
     "School studies/Physics/Circular Motion.md",
     "School studies/CS/Data Representation.md",
     "conflict-files-obsidian-git.md",
@@ -298,7 +296,6 @@
     "A Level A Class Timetable.png",
     "Excalidraw/OrthoMetaParabenzene.excalidraw.md",
     "Excalidraw/Oxidation of benzene.excalidraw.md",
-    "School studies/Physics/Ideal Gases.md",
     "0 Help.md/Obsidian-formatting.md",
     "Excalidraw/Charles Law.excalidraw.md",
     "Excalidraw/Boyles Law.excalidraw.md",
