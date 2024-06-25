@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 Help.md/Ascii symbols.md",
+                "file": "0 Help.md/MathJax.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 Help.md/Ascii symbols.md"
+                "file": "0 Help.md/MathJax.md"
               }
             }
           },
@@ -187,7 +187,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0 Help.md/Ascii symbols.md"
+                "file": "0 Help.md/MathJax.md"
               }
             }
           },
@@ -228,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 Help.md/Ascii symbols.md",
+                "file": "0 Help.md/MathJax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +245,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0 Help.md/Ascii symbols.md",
+                "file": "0 Help.md/MathJax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -279,9 +279,10 @@
   },
   "active": "9213f9e1166ea19d",
   "lastOpenFiles": [
+    "School studies/Physics/Ideal Gases.md",
+    "0 Help.md/Ascii symbols.md",
     "0 Help.md/MathJax symbol reference.pdf",
     "0 Help.md/MathJax.md",
-    "School studies/Physics/Ideal Gases.md",
     "Excalidraw/Gay Lussac.excalidraw.md",
     "School studies/Physics/Circular Motion.md",
     "School studies/CS/Data Representation.md",
