@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "4d0b49a334b7c245",
+            "id": "d1740e97437fb5ce",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-25 08.33.20.excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-06-25 08.39.09.excalidraw.md"
               }
             }
           }
@@ -74,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d967d98868519a35",
@@ -139,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-25 08.33.20.excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-06-25 08.39.09.excalidraw.md"
               }
             }
           },
@@ -164,7 +165,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-25 08.33.20.excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-06-25 08.39.09.excalidraw.md"
               }
             }
           },
@@ -205,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-25 08.33.20.excalidraw.md",
+                "file": "Excalidraw/Drawing 2024-06-25 08.39.09.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-25 08.33.20.excalidraw.md",
+                "file": "Excalidraw/Drawing 2024-06-25 08.39.09.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -233,7 +234,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 323.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -254,12 +256,13 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "4d0b49a334b7c245",
+  "active": "d1740e97437fb5ce",
   "lastOpenFiles": [
     "School studies/Chemistry/Carboxylic Acids.md",
+    "Excalidraw/Drawing 2024-06-25 08.39.09.excalidraw.md",
+    "Excalidraw/Acyl chloride and methylamine .excalidraw.md",
     "Excalidraw/Acylchloride and NH3.excalidraw.md",
     "Excalidraw/Carboxylic dissociation.excalidraw.md",
-    "Excalidraw/Drawing 2024-06-25 08.33.20.excalidraw.md",
     "School studies/Chemistry/Chem unorganized.md",
     "School studies/Physics/Thermal Physics.md",
     "School studies/Chemistry/Benzene and its compounds.md",
@@ -283,7 +286,6 @@
     "Excalidraw/benzne+cl2 (alcl3).excalidraw.md",
     "Excalidraw/Alcohol + acid.excalidraw.md",
     "School studies/Physics/Circular Motion.md",
-    "0 Help.md/Obsidian-formatting.md",
     "Excalidraw/benzene Double bond.png",
     "0 Help.md/Pasted Image 20240619103445_600.png",
     "Excalidraw/Pasted image 20240615073438.png",
