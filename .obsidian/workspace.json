@@ -45,9 +45,12 @@
             "id": "9213f9e1166ea19d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-24 09.05.44.excalidraw.md"
+                "file": "School studies/Physics/Ideal Gases.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -174,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-24 09.05.44.excalidraw.md"
+                "file": "School studies/Physics/Ideal Gases.md"
               }
             }
           },
@@ -184,7 +187,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-24 09.05.44.excalidraw.md"
+                "file": "School studies/Physics/Ideal Gases.md"
               }
             }
           },
@@ -225,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-24 09.05.44.excalidraw.md",
+                "file": "School studies/Physics/Ideal Gases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +245,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-24 09.05.44.excalidraw.md",
+                "file": "School studies/Physics/Ideal Gases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -276,6 +279,7 @@
   },
   "active": "9213f9e1166ea19d",
   "lastOpenFiles": [
+    "Excalidraw/Gay Lussac.excalidraw.md",
     "School studies/Physics/Ideal Gases.md",
     "School studies/Physics/Circular Motion.md",
     "School studies/CS/Data Representation.md",
@@ -285,7 +289,6 @@
     "Excalidraw/Drawing 2024-06-25 08.33.20.excalidraw.md",
     "School studies/Chemistry/Benzene and its compounds.md",
     "Excalidraw/Compositedatatypes.excalidraw.md",
-    "Excalidraw/Drawing 2024-06-24 09.05.44.excalidraw.md",
     "School studies/Chemistry/Carboxylic Acids.md",
     "School studies/Chemistry/Chem unorganized.md",
     "Excalidraw/Carboxylic dissociation.excalidraw.md",
