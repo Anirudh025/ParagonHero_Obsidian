@@ -29,6 +29,19 @@
                 "file": "Excalidraw/Drawing 2024-06-25 08.39.09.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "0a0fd01288d71b54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 Help.md/Ascii symbols.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -74,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "d967d98868519a35",
@@ -258,8 +270,9 @@
   },
   "active": "d1740e97437fb5ce",
   "lastOpenFiles": [
-    "School studies/Chemistry/Carboxylic Acids.md",
+    "0 Help.md/Ascii symbols.md",
     "Excalidraw/Drawing 2024-06-25 08.39.09.excalidraw.md",
+    "School studies/Chemistry/Carboxylic Acids.md",
     "Excalidraw/Acyl chloride and methylamine .excalidraw.md",
     "Excalidraw/Acylchloride and NH3.excalidraw.md",
     "Excalidraw/Carboxylic dissociation.excalidraw.md",
@@ -285,7 +298,6 @@
     "Excalidraw/bromine.excalidraw.md",
     "Excalidraw/benzne+cl2 (alcl3).excalidraw.md",
     "Excalidraw/Alcohol + acid.excalidraw.md",
-    "School studies/Physics/Circular Motion.md",
     "Excalidraw/benzene Double bond.png",
     "0 Help.md/Pasted Image 20240619103445_600.png",
     "Excalidraw/Pasted image 20240615073438.png",

@@ -21,7 +21,7 @@ Co-ordinate ≡
 Alpha α 
 Beta β
 Gamma γ
-Delta Δ
+Delta Δ 
 Epsilon ε
 Theta θ
 Sigma σ
