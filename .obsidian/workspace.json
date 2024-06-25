@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7801955a09bbf79a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-06-25 12.19.54.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.50418853759766
+    "width": 226.50418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "d967d98868519a35",
@@ -143,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/Physics/Circular Motion.md"
+                "file": "Excalidraw/Drawing 2024-06-25 12.19.54.excalidraw.md"
               }
             }
           },
@@ -153,7 +165,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/Physics/Circular Motion.md"
+                "file": "Excalidraw/Drawing 2024-06-25 12.19.54.excalidraw.md"
               }
             }
           },
@@ -194,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Physics/Circular Motion.md",
+                "file": "Excalidraw/Drawing 2024-06-25 12.19.54.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Physics/Circular Motion.md",
+                "file": "Excalidraw/Drawing 2024-06-25 12.19.54.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -222,7 +234,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -243,8 +256,10 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "9213f9e1166ea19d",
+  "active": "7801955a09bbf79a",
   "lastOpenFiles": [
+    "School studies/Physics/Circular Motion.md",
+    "Excalidraw/Drawing 2024-06-25 12.19.54.excalidraw.md",
     "School studies/Physics/Ideal Gases.md",
     "School studies/Chemistry/Carboxylic Acids.md",
     "0 Help.md/MathJax.md",
@@ -252,7 +267,6 @@
     "School studies/Chemistry/Benzene and its compounds.md",
     "0 Help.md/MathJax symbol reference.pdf",
     "0 Help.md/Ascii symbols.md",
-    "School studies/Physics/Circular Motion.md",
     "School studies/CS/Data Representation.md",
     "conflict-files-obsidian-git.md",
     "Excalidraw/acylchloride reaction mechanism with amine.excalidraw.md",
