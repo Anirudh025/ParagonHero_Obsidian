@@ -36,7 +36,7 @@ Angle of 1 revolution: $2\pi$
 $\Delta \theta =\frac{\Delta V}{V}$
 $\therefore$
 $\frac{\Delta V}{V} = \frac{s}{r}$
-$\Delta V = \frac{v}{r} \times s$
+$\Delta V = \frac{v}{r} \$
 
 
 
