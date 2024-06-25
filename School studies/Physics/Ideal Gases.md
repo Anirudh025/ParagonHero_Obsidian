@@ -24,4 +24,3 @@ PV ∝ T        PV = nRT        R = 8.31JK<sup>-1</sup> mol<sup>-1</sup>
 
 JK<sup>-1</sup> mol<sup>-1</sup> 
 
-
