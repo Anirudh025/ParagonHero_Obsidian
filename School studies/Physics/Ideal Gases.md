@@ -17,3 +17,5 @@ Charles Law: When P constant V<sub>1</sub>/T<sub>1</sub> = V<sub>2</sub>/T<sub>2
 ### Gay Lussac
 Gay Lussac: While V constant, P is directly proportional to T
 ![[Gay Lussac.excalidraw]]
+
+### General
