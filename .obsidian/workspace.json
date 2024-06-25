@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c9ba2b90357e1a67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School studies/Physics/Ideal Gases.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9213f9e1166ea19d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 Help.md/MathJax.md",
+                "file": "School studies/Physics/Ideal Gases.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -255,14 +242,14 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "c9ba2b90357e1a67",
+  "active": "9213f9e1166ea19d",
   "lastOpenFiles": [
     "0 Help.md/MathJax.md",
+    "Excalidraw/Gay Lussac.excalidraw.md",
     "School studies/Physics/Ideal Gases.md",
     "School studies/Chemistry/Benzene and its compounds.md",
     "0 Help.md/MathJax symbol reference.pdf",
     "0 Help.md/Ascii symbols.md",
-    "Excalidraw/Gay Lussac.excalidraw.md",
     "School studies/Physics/Circular Motion.md",
     "School studies/CS/Data Representation.md",
     "conflict-files-obsidian-git.md",
