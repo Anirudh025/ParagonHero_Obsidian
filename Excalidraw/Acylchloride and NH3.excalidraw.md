@@ -26,8 +26,8 @@ O= ^IL1IRuyL
 	"elements": [
 		{
 			"type": "text",
-			"version": 60,
-			"versionNonce": 2109813127,
+			"version": 124,
+			"versionNonce": 825560656,
 			"isDeleted": false,
 			"id": "NZwYJopO",
 			"fillStyle": "hachure",
@@ -47,7 +47,7 @@ O= ^IL1IRuyL
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1719207041888,
+			"updated": 1719284671069,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -63,8 +63,8 @@ O= ^IL1IRuyL
 		},
 		{
 			"type": "text",
-			"version": 198,
-			"versionNonce": 524930665,
+			"version": 286,
+			"versionNonce": 1931853488,
 			"isDeleted": false,
 			"id": "QdkKpuPK",
 			"fillStyle": "hachure",
@@ -84,7 +84,7 @@ O= ^IL1IRuyL
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1719207041888,
+			"updated": 1719284671069,
 			"link": null,
 			"locked": false,
 			"fontSize": 16.339880508164107,
@@ -100,8 +100,8 @@ O= ^IL1IRuyL
 		},
 		{
 			"type": "arrow",
-			"version": 259,
-			"versionNonce": 219169673,
+			"version": 272,
+			"versionNonce": 169788496,
 			"isDeleted": false,
 			"id": "ZTd1XyZxeTeQE6CawpU4k",
 			"fillStyle": "hachure",
@@ -121,7 +121,7 @@ O= ^IL1IRuyL
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1719207056343,
+			"updated": 1719284671070,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -146,8 +146,8 @@ O= ^IL1IRuyL
 		},
 		{
 			"type": "text",
-			"version": 103,
-			"versionNonce": 11327527,
+			"version": 109,
+			"versionNonce": 1062889648,
 			"isDeleted": false,
 			"id": "vRzAjOFy",
 			"fillStyle": "hachure",
@@ -172,7 +172,7 @@ O= ^IL1IRuyL
 					"type": "arrow"
 				}
 			],
-			"updated": 1719207056335,
+			"updated": 1719284671070,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -188,8 +188,8 @@ O= ^IL1IRuyL
 		},
 		{
 			"type": "text",
-			"version": 292,
-			"versionNonce": 660875815,
+			"version": 298,
+			"versionNonce": 1214364240,
 			"isDeleted": false,
 			"id": "IL1IRuyL",
 			"fillStyle": "hachure",
@@ -209,7 +209,7 @@ O= ^IL1IRuyL
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1719207058052,
+			"updated": 1719284671070,
 			"link": null,
 			"locked": false,
 			"fontSize": 16.339880508164107,
@@ -239,10 +239,10 @@ O= ^IL1IRuyL
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 288.95111741181785,
-		"scrollY": 161.71887251922345,
+		"scrollX": 362.0732156266681,
+		"scrollY": 308.1726655158361,
 		"zoom": {
-			"value": 2.4453988628608463
+			"value": 1.3817572486732046
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
