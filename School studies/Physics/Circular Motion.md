@@ -33,5 +33,17 @@ Angular displacement:: angle subtended at the center of the circle
 Angular Displacement:: $\Delta\theta=\frac{s}{r}$
 Angle of 1 revolution: $2\pi$
 ![[Angular Velocity.excalidraw|250]]     
+
+
+
+
+
+
+
+
+
+
+
+
 during the circular motion there is no displacement in the direction of force hence the work done on the object is 0
 
