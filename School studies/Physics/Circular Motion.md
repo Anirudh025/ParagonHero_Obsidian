@@ -34,9 +34,9 @@ Angular Displacement:: $\Delta\theta=\frac{s}{r}$
 Angle of 1 revolution: $2\pi$
 ![[Angular Velocity.excalidraw|250]]     
 $\Delta \theta =\frac{\Delta V}{V}$
-
-
-
+$\therefore$
+$\frac{\Delta V}{V} = \frac{s}{r}$
+$$
 
 
 
