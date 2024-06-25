@@ -33,7 +33,7 @@ Angular displacement:: angle subtended at the center of the circle
 Angular Displacement:: $\Delta\theta=\frac{s}{r}$
 Angle of 1 revolution: $2\pi$
 ![[Angular Velocity.excalidraw|250]]     
-
+$\Delta \theta =\frac{\Delta V}{V}$
 
 
 
