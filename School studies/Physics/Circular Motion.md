@@ -31,7 +31,7 @@ Angular displacement:: angle subtended at the center of the circle
 > Due to [[Laws of motion#2]]
 
 Angular Displacement:: $\Delta\theta=\frac{s}{r}$
-
+Angle of 1 revolution: $2\pi$
 
 
 
