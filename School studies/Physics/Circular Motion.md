@@ -18,15 +18,32 @@ Where $s = displacement$ and $r = angle$
 $2\pi = 360$
 $1 \space radian (rad) = \frac{360}{2\pi} = 57.3 \degree$
 
-1 radian is the angle subtended at the centre of the circle where the arc length is equal to the radius of the circle.
+1 radian is the angle subtended at the center of the circle where the arc length is equal to the radius of the circle.
 
 If $\theta = \frac{s}{r}$ 
 - Linear velocity = $v = 2\pi \frac{r}{T}$, where 'T' is time period.
-- Angular velocity= $w = \frac{2pi}{T}$
+- Angular velocity= $\omega = \frac{2pi}{T}$
 - $v = (\frac{2pi}{T}) * r$
-- $v = wr$
+- $v = r\omega$
+
+Angular displacement:: angle subtended at the center of the circle
+>[!info]- Any change in magnitude or direction of velocity is called acceleration
+> Due to [[Laws of motion#2]]
+
+Angular Displacement:: $\Delta\theta=\frac{s}{r}$
+Angle of 1 revolution: $2\pi$
+![[Angular Velocity.excalidraw|250]]     
+$\Delta \theta =\frac{\Delta V}{V}$
+$\therefore$
+$\frac{\Delta V}{V} = \frac{s}{r}$
+$\Delta V = \frac{V}{r} \times s$
+if we divide the equation by $t$ to create $a_c$ (centripetal acceleration)
+$a_c = \frac{V}{r} \times V$
+$a_c = \frac{V^2}{r}$
 
 
 
 
+
+during the circular motion there is no displacement in the direction of force hence the work done on the object is 0
 
