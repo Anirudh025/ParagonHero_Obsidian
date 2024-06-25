@@ -152,8 +152,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "cb675aca7cd66052",
@@ -245,8 +244,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -267,7 +265,7 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "9213f9e1166ea19d",
+  "active": "9317a1770b4fbb1c",
   "lastOpenFiles": [
     "Excalidraw/Angular Velocity.excalidraw.md",
     "0 Help.md/Ascii symbols.md",

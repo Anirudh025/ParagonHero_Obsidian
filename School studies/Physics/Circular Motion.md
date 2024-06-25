@@ -38,8 +38,8 @@ $\therefore$
 $\frac{\Delta V}{V} = \frac{s}{r}$
 $\Delta V = \frac{V}{r} \times s$
 if we divide the equation by $t$ to create $a_c$ (centripetal acceleration)
-$a_c = \frac{V}{$
-
+$a_c = \frac{V}{r} \times V$
+$a_c = \frac{V^2}{r}$
 
 
 
