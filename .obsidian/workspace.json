@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2b4ddb1f2a4e4926",
+        "id": "ed148ebe60dabfd7",
         "type": "tabs",
         "children": [
           {
-            "id": "c9ba2b90357e1a67",
+            "id": "7c1b811711bb99a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/Physics/Ideal Gases.md",
+                "file": "School studies/Chemistry/Carboxylic Acids.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "9e71e27e94c238fc",
+            "id": "d1740e97437fb5ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md",
+                "file": "School studies/Chemistry/Carboxylic Acids.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,20 +34,12 @@
             }
           },
           {
-            "id": "1f54463344a08d54",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "9213f9e1166ea19d",
+            "id": "0a0fd01288d71b54",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/Physics/Ideal Gases.md",
+                "file": "0 Help.md/Ascii symbols.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -55,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,21 +66,6 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "4b0ad9f429b2d16e",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
@@ -113,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.50418853759766
+    "width": 200
   },
   "right": {
     "id": "d967d98868519a35",
@@ -122,7 +99,7 @@
       {
         "id": "3a4f977b7dec7d16",
         "type": "tabs",
-        "dimension": 40.214216163583245,
+        "dimension": 60.08344923504868,
         "children": [
           {
             "id": "9317a1770b4fbb1c",
@@ -164,12 +141,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "cb675aca7cd66052",
         "type": "tabs",
-        "dimension": 59.78578383641675,
+        "dimension": 39.91655076495132,
         "children": [
           {
             "id": "40b33ddf6941da5e",
@@ -177,7 +155,22 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/Physics/Ideal Gases.md"
+                "file": "School studies/Chemistry/Carboxylic Acids.md"
+              }
+            }
+          },
+          {
+            "id": "4b0ad9f429b2d16e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -187,7 +180,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/Physics/Ideal Gases.md"
+                "file": "School studies/Chemistry/Carboxylic Acids.md"
               }
             }
           },
@@ -228,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Physics/Ideal Gases.md",
+                "file": "School studies/Chemistry/Carboxylic Acids.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,18 +238,19 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Physics/Ideal Gases.md",
+                "file": "School studies/Chemistry/Carboxylic Acids.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 323.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -277,46 +271,46 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "9213f9e1166ea19d",
+  "active": "d1740e97437fb5ce",
   "lastOpenFiles": [
     "Excalidraw/Gay Lussac.excalidraw.md",
-    "School studies/Physics/Ideal Gases.md",
-    "School studies/Physics/Circular Motion.md",
-    "School studies/CS/Data Representation.md",
-    "conflict-files-obsidian-git.md",
-    "Excalidraw/acylchloride reaction mechanism with amine.excalidraw.md",
-    "Excalidraw/Acyl chloride and methylamine .excalidraw.md",
-    "Excalidraw/Drawing 2024-06-25 08.33.20.excalidraw.md",
     "School studies/Chemistry/Benzene and its compounds.md",
-    "Excalidraw/Compositedatatypes.excalidraw.md",
+    "Excalidraw/acylchloride reaction mechanism with amine.excalidraw.md",
+    "0 Help.md/Ascii symbols.md",
     "School studies/Chemistry/Carboxylic Acids.md",
-    "School studies/Chemistry/Chem unorganized.md",
-    "Excalidraw/Carboxylic dissociation.excalidraw.md",
-    "Excalidraw/Carboxylate a.excalidraw.md",
-    "Excalidraw/Acylchloride and water.excalidraw.md",
+    "Excalidraw/Acyl chloride and methylamine .excalidraw.md",
     "Excalidraw/Acylchloride and NH3.excalidraw.md",
-    "School studies/Chemistry/Untitled.md",
-    "A Level A Class Timetable.png",
-    "Excalidraw/OrthoMetaParabenzene.excalidraw.md",
-    "Excalidraw/Oxidation of benzene.excalidraw.md",
-    "0 Help.md/Obsidian-formatting.md",
+    "Excalidraw/Carboxylic dissociation.excalidraw.md",
+    "School studies/Chemistry/Chem unorganized.md",
+    "School studies/Physics/Thermal Physics.md",
+    "0 Help.md/MathJax symbol reference.pdf",
+    "0 Help.md/MathJax.md",
+    "Excalidraw/Carboxylate a.excalidraw.md",
+    "conflict-files-obsidian-git.md",
+    "School studies/Physics/Ideal Gases.md",
+    "Excalidraw/Drawing 2024-06-24 09.05.44.excalidraw.md",
     "Excalidraw/Charles Law.excalidraw.md",
     "Excalidraw/Boyles Law.excalidraw.md",
-    "Excalidraw/benzne+cl2 (alcl3).excalidraw.md",
-    "Excalidraw/Drawing 2024-06-24 08.45.14.excalidraw.md",
-    "School studies/Physics/Thermal Physics.md",
-    "0 Help.md/Drawing Pallet.png",
+    "Excalidraw/Drawing 2024-06-24 11.29.10.excalidraw.md",
+    "Excalidraw/Acylchloride and water.excalidraw.md",
+    "Excalidraw/chemthing.excalidraw.md",
+    "Excalidraw/Creating nitrobenzene but better.excalidraw.md",
+    "Excalidraw/Sodium pheoxide.excalidraw.md",
     "Excalidraw/types of benzene substituents.excalidraw.md",
+    "README.md",
+    "0 Help.md/Drawing Pallet.png",
+    "Excalidraw/bromine.excalidraw.md",
+    "Excalidraw/benzne+cl2 (alcl3).excalidraw.md",
+    "Excalidraw/benzene Double bond.png",
+    "0 Help.md/Pasted Image 20240619103445_600.png",
+    "Excalidraw/Pasted image 20240615073438.png",
     "0 Help.md/Pasted Image 20240619105930_233.png",
     "0 Help.md/Pasted Image 20240619104133_108.png",
     "0 Help.md/Pasted Image 20240619103650_650.png",
     "0 Help.md/Pasted Image 20240619103533_634.png",
-    "0 Help.md/Pasted Image 20240619103445_600.png",
-    "0 Help.md/MathJax symbol reference.pdf",
-    "obsidian format/MathJax symbol reference .html",
-    "Excalidraw/benzene Double bond.png",
+    "Excalidraw/Pasted Image 20240612194848_349.png",
     "Excalidraw/Pasted image 20230724044538.png",
-    "Excalidraw/benzene.png",
+    "obsidian format/MathJax symbol reference .html",
     "Excalidraw/pngwing.com.png.crdownload",
     "Untitled.pdf",
     "Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
