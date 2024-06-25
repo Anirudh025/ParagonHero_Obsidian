@@ -129,7 +129,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "cb675aca7cd66052",
@@ -244,9 +245,9 @@
   },
   "active": "9213f9e1166ea19d",
   "lastOpenFiles": [
+    "School studies/Physics/Ideal Gases.md",
     "0 Help.md/MathJax.md",
     "Excalidraw/Gay Lussac.excalidraw.md",
-    "School studies/Physics/Ideal Gases.md",
     "School studies/Chemistry/Benzene and its compounds.md",
     "0 Help.md/MathJax symbol reference.pdf",
     "0 Help.md/Ascii symbols.md",

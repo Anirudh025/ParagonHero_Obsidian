@@ -46,7 +46,19 @@
     ],
     "defaultFilterType": "tree"
   },
-  "treeData": [],
+  "treeData": [
+    {
+      "id": "bf3b6c298a795a31",
+      "parent": 0,
+      "droppable": true,
+      "text": "mathpad at DuckDuckGo",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    }
+  ],
   "enableHtmlPreview": true,
   "supportLivePreviewInlineUrl": false,
   "enableTreeView": true
