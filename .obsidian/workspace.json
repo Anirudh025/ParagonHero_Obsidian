@@ -24,9 +24,12 @@
             "id": "d1740e97437fb5ce",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/acylchloride reaction mechanism with amine.excalidraw.md"
+                "file": "School studies/Chemistry/Carboxylic Acids.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -152,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/acylchloride reaction mechanism with amine.excalidraw.md"
+                "file": "School studies/Chemistry/Carboxylic Acids.md"
               }
             }
           },
@@ -177,7 +180,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/acylchloride reaction mechanism with amine.excalidraw.md"
+                "file": "School studies/Chemistry/Carboxylic Acids.md"
               }
             }
           },
@@ -218,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/acylchloride reaction mechanism with amine.excalidraw.md",
+                "file": "School studies/Chemistry/Carboxylic Acids.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/acylchloride reaction mechanism with amine.excalidraw.md",
+                "file": "School studies/Chemistry/Carboxylic Acids.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -270,15 +273,15 @@
   },
   "active": "d1740e97437fb5ce",
   "lastOpenFiles": [
-    "0 Help.md/Ascii symbols.md",
+    "School studies/Chemistry/Benzene and its compounds.md",
     "Excalidraw/acylchloride reaction mechanism with amine.excalidraw.md",
+    "0 Help.md/Ascii symbols.md",
     "School studies/Chemistry/Carboxylic Acids.md",
     "Excalidraw/Acyl chloride and methylamine .excalidraw.md",
     "Excalidraw/Acylchloride and NH3.excalidraw.md",
     "Excalidraw/Carboxylic dissociation.excalidraw.md",
     "School studies/Chemistry/Chem unorganized.md",
     "School studies/Physics/Thermal Physics.md",
-    "School studies/Chemistry/Benzene and its compounds.md",
     "0 Help.md/MathJax symbol reference.pdf",
     "0 Help.md/MathJax.md",
     "Excalidraw/Carboxylate a.excalidraw.md",

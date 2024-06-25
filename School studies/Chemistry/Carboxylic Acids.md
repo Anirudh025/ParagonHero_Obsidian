@@ -6,7 +6,7 @@ Degree of Dissociation of ascetic Acid is low since regains h+ quickly: #todo/ch
 ### Reactions of Acylchlorides
 1. An Acylchloride reacting with water forming  a Carboxylic Acid:![[Acylchloride and water.excalidraw|500]]
 2. An Acylchloride reacting with NH₃ forming a Amide:![[Acylchloride and NH3.excalidraw|500]]
-
+#todo/chemistry/formationofacyl
 
 
 
