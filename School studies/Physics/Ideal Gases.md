@@ -6,12 +6,12 @@ State functions
 
 ## Gas Laws
 ### Boyles Law
-Boyles Law: Keeping T constant, P ∝ $$ frac{1}{V} $$
+Boyles Law: Keeping T constant, P ∝ $\frac{1}{V}$
 ![[Boyles Law.excalidraw]]
 P<sub>1</sub>V<sub>1</sub> = P<sub>2</sub>V<sub>2</sub>
 
 ### Charles Law
-Charles Law: When P constant V<sub>1</sub>/T<sub>1</sub> = V<sub>2</sub>/T<sub>2</sub> , V is directly proportional to T
+Charles Law: When P constant V<sub>1</sub>/T<sub>1</sub> = V<sub>2</sub>/T<sub>2</sub> , V ∝ T
 ![[Charles Law.excalidraw]]
 
 ### Gay Lussac
