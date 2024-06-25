@@ -6,7 +6,7 @@ State functions
 
 ## Gas Laws
 ### Boyles Law
-Boyles Law: Keeping T constant, P ∝ V
+Boyles Law: Keeping T constant, P ∝ frac{}V
 ![[Boyles Law.excalidraw]]
 P<sub>1</sub>V<sub>1</sub> = P<sub>2</sub>V<sub>2</sub>
 
