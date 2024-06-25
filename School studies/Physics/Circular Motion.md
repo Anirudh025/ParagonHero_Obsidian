@@ -18,15 +18,17 @@ Where $s = displacement$ and $r = angle$
 $2\pi = 360$
 $1 \space radian (rad) = \frac{360}{2\pi} = 57.3 \degree$
 
-1 radian is the angle subtended at the centre of the circle where the arc length is equal to the radius of the circle.
+1 radian is the angle subtended at the center of the circle where the arc length is equal to the radius of the circle.
 
 If $\theta = \frac{s}{r}$ 
 - Linear velocity = $v = 2\pi \frac{r}{T}$, where 'T' is time period.
-- Angular velocity= $w = \frac{2pi}{T}$
+- Angular velocity= $\omega = \frac{2pi}{T}$
 - $v = (\frac{2pi}{T}) * r$
 - $v = r\omega$
 
+Angular displacement:: 
 
+$
 
 
 
