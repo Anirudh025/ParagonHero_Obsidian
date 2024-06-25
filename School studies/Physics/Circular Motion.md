@@ -27,7 +27,8 @@ If $\theta = \frac{s}{r}$
 - $v = r\omega$
 
 Angular displacement:: angle subtended at the center of the circle
->[!info] Any change in magnitude or direction is 
+>[!info]- Any change in magnitude or direction of velocity is called acceleration
+>due to 2n
 
 
 
