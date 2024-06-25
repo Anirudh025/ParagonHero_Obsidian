@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Angular Velocity.excalidraw.md"
+                "file": "School studies/Physics/Circular Motion.md"
               }
             }
           },
@@ -177,7 +176,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Angular Velocity.excalidraw.md"
+                "file": "School studies/Physics/Circular Motion.md"
               }
             }
           },
@@ -218,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Angular Velocity.excalidraw.md",
+                "file": "School studies/Physics/Circular Motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Angular Velocity.excalidraw.md",
+                "file": "School studies/Physics/Circular Motion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -268,10 +267,10 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "7801955a09bbf79a",
+  "active": "9213f9e1166ea19d",
   "lastOpenFiles": [
-    "0 Help.md/Ascii symbols.md",
     "Excalidraw/Angular Velocity.excalidraw.md",
+    "0 Help.md/Ascii symbols.md",
     "School studies/Physics/Circular Motion.md",
     "School studies/Physics/Ideal Gases.md",
     "School studies/Chemistry/Carboxylic Acids.md",
