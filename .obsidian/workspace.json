@@ -34,6 +34,29 @@
             }
           },
           {
+            "id": "1f54463344a08d54",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-06-25 08.33.20.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "9213f9e1166ea19d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School studies/CS/Data Representation.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "432e67ac5da96e46",
             "type": "leaf",
             "state": {
@@ -47,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -156,8 +179,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "cb675aca7cd66052",
@@ -170,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -180,7 +202,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -221,7 +243,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +259,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -270,17 +290,25 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "8f13c2750f67f161",
+  "active": "9317a1770b4fbb1c",
   "lastOpenFiles": [
-    "School studies/Chemistry/Untitled.md",
+    "School studies/CS/Data Representation.md",
+    "conflict-files-obsidian-git.md",
+    "Excalidraw/Drawing 2024-06-25 08.33.20.excalidraw.md",
     "School studies/Chemistry/Benzene and its compounds.md",
-    "A Level A Class Timetable.png",
+    "Excalidraw/Compositedatatypes.excalidraw.md",
+    "Excalidraw/Drawing 2024-06-24 09.05.44.excalidraw.md",
+    "School studies/Chemistry/Carboxylic Acids.md",
     "School studies/Chemistry/Chem unorganized.md",
+    "Excalidraw/Carboxylic dissociation.excalidraw.md",
+    "Excalidraw/Carboxylate a.excalidraw.md",
+    "Excalidraw/Acylchloride and water.excalidraw.md",
+    "Excalidraw/Acylchloride and NH3.excalidraw.md",
+    "School studies/Chemistry/Untitled.md",
+    "A Level A Class Timetable.png",
     "Excalidraw/OrthoMetaParabenzene.excalidraw.md",
     "Excalidraw/Oxidation of benzene.excalidraw.md",
     "School studies/Physics/Ideal Gases.md",
-    "Excalidraw/Drawing 2024-06-24 09.05.44.excalidraw.md",
-    "School studies/CS/Data Representation.md",
     "0 Help.md/Obsidian-formatting.md",
     "Excalidraw/Charles Law.excalidraw.md",
     "Excalidraw/Boyles Law.excalidraw.md",
@@ -289,24 +317,16 @@
     "School studies/Physics/Circular Motion.md",
     "School studies/Physics/Thermal Physics.md",
     "0 Help.md/Drawing Pallet.png",
-    "conflict-files-obsidian-git.md",
     "Excalidraw/types of benzene substituents.excalidraw.md",
     "Excalidraw/chemthing.excalidraw.md",
     "Excalidraw/bromine.excalidraw.md",
-    "Excalidraw/Sodium pheoxide.excalidraw.md",
-    "Excalidraw/Creating nitrobenzene but better.excalidraw.md",
     "0 Help.md/Pasted Image 20240619105930_233.png",
     "0 Help.md/Pasted Image 20240619104133_108.png",
     "0 Help.md/Pasted Image 20240619103650_650.png",
     "0 Help.md/Pasted Image 20240619103533_634.png",
     "0 Help.md/Pasted Image 20240619103445_600.png",
-    "0 Help.md/Excalidraw example.excalidraw.md",
-    "Excalidraw/Drawing 2024-06-20 07.18.07.excalidraw.md",
     "0 Help.md/MathJax symbol reference.pdf",
-    "0 Help.md/MathJax.md",
-    "obsidian format/MathJax symbol reference.md",
     "obsidian format/MathJax symbol reference .html",
-    "Excalidraw/File Organization.excalidraw.md",
     "Excalidraw/benzene Double bond.png",
     "Excalidraw/Pasted image 20230724044538.png",
     "Excalidraw/benzene.png",

@@ -19,9 +19,12 @@
             "id": "1e969bb9e59a1038",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "0 Help.md/Drawing Pallet.png"
+                "file": "School studies/Chemistry/Benzene and its compounds.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -46,7 +49,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0 Help.md/Drawing Pallet.png",
+                "file": "School studies/Chemistry/Benzene and its compounds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +133,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "0 Help.md/Drawing Pallet.png",
+            "file": "School studies/Chemistry/Benzene and its compounds.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -147,7 +150,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "0 Help.md/Drawing Pallet.png",
+            "file": "School studies/Chemistry/Benzene and its compounds.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -159,7 +162,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "0 Help.md/Drawing Pallet.png"
+            "file": "School studies/Chemistry/Benzene and its compounds.md"
           }
         }
       },
@@ -210,35 +213,35 @@
   },
   "active": "1e969bb9e59a1038",
   "lastOpenFiles": [
-    "0 Help.md/Excalidraw example.excalidraw.md",
+    "Excalidraw/chloro benzene.excalidraw.md",
+    "School studies/Chemistry/Benzene and its compounds.md",
     "0 Help.md/Drawing Pallet.png",
-    "Excalidraw/benzne+cl2 (alcl3).excalidraw.md",
-    "School studies/Chemistry/Chem unorganized.md",
-    "Excalidraw/types of benzene substituents.excalidraw.md",
-    "Excalidraw/chemthing.excalidraw.md",
-    "Excalidraw/bromine.excalidraw.md",
-    "Excalidraw/Sodium pheoxide.excalidraw.md",
-    "Excalidraw/Creating nitrobenzene but better.excalidraw.md",
+    "School studies/Physics/Ideal Gases.md",
+    "School studies/Chemistry/Carboxylic Acids.md",
+    "Excalidraw/Drawing 2024-06-24 09.05.44.excalidraw.md",
+    "Excalidraw/Charles Law.excalidraw.md",
+    "Excalidraw/Carboxylic dissociation.excalidraw.md",
+    "Excalidraw/Carboxylate a.excalidraw.md",
+    "Excalidraw/Boyles Law.excalidraw.md",
+    "Excalidraw/Acylchloride and water.excalidraw.md",
+    "Excalidraw/Acylchloride and NH3.excalidraw.md",
     "/School studies/Physics/Thermal Physics.md",
-    "/School studies/Physics/Circular Motion.md",
-    "/School studies/Chemistry/Chem unorganized.md",
-    "/School studies/Chemistry/Benzene and its compounds.md",
+    "/School studies/Physics/Ideal Gases.md",
+    "/School studies/Chemistry/Carboxylic Acids.md",
     "/School studies/CS/Data Representation.md",
-    "/Excalidraw/types of benzene substituents.excalidraw.md",
     "/Excalidraw/chemthing.excalidraw.md",
-    "/Excalidraw/bromine.excalidraw.md",
-    "/Excalidraw/benzne+cl2 (alcl3).excalidraw.md",
-    "/Excalidraw/Sodium pheoxide.excalidraw.md",
-    "/Excalidraw/Creating nitrobenzene but better.excalidraw.md",
-    "School studies/CS/Pseudocode.md",
-    "School studies/English Language El/EL, The market P1 and P2.md",
-    "School studies/CS/Hardware.md",
+    "/Excalidraw/Drawing 2024-06-24 09.05.44.excalidraw.md",
+    "/Excalidraw/Charles Law.excalidraw.md",
+    "/Excalidraw/Carboxylic dissociation.excalidraw.md",
+    "/Excalidraw/Carboxylate a.excalidraw.md",
+    "/Excalidraw/Boyles Law.excalidraw.md",
+    "/Excalidraw/Acylchloride and water.excalidraw.md",
+    "/Excalidraw/Acylchloride and NH3.excalidraw.md",
+    "/School studies/Chemistry/Chem unorganized.md",
+    "0 Help.md/Excalidraw example.excalidraw.md",
+    "Excalidraw/benzne+cl2 (alcl3).excalidraw.md",
     "Excalidraw/Pasted image 20231219192124.png",
-    "/School studies/English Language El/EL, The market P1 and P2.md",
-    "/School studies/CS/Hardware.md",
     "/Excalidraw/Pasted image 20231219192124.png",
-    "newsletter/Issue 4.md",
-    "Excalidraw/hdd-ssd.excalidraw.md",
     "School studies/CS/Logic gates.canvas",
     "School studies/CS/Logic gates practice.canvas",
     "Excalidraw/Untitled.canvas",
