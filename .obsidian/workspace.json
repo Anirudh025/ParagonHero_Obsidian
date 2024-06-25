@@ -45,12 +45,9 @@
             "id": "9213f9e1166ea19d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "0 Help.md/MathJax.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "0 Help.md/MathJax symbol reference.pdf"
               }
             }
           }
@@ -177,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 Help.md/MathJax.md"
+                "file": "0 Help.md/MathJax symbol reference.pdf"
               }
             }
           },
@@ -187,7 +184,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0 Help.md/MathJax.md"
+                "file": "0 Help.md/MathJax symbol reference.pdf"
               }
             }
           },
@@ -228,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 Help.md/MathJax.md",
+                "file": "0 Help.md/MathJax symbol reference.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +242,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0 Help.md/MathJax.md",
+                "file": "0 Help.md/MathJax symbol reference.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -279,6 +276,7 @@
   },
   "active": "9213f9e1166ea19d",
   "lastOpenFiles": [
+    "0 Help.md/MathJax.md",
     "School studies/Physics/Ideal Gases.md",
     "Excalidraw/Gay Lussac.excalidraw.md",
     "School studies/Physics/Circular Motion.md",
@@ -306,7 +304,6 @@
     "Excalidraw/Drawing 2024-06-24 08.45.14.excalidraw.md",
     "School studies/Physics/Thermal Physics.md",
     "0 Help.md/Drawing Pallet.png",
-    "Excalidraw/types of benzene substituents.excalidraw.md",
     "0 Help.md/Pasted Image 20240619105930_233.png",
     "0 Help.md/Pasted Image 20240619104133_108.png",
     "0 Help.md/Pasted Image 20240619103650_650.png",
