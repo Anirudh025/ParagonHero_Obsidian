@@ -30,7 +30,7 @@ Angular displacement:: angle subtended at the center of the circle
 >[!info]- Any change in magnitude or direction of velocity is called acceleration
 > Due to [[Laws of motion#2]]
 
-Angular Displacement:: $
+Angular Displacement:: $\Delta\theta=\frac{s}{r}$
 
 
 
