@@ -20,4 +20,4 @@ Gay Lussac: While V constant, P is directly proportional to T
 
 ### General Gas Law
 
-JK<sup>-1</sup>
+JK<sup>-1</sup> mol<sup>-1</sup> 
