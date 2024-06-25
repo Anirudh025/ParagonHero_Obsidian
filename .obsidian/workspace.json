@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/Physics/Thermal Physics.md",
+                "file": "School studies/Chemistry/Carboxylic Acids.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/Physics/Thermal Physics.md"
+                "file": "School studies/Chemistry/Carboxylic Acids.md"
               }
             }
           },
@@ -190,7 +190,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/Physics/Thermal Physics.md"
+                "file": "School studies/Chemistry/Carboxylic Acids.md"
               }
             }
           },
@@ -231,7 +231,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Physics/Thermal Physics.md",
+                "file": "School studies/Chemistry/Carboxylic Acids.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +248,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Physics/Thermal Physics.md",
+                "file": "School studies/Chemistry/Carboxylic Acids.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -280,13 +280,14 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "8f13c2750f67f161",
+  "active": "656a9f13b96c5d4a",
   "lastOpenFiles": [
+    "School studies/Chemistry/Chem unorganized.md",
+    "School studies/Physics/Thermal Physics.md",
     "School studies/Chemistry/Benzene and its compounds.md",
     "0 Help.md/MathJax symbol reference.pdf",
     "0 Help.md/MathJax.md",
     "School studies/Chemistry/Carboxylic Acids.md",
-    "School studies/Chemistry/Chem unorganized.md",
     "Excalidraw/Carboxylate a.excalidraw.md",
     "conflict-files-obsidian-git.md",
     "School studies/Physics/Ideal Gases.md",
@@ -308,7 +309,6 @@
     "Excalidraw/Alcohol + acid.excalidraw.md",
     "School studies/Physics/Circular Motion.md",
     "0 Help.md/Obsidian-formatting.md",
-    "School studies/Physics/Thermal Physics.md",
     "Excalidraw/benzene Double bond.png",
     "0 Help.md/Pasted Image 20240619103445_600.png",
     "Excalidraw/Pasted image 20240615073438.png",
