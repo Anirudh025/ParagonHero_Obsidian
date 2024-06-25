@@ -20,6 +20,5 @@ Gay Lussac: While V constant, P ∝ T
 
 ### General Gas Law
 
-JK<sup>-1</sup> mol<sup>-1</sup> 
-
-PV ∝ T
+PV ∝ T        PV = nRT
+R = 8.31J
