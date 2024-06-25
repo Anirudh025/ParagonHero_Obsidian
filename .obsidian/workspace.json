@@ -45,9 +45,12 @@
             "id": "9213f9e1166ea19d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "0 Help.md/MathJax symbol reference.pdf"
+                "file": "0 Help.md/Ascii symbols.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -174,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 Help.md/MathJax symbol reference.pdf"
+                "file": "0 Help.md/Ascii symbols.md"
               }
             }
           },
@@ -184,7 +187,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0 Help.md/MathJax symbol reference.pdf"
+                "file": "0 Help.md/Ascii symbols.md"
               }
             }
           },
@@ -225,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 Help.md/MathJax symbol reference.pdf",
+                "file": "0 Help.md/Ascii symbols.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +245,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0 Help.md/MathJax symbol reference.pdf",
+                "file": "0 Help.md/Ascii symbols.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -276,6 +279,7 @@
   },
   "active": "9213f9e1166ea19d",
   "lastOpenFiles": [
+    "0 Help.md/MathJax symbol reference.pdf",
     "0 Help.md/MathJax.md",
     "School studies/Physics/Ideal Gases.md",
     "Excalidraw/Gay Lussac.excalidraw.md",
@@ -302,14 +306,12 @@
     "Excalidraw/Boyles Law.excalidraw.md",
     "Excalidraw/benzne+cl2 (alcl3).excalidraw.md",
     "Excalidraw/Drawing 2024-06-24 08.45.14.excalidraw.md",
-    "School studies/Physics/Thermal Physics.md",
     "0 Help.md/Drawing Pallet.png",
     "0 Help.md/Pasted Image 20240619105930_233.png",
     "0 Help.md/Pasted Image 20240619104133_108.png",
     "0 Help.md/Pasted Image 20240619103650_650.png",
     "0 Help.md/Pasted Image 20240619103533_634.png",
     "0 Help.md/Pasted Image 20240619103445_600.png",
-    "0 Help.md/MathJax symbol reference.pdf",
     "obsidian format/MathJax symbol reference .html",
     "Excalidraw/benzene Double bond.png",
     "Excalidraw/Pasted image 20230724044538.png",
