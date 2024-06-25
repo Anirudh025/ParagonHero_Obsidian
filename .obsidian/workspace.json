@@ -29,6 +29,19 @@
                 "file": "Excalidraw/Angular Velocity.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "9cc02e03e5aec84c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 Help.md/Ascii symbols.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -89,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.50418853759766,
-    "collapsed": true
+    "width": 226.50418853759766
   },
   "right": {
     "id": "d967d98868519a35",
@@ -258,15 +270,15 @@
   },
   "active": "7801955a09bbf79a",
   "lastOpenFiles": [
-    "School studies/Physics/Circular Motion.md",
+    "0 Help.md/Ascii symbols.md",
     "Excalidraw/Angular Velocity.excalidraw.md",
+    "School studies/Physics/Circular Motion.md",
     "School studies/Physics/Ideal Gases.md",
     "School studies/Chemistry/Carboxylic Acids.md",
     "0 Help.md/MathJax.md",
     "Excalidraw/Gay Lussac.excalidraw.md",
     "School studies/Chemistry/Benzene and its compounds.md",
     "0 Help.md/MathJax symbol reference.pdf",
-    "0 Help.md/Ascii symbols.md",
     "School studies/CS/Data Representation.md",
     "conflict-files-obsidian-git.md",
     "Excalidraw/acylchloride reaction mechanism with amine.excalidraw.md",
