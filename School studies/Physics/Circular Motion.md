@@ -24,7 +24,7 @@ If $\theta = \frac{s}{r}$
 - Linear velocity = $v = 2\pi \frac{r}{T}$, where 'T' is time period.
 - Angular velocity= $w = \frac{2pi}{T}$
 - $v = (\frac{2pi}{T}) * r$
-- $v = wr$
+- $v = r\omega$
 
 
 
