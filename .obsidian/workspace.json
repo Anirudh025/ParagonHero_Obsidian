@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9213f9e1166ea19d",
+            "id": "2d2427c92788c7c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,29 +21,59 @@
             }
           },
           {
-            "id": "7801955a09bbf79a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Angular Velocity.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "9cc02e03e5aec84c",
+            "id": "4df3d13bcf142b75",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 Help.md/Ascii symbols.md",
+                "file": "School studies/Physics/Circular Motion.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "29865080f938e388",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School studies/Physics/Ideal Gases.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ccf90ef43f81229",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School studies/Physics/Ideal Gases.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c9182cb73869f371",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School studies/Physics/Thermodynamics.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -152,8 +182,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "cb675aca7cd66052",
@@ -166,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/CS/Data Representation.md"
+                "file": "School studies/Physics/Thermodynamics.md"
               }
             }
           },
@@ -176,7 +205,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/CS/Data Representation.md"
+                "file": "School studies/Physics/Thermodynamics.md"
               }
             }
           },
@@ -217,7 +246,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/CS/Data Representation.md",
+                "file": "School studies/Physics/Thermodynamics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +263,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/CS/Data Representation.md",
+                "file": "School studies/Physics/Thermodynamics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -266,19 +295,21 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "9213f9e1166ea19d",
+  "active": "9317a1770b4fbb1c",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "School studies/Physics/Thermodynamics.md",
+    "School studies/Physics/Ideal Gases.md",
     "School studies/Physics/Circular Motion.md",
+    "School studies/Physics/Thermal Physics.md",
+    "School studies/CS/Data Representation.md",
     "Excalidraw/Angular Velocity.excalidraw.md",
     "0 Help.md/Ascii symbols.md",
-    "School studies/Physics/Ideal Gases.md",
     "School studies/Chemistry/Carboxylic Acids.md",
     "0 Help.md/MathJax.md",
     "Excalidraw/Gay Lussac.excalidraw.md",
     "School studies/Chemistry/Benzene and its compounds.md",
     "0 Help.md/MathJax symbol reference.pdf",
-    "School studies/CS/Data Representation.md",
-    "conflict-files-obsidian-git.md",
     "Excalidraw/acylchloride reaction mechanism with amine.excalidraw.md",
     "Excalidraw/Acyl chloride and methylamine .excalidraw.md",
     "Excalidraw/Drawing 2024-06-25 08.33.20.excalidraw.md",
@@ -294,8 +325,6 @@
     "Excalidraw/Oxidation of benzene.excalidraw.md",
     "0 Help.md/Obsidian-formatting.md",
     "Excalidraw/Charles Law.excalidraw.md",
-    "Excalidraw/Boyles Law.excalidraw.md",
-    "Excalidraw/benzne+cl2 (alcl3).excalidraw.md",
     "0 Help.md/Drawing Pallet.png",
     "0 Help.md/Pasted Image 20240619105930_233.png",
     "0 Help.md/Pasted Image 20240619104133_108.png",
