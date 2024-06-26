@@ -179,8 +179,11 @@ using 8 bits for Mantissa & 8 bits for exponent
 >$= \frac{-13}{512}$
 >$= -0.0254$
 
-Convert the following denary number into binary floating-point numbers
-
+### Convert  denary numbers into binary floating-point numbers
+>[!example]- Convert $4.5_{10}$ to binary floating point
+>$4_{10}$ to binary is $0100$
+>but for 0.5 we do 
+>$0.5\times 2$ 
 
 
 
