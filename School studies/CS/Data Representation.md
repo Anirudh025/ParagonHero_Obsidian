@@ -181,7 +181,9 @@ using 8 bits for Mantissa & 8 bits for exponent
 
 ### Convert  denary numbers into binary floating-point numbers
 >[!example]- Convert $4.5_{10}$ to binary floating point
->$4_{10}$ to binary is $101 
+>$4_{10}$ to binary is $0100$
+>but for 0.5 we do 
+>$0.5\times 2$ 
 
 
 
