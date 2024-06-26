@@ -15,5 +15,5 @@ The increase in internal energy of a system is equal to the sum of the thermal e
 q = positive thermal energy is added to the system 
    = negative thermal energy is removed from the system
 
- w = positive work is done on the system
-  = 
+ w = positive work is done on the system,
+    = 
