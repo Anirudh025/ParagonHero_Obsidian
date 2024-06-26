@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "744656cdbb6e9056",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-06-26 08.07.42.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/CS/Data Representation.md"
+                "file": "Excalidraw/Drawing 2024-06-26 08.07.42.excalidraw.md"
               }
             }
           }
@@ -145,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/CS/Data Representation.md"
+                "file": "Excalidraw/Drawing 2024-06-26 08.07.42.excalidraw.md"
               }
             }
           },
@@ -186,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/CS/Data Representation.md",
+                "file": "Excalidraw/Drawing 2024-06-26 08.07.42.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/CS/Data Representation.md",
+                "file": "Excalidraw/Drawing 2024-06-26 08.07.42.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -243,8 +254,10 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "781593ceba814090",
+  "active": "744656cdbb6e9056",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-06-26 08.07.42.excalidraw.md",
+    "School studies/CS/Data Representation.md",
     "conflict-files-obsidian-git.md",
     "0 Help.md/Ascii symbols.md",
     "School studies/Physics/Ideal Gases.md",
@@ -270,9 +283,7 @@
     "Excalidraw/Creating nitrobenzene but better.excalidraw.md",
     "Excalidraw/Sodium pheoxide.excalidraw.md",
     "Excalidraw/types of benzene substituents.excalidraw.md",
-    "README.md",
     "0 Help.md/Drawing Pallet.png",
-    "Excalidraw/bromine.excalidraw.md",
     "Excalidraw/benzene Double bond.png",
     "0 Help.md/Pasted Image 20240619103445_600.png",
     "Excalidraw/Pasted image 20240615073438.png",
