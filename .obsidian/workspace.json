@@ -26,7 +26,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-26 08.07.42.excalidraw.md"
+                "file": "Excalidraw/some rough work.excalidraw.md"
               }
             }
           },
@@ -36,12 +36,12 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-26 08.13.01.excalidraw.md"
+                "file": "Excalidraw/CS something.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-26 08.13.01.excalidraw.md"
+                "file": "Excalidraw/some rough work.excalidraw.md"
               }
             }
           }
@@ -167,7 +167,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-26 08.13.01.excalidraw.md"
+                "file": "Excalidraw/some rough work.excalidraw.md"
               }
             }
           },
@@ -208,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-26 08.13.01.excalidraw.md",
+                "file": "Excalidraw/some rough work.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +225,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-26 08.13.01.excalidraw.md",
+                "file": "Excalidraw/some rough work.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -266,10 +266,10 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "9b17a3f72b731499",
+  "active": "744656cdbb6e9056",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-06-26 08.07.42.excalidraw.md",
-    "Excalidraw/Drawing 2024-06-26 08.13.01.excalidraw.md",
+    "Excalidraw/CS something.excalidraw.md",
+    "Excalidraw/some rough work.excalidraw.md",
     "School studies/CS/Data Representation.md",
     "conflict-files-obsidian-git.md",
     "0 Help.md/Ascii symbols.md",
