@@ -108,8 +108,8 @@ K.E ^HiVccbE7
 			"type": "arrow",
 			"x": -100.75,
 			"y": 110.5390625,
-			"width": 206,
-			"height": 4.5,
+			"width": 284,
+			"height": 6,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -124,11 +124,11 @@ K.E ^HiVccbE7
 				"type": 2
 			},
 			"seed": 527836675,
-			"version": 273,
-			"versionNonce": 1045620269,
+			"version": 351,
+			"versionNonce": 1759662179,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1719371375580,
+			"updated": 1719371892586,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -137,8 +137,8 @@ K.E ^HiVccbE7
 					0
 				],
 				[
-					206,
-					-4.5
+					284,
+					6
 				]
 			],
 			"lastCommittedPoint": null,
@@ -150,10 +150,10 @@ K.E ^HiVccbE7
 		{
 			"id": "6fncsyY1NFX71wF9plKXQ",
 			"type": "line",
-			"x": -100.25,
+			"x": -98.74999999999999,
 			"y": 106.5390625,
-			"width": 172.5,
-			"height": 122.5,
+			"width": 258,
+			"height": 121,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -168,11 +168,11 @@ K.E ^HiVccbE7
 				"type": 2
 			},
 			"seed": 1506213613,
-			"version": 1365,
-			"versionNonce": 1264354915,
+			"version": 1802,
+			"versionNonce": 183356237,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1719371849673,
+			"updated": 1719371914052,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -181,28 +181,28 @@ K.E ^HiVccbE7
 					0
 				],
 				[
-					28,
-					-40
+					24.500000000000014,
+					-28
 				],
 				[
-					56.5,
-					-98
+					51.50000000000001,
+					-79
 				],
 				[
-					84.5,
-					-122.5
+					79.5,
+					-121
 				],
 				[
-					117,
-					-103.5
+					140.5,
+					-80.5
 				],
 				[
-					144,
-					-30
+					200.5,
+					-24.5
 				],
 				[
-					172.5,
-					-3.5
+					258,
+					-10.5
 				]
 			],
 			"lastCommittedPoint": null,
@@ -301,8 +301,8 @@ K.E ^HiVccbE7
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 403.75,
-		"scrollY": 337.0390625,
+		"scrollX": 339.25,
+		"scrollY": 356.0390625,
 		"zoom": {
 			"value": 1
 		},
