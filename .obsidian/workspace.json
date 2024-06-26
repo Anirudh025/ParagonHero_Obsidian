@@ -40,8 +40,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/some rough work.excalidraw.md"
+                "file": "School studies/CS/Data Representation.md"
               }
             }
           }
@@ -167,7 +166,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/some rough work.excalidraw.md"
+                "file": "School studies/CS/Data Representation.md"
               }
             }
           },
@@ -208,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/some rough work.excalidraw.md",
+                "file": "School studies/CS/Data Representation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/some rough work.excalidraw.md",
+                "file": "School studies/CS/Data Representation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -266,7 +265,7 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "744656cdbb6e9056",
+  "active": "781593ceba814090",
   "lastOpenFiles": [
     "Excalidraw/CS something.excalidraw.md",
     "Excalidraw/some rough work.excalidraw.md",
