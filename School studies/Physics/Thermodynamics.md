@@ -12,8 +12,8 @@ P delta V
 ## First Law of Thermodynamics
 The increase in internal energy of a system is equal to the sum of the thermal energy added to the system and the work done on it.
 
-q = positive thermal energy is added to the system 
-   = negative thermal energy is removed from the system
+q : positive thermal energy is added to the system 
+   : negative thermal energy is removed from the system
 
- w = positive work is done on the system,
-    = 
+ w : positive work is done on the system
+w   :
