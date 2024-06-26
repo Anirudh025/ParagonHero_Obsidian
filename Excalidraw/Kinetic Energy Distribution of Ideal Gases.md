@@ -12,6 +12,8 @@ Potential Energy = 0 ^6mD6PKNA
 
 No. of molecules ^6uxiadaP
 
+K.E ^HiVccbE7
+
 %%
 # Drawing
 ```json
@@ -244,6 +246,43 @@ No. of molecules ^6uxiadaP
 			"baseline": 18,
 			"containerId": null,
 			"originalText": "No. of molecules",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "HiVccbE7",
+			"type": "text",
+			"x": 38.75,
+			"y": 122.0390625,
+			"width": 31.219985961914062,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1993890787,
+			"version": 22,
+			"versionNonce": 361449069,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1719371627800,
+			"link": null,
+			"locked": false,
+			"text": "K.E",
+			"rawText": "K.E",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 18,
+			"containerId": null,
+			"originalText": "K.E",
 			"lineHeight": 1.25
 		}
 	],
