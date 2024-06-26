@@ -168,11 +168,11 @@ K.E ^HiVccbE7
 				"type": 2
 			},
 			"seed": 1506213613,
-			"version": 1356,
-			"versionNonce": 1334750819,
+			"version": 1365,
+			"versionNonce": 1264354915,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1719371507673,
+			"updated": 1719371849673,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -181,8 +181,8 @@ K.E ^HiVccbE7
 					0
 				],
 				[
-					38.5,
-					-47
+					28,
+					-40
 				],
 				[
 					56.5,
