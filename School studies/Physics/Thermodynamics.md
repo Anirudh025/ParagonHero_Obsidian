@@ -7,7 +7,9 @@ If piston moves by distance dx
 
 W = F dx
  = PAdx
-P /delta V
+P delta V
 
 ## First Law of Thermodynamics
 The increase in internal energy of a system is equal to the sum of the thermal energy added to the system and the work done on it.
+
+q = positive thermal energy is added to the system
