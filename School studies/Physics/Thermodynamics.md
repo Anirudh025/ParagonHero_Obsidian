@@ -3,8 +3,8 @@ Internal Energy = Kinetic Energy + Potential Energy
 ### For Ideal Gas![[Kinetic Energy Distribution of Ideal Gases]]
 
 F = PA
-If piston mo
+If piston moves by distanc
 
 
-First Law of Thermodynamics
-The increase in internal energy of a system is equal to the sum of the thermal energy
+## First Law of Thermodynamics
+The increase in internal energy of a system is equal to the sum of the thermal energy added to the system and the work done on it.
