@@ -1,1 +1,3 @@
-Internal Energy = 
+Internal Energy = Kinetic Energy + Potential Energy
+
+### For Ideal Gas

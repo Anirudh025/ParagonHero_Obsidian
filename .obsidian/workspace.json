@@ -8,46 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2d2427c92788c7c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School studies/CS/Data Representation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4df3d13bcf142b75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School studies/Physics/Circular Motion.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "29865080f938e388",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School studies/Physics/Ideal Gases.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3ccf90ef43f81229",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -71,9 +32,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cd9cd38b42b093b1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-06-26 08.38.16.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -195,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/Physics/Thermodynamics.md"
+                "file": "Excalidraw/Drawing 2024-06-26 08.38.16.excalidraw.md"
               }
             }
           },
@@ -205,7 +176,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/Physics/Thermodynamics.md"
+                "file": "Excalidraw/Drawing 2024-06-26 08.38.16.excalidraw.md"
               }
             }
           },
@@ -246,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Physics/Thermodynamics.md",
+                "file": "Excalidraw/Drawing 2024-06-26 08.38.16.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Physics/Thermodynamics.md",
+                "file": "Excalidraw/Drawing 2024-06-26 08.38.16.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -295,16 +266,17 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "c9182cb73869f371",
+  "active": "cd9cd38b42b093b1",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "School studies/Physics/Thermodynamics.md",
-    "Excalidraw/some rough work.excalidraw.md",
-    "Excalidraw/CS something.excalidraw.md",
     "School studies/Physics/Ideal Gases.md",
     "School studies/Physics/Circular Motion.md",
-    "School studies/Physics/Thermal Physics.md",
     "School studies/CS/Data Representation.md",
+    "Excalidraw/Drawing 2024-06-26 08.38.16.excalidraw.md",
+    "conflict-files-obsidian-git.md",
+    "Excalidraw/some rough work.excalidraw.md",
+    "Excalidraw/CS something.excalidraw.md",
+    "School studies/Physics/Thermal Physics.md",
     "Excalidraw/Angular Velocity.excalidraw.md",
     "0 Help.md/Ascii symbols.md",
     "School studies/Chemistry/Carboxylic Acids.md",
@@ -324,7 +296,6 @@
     "School studies/Chemistry/Untitled.md",
     "A Level A Class Timetable.png",
     "Excalidraw/OrthoMetaParabenzene.excalidraw.md",
-    "Excalidraw/Oxidation of benzene.excalidraw.md",
     "0 Help.md/Drawing Pallet.png",
     "0 Help.md/Pasted Image 20240619105930_233.png",
     "0 Help.md/Pasted Image 20240619104133_108.png",
