@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Kinetic Energy Distribution of Ideal Gases.md"
+                "file": "School studies/Physics/Thermodynamics.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Kinetic Energy Distribution of Ideal Gases.md"
+                "file": "School studies/Physics/Thermodynamics.md"
               }
             }
           },
@@ -217,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Kinetic Energy Distribution of Ideal Gases.md",
+                "file": "School studies/Physics/Thermodynamics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Kinetic Energy Distribution of Ideal Gases.md",
+                "file": "School studies/Physics/Thermodynamics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -266,10 +266,10 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "cd9cd38b42b093b1",
+  "active": "c9182cb73869f371",
   "lastOpenFiles": [
-    "School studies/Physics/Thermodynamics.md",
     "Excalidraw/Kinetic Energy Distribution of Ideal Gases.md",
+    "School studies/Physics/Thermodynamics.md",
     "School studies/Physics/Ideal Gases.md",
     "School studies/Physics/Circular Motion.md",
     "School studies/CS/Data Representation.md",
