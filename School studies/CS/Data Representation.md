@@ -180,7 +180,7 @@ using 8 bits for Mantissa & 8 bits for exponent
 >$= -0.0254$
 
 ### Convert  denary numbers into binary floating-point numbers
-
+>[!example] Convert $4.5_{10}$ to binary floating point
 
 
 
