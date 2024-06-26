@@ -149,8 +149,8 @@ K.E ^HiVccbE7
 		},
 		{
 			"type": "line",
-			"version": 1917,
-			"versionNonce": 1171484109,
+			"version": 1932,
+			"versionNonce": 1300329571,
 			"isDeleted": false,
 			"id": "6fncsyY1NFX71wF9plKXQ",
 			"fillStyle": "hachure",
@@ -163,7 +163,7 @@ K.E ^HiVccbE7
 			"y": 106.5390625,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 167.5,
+			"width": 178,
 			"height": 122.5,
 			"seed": 1506213613,
 			"groupIds": [],
@@ -172,7 +172,7 @@ K.E ^HiVccbE7
 				"type": 2
 			},
 			"boundElements": null,
-			"updated": 1719371968777,
+			"updated": 1719371983115,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -206,8 +206,8 @@ K.E ^HiVccbE7
 					-46.5
 				],
 				[
-					167.5,
-					-19
+					178,
+					-10.5
 				]
 			]
 		},
