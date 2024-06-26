@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "School studies/CS/Data Representation.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -107,22 +107,6 @@
             }
           },
           {
-            "id": "363316b58ba63505",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "cb675aca7cd66052",
-        "type": "tabs",
-        "dimension": 39.91655076495132,
-        "children": [
-          {
             "id": "40b33ddf6941da5e",
             "type": "leaf",
             "state": {
@@ -131,7 +115,15 @@
                 "file": "School studies/CS/Data Representation.md"
               }
             }
-          },
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "cb675aca7cd66052",
+        "type": "tabs",
+        "dimension": 39.91655076495132,
+        "children": [
           {
             "id": "4b0ad9f429b2d16e",
             "type": "leaf",
@@ -216,9 +208,17 @@
                 "unlinkedCollapsed": false
               }
             }
+          },
+          {
+            "id": "363316b58ba63505",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -243,7 +243,7 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "781593ceba814090",
+  "active": "40b33ddf6941da5e",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "0 Help.md/Ascii symbols.md",
