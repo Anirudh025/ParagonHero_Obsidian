@@ -193,7 +193,7 @@ using 8 bits for Mantissa & 8 bits for exponent
 
 >[!question]- Convert $75.2062_{10}$ to binary floating point
 >$75_{10}$ --$Binary$--> $01001011_{2}$
->multiplication of 
+>multiplication of 0.2062 gives 0001
 >
 
 
