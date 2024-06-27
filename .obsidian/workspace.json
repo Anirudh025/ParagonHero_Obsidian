@@ -19,6 +19,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1c74f6260399db5e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ]
       }
@@ -246,6 +254,7 @@
   },
   "active": "69d03c7130a78315",
   "lastOpenFiles": [
+    "School studies/CS/Data Representation.md",
     "Excalidraw/chemthing.excalidraw.md",
     "School studies/Chemistry/Benzene and its compounds.md",
     "School studies/Chemistry/0. Chem.md",
@@ -254,7 +263,6 @@
     "conflict-files-obsidian-git.md",
     "Excalidraw/CS something.excalidraw.md",
     "Excalidraw/some rough work.excalidraw.md",
-    "School studies/CS/Data Representation.md",
     "School studies/Physics/Thermodynamics.md",
     "Excalidraw/Kinetic Energy Distribution of Ideal Gases.md",
     "0 Help.md/Ascii symbols.md",
