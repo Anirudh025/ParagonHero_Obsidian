@@ -191,7 +191,8 @@ using 8 bits for Mantissa & 8 bits for exponent
 >![[Mantissa and exponent.excalidraw]]
 >
 
-
+>[!example]- Convert $75.2062_{10}$ to binary floating point
+>$75_{10}$ --$Binary$--> $01001011_{2}$
 
 
 
