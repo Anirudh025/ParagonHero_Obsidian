@@ -8,7 +8,7 @@ Benzene %% #chemistry/benzene %%:
 1. It has planar symmetry and each bond has a length of 0.139nm
 2. Each carbon atoms has 3 sigma bonds and 1 pi bond ![[benzenesigmapi.excalidraw|200]]
 ## Naming compounds
-## General Names
+### General Names
 1. When naming compound if carbon chain attached to benzene has more than 6 carbons:
 	1. Benzene substituent is called Phenyl C₆H₅- %% #chemistry/phenyl %% 
 		-  phenylhept-1-ane![[phenylheptane.excalidraw]]
@@ -21,11 +21,12 @@ Benzene %% #chemistry/benzene %%:
 	- Some benzene examples: ![[somebenzenecompunds.excalidraw|500]]
 ### Special benzene compounds: 
 	![[benzenecoumpounds with special names.excalidraw|500]]
-## Ortho Meta Para Naming
+### Ortho Meta Para Naming
 ![[OrthoMetaParabenzene.excalidraw|500]]
 ![[bromo ortho-cloro benzene.excalidraw|500]]
 # Reacting Benzene
-1. By using Cl₂ with a catalyst of AlCl₃ we can create Chlorobenzene %% #chemistry/chlorination%%
+###### By using Cl₂ with a catalyst of AlCl₃ 
+we can create Chlorobenzene %% #chemistry/chlorination%%
 	- ![[benzne+cl2 (alcl3).excalidraw|550]]
 2. Benzene reacts with HNO₃ to form Nitrobenzene: %% #chemistry/nitration%%
 	- ![[Reaction mechanism no2+benzene.excalidraw|600]]
