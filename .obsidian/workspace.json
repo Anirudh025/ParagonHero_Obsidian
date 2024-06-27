@@ -4,39 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "68bed2ae0292ae8f",
+        "id": "196f913b66f8cf25",
         "type": "tabs",
         "children": [
           {
-            "id": "781593ceba814090",
+            "id": "da8659f9135f42cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/CS/Data Representation.md",
+                "file": "School studies/Chemistry/Benzene and its compounds.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "744656cdbb6e9056",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/some rough work.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "9b17a3f72b731499",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/CS something.excalidraw.md"
               }
             }
           }
@@ -83,7 +63,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d967d98868519a35",
@@ -132,12 +113,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/CS/Data Representation.md"
+                "file": "School studies/Chemistry/Benzene and its compounds.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "cb675aca7cd66052",
@@ -165,7 +145,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/CS/Data Representation.md"
+                "file": "School studies/Chemistry/Benzene and its compounds.md"
               }
             }
           },
@@ -206,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/CS/Data Representation.md",
+                "file": "School studies/Chemistry/Benzene and its compounds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/CS/Data Representation.md",
+                "file": "School studies/Chemistry/Benzene and its compounds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -242,7 +222,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 260.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -263,19 +243,21 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "781593ceba814090",
+  "active": "9317a1770b4fbb1c",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "School studies/Chemistry/Benzene and its compounds.md",
     "Excalidraw/CS something.excalidraw.md",
     "Excalidraw/some rough work.excalidraw.md",
     "School studies/CS/Data Representation.md",
-    "conflict-files-obsidian-git.md",
+    "School studies/Physics/Thermodynamics.md",
+    "Excalidraw/Kinetic Energy Distribution of Ideal Gases.md",
     "0 Help.md/Ascii symbols.md",
     "School studies/Physics/Ideal Gases.md",
     "School studies/Chemistry/Carboxylic Acids.md",
     "Excalidraw/Angular Velocity.excalidraw.md",
     "School studies/Physics/Thermal Physics.md",
     "Excalidraw/Gay Lussac.excalidraw.md",
-    "School studies/Chemistry/Benzene and its compounds.md",
     "Excalidraw/acylchloride reaction mechanism with amine.excalidraw.md",
     "Excalidraw/Acyl chloride and methylamine .excalidraw.md",
     "Excalidraw/Acylchloride and NH3.excalidraw.md",
@@ -290,8 +272,6 @@
     "Excalidraw/Drawing 2024-06-24 11.29.10.excalidraw.md",
     "Excalidraw/Acylchloride and water.excalidraw.md",
     "Excalidraw/chemthing.excalidraw.md",
-    "Excalidraw/Creating nitrobenzene but better.excalidraw.md",
-    "Excalidraw/Sodium pheoxide.excalidraw.md",
     "0 Help.md/Drawing Pallet.png",
     "Excalidraw/benzene Double bond.png",
     "0 Help.md/Pasted Image 20240619103445_600.png",

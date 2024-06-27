@@ -8,6 +8,7 @@ Benzene %% #chemistry/benzene %%:
 1. It has planar symmetry and each bond has a length of 0.139nm
 2. Each carbon atoms has 3 sigma bonds and 1 pi bond ![[benzenesigmapi.excalidraw|200]]
 ## Naming compounds
+## General Names
 1. When naming compound if carbon chain attached to benzene has more than 6 carbons:
 	1. Benzene substituent is called Phenyl C₆H₅- %% #chemistry/phenyl %% 
 		-  phenylhept-1-ane![[phenylheptane.excalidraw]]
@@ -18,9 +19,9 @@ Benzene %% #chemistry/benzene %%:
 2.  When other functional groups are present benzene becomes the substituent:
 	![[naming benzene compunds with other functional groups.excalidraw]]
 	- Some benzene examples: ![[somebenzenecompunds.excalidraw|500]]
-3. Special benzene compounds: 
+## Special benzene compounds: 
 	![[benzenecoumpounds with special names.excalidraw|500]]
-### Reacting Benzene
+# Reacting Benzene
 1. By using Cl₂ with a catalyst of AlCl₃ we can create Chlorobenzene %% #chemistry/chlorination%%
 	- ![[benzne+cl2 (alcl3).excalidraw|550]]
 2. Benzene reacts with HNO₃ to form Nitrobenzene: %% #chemistry/nitration%%
@@ -38,7 +39,7 @@ Benzene %% #chemistry/benzene %%:
 
 ==Due to its stability benzene does not undergo some of the addition reactions that other alkenes do== 
 #todo/chemistry/whyphenolismoreacididcthanethanol
-### Aromatic Compounds
+# Aromatic Compounds
 **Aromatic Compounds** :: **Compounds are those that contain a ring of delocalized electrons**
 Some Examples of Aromatic compounds are: 
 ![[Pasted image 20240615073438.png|650]]
