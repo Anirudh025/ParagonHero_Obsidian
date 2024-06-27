@@ -14,6 +14,12 @@ Shift decimal point till you get a 0.1 ^7St4NqSh
 
 . ^bziToGNQ
 
+this gives Mantissa
+010110010100 ^N9zeJZqk
+
+this gives Mantissa
+010110010100 ^hZBc2k0L
+
 %%
 # Drawing
 ```json
@@ -310,8 +316,8 @@ Shift decimal point till you get a 0.1 ^7St4NqSh
 		},
 		{
 			"type": "arrow",
-			"version": 311,
-			"versionNonce": 1889017373,
+			"version": 339,
+			"versionNonce": 1274081555,
 			"isDeleted": false,
 			"id": "oGl3-fC5uQzvDVGcKJB3a",
 			"fillStyle": "hachure",
@@ -324,7 +330,7 @@ Shift decimal point till you get a 0.1 ^7St4NqSh
 			"y": 35.35765374298185,
 			"strokeColor": "#2f9e44",
 			"backgroundColor": "transparent",
-			"width": 12.64372332700583,
+			"width": 16.5609201850026,
 			"height": 43.08926790392604,
 			"seed": 237254515,
 			"groupIds": [],
@@ -333,14 +339,14 @@ Shift decimal point till you get a 0.1 ^7St4NqSh
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1719458683962,
+			"updated": 1719458744148,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
 			"endBinding": {
 				"elementId": "clp0l58n",
-				"focus": 1.0000025913171113,
-				"gap": 2.125795390777
+				"focus": 1.005473283671132,
+				"gap": 3.5775203759375813
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -355,8 +361,8 @@ Shift decimal point till you get a 0.1 ^7St4NqSh
 					43.08926790392604
 				],
 				[
-					-12.64372332700583,
-					16.528563400724835
+					-16.5609201850026,
+					0.85972473575697
 				]
 			]
 		},
@@ -450,8 +456,8 @@ Shift decimal point till you get a 0.1 ^7St4NqSh
 			"type": "text",
 			"x": -266.55109463234777,
 			"y": -46.91652768980407,
-			"width": 22.267993240306797,
-			"height": 101.58763960527217,
+			"width": 22.267974853515625,
+			"height": 101.58763960527213,
 			"angle": 0,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
@@ -482,16 +488,90 @@ Shift decimal point till you get a 0.1 ^7St4NqSh
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 71.00000000000004,
+			"baseline": 71,
 			"containerId": null,
 			"originalText": ".",
 			"lineHeight": 1.25
+		},
+		{
+			"id": "N9zeJZqk",
+			"type": "text",
+			"x": -692.4072386503797,
+			"y": 129.3578048251227,
+			"width": 322.73699951171875,
+			"height": 84.13566410715178,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 274729043,
+			"version": 80,
+			"versionNonce": 1713393683,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1719458784382,
+			"link": null,
+			"locked": false,
+			"text": "this gives Mantissa\n010110010100",
+			"rawText": "this gives Mantissa\n010110010100",
+			"fontSize": 33.654265642860715,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 71,
+			"containerId": null,
+			"originalText": "this gives Mantissa\n010110010100",
+			"lineHeight": 1.25
+		},
+		{
+			"type": "text",
+			"version": 82,
+			"versionNonce": 694905693,
+			"isDeleted": false,
+			"id": "hZBc2k0L",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -338.3834539545039,
+			"y": 171.2300628013472,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 322.73699951171875,
+			"height": 84.13566410715178,
+			"seed": 1065592659,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1719458785875,
+			"link": null,
+			"locked": false,
+			"fontSize": 33.654265642860715,
+			"fontFamily": 1,
+			"text": "this gives Mantissa\n010110010100",
+			"rawText": "this gives Mantissa\n010110010100",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "this gives Mantissa\n010110010100",
+			"lineHeight": 1.25,
+			"baseline": 71
 		}
 	],
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#1971c2",
+		"currentItemStrokeColor": "#1e1e1e",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "hachure",
 		"currentItemStrokeWidth": 1,
@@ -503,8 +583,8 @@ Shift decimal point till you get a 0.1 ^7St4NqSh
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 691.0082708782614,
-		"scrollY": 286.0233848412712,
+		"scrollX": 745.2895371240331,
+		"scrollY": 194.80845490288684,
 		"zoom": {
 			"value": 1.1913254971125227
 		},
