@@ -11,13 +11,8 @@
             "id": "69d03c7130a78315",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Laws of motion.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -111,13 +106,10 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Laws of motion.md"
-              }
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "cb675aca7cd66052",
@@ -144,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Laws of motion.md"
-              }
+              "state": {}
             }
           },
           {
@@ -186,7 +176,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Laws of motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +192,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Laws of motion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -222,7 +210,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 227.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -243,7 +232,7 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "54c5a6e575f4cd1d",
+  "active": "9317a1770b4fbb1c",
   "lastOpenFiles": [
     "Laws of motion.md",
     "0 Help.md/MathJax.md",
