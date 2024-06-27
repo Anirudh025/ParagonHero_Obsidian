@@ -23,7 +23,7 @@ Benzene %% #chemistry/benzene %%:
 	![[benzenecoumpounds with special names.excalidraw|500]]
 ## Ortho Meta Para Naming
 ![[OrthoMetaParabenzene.excalidraw|500]]
-
+![[bromo ortho-cloro benzene.excalidraw|500]]
 # Reacting Benzene
 1. By using Cl₂ with a catalyst of AlCl₃ we can create Chlorobenzene %% #chemistry/chlorination%%
 	- ![[benzne+cl2 (alcl3).excalidraw|550]]
