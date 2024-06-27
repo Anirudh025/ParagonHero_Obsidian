@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
         "id": "cb675aca7cd66052",
@@ -233,8 +233,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 227.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -255,7 +254,7 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "1c74f6260399db5e",
+  "active": "8f13c2750f67f161",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2024-06-27 08.40.00.excalidraw.md",
     "School studies/CS/Data Representation.md",
