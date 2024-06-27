@@ -24,7 +24,7 @@ O= ^qZ6fvIdd
 
 Create the passing the parcel ^0RnJ70Wm
 
-e ^deUgNuit
+- ^deUgNuit
 
 
 # Embedded files
@@ -525,10 +525,10 @@ f7c18c704a9364b601bb2be5cc4369cbba9cd5c8: [[benzene Double bond.png]]
 		{
 			"id": "deUgNuit",
 			"type": "text",
-			"x": 36.71880698481735,
-			"y": -40.33084625092988,
-			"width": 5.9815649536158935,
-			"height": 13.66904013178404,
+			"x": 131.71883750239547,
+			"y": -28.664189756789256,
+			"width": 6.492218017578125,
+			"height": 19.754693178139686,
 			"angle": 0,
 			"strokeColor": "#2f9e44",
 			"backgroundColor": "transparent",
@@ -541,22 +541,22 @@ f7c18c704a9364b601bb2be5cc4369cbba9cd5c8: [[benzene Double bond.png]]
 			"frameId": null,
 			"roundness": null,
 			"seed": 1352141277,
-			"version": 104,
-			"versionNonce": 1971836179,
+			"version": 209,
+			"versionNonce": 1615384755,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1719456440761,
+			"updated": 1719456618105,
 			"link": null,
 			"locked": false,
-			"text": "e",
-			"rawText": "e",
-			"fontSize": 10.935232105427225,
+			"text": "-",
+			"rawText": "-",
+			"fontSize": 15.803754542511747,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 9.000000000000009,
+			"baseline": 13.000000000000004,
 			"containerId": null,
-			"originalText": "e",
+			"originalText": "-",
 			"lineHeight": 1.25
 		}
 	],
