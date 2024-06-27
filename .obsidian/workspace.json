@@ -11,8 +11,13 @@
             "id": "69d03c7130a78315",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "School studies/Physics/Thermal Physics.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -106,7 +111,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "School studies/Physics/Thermal Physics.md"
+              }
             }
           }
         ]
@@ -136,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "School studies/Physics/Thermal Physics.md"
+              }
             }
           },
           {
@@ -176,6 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "School studies/Physics/Thermal Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,6 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "School studies/Physics/Thermal Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -232,7 +243,7 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "9317a1770b4fbb1c",
+  "active": "69d03c7130a78315",
   "lastOpenFiles": [
     "Laws of motion.md",
     "0 Help.md/MathJax.md",
