@@ -185,7 +185,8 @@ using 8 bits for Mantissa & 8 bits for exponent
 >but for 0.5 we do 
 >$0.5\times 2$ 
 
->[!example]- Convert $4.5_{10}$ to binary floating point
+>[!example]- Convert $89.3043_{10}$ to binary floating point
+>$89.3043_{10}$
 
 
 
