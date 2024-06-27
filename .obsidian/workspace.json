@@ -21,12 +21,15 @@
             }
           },
           {
-            "id": "010231ed7d720d0c",
+            "id": "803b49a4ea574eb5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/bromo ortho-cloro benzene.excalidraw.md"
+                "file": "School studies/Chemistry/0. Chem.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -74,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "d967d98868519a35",
@@ -124,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/bromo ortho-cloro benzene.excalidraw.md"
+                "file": "School studies/Chemistry/0. Chem.md"
               }
             }
           }
@@ -157,7 +159,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/bromo ortho-cloro benzene.excalidraw.md"
+                "file": "School studies/Chemistry/0. Chem.md"
               }
             }
           },
@@ -198,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/bromo ortho-cloro benzene.excalidraw.md",
+                "file": "School studies/Chemistry/0. Chem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/bromo ortho-cloro benzene.excalidraw.md",
+                "file": "School studies/Chemistry/0. Chem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -255,9 +257,10 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "a3d21c7ad933cefe",
+  "active": "803b49a4ea574eb5",
   "lastOpenFiles": [
     "School studies/Chemistry/Benzene and its compounds.md",
+    "School studies/Chemistry/0. Chem.md",
     "Excalidraw/bromo ortho-cloro benzene.excalidraw.md",
     "Excalidraw/somebenzenecompunds.excalidraw.md",
     "conflict-files-obsidian-git.md",
@@ -283,7 +286,6 @@
     "Excalidraw/Drawing 2024-06-24 09.05.44.excalidraw.md",
     "Excalidraw/Charles Law.excalidraw.md",
     "Excalidraw/Boyles Law.excalidraw.md",
-    "Excalidraw/Drawing 2024-06-24 11.29.10.excalidraw.md",
     "0 Help.md/Drawing Pallet.png",
     "Excalidraw/benzene Double bond.png",
     "0 Help.md/Pasted Image 20240619103445_600.png",
