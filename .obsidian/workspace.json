@@ -26,12 +26,11 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-27 08.00.28.excalidraw.md"
+                "file": "Excalidraw/bromo ortho-cloro benzene.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,11 +123,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-27 08.00.28.excalidraw.md"
+                "file": "School studies/Chemistry/Benzene and its compounds.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "cb675aca7cd66052",
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-27 08.00.28.excalidraw.md"
+                "file": "School studies/Chemistry/Benzene and its compounds.md"
               }
             }
           },
@@ -197,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-27 08.00.28.excalidraw.md",
+                "file": "School studies/Chemistry/Benzene and its compounds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-27 08.00.28.excalidraw.md",
+                "file": "School studies/Chemistry/Benzene and its compounds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -254,9 +254,9 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "010231ed7d720d0c",
+  "active": "40b33ddf6941da5e",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-06-27 08.00.28.excalidraw.md",
+    "Excalidraw/bromo ortho-cloro benzene.excalidraw.md",
     "School studies/Chemistry/Benzene and its compounds.md",
     "Excalidraw/somebenzenecompunds.excalidraw.md",
     "conflict-files-obsidian-git.md",

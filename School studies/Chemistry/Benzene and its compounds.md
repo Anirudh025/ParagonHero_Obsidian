@@ -21,7 +21,7 @@ Benzene %% #chemistry/benzene %%:
 	- Some benzene examples: ![[somebenzenecompunds.excalidraw|500]]
 ## Special benzene compounds: 
 	![[benzenecoumpounds with special names.excalidraw|500]]
-### Ortho Meta Para Naming
+## Ortho Meta Para Naming
 ![[OrthoMetaParabenzene.excalidraw|500]]
 
 # Reacting Benzene
