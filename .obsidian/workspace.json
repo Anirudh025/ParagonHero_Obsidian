@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "010231ed7d720d0c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-06-27 08.00.28.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md"
+                "file": "Excalidraw/Drawing 2024-06-27 08.00.28.excalidraw.md"
               }
             }
           }
@@ -145,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md"
+                "file": "Excalidraw/Drawing 2024-06-27 08.00.28.excalidraw.md"
               }
             }
           },
@@ -186,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md",
+                "file": "Excalidraw/Drawing 2024-06-27 08.00.28.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md",
+                "file": "Excalidraw/Drawing 2024-06-27 08.00.28.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -243,10 +254,12 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "9317a1770b4fbb1c",
+  "active": "010231ed7d720d0c",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Excalidraw/Drawing 2024-06-27 08.00.28.excalidraw.md",
     "School studies/Chemistry/Benzene and its compounds.md",
+    "Excalidraw/somebenzenecompunds.excalidraw.md",
+    "conflict-files-obsidian-git.md",
     "Excalidraw/CS something.excalidraw.md",
     "Excalidraw/some rough work.excalidraw.md",
     "School studies/CS/Data Representation.md",
@@ -270,8 +283,6 @@
     "Excalidraw/Charles Law.excalidraw.md",
     "Excalidraw/Boyles Law.excalidraw.md",
     "Excalidraw/Drawing 2024-06-24 11.29.10.excalidraw.md",
-    "Excalidraw/Acylchloride and water.excalidraw.md",
-    "Excalidraw/chemthing.excalidraw.md",
     "0 Help.md/Drawing Pallet.png",
     "Excalidraw/benzene Double bond.png",
     "0 Help.md/Pasted Image 20240619103445_600.png",
