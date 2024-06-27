@@ -24,11 +24,14 @@
             "id": "1c74f6260399db5e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-06-27 08.40.00.excalidraw.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/CS/Data Representation.md"
+                "file": "Excalidraw/Drawing 2024-06-27 08.40.00.excalidraw.md"
               }
             }
           }
@@ -153,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/CS/Data Representation.md"
+                "file": "Excalidraw/Drawing 2024-06-27 08.40.00.excalidraw.md"
               }
             }
           },
@@ -194,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/CS/Data Representation.md",
+                "file": "Excalidraw/Drawing 2024-06-27 08.40.00.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/CS/Data Representation.md",
+                "file": "Excalidraw/Drawing 2024-06-27 08.40.00.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -252,8 +255,9 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "69d03c7130a78315",
+  "active": "1c74f6260399db5e",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-06-27 08.40.00.excalidraw.md",
     "School studies/CS/Data Representation.md",
     "Excalidraw/chemthing.excalidraw.md",
     "School studies/Chemistry/Benzene and its compounds.md",
@@ -280,7 +284,6 @@
     "0 Help.md/MathJax.md",
     "Excalidraw/Carboxylate a.excalidraw.md",
     "Excalidraw/Drawing 2024-06-24 09.05.44.excalidraw.md",
-    "Excalidraw/Charles Law.excalidraw.md",
     "0 Help.md/Drawing Pallet.png",
     "Excalidraw/benzene Double bond.png",
     "0 Help.md/Pasted Image 20240619103445_600.png",

@@ -187,6 +187,7 @@ using 8 bits for Mantissa & 8 bits for exponent
 
 >[!example]- Convert $89.3043_{10}$ to binary floating point
 >$89.3043_{10}$ --$Binary$--> $01011001_{2}$
+>
 
 
 
