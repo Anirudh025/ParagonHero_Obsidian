@@ -191,12 +191,12 @@ using 8 bits for Mantissa & 8 bits for exponent
 >![[Mantissa and exponent.excalidraw]]
 >
 
->[!question]- Convert $75.2062_{10}$ to binary floating point
->$75_{10}$ --$Binary$--> $01001011_{2}$
+>[!question]- Convert $73.2062_{10}$ to binary floating point
+>$73_{10}$ --$Binary$--> $01001001_{2}$
 >multiplication of 0.2062 gives 0010
->01001011.0010
->0.10010110010 $\therefore$ Exponent of 7
->010010110010
+>01001001.0010
+>0.10010010010 $\therefore$ Exponent of 7
+>010010010010
 >
 
 
