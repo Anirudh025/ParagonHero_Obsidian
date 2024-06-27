@@ -196,7 +196,7 @@ using 8 bits for Mantissa & 8 bits for exponent
 >multiplication of 0.2062 gives 0010
 >01001011.0010
 >0.10010110010 $\therefore$ Exponent of 7
->
+>010010110010
 >
 
 
