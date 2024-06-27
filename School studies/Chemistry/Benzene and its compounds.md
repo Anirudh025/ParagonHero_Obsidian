@@ -21,6 +21,8 @@ Benzene %% #chemistry/benzene %%:
 	- Some benzene examples: ![[somebenzenecompunds.excalidraw|500]]
 ## Special benzene compounds: 
 	![[benzenecoumpounds with special names.excalidraw|500]]
+### OrthoParaMeta Naming
+![[OrthoMetaParabenzene.excalidraw]]
 # Reacting Benzene
 1. By using Cl₂ with a catalyst of AlCl₃ we can create Chlorobenzene %% #chemistry/chlorination%%
 	- ![[benzne+cl2 (alcl3).excalidraw|550]]
