@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/Physics/Thermal Physics.md",
+                "file": "School studies/Physics/Circular Motion.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/Physics/Thermal Physics.md"
+                "file": "School studies/Physics/Circular Motion.md"
               }
             }
           }
@@ -144,7 +144,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/Physics/Thermal Physics.md"
+                "file": "School studies/Physics/Circular Motion.md"
               }
             }
           },
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Physics/Thermal Physics.md",
+                "file": "School studies/Physics/Circular Motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Physics/Thermal Physics.md",
+                "file": "School studies/Physics/Circular Motion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -245,6 +245,7 @@
   },
   "active": "69d03c7130a78315",
   "lastOpenFiles": [
+    "School studies/Physics/Thermal Physics.md",
     "Laws of motion.md",
     "0 Help.md/MathJax.md",
     "School studies/CS/Data Representation.md",
@@ -264,7 +265,6 @@
     "School studies/Physics/Ideal Gases.md",
     "School studies/Chemistry/Carboxylic Acids.md",
     "Excalidraw/Angular Velocity.excalidraw.md",
-    "School studies/Physics/Thermal Physics.md",
     "Excalidraw/Gay Lussac.excalidraw.md",
     "Excalidraw/acylchloride reaction mechanism with amine.excalidraw.md",
     "Excalidraw/Acyl chloride and methylamine .excalidraw.md",

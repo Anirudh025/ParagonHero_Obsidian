@@ -41,9 +41,5 @@ if we divide the equation by $t$ to create $a_c$ (centripetal acceleration)
 $a_c = \frac{V}{r} \times V$
 $a_c = \frac{V^2}{r}$
 
-
-
-
-
-during the circular motion there is no displacement in the direction of force hence the work done on the object is 0
+>[!info] during the circular motion there is no displacement in the direction of force hence the work done on the object is 0
 
