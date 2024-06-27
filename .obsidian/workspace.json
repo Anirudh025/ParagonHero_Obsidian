@@ -40,8 +40,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Mantissa and exponent.excalidraw.md"
+                "file": "School studies/CS/Data Representation.md"
               }
             }
           }
@@ -167,7 +166,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Mantissa and exponent.excalidraw.md"
+                "file": "School studies/CS/Data Representation.md"
               }
             }
           },
@@ -208,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Mantissa and exponent.excalidraw.md",
+                "file": "School studies/CS/Data Representation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Mantissa and exponent.excalidraw.md",
+                "file": "School studies/CS/Data Representation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -265,7 +264,7 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "4d848c90a0f8cb4c",
+  "active": "69d03c7130a78315",
   "lastOpenFiles": [
     "Excalidraw/binary-floating-point-explainer.excalidraw.md",
     "Excalidraw/Mantissa and exponent.excalidraw.md",
