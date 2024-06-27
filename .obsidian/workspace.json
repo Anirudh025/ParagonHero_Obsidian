@@ -19,26 +19,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1c74f6260399db5e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/binary-floating-point-explainer.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "4d848c90a0f8cb4c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Mantissa and exponent.excalidraw.md"
-              }
-            }
           }
         ]
       }
@@ -267,8 +247,8 @@
   "active": "69d03c7130a78315",
   "lastOpenFiles": [
     "Excalidraw/binary-floating-point-explainer.excalidraw.md",
-    "Excalidraw/Mantissa and exponent.excalidraw.md",
     "School studies/CS/Data Representation.md",
+    "Excalidraw/Mantissa and exponent.excalidraw.md",
     "Excalidraw/chemthing.excalidraw.md",
     "School studies/Chemistry/Benzene and its compounds.md",
     "School studies/Chemistry/0. Chem.md",
