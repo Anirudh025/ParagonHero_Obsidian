@@ -11,8 +11,13 @@
             "id": "69d03c7130a78315",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Laws of motion.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -106,7 +111,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Laws of motion.md"
+              }
             }
           }
         ],
@@ -137,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Laws of motion.md"
+              }
             }
           },
           {
@@ -177,6 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Laws of motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,6 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Laws of motion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -232,8 +243,9 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "69d03c7130a78315",
+  "active": "54c5a6e575f4cd1d",
   "lastOpenFiles": [
+    "Laws of motion.md",
     "0 Help.md/MathJax.md",
     "School studies/CS/Data Representation.md",
     "Excalidraw/binary-floating-point-explainer.excalidraw.md",
@@ -260,7 +272,6 @@
     "Excalidraw/Carboxylic dissociation.excalidraw.md",
     "School studies/Chemistry/Chem unorganized.md",
     "0 Help.md/MathJax symbol reference.pdf",
-    "Excalidraw/Carboxylate a.excalidraw.md",
     "0 Help.md/Drawing Pallet.png",
     "Excalidraw/benzene Double bond.png",
     "0 Help.md/Pasted Image 20240619103445_600.png",
