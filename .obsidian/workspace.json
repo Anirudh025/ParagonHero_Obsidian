@@ -29,9 +29,19 @@
                 "file": "Excalidraw/binary-floating-point-explainer.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "4d848c90a0f8cb4c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-06-27 08.51.45.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -74,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d967d98868519a35",
@@ -123,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/binary-floating-point-explainer.excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-06-27 08.51.45.excalidraw.md"
               }
             }
           }
@@ -156,7 +167,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/binary-floating-point-explainer.excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-06-27 08.51.45.excalidraw.md"
               }
             }
           },
@@ -197,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/binary-floating-point-explainer.excalidraw.md",
+                "file": "Excalidraw/Drawing 2024-06-27 08.51.45.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +225,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/binary-floating-point-explainer.excalidraw.md",
+                "file": "Excalidraw/Drawing 2024-06-27 08.51.45.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -254,10 +265,11 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "1c74f6260399db5e",
+  "active": "4d848c90a0f8cb4c",
   "lastOpenFiles": [
-    "School studies/CS/Data Representation.md",
     "Excalidraw/binary-floating-point-explainer.excalidraw.md",
+    "Excalidraw/Drawing 2024-06-27 08.51.45.excalidraw.md",
+    "School studies/CS/Data Representation.md",
     "Excalidraw/chemthing.excalidraw.md",
     "School studies/Chemistry/Benzene and its compounds.md",
     "School studies/Chemistry/0. Chem.md",
@@ -282,7 +294,6 @@
     "0 Help.md/MathJax symbol reference.pdf",
     "0 Help.md/MathJax.md",
     "Excalidraw/Carboxylate a.excalidraw.md",
-    "Excalidraw/Drawing 2024-06-24 09.05.44.excalidraw.md",
     "0 Help.md/Drawing Pallet.png",
     "Excalidraw/benzene Double bond.png",
     "0 Help.md/Pasted Image 20240619103445_600.png",
