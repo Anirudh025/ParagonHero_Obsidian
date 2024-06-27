@@ -24,12 +24,9 @@
             "id": "803b49a4ea574eb5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "School studies/Chemistry/0. Chem.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Excalidraw/chemthing.excalidraw.md"
               }
             }
           }
@@ -126,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/Chemistry/0. Chem.md"
+                "file": "Excalidraw/chemthing.excalidraw.md"
               }
             }
           }
@@ -159,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/Chemistry/0. Chem.md"
+                "file": "Excalidraw/chemthing.excalidraw.md"
               }
             }
           },
@@ -200,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Chemistry/0. Chem.md",
+                "file": "Excalidraw/chemthing.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Chemistry/0. Chem.md",
+                "file": "Excalidraw/chemthing.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -236,7 +233,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -259,8 +257,8 @@
   },
   "active": "803b49a4ea574eb5",
   "lastOpenFiles": [
-    "School studies/Chemistry/Benzene and its compounds.md",
     "School studies/Chemistry/0. Chem.md",
+    "School studies/Chemistry/Benzene and its compounds.md",
     "Excalidraw/bromo ortho-cloro benzene.excalidraw.md",
     "Excalidraw/somebenzenecompunds.excalidraw.md",
     "conflict-files-obsidian-git.md",
