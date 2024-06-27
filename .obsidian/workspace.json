@@ -4,34 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "196f913b66f8cf25",
+        "id": "9fecc349850e2117",
         "type": "tabs",
         "children": [
           {
-            "id": "da8659f9135f42cb",
+            "id": "69d03c7130a78315",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md",
+                "file": "School studies/CS/Data Representation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "803b49a4ea574eb5",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/chemthing.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/chemthing.excalidraw.md"
+                "file": "School studies/CS/Data Representation.md"
               }
             }
           }
@@ -156,7 +145,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/chemthing.excalidraw.md"
+                "file": "School studies/CS/Data Representation.md"
               }
             }
           },
@@ -197,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/chemthing.excalidraw.md",
+                "file": "School studies/CS/Data Representation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/chemthing.excalidraw.md",
+                "file": "School studies/CS/Data Representation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -255,10 +244,11 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "803b49a4ea574eb5",
+  "active": "69d03c7130a78315",
   "lastOpenFiles": [
-    "School studies/Chemistry/0. Chem.md",
+    "Excalidraw/chemthing.excalidraw.md",
     "School studies/Chemistry/Benzene and its compounds.md",
+    "School studies/Chemistry/0. Chem.md",
     "Excalidraw/bromo ortho-cloro benzene.excalidraw.md",
     "Excalidraw/somebenzenecompunds.excalidraw.md",
     "conflict-files-obsidian-git.md",
@@ -283,7 +273,6 @@
     "Excalidraw/Carboxylate a.excalidraw.md",
     "Excalidraw/Drawing 2024-06-24 09.05.44.excalidraw.md",
     "Excalidraw/Charles Law.excalidraw.md",
-    "Excalidraw/Boyles Law.excalidraw.md",
     "0 Help.md/Drawing Pallet.png",
     "Excalidraw/benzene Double bond.png",
     "0 Help.md/Pasted Image 20240619103445_600.png",
