@@ -11,13 +11,8 @@
             "id": "69d03c7130a78315",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School studies/CS/Data Representation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -63,8 +58,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "d967d98868519a35",
@@ -112,9 +106,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "School studies/CS/Data Representation.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -145,9 +137,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "School studies/CS/Data Representation.md"
-              }
+              "state": {}
             }
           },
           {
@@ -187,7 +177,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/CS/Data Representation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +193,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/CS/Data Representation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -246,8 +234,8 @@
   },
   "active": "69d03c7130a78315",
   "lastOpenFiles": [
-    "Excalidraw/binary-floating-point-explainer.excalidraw.md",
     "School studies/CS/Data Representation.md",
+    "Excalidraw/binary-floating-point-explainer.excalidraw.md",
     "Excalidraw/Mantissa and exponent.excalidraw.md",
     "Excalidraw/chemthing.excalidraw.md",
     "School studies/Chemistry/Benzene and its compounds.md",
