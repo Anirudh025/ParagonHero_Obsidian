@@ -24,8 +24,6 @@ O= ^qZ6fvIdd
 
 Create the passing the parcel ^0RnJ70Wm
 
-- ^deUgNuit
-
 
 # Embedded files
 f7c18c704a9364b601bb2be5cc4369cbba9cd5c8: [[benzene Double bond.png]]
@@ -525,8 +523,8 @@ f7c18c704a9364b601bb2be5cc4369cbba9cd5c8: [[benzene Double bond.png]]
 		{
 			"id": "deUgNuit",
 			"type": "text",
-			"x": 131.71883750239547,
-			"y": -28.664189756789256,
+			"x": -39.28116249760453,
+			"y": -101.99753326264863,
 			"width": 6.492218017578125,
 			"height": 19.754693178139686,
 			"angle": 0,
@@ -541,11 +539,11 @@ f7c18c704a9364b601bb2be5cc4369cbba9cd5c8: [[benzene Double bond.png]]
 			"frameId": null,
 			"roundness": null,
 			"seed": 1352141277,
-			"version": 209,
-			"versionNonce": 1615384755,
-			"isDeleted": false,
+			"version": 306,
+			"versionNonce": 1823138451,
+			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1719456618105,
+			"updated": 1719456688337,
 			"link": null,
 			"locked": false,
 			"text": "-",
@@ -575,8 +573,8 @@ f7c18c704a9364b601bb2be5cc4369cbba9cd5c8: [[benzene Double bond.png]]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 205.78119301518265,
-		"scrollY": 226.7579244980002,
+		"scrollX": 193.11453652104203,
+		"scrollY": 250.09126800385957,
 		"zoom": {
 			"value": 2
 		},
