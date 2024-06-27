@@ -17,8 +17,9 @@ Shift decimal point till you get a 0.1 ^7St4NqSh
 this gives Mantissa
 010110010100 ^N9zeJZqk
 
-this gives Mantissa
-010110010100 ^hZBc2k0L
+this gives Exponent 
+    7 (decimal point
+    shifted 7 times) ^hZBc2k0L
 
 %%
 # Drawing
@@ -532,8 +533,8 @@ this gives Mantissa
 		},
 		{
 			"type": "text",
-			"version": 82,
-			"versionNonce": 694905693,
+			"version": 234,
+			"versionNonce": 257554291,
 			"isDeleted": false,
 			"id": "hZBc2k0L",
 			"fillStyle": "hachure",
@@ -542,30 +543,30 @@ this gives Mantissa
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -338.3834539545039,
-			"y": 171.2300628013472,
+			"x": -304.2478410803329,
+			"y": 131.49842513976316,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 322.73699951171875,
-			"height": 84.13566410715178,
+			"width": 335.92779541015625,
+			"height": 126.20349616072767,
 			"seed": 1065592659,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1719458785875,
+			"updated": 1719458844215,
 			"link": null,
 			"locked": false,
 			"fontSize": 33.654265642860715,
 			"fontFamily": 1,
-			"text": "this gives Mantissa\n010110010100",
-			"rawText": "this gives Mantissa\n010110010100",
+			"text": "this gives Exponent \n    7 (decimal point\n    shifted 7 times)",
+			"rawText": "this gives Exponent \n    7 (decimal point\n    shifted 7 times)",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "this gives Mantissa\n010110010100",
+			"originalText": "this gives Exponent \n    7 (decimal point\n    shifted 7 times)",
 			"lineHeight": 1.25,
-			"baseline": 71
+			"baseline": 113
 		}
 	],
 	"appState": {
@@ -583,8 +584,8 @@ this gives Mantissa
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 745.2895371240331,
-		"scrollY": 194.80845490288684,
+		"scrollX": 748.0875751342306,
+		"scrollY": 101.35514322767683,
 		"zoom": {
 			"value": 1.1913254971125227
 		},
