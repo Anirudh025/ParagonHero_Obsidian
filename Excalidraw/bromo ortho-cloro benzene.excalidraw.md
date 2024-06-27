@@ -1,8 +1,8 @@
 ---
-
 excalidraw-plugin: parsed
-tags: [excalidraw]
-
+tags:
+  - excalidraw
+  - "#todo/chem/namethis"
 ---
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 
@@ -11,8 +11,6 @@ tags: [excalidraw]
 Br ^mCNwWFcr
 
 Cl ^We9tZzye
-
-1-Bromo-2Chloro-benzene ^JCx4GcQf
 
 
 # Embedded files
@@ -219,9 +217,9 @@ Cl ^We9tZzye
 		},
 		{
 			"type": "text",
-			"version": 157,
-			"versionNonce": 330853587,
-			"isDeleted": false,
+			"version": 170,
+			"versionNonce": 1990025779,
+			"isDeleted": true,
 			"id": "JCx4GcQf",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -229,28 +227,28 @@ Cl ^We9tZzye
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -168.48350524902344,
+			"x": -168.21088857929917,
 			"y": -118.54948425292969,
 			"strokeColor": "#f08c00",
 			"backgroundColor": "transparent",
-			"width": 234.15975952148438,
+			"width": 10,
 			"height": 25,
 			"seed": 1801750141,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1719455431339,
+			"updated": 1719455902498,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "1-Bromo-2Chloro-benzene",
-			"rawText": "1-Bromo-2Chloro-benzene",
+			"text": "",
+			"rawText": "",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "1-Bromo-2Chloro-benzene",
+			"originalText": "",
 			"lineHeight": 1.25,
 			"baseline": 17
 		}

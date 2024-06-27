@@ -39,9 +39,11 @@ to form Phenylehtanone: %% #chemistry/acylation%%
 	- ![[Friedel craft Acylation of benzene.excalidraw|650]]
 ###### Site Change Reaction of benzene: 
 	- ![[Site change electrophyllic reaction.excalidraw|500]]
-6. Oxidation of Benzene: %% #chemistry/oxidation%%
+###### Oxidation of Benzene:
+%% #chemistry/oxidation%%
 	- ![[Oxidation of benzene.excalidraw|500]]
-7. Hydrogenation of Benzene: %% #chemistry/hydrogenation%%
+###### Hydrogenation of Benzene: 
+%% #chemistry/hydrogenation%%
 	- ![[Hydrogenation of benzene .excalidraw|500]]
 
 ==Due to its stability benzene does not undergo some of the addition reactions that other alkenes do== 
