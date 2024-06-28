@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 Help.md/Obsidian-formatting.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "d967d98868519a35",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 Help.md/Obsidian-formatting.md"
+                "file": "README.md"
               }
             }
           }
@@ -160,7 +159,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0 Help.md/Obsidian-formatting.md"
+                "file": "README.md"
               }
             }
           },
@@ -201,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 Help.md/Obsidian-formatting.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0 Help.md/Obsidian-formatting.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -237,8 +236,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5,
-    "collapsed": true
+    "width": 227.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -261,6 +259,8 @@
   },
   "active": "553c6afb0352ad75",
   "lastOpenFiles": [
+    "A Level A Class Timetable.png",
+    "README.md",
     "0 Help.md/Obsidian-formatting.md",
     "School studies/Physics/Thermal Physics.md",
     "School studies/Physics/Thermodynamics.md",
@@ -286,8 +286,6 @@
     "School studies/Chemistry/Carboxylic Acids.md",
     "Excalidraw/Angular Velocity.excalidraw.md",
     "Excalidraw/Gay Lussac.excalidraw.md",
-    "Excalidraw/acylchloride reaction mechanism with amine.excalidraw.md",
-    "Excalidraw/Acyl chloride and methylamine .excalidraw.md",
     "0 Help.md/MathJax symbol reference.pdf",
     "0 Help.md/attachments/Drawing Pallet.png",
     "Excalidraw/benzene Double bond.png",
