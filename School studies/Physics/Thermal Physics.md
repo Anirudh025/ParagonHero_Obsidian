@@ -53,10 +53,10 @@ State functions
 
 ## Gas Laws
 ### Boyles Law
-Boyles' Law :: Keeping T constant, P ∝ $\frac{1}{V}$ $\therefore \quad P_1 V_1= P_2 V_2$ 
+Boyles' Law :: Keeping T constant, P ∝ $\frac{1}{V}$     $\therefore \space P_1 V_1= P_2 V_2$ 
 ![[Boyles Law.excalidraw]]
 ### Charles Law
-Charles' Law :: When P constant $$    $\therefore$ V ∝ T
+Charles' Law :: When P constant $V ∝ T$    $\therefore \space \frac{V_1}{T_1} = \frac{V_2}{T_2}$
 ![[Charles Law.excalidraw]]
 
 ### Gay Lussac
