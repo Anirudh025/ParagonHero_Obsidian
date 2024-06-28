@@ -27,4 +27,4 @@ Celsius to Kelvin :: $TK = t°C + 273.15$
 ### Triple Point of Water
 Triple Point of Water :: the temperature at which Ice, Water, Water vapour are in equilibrium 
 ## Specific Heat Capacity and Specific Latent Heat
-### Specific Heat Capacity
+Specific Heat Capacity :: $\Delta Q = mc\Delta \theta$
