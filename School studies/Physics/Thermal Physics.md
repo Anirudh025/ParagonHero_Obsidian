@@ -70,6 +70,6 @@ $$PV ∝ T  \quad \quad \quad \quad\quad\quad\quad\quad\quad\quad\quad\quad\quad
  $R = 8.31JK^{-1} mol^{-1}$
 units are JK<sup>-1</sup> mol<sup>-1</sup> 
 
----
->An ideal gas is one which obeys the equation of state pV ∝ T at all pressures p, volumes V and thermodynamic temperatures T
+## Ideal Gas
+>An ideal gas is one which obeys the equation of state $pV ∝ T$ at all pressures p, volumes V and thermodynamic temperatures T
 
