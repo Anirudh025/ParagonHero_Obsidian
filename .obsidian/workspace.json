@@ -8,25 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "48e9958066d15729",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://www.youtube.com/"
-              }
-            }
-          },
-          {
             "id": "9a069a44a9fa7a3e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "School studies/Chemistry/Carboxylic Acids.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "School studies/Chemistry/Carboxylic Acids.md"
+              }
             }
           },
           {
@@ -155,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "School studies/Chemistry/Carboxylic Acids.md"
+              }
             }
           },
           {
@@ -195,6 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "School studies/Chemistry/Carboxylic Acids.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,6 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "School studies/Chemistry/Carboxylic Acids.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -242,7 +242,7 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "54c5a6e575f4cd1d",
+  "active": "9a069a44a9fa7a3e",
   "lastOpenFiles": [
     "School studies/Chemistry/Carboxylic Acids.md",
     "School studies/Chemistry/Chem unorganized.md",
