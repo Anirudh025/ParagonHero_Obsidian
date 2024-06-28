@@ -14,13 +14,27 @@
               "type": "markdown",
               "state": {
                 "file": "School studies/Physics/Thermal Physics.md",
-                "mode": "preview",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "3490196053426050",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 Help.md/Obsidian-formatting.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/Physics/Thermal Physics.md"
+                "file": "0 Help.md/Obsidian-formatting.md"
               }
             }
           }
@@ -145,7 +159,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/Physics/Thermal Physics.md"
+                "file": "0 Help.md/Obsidian-formatting.md"
               }
             }
           },
@@ -186,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Physics/Thermal Physics.md",
+                "file": "0 Help.md/Obsidian-formatting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Physics/Thermal Physics.md",
+                "file": "0 Help.md/Obsidian-formatting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -243,13 +257,13 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "69d03c7130a78315",
+  "active": "3490196053426050",
   "lastOpenFiles": [
+    "School studies/Physics/Thermal Physics.md",
+    "0 Help.md/Obsidian-formatting.md",
     "README.md",
     "School studies/Physics/Thermodynamics.md",
     "A Level A Class Timetable.png",
-    "0 Help.md/Obsidian-formatting.md",
-    "School studies/Physics/Thermal Physics.md",
     "School studies/CS/Data Representation.md",
     "0 Help.md/MathJax.md",
     "0 Help.md/Flashcards.md",
