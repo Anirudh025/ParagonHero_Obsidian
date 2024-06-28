@@ -30,8 +30,9 @@ Triple Point of Water :: the temperature at which Ice, Water, Water vapour are i
 Specific Heat Capacity :: $\Delta Q = mc\Delta \theta$
 Specific Heat Capacity (verbose) :: thermal energy required to raise the temperature of unit mass of the substance by one degree.
 ### Specific Latent Heat
->[!info] The specific latent heat of fusion :: the quantity of thermal energy required to convert unit mass of solid to liquid without any change in temperature.
+>[!note] The specific latent heat of fusion :: the quantity of thermal energy required to convert unit mass of solid to liquid without any change in temperature.
 - The latent heat required to melt (fuse) a solid ::: known as latent heat of fusion.
+- Latent heat of fusion formula :: $$
 - The latent heat required to vaporise a liquid without any change of temperature ::: referred to as latent heat of vaporisation.
->[!info] The numerical value of the specific latent heat of vaporisation is the quantity of thermal energy required to convert unit mass of liquid to vapour without any change in temperature.
+>[!note] The numerical value of the specific latent heat of vaporisation is the quantity of thermal energy required to convert unit mass of liquid to vapour without any change in temperature.
 

@@ -16,7 +16,7 @@
                 "file": "School studies/Physics/Thermal Physics.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": true
+                "source": false
               }
             }
           },
@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 Help.md/Obsidian-formatting.md"
+                "file": "School studies/Physics/Thermal Physics.md"
               }
             }
           }
@@ -159,7 +158,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0 Help.md/Obsidian-formatting.md"
+                "file": "School studies/Physics/Thermal Physics.md"
               }
             }
           },
@@ -200,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 Help.md/Obsidian-formatting.md",
+                "file": "School studies/Physics/Thermal Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0 Help.md/Obsidian-formatting.md",
+                "file": "School studies/Physics/Thermal Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -257,10 +256,10 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "3490196053426050",
+  "active": "69d03c7130a78315",
   "lastOpenFiles": [
-    "School studies/Physics/Thermal Physics.md",
     "0 Help.md/Obsidian-formatting.md",
+    "School studies/Physics/Thermal Physics.md",
     "README.md",
     "School studies/Physics/Thermodynamics.md",
     "A Level A Class Timetable.png",
