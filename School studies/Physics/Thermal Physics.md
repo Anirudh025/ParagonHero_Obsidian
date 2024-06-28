@@ -12,13 +12,13 @@ Energy :: the ability to do work
 4. It must not stick to the glass tube.
 5. It must have high density.
 %% #physics/thermometric%%
-## Thermocouple Interplotation
+### Thermocouple Interplotation
 
 To calibrate a thermometer :: Use melting and boiling point of ***pure water*** and mark temperatures uniformly between them %% #physics/thermocouple%% 
 #### Thermocouple Interpolation
 ![[Thermocouple.excalidraw|500]]
 
-## Empirical Scale of Temperature 
+### Empirical Scale of Temperature 
 Empirical scale of Temperature formula :: $θ=\frac{100(P_θ-P_i)}{(P_s-P_i)}$
 	- $P_s=$ :: Property of liquid at steam point
 	- $P_i =$ :: Property of liquid at ice point
@@ -27,3 +27,4 @@ Absolute Zero :: -273.15°C or 0K
 Celsius to Kelvin :: $TK = t°C + 273.15$ 
 ### Triple Point of Water
 Triple Point of Water :: the temperature at which Ice, Water, Water vapour are in equilibrium 
+##
