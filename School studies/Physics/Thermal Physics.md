@@ -1,3 +1,7 @@
+---
+tags:
+  - physics
+---
 # Temperature
 Heat :: a form of energy 
 Energy :: the ability to do work 
@@ -37,4 +41,4 @@ Specific Heat Capacity (verbose) :: thermal energy required to raise the tempera
 	- Latent heat of vaporisation formula :: $\Delta Q = mL_v$
 >[!note] The numerical value of the specific latent heat of vaporisation is the quantity of thermal energy required to convert unit mass of liquid to vapour without any change in temperature.
 
-Specific Latent Heat :: $\Delta Q = mL$ and units are $kJkg^{-1} == $
+Specific Latent Heat formula :: $\Delta Q = mL$ and units are $kJkg^{-1} == Jg^{-1}$
