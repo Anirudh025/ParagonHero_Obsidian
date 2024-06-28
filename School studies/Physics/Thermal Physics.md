@@ -26,4 +26,4 @@ Empirical scale of Temperature formula :: $θ=\frac{100(P_θ-P_i)}{(P_s-P_i)}$
 Absolute Zero :: -273.15°C or 0K 
 Celsius to Kelvin :: $TK = t°C + 273.15$ 
 ### Triple Point of Water
-It is the temperature at which Ice, Water, Water vapour are in equilibrium 
+Triple Point of Water :: the temperature at which Ice, Water, Water vapour are in equilibrium 
