@@ -112,12 +112,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/Physics/Circular Motion.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "cb675aca7cd66052",
@@ -145,7 +144,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/Physics/Circular Motion.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -186,7 +185,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Physics/Circular Motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +201,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Physics/Circular Motion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -243,8 +240,10 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "69d03c7130a78315",
+  "active": "9317a1770b4fbb1c",
   "lastOpenFiles": [
+    "School studies/Physics/Circular Motion.md",
+    "conflict-files-obsidian-git.md",
     "School studies/Physics/Thermal Physics.md",
     "Laws of motion.md",
     "0 Help.md/MathJax.md",
@@ -256,7 +255,6 @@
     "School studies/Chemistry/0. Chem.md",
     "Excalidraw/bromo ortho-cloro benzene.excalidraw.md",
     "Excalidraw/somebenzenecompunds.excalidraw.md",
-    "conflict-files-obsidian-git.md",
     "Excalidraw/CS something.excalidraw.md",
     "Excalidraw/some rough work.excalidraw.md",
     "School studies/Physics/Thermodynamics.md",
@@ -270,7 +268,6 @@
     "Excalidraw/Acyl chloride and methylamine .excalidraw.md",
     "Excalidraw/Acylchloride and NH3.excalidraw.md",
     "Excalidraw/Carboxylic dissociation.excalidraw.md",
-    "School studies/Chemistry/Chem unorganized.md",
     "0 Help.md/MathJax symbol reference.pdf",
     "0 Help.md/Drawing Pallet.png",
     "Excalidraw/benzene Double bond.png",
