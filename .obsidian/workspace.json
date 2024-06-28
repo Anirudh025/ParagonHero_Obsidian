@@ -16,11 +16,35 @@
                 "file": "School studies/Physics/Thermal Physics.md",
                 "mode": "source",
                 "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "553c6afb0352ad75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 Help.md/Obsidian-formatting.md",
+                "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "59f4c7ca739addda",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -111,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "School studies/Physics/Thermal Physics.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -144,9 +166,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "School studies/Physics/Thermal Physics.md"
-              }
+              "state": {}
             }
           },
           {
@@ -186,7 +206,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Physics/Thermal Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +222,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Physics/Thermal Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -243,7 +261,7 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "69d03c7130a78315",
+  "active": "59f4c7ca739addda",
   "lastOpenFiles": [
     "0 Help.md/Obsidian-formatting.md",
     "School studies/Physics/Thermal Physics.md",
