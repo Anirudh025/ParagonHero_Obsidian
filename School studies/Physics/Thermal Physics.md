@@ -34,6 +34,7 @@ Specific Heat Capacity (verbose) :: thermal energy required to raise the tempera
 - The latent heat required to melt (fuse) a solid ::: known as latent heat of fusion.
 	- Latent heat of fusion formula :: $\Delta Q = mL_f$
 - The latent heat required to vaporise a liquid without any change of temperature ::: referred to as latent heat of vaporisation.
-	- Latent heat of vaporisation formula :: $\Delta Q = mL_f$
+	- Latent heat of vaporisation formula :: $\Delta Q = mL_v$
 >[!note] The numerical value of the specific latent heat of vaporisation is the quantity of thermal energy required to convert unit mass of liquid to vapour without any change in temperature.
 
+Specific Latent Heat 
