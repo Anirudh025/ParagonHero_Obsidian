@@ -1,6 +1,7 @@
 ---
 tags:
   - physics
+  - "#flashcard/physics"
 ---
 # Temperature
 ### Temperature scales
@@ -67,7 +68,6 @@ Gay Lussac' s law :: While V constant, P ∝ T
 ### General Gas Law :: 
 
 $$PV ∝ T  \quad \quad \quad \quad\quad\quad\quad\quad\quad\quad\quad\quad\quad    PV = nRT       $$
-$$R = 8.31JK^{-1} mol^{-1}$$
-
+General gas formula :: $$R = 8.31JK^{-1} mol^{-1}$$
 units are JK<sup>-1</sup> mol<sup>-1</sup> 
 
