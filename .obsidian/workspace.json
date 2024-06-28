@@ -34,6 +34,16 @@
             }
           },
           {
+            "id": "a10703398cbc94cd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
+          },
+          {
             "id": "cd9cd38b42b093b1",
             "type": "leaf",
             "state": {
@@ -44,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -153,7 +163,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "cb675aca7cd66052",
@@ -266,7 +277,7 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "c9182cb73869f371",
+  "active": "a10703398cbc94cd",
   "lastOpenFiles": [
     "Excalidraw/Kinetic Energy Distribution of Ideal Gases.md",
     "School studies/Physics/Thermodynamics.md",
