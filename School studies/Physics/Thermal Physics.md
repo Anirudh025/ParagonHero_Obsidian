@@ -1,6 +1,6 @@
 # Temperature
 Heat :: a form of energy, energy :: the ability to do work 
-1.  Thermal Equilibrium %% #physics/thermalequilibrium%%
+1.  Thermal Equilibrium %%#physics/thermal_equilibrium%%
 	- When two objects at different temperatures are in contact with each other, heat flows from the hot object to the cold object. The flow of heat continues till both the objects are at same temperature. 
 	- Thermal equilibrium is a dynamic process (The flow of heat continues in both directions without ever stopping)
 - Temperature :: Average Kinetic of measured object(s) 
