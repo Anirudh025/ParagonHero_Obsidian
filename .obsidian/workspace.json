@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "School studies/Physics/Thermal Physics.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -245,7 +245,7 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "54c5a6e575f4cd1d",
+  "active": "69d03c7130a78315",
   "lastOpenFiles": [
     "School studies/Physics/Thermal Physics.md",
     "School studies/Physics/Circular Motion.md",
