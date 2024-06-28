@@ -23,5 +23,5 @@ $θ=\frac{100(P_θ-P_i)}{(P_s-P_i)}$
 	- $P_θ =$ Property of liquid at point θ
 Absolute Zero :: -273.15°C or 0K 
 Celsius to Kelvin :: $TK = t°C + 273.15$ 
-#### Triple Point of Water
+### Triple Point of Water
 It is the temperature at which Ice, Water, Water vapour are in equilibrium 

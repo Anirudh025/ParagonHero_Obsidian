@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/Physics/Circular Motion.md",
+                "file": "School studies/Physics/Thermal Physics.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -112,11 +112,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "School studies/Physics/Thermal Physics.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "cb675aca7cd66052",
@@ -144,7 +145,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "School studies/Physics/Thermal Physics.md"
               }
             }
           },
@@ -185,6 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "School studies/Physics/Thermal Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,6 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "School studies/Physics/Thermal Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -240,9 +243,10 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "9317a1770b4fbb1c",
+  "active": "40b33ddf6941da5e",
   "lastOpenFiles": [
     "School studies/Physics/Circular Motion.md",
+    "Untitled",
     "conflict-files-obsidian-git.md",
     "School studies/Physics/Thermal Physics.md",
     "Laws of motion.md",
@@ -267,7 +271,6 @@
     "Excalidraw/acylchloride reaction mechanism with amine.excalidraw.md",
     "Excalidraw/Acyl chloride and methylamine .excalidraw.md",
     "Excalidraw/Acylchloride and NH3.excalidraw.md",
-    "Excalidraw/Carboxylic dissociation.excalidraw.md",
     "0 Help.md/MathJax symbol reference.pdf",
     "0 Help.md/Drawing Pallet.png",
     "Excalidraw/benzene Double bond.png",
@@ -287,7 +290,6 @@
     "School studies/Chemistry/Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
     "School studies/CS/Cambridge International AS and A Levels Computer Science by David Watson, Helen Williams (z-lib.org).pdf",
     "School studies/CS/course Cambridge International AS and A Level Computer Science Coursebook.pdf",
-    "Obsidian help",
     "Excalidraw/Untitled.canvas",
     "School studies/AS LEVEL/Chem notes/Organic chem.canvas",
     "School studies/AS LEVEL/CS/Logic gates.canvas",
