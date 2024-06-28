@@ -52,22 +52,9 @@
                 "file": "Excalidraw/Kinetic Energy Distribution of Ideal Gases.md"
               }
             }
-          },
-          {
-            "id": "8f134b72d3ce7b52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -189,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "School studies/Physics/Ideal Gases.md"
               }
             }
           },
@@ -199,7 +186,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "School studies/Physics/Ideal Gases.md"
               }
             }
           },
@@ -240,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "School studies/Physics/Ideal Gases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "School studies/Physics/Ideal Gases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -289,7 +276,7 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "9317a1770b4fbb1c",
+  "active": "54c5a6e575f4cd1d",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "School studies/Chemistry/0. Chem.md",
