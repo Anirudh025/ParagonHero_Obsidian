@@ -56,7 +56,7 @@ State functions
 Boyles' Law :: Keeping T constant, P ∝ $\frac{1}{V}$ $\therefore \quad P_1 V_1= P_2 V_2$ 
 ![[Boyles Law.excalidraw]]
 ### Charles Law
-Charles' Law :: When P constant $V_1T_1 = V_2T_2$ $\therefore$ V ∝ T
+Charles' Law :: When P constant $$    $\therefore$ V ∝ T
 ![[Charles Law.excalidraw]]
 
 ### Gay Lussac
