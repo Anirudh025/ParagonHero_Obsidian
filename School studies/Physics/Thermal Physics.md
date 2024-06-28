@@ -73,6 +73,8 @@ units are JK<sup>-1</sup> mol<sup>-1</sup>
 ## Ideal Gas
 >An ideal gas is one which obeys the equation of state $pV ∝ T$ at all pressures p, volumes V and thermodynamic temperatures T
 
-If we add moles to the general gas law we get:
-$pV ∝nT$
-which becomes
+- If we add moles to the general gas law we get:
+	- $pV ∝nT$
+- Which becomes
+	- $pV=nRT$
+- This is can be written as 
