@@ -41,8 +41,9 @@ This is another paragraph.
 >[!hint]- using "-" makes it foldable
 >Makes this go away
 
+>[!note] [!note] a handy pencil
 
->[!tldr] 
+>[!tldr] [!tldr] gives a notepad
 
 >[!info] informing
 
