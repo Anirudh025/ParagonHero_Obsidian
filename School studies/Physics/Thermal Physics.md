@@ -66,7 +66,8 @@ Gay Lussac: While V constant, P ∝ T
 
 ### General Gas Law
 
-$$PV ∝ T$        PV = nRT        R = 8.31JK^{-1} mol^{-1}$$
+$$PV ∝ T$        PV = nRT       $$
+$$R = 8.31JK^{-1} mol^{-1}$$
 
 JK<sup>-1</sup> mol<sup>-1</sup> 
 
