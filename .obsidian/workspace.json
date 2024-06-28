@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/Physics/Thermodynamics.md",
+                "file": "School studies/CS/Data Representation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/Physics/Thermodynamics.md"
+                "file": "School studies/CS/Data Representation.md"
               }
             }
           },
@@ -189,7 +189,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/Physics/Thermodynamics.md"
+                "file": "School studies/CS/Data Representation.md"
               }
             }
           },
@@ -230,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Physics/Thermodynamics.md",
+                "file": "School studies/CS/Data Representation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Physics/Thermodynamics.md",
+                "file": "School studies/CS/Data Representation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -281,6 +281,8 @@
   },
   "active": "cd9cd38b42b093b1",
   "lastOpenFiles": [
+    "School studies/Physics/Thermal Physics.md",
+    "School studies/Physics/Thermodynamics.md",
     "School studies/Physics/Ideal Gases.md",
     "conflict-files-obsidian-git.md",
     "School studies/Chemistry/0. Chem.md",
@@ -288,12 +290,10 @@
     "Excalidraw/binary-floating-point-explainer.excalidraw.md",
     "Excalidraw/Mantissa and exponent.excalidraw.md",
     "Excalidraw/Kinetic Energy Distribution of Ideal Gases.md",
-    "School studies/Physics/Thermodynamics.md",
     "School studies/Physics/Circular Motion.md",
     "School studies/CS/Data Representation.md",
     "Excalidraw/some rough work.excalidraw.md",
     "Excalidraw/CS something.excalidraw.md",
-    "School studies/Physics/Thermal Physics.md",
     "Excalidraw/Angular Velocity.excalidraw.md",
     "0 Help.md/Ascii symbols.md",
     "School studies/Chemistry/Carboxylic Acids.md",
