@@ -3,6 +3,7 @@ tags:
   - physics
 ---
 # Temperature
+### Temperature scales
 Heat :: a form of energy 
 Energy :: the ability to do work 
 1.  Thermal Equilibrium %%#physics/thermal_equilibrium%%
@@ -42,4 +43,30 @@ Specific Heat Capacity (verbose) :: thermal energy required to raise the tempera
 >[!note] The numerical value of the specific latent heat of vaporisation is the quantity of thermal energy required to convert unit mass of liquid to vapour without any change in temperature.
 
 Specific Latent Heat formula :: $\Delta Q = mL$ and units are $kJkg^{-1} == Jg^{-1}$
-# Next
+# Ideal Gases
+State functions
+1. Pressure P
+2. Volume V
+3. Temperature T
+4. Moles n
+
+## Gas Laws
+### Boyles Law
+Boyles Law: Keeping T constant, P ∝ $\frac{1}{V}$
+![[Boyles Law.excalidraw]]
+P<sub>1</sub>V<sub>1</sub> = P<sub>2</sub>V<sub>2</sub>
+
+### Charles Law
+Charles Law: When P constant V<sub>1</sub>/T<sub>1</sub> = V<sub>2</sub>/T<sub>2</sub> , V ∝ T
+![[Charles Law.excalidraw]]
+
+### Gay Lussac
+Gay Lussac: While V constant, P ∝ T
+![[Gay Lussac.excalidraw]]
+
+### General Gas Law
+
+PV ∝ T        PV = nRT        R = 8.31JK<sup>-1</sup> mol<sup>-1</sup>
+
+JK<sup>-1</sup> mol<sup>-1</sup> 
+
