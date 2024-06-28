@@ -36,15 +36,19 @@ This is another paragraph.
 >[!info] You can turn your quote into a "callout" by using !info in aquare brackets
 
 #### Other call outs
->[!tip]- !tip gives a hand hi
->and content
+
 
 >[!hint]- using "-" makes it foldable
 >Makes this go away
 
+
+>[!tldr] 
+
 >[!info] informing
 
 >[!todo] finish work [!todo]
+
+>[!tip]- !tip gives a hand hint
 
 >[!success]- !success
 >there's this
