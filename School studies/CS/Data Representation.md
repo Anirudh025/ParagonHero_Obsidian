@@ -185,7 +185,19 @@ using 8 bits for Mantissa & 8 bits for exponent
 >but for 0.5 we do 
 >$0.5\times 2$ 
 
+>[!example]- Convert $89.3043_{10}$ to binary floating point
+>$89.3043_{10}$ --$Binary$--> $01011001_{2}$
+>![[binary-floating-point-explainer.excalidraw]]
+>![[Mantissa and exponent.excalidraw]]
+>
 
+>[!question]- Convert $73.2062_{10}$ to binary floating point
+>$73_{10}$ --$Binary$--> $01001001_{2}$
+>multiplication of 0.2062 gives 0010
+>01001001.0010
+>0.10010010010 $\therefore$ Exponent of 7
+>010010010010
+>
 
 
 

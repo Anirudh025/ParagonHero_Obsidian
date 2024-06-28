@@ -36,3 +36,4 @@ For symbol referencing visit: [This](MathJax symbol reference.pdf)
 8. **Radical signs / roots** Use `sqrt`, which adjusts to the size of its argument: `\sqrt{x^3}` x3−−√; `\sqrt[3]{\frac xy}` xy−−√3. For complicated expressions, consider using `{...}^{1/2}` instead.
 9. Some **special functions** such as "lim", "sin", "max", "ln", and so on are normally set in roman font instead of italic font. Use `\lim`, `\sin`, etc. to make these: `\sin x` sinx, not `sin x` sinx. Use subscripts to attach a notation to `\lim`: `\lim_{x\to 0}`
 	* $$\lim_{x\to 0}+\sin (x)$$
+[MathJax symbol reference](MathJax%20symbol%20reference.pdf)

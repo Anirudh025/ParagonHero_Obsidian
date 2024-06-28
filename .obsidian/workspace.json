@@ -52,9 +52,22 @@
                 "file": "Excalidraw/Kinetic Energy Distribution of Ideal Gases.md"
               }
             }
+          },
+          {
+            "id": "8f134b72d3ce7b52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -163,8 +176,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "cb675aca7cd66052",
@@ -177,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/Physics/Thermodynamics.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -187,7 +199,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/Physics/Thermodynamics.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -228,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Physics/Thermodynamics.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Physics/Thermodynamics.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -277,14 +289,18 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "a10703398cbc94cd",
+  "active": "9317a1770b4fbb1c",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "School studies/Chemistry/0. Chem.md",
+    "Excalidraw/bromo ortho-cloro benzene.excalidraw.md",
+    "Excalidraw/binary-floating-point-explainer.excalidraw.md",
+    "Excalidraw/Mantissa and exponent.excalidraw.md",
     "Excalidraw/Kinetic Energy Distribution of Ideal Gases.md",
     "School studies/Physics/Thermodynamics.md",
     "School studies/Physics/Ideal Gases.md",
     "School studies/Physics/Circular Motion.md",
     "School studies/CS/Data Representation.md",
-    "conflict-files-obsidian-git.md",
     "Excalidraw/some rough work.excalidraw.md",
     "Excalidraw/CS something.excalidraw.md",
     "School studies/Physics/Thermal Physics.md",
@@ -302,11 +318,7 @@
     "School studies/Chemistry/Chem unorganized.md",
     "Excalidraw/Carboxylic dissociation.excalidraw.md",
     "Excalidraw/Carboxylate a.excalidraw.md",
-    "Excalidraw/Acylchloride and water.excalidraw.md",
-    "Excalidraw/Acylchloride and NH3.excalidraw.md",
-    "School studies/Chemistry/Untitled.md",
     "A Level A Class Timetable.png",
-    "Excalidraw/OrthoMetaParabenzene.excalidraw.md",
     "0 Help.md/Drawing Pallet.png",
     "0 Help.md/Pasted Image 20240619105930_233.png",
     "0 Help.md/Pasted Image 20240619104133_108.png",
