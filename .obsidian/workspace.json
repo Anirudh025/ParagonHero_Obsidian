@@ -4,18 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "6ca6dc87e7528923",
+        "id": "af9d2d26f360d72e",
         "type": "tabs",
         "children": [
           {
-            "id": "dbe16278ed3707a0",
+            "id": "48e9958066d15729",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://www.youtube.com/"
+              }
+            }
+          },
+          {
+            "id": "9a069a44a9fa7a3e",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -231,7 +242,7 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "9317a1770b4fbb1c",
+  "active": "54c5a6e575f4cd1d",
   "lastOpenFiles": [
     "School studies/Chemistry/Carboxylic Acids.md",
     "School studies/Chemistry/Chem unorganized.md",
