@@ -14,27 +14,13 @@
               "type": "markdown",
               "state": {
                 "file": "School studies/Physics/Thermal Physics.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "553c6afb0352ad75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "School studies/Physics/Thermal Physics.md"
               }
             }
           }
@@ -159,7 +145,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "README.md"
+                "file": "School studies/Physics/Thermal Physics.md"
               }
             }
           },
@@ -200,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "School studies/Physics/Thermal Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "School studies/Physics/Thermal Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -257,13 +243,13 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "553c6afb0352ad75",
+  "active": "69d03c7130a78315",
   "lastOpenFiles": [
-    "A Level A Class Timetable.png",
     "README.md",
+    "School studies/Physics/Thermodynamics.md",
+    "A Level A Class Timetable.png",
     "0 Help.md/Obsidian-formatting.md",
     "School studies/Physics/Thermal Physics.md",
-    "School studies/Physics/Thermodynamics.md",
     "School studies/CS/Data Representation.md",
     "0 Help.md/MathJax.md",
     "0 Help.md/Flashcards.md",
@@ -296,7 +282,6 @@
     "0 Help.md/attachments/Pasted Image 20240619103650_650.png",
     "0 Help.md/attachments/Pasted Image 20240619103533_634.png",
     "Excalidraw/Pasted Image 20240612194848_349.png",
-    "Excalidraw/Pasted image 20230724044538.png",
     "obsidian format/MathJax symbol reference .html",
     "Excalidraw/pngwing.com.png.crdownload",
     "Untitled.pdf",
