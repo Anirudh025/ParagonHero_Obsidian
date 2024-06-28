@@ -60,7 +60,7 @@ Charles' Law :: When P constant $V ∝ T$    $\therefore \space \frac{V_1}{T_1} 
 ![[Charles Law.excalidraw]]
 
 ### Gay Lussac
-Gay Lussac' s law :: While V constant, $P ∝ T$    $
+Gay Lussac' s law :: While V constant, $P ∝ T$    $\therefore \space \frac{P_1}{T_1}=\frac{P_2}{T_2}$
 ![[Gay Lussac.excalidraw]]
 
 ### General Gas Law :: 
