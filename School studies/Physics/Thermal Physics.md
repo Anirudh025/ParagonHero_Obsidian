@@ -77,4 +77,4 @@ units are JK<sup>-1</sup> mol<sup>-1</sup>
 	- $pV ∝nT$
 - Which becomes
 	- $pV=nRT$
-- This is can be written as 
+- This is can be written as $pV NkT$ 
