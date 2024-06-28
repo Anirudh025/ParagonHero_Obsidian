@@ -63,10 +63,12 @@ Charles' Law :: When P constant $V ∝ T$    $\therefore \space \frac{V_1}{T_1} 
 Gay Lussac' s law :: While V constant, $P ∝ T$    $\therefore \space \frac{P_1}{T_1}=\frac{P_2}{T_2}$
 ![[Gay Lussac.excalidraw]]
 
-### General Gas Law :: 
+### General Gas Law  
 
 $$PV ∝ T  \quad \quad \quad \quad\quad\quad\quad\quad\quad\quad\quad\quad\quad    \frac{P_1 V_1}{T_1} = \frac{P_2 V_2}{T_2}       $$
-General gas formula :: $$R = 8.31JK^{-1} mol^{-1}$$
+ $R = 8.31JK^{-1} mol^{-1}$
 units are JK<sup>-1</sup> mol<sup>-1</sup> 
 
--
+---
+>An ideal gas is one which obeys the equation of state pV ∝ T at all pressures p, volumes V and thermodynamic temperatures T
+
