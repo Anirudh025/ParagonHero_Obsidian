@@ -15,7 +15,6 @@ Energy :: the ability to do work
 ### Thermocouple Interplotation
 
 To calibrate a thermometer :: Use melting and boiling point of ***pure water*** and mark temperatures uniformly between them %% #physics/thermocouple%% 
-#### Thermocouple Interpolation
 ![[Thermocouple.excalidraw|500]]
 
 ### Empirical Scale of Temperature 
@@ -27,4 +26,4 @@ Absolute Zero :: -273.15°C or 0K
 Celsius to Kelvin :: $TK = t°C + 273.15$ 
 ### Triple Point of Water
 Triple Point of Water :: the temperature at which Ice, Water, Water vapour are in equilibrium 
-##
+## 
