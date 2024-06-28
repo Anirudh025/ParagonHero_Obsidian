@@ -57,14 +57,14 @@ Boyles' Law :: Keeping T constant, P ∝ $\frac{1}{V}$
 P<sub>1</sub>V<sub>1</sub> = P<sub>2</sub>V<sub>2</sub>
 
 ### Charles Law
-Charles' Law :: When P constant $V_1T_1 = V_2T_2$ V ∝ T
+Charles' Law :: When P constant $V_1T_1 = V_2T_2$ $\therefore$ V ∝ T
 ![[Charles Law.excalidraw]]
 
 ### Gay Lussac
 Gay Lussac' s law :: While V constant, P ∝ T
 ![[Gay Lussac.excalidraw]]
 
-### General Gas Law
+### General Gas Law :: 
 
 $$PV ∝ T  \quad \quad \quad \quad\quad\quad\quad\quad\quad\quad\quad\quad\quad    PV = nRT       $$
 $$R = 8.31JK^{-1} mol^{-1}$$
