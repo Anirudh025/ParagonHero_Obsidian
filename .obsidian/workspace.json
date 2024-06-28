@@ -63,8 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "d967d98868519a35",
@@ -246,9 +245,10 @@
   },
   "active": "69d03c7130a78315",
   "lastOpenFiles": [
+    "0 Help.md/Flashcards.md",
+    "attachments",
     "School studies/Physics/Thermal Physics.md",
     "School studies/Physics/Circular Motion.md",
-    "Untitled",
     "conflict-files-obsidian-git.md",
     "Laws of motion.md",
     "0 Help.md/MathJax.md",
@@ -271,7 +271,6 @@
     "Excalidraw/Gay Lussac.excalidraw.md",
     "Excalidraw/acylchloride reaction mechanism with amine.excalidraw.md",
     "Excalidraw/Acyl chloride and methylamine .excalidraw.md",
-    "Excalidraw/Acylchloride and NH3.excalidraw.md",
     "0 Help.md/MathJax symbol reference.pdf",
     "0 Help.md/Drawing Pallet.png",
     "Excalidraw/benzene Double bond.png",
