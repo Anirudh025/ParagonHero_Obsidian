@@ -47,9 +47,12 @@
             "id": "cd9cd38b42b093b1",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Kinetic Energy Distribution of Ideal Gases.md"
+                "file": "School studies/Physics/Thermodynamics.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -176,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/Physics/Ideal Gases.md"
+                "file": "School studies/Physics/Thermodynamics.md"
               }
             }
           },
@@ -186,7 +189,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/Physics/Ideal Gases.md"
+                "file": "School studies/Physics/Thermodynamics.md"
               }
             }
           },
@@ -227,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Physics/Ideal Gases.md",
+                "file": "School studies/Physics/Thermodynamics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Physics/Ideal Gases.md",
+                "file": "School studies/Physics/Thermodynamics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -276,8 +279,9 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "54c5a6e575f4cd1d",
+  "active": "cd9cd38b42b093b1",
   "lastOpenFiles": [
+    "School studies/Physics/Ideal Gases.md",
     "conflict-files-obsidian-git.md",
     "School studies/Chemistry/0. Chem.md",
     "Excalidraw/bromo ortho-cloro benzene.excalidraw.md",
@@ -285,7 +289,6 @@
     "Excalidraw/Mantissa and exponent.excalidraw.md",
     "Excalidraw/Kinetic Energy Distribution of Ideal Gases.md",
     "School studies/Physics/Thermodynamics.md",
-    "School studies/Physics/Ideal Gases.md",
     "School studies/Physics/Circular Motion.md",
     "School studies/CS/Data Representation.md",
     "Excalidraw/some rough work.excalidraw.md",
