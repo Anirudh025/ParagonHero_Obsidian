@@ -52,22 +52,22 @@ State functions
 
 ## Gas Laws
 ### Boyles Law
-Boyles Law: Keeping T constant, P ∝ $\frac{1}{V}$
+Boyles' Law :: Keeping T constant, P ∝ $\frac{1}{V}$
 ![[Boyles Law.excalidraw]]
 P<sub>1</sub>V<sub>1</sub> = P<sub>2</sub>V<sub>2</sub>
 
 ### Charles Law
-Charles Law: When P constant V<sub>1</sub>/T<sub>1</sub> = V<sub>2</sub>/T<sub>2</sub> , V ∝ T
+Charles Law :: When P constant V<sub>1</sub>/T<sub>1</sub> = V<sub>2</sub>/T<sub>2</sub> , V ∝ T
 ![[Charles Law.excalidraw]]
 
 ### Gay Lussac
-Gay Lussac: While V constant, P ∝ T
+Gay Lussac' s law :: While V constant, P ∝ T
 ![[Gay Lussac.excalidraw]]
 
 ### General Gas Law
 
-$$PV ∝ T  \quad \quad \quad \quad\quad    PV = nRT       $$
+$$PV ∝ T  \quad \quad \quad \quad\quad\quad\quad\quad\quad\quad\quad\quad\quad    PV = nRT       $$
 $$R = 8.31JK^{-1} mol^{-1}$$
 
-JK<sup>-1</sup> mol<sup>-1</sup> 
+units are JK<sup>-1</sup> mol<sup>-1</sup> 
 
