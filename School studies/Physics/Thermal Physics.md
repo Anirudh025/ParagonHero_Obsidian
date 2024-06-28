@@ -69,3 +69,4 @@ $$PV ∝ T  \quad \quad \quad \quad\quad\quad\quad\quad\quad\quad\quad\quad\quad
 General gas formula :: $$R = 8.31JK^{-1} mol^{-1}$$
 units are JK<sup>-1</sup> mol<sup>-1</sup> 
 
+-
