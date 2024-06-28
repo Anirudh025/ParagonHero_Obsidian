@@ -32,19 +32,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "59f4c7ca739addda",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -135,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "0 Help.md/Obsidian-formatting.md"
+              }
             }
           }
         ],
@@ -166,7 +158,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "0 Help.md/Obsidian-formatting.md"
+              }
             }
           },
           {
@@ -206,6 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0 Help.md/Obsidian-formatting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,6 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "0 Help.md/Obsidian-formatting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -261,7 +257,7 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "59f4c7ca739addda",
+  "active": "553c6afb0352ad75",
   "lastOpenFiles": [
     "0 Help.md/Obsidian-formatting.md",
     "School studies/Physics/Thermal Physics.md",
