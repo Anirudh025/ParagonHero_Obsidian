@@ -65,6 +65,8 @@ This is another paragraph.
 >[!example]- gives an !example
 >use - after square brackets
 
+>[!qu]
+
 ![Hacker| 150x100](markus-spiske-666905-unsplash.jpg) Image is there
 
 ### List
