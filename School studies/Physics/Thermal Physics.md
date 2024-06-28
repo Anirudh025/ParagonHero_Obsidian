@@ -58,7 +58,7 @@ Boyles' Law :: Keeping T constant, P ∝ $\frac{1}{V}$
 P<sub>1</sub>V<sub>1</sub> = P<sub>2</sub>V<sub>2</sub>
 
 ### Charles Law
-Charles' Law :: When P constant $V_1T_1 = V_2T_2$ $\therefore$ V ∝ T
+Charles' Law :: When P constant $V_1\frac{T_1} = V_2\frac{T_2}$ $\therefore$ V ∝ T
 ![[Charles Law.excalidraw]]
 
 ### Gay Lussac
