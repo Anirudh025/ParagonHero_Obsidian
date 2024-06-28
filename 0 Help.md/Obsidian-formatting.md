@@ -42,7 +42,7 @@ This is another paragraph.
 >[!faq]- using "-" makes it foldable
 >Makes this go away
 
->[!todo] finish work
+>[!todo] finish work [!todo]
 
 >[!success]- !success
 >there's this
@@ -65,7 +65,7 @@ This is another paragraph.
 >[!example]- gives an !example
 >use - after square brackets
 
->[!qu]
+>[!quote]      "gives a quote"
 
 ![Hacker| 150x100](markus-spiske-666905-unsplash.jpg) Image is there
 
