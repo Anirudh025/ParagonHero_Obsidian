@@ -29,4 +29,6 @@ Triple Point of Water :: the temperature at which Ice, Water, Water vapour are i
 ### Specific Heat Capacity 
 Specific Heat Capacity :: $\Delta Q = mc\Delta \theta$
 Specific Heat Capacity (verbose) :: thermal energy required to raise the temperature of unit mass of the substance by one degree.
-###
+### Specific Latent Heat
+- The latent heat required to melt (fuse) a solid ::: known as latent heat of fusion.
+- 
