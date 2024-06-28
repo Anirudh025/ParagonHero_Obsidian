@@ -11,12 +11,9 @@
             "id": "9a069a44a9fa7a3e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "School studies/Chemistry/Carboxylic Acids.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Excalidraw/Boyles Law.excalidraw.md"
               }
             }
           }
@@ -142,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/Chemistry/Carboxylic Acids.md"
+                "file": "Excalidraw/Boyles Law.excalidraw.md"
               }
             }
           },
@@ -152,7 +149,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/Chemistry/Carboxylic Acids.md"
+                "file": "Excalidraw/Boyles Law.excalidraw.md"
               }
             }
           },
@@ -193,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Chemistry/Carboxylic Acids.md",
+                "file": "Excalidraw/Boyles Law.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Chemistry/Carboxylic Acids.md",
+                "file": "Excalidraw/Boyles Law.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -244,6 +241,14 @@
   },
   "active": "9a069a44a9fa7a3e",
   "lastOpenFiles": [
+    "Excalidraw/benzyl.excalidraw.md",
+    "Excalidraw/bromine.excalidraw.md",
+    "Excalidraw/Boyles Law.excalidraw.md",
+    "Excalidraw/CS something.excalidraw.md",
+    "Excalidraw/chloro benzene.excalidraw.md",
+    "Excalidraw/Charles Law.excalidraw.md",
+    "Excalidraw/bonding benzene.excalidraw.md",
+    "Excalidraw/bromo ortho-cloro benzene.excalidraw.md",
     "School studies/Chemistry/Carboxylic Acids.md",
     "School studies/Chemistry/Chem unorganized.md",
     "School studies/Chemistry/Benzene and its compounds.md",
@@ -253,24 +258,16 @@
     "School studies/Physics/Thermal Physics.md",
     "School studies/Physics/Thermodynamics.md",
     "conflict-files-obsidian-git.md",
-    "Excalidraw/bromo ortho-cloro benzene.excalidraw.md",
     "Excalidraw/binary-floating-point-explainer.excalidraw.md",
     "Excalidraw/Mantissa and exponent.excalidraw.md",
     "Excalidraw/Kinetic Energy Distribution of Ideal Gases.md",
     "School studies/Physics/Circular Motion.md",
     "Excalidraw/some rough work.excalidraw.md",
-    "Excalidraw/CS something.excalidraw.md",
     "Excalidraw/Angular Velocity.excalidraw.md",
     "0 Help.md/Ascii symbols.md",
     "0 Help.md/MathJax.md",
     "Excalidraw/Gay Lussac.excalidraw.md",
     "0 Help.md/MathJax symbol reference.pdf",
-    "Excalidraw/acylchloride reaction mechanism with amine.excalidraw.md",
-    "Excalidraw/Acyl chloride and methylamine .excalidraw.md",
-    "Excalidraw/Drawing 2024-06-25 08.33.20.excalidraw.md",
-    "Excalidraw/Compositedatatypes.excalidraw.md",
-    "Excalidraw/Carboxylic dissociation.excalidraw.md",
-    "Excalidraw/Carboxylate a.excalidraw.md",
     "A Level A Class Timetable.png",
     "0 Help.md/Drawing Pallet.png",
     "0 Help.md/Pasted Image 20240619105930_233.png",
