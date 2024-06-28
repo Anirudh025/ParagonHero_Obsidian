@@ -4,60 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "2b4ddb1f2a4e4926",
+        "id": "6ca6dc87e7528923",
         "type": "tabs",
         "children": [
           {
-            "id": "29865080f938e388",
+            "id": "dbe16278ed3707a0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School studies/Physics/Ideal Gases.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c9182cb73869f371",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School studies/Physics/Thermodynamics.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a10703398cbc94cd",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              }
-            }
-          },
-          {
-            "id": "cd9cd38b42b093b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School studies/CS/Data Representation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "School studies/CS/Data Representation.md"
-              }
+              "state": {}
             }
           },
           {
@@ -188,9 +144,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "School studies/CS/Data Representation.md"
-              }
+              "state": {}
             }
           },
           {
@@ -230,7 +184,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/CS/Data Representation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +200,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/CS/Data Representation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -279,33 +231,33 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "cd9cd38b42b093b1",
+  "active": "9317a1770b4fbb1c",
   "lastOpenFiles": [
+    "School studies/Chemistry/Carboxylic Acids.md",
+    "School studies/Chemistry/Chem unorganized.md",
+    "School studies/Chemistry/Benzene and its compounds.md",
+    "School studies/Chemistry/0. Chem.md",
+    "School studies/Physics/Ideal Gases.md",
+    "School studies/CS/Data Representation.md",
     "School studies/Physics/Thermal Physics.md",
     "School studies/Physics/Thermodynamics.md",
-    "School studies/Physics/Ideal Gases.md",
     "conflict-files-obsidian-git.md",
-    "School studies/Chemistry/0. Chem.md",
     "Excalidraw/bromo ortho-cloro benzene.excalidraw.md",
     "Excalidraw/binary-floating-point-explainer.excalidraw.md",
     "Excalidraw/Mantissa and exponent.excalidraw.md",
     "Excalidraw/Kinetic Energy Distribution of Ideal Gases.md",
     "School studies/Physics/Circular Motion.md",
-    "School studies/CS/Data Representation.md",
     "Excalidraw/some rough work.excalidraw.md",
     "Excalidraw/CS something.excalidraw.md",
     "Excalidraw/Angular Velocity.excalidraw.md",
     "0 Help.md/Ascii symbols.md",
-    "School studies/Chemistry/Carboxylic Acids.md",
     "0 Help.md/MathJax.md",
     "Excalidraw/Gay Lussac.excalidraw.md",
-    "School studies/Chemistry/Benzene and its compounds.md",
     "0 Help.md/MathJax symbol reference.pdf",
     "Excalidraw/acylchloride reaction mechanism with amine.excalidraw.md",
     "Excalidraw/Acyl chloride and methylamine .excalidraw.md",
     "Excalidraw/Drawing 2024-06-25 08.33.20.excalidraw.md",
     "Excalidraw/Compositedatatypes.excalidraw.md",
-    "School studies/Chemistry/Chem unorganized.md",
     "Excalidraw/Carboxylic dissociation.excalidraw.md",
     "Excalidraw/Carboxylate a.excalidraw.md",
     "A Level A Class Timetable.png",
