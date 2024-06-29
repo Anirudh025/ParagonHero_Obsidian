@@ -4,30 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9fecc349850e2117",
+        "id": "af9d2d26f360d72e",
         "type": "tabs",
         "children": [
           {
-            "id": "69d03c7130a78315",
+            "id": "9a069a44a9fa7a3e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School studies/Physics/Thermal Physics.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3490196053426050",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "0 Help.md/MathJax symbol reference.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -54,6 +39,21 @@
             }
           },
           {
+            "id": "4b0ad9f429b2d16e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
             "id": "002756a7baf7f748",
             "type": "leaf",
             "state": {
@@ -73,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 226.50418853759766
   },
   "right": {
     "id": "d967d98868519a35",
@@ -82,7 +82,7 @@
       {
         "id": "3a4f977b7dec7d16",
         "type": "tabs",
-        "dimension": 72.1835883171071,
+        "dimension": 40.214216163583245,
         "children": [
           {
             "id": "9317a1770b4fbb1c",
@@ -117,36 +117,26 @@
             }
           },
           {
-            "id": "40b33ddf6941da5e",
+            "id": "363316b58ba63505",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "School studies/Physics/Thermal Physics.md"
-              }
+              "type": "review-queue-list-view",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "cb675aca7cd66052",
         "type": "tabs",
-        "dimension": 27.816411682892905,
+        "dimension": 59.78578383641675,
         "children": [
           {
-            "id": "4b0ad9f429b2d16e",
+            "id": "40b33ddf6941da5e",
             "type": "leaf",
             "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
+              "type": "outline",
+              "state": {}
             }
           },
           {
@@ -154,9 +144,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "School studies/Physics/Thermal Physics.md"
-              }
+              "state": {}
             }
           },
           {
@@ -196,7 +184,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Physics/Thermal Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,18 +200,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Physics/Thermal Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
-            }
-          },
-          {
-            "id": "363316b58ba63505",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
             }
           }
         ],
@@ -232,7 +210,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -253,45 +231,46 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "69d03c7130a78315",
+  "active": "9a069a44a9fa7a3e",
   "lastOpenFiles": [
-    "0 Help.md/MathJax symbol reference.pdf",
-    "0 Help.md/Obsidian-formatting.md",
-    "School studies/Physics/Thermal Physics.md",
-    "School studies/Physics/Ideal Gases.md",
-    "README.md",
-    "School studies/Physics/Thermodynamics.md",
-    "A Level A Class Timetable.png",
-    "School studies/CS/Data Representation.md",
-    "0 Help.md/MathJax.md",
-    "0 Help.md/Flashcards.md",
-    "0 Help.md/attachments",
-    "School studies/Physics/Circular Motion.md",
-    "conflict-files-obsidian-git.md",
-    "Laws of motion.md",
-    "Excalidraw/binary-floating-point-explainer.excalidraw.md",
-    "Excalidraw/Mantissa and exponent.excalidraw.md",
-    "Excalidraw/chemthing.excalidraw.md",
-    "School studies/Chemistry/Benzene and its compounds.md",
-    "School studies/Chemistry/0. Chem.md",
-    "Excalidraw/bromo ortho-cloro benzene.excalidraw.md",
-    "Excalidraw/somebenzenecompunds.excalidraw.md",
-    "Excalidraw/CS something.excalidraw.md",
-    "Excalidraw/some rough work.excalidraw.md",
-    "Excalidraw/Kinetic Energy Distribution of Ideal Gases.md",
-    "0 Help.md/Ascii symbols.md",
-    "School studies/Chemistry/Carboxylic Acids.md",
-    "Excalidraw/Angular Velocity.excalidraw.md",
-    "Excalidraw/Gay Lussac.excalidraw.md",
-    "0 Help.md/attachments/Drawing Pallet.png",
-    "Excalidraw/benzene Double bond.png",
-    "0 Help.md/Pasted Image 20240619103445_600.png",
-    "Excalidraw/Pasted image 20240615073438.png",
+    "0 Help.md/Pasted Image 20240619105930_233.png",
     "0 Help.md/attachments/Pasted Image 20240619105930_233.png",
     "0 Help.md/attachments/Pasted Image 20240619104133_108.png",
     "0 Help.md/attachments/Pasted Image 20240619103650_650.png",
     "0 Help.md/attachments/Pasted Image 20240619103533_634.png",
-    "Excalidraw/Pasted Image 20240612194848_349.png",
+    "0 Help.md/attachments/markus-spiske-666905-unsplash.jpg",
+    "0 Help.md/attachments/Drawing Pallet.png",
+    "0 Help.md/attachments",
+    "0 Help.md/Pasted Image 20240619104133_108.png",
+    "0 Help.md/Pasted Image 20240619103650_650.png",
+    "0 Help.md/Pasted Image 20240619103533_634.png",
+    "0 Help.md/MathJax symbol reference.pdf",
+    "Excalidraw/Boyles Law.excalidraw.md",
+    "Excalidraw/benzyl.excalidraw.md",
+    "Excalidraw/bromine.excalidraw.md",
+    "Excalidraw/CS something.excalidraw.md",
+    "Excalidraw/chloro benzene.excalidraw.md",
+    "Excalidraw/Charles Law.excalidraw.md",
+    "Excalidraw/bonding benzene.excalidraw.md",
+    "Excalidraw/bromo ortho-cloro benzene.excalidraw.md",
+    "School studies/Chemistry/Carboxylic Acids.md",
+    "School studies/Chemistry/Chem unorganized.md",
+    "School studies/Chemistry/Benzene and its compounds.md",
+    "School studies/Chemistry/0. Chem.md",
+    "School studies/Physics/Ideal Gases.md",
+    "School studies/CS/Data Representation.md",
+    "School studies/Physics/Thermal Physics.md",
+    "School studies/Physics/Thermodynamics.md",
+    "conflict-files-obsidian-git.md",
+    "Excalidraw/binary-floating-point-explainer.excalidraw.md",
+    "Excalidraw/Mantissa and exponent.excalidraw.md",
+    "Excalidraw/Kinetic Energy Distribution of Ideal Gases.md",
+    "School studies/Physics/Circular Motion.md",
+    "Excalidraw/some rough work.excalidraw.md",
+    "Excalidraw/Angular Velocity.excalidraw.md",
+    "0 Help.md/Ascii symbols.md",
+    "0 Help.md/MathJax.md",
+    "A Level A Class Timetable.png",
     "obsidian format/MathJax symbol reference .html",
     "Excalidraw/pngwing.com.png.crdownload",
     "Untitled.pdf",
