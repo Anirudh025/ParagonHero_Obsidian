@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md",
+                "file": "School studies/CS/Data Representation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -125,11 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md"
+                "file": "School studies/CS/Data Representation.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "cb675aca7cd66052",
@@ -157,7 +158,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md"
+                "file": "School studies/CS/Data Representation.md"
               }
             }
           },
@@ -198,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md",
+                "file": "School studies/CS/Data Representation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md",
+                "file": "School studies/CS/Data Representation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -257,6 +258,7 @@
   },
   "active": "69cc07cc3c94bfe8",
   "lastOpenFiles": [
+    "School studies/Chemistry/Benzene and its compounds.md",
     "Excalidraw/benzene fast.gif",
     "Excalidraw/benezene slow 1.gif",
     "Excalidraw/benezene slow.gif",
@@ -264,7 +266,6 @@
     "School studies/Chemistry/Chem unorganized.md",
     "README.md",
     "A Level A Class Timetable.png",
-    "School studies/Chemistry/Benzene and its compounds.md",
     "conflict-files-obsidian-git.md",
     "0 Help.md/MathJax symbol reference.pdf",
     "School studies/Physics/Thermal Physics.md",
@@ -294,7 +295,6 @@
     "Excalidraw/Pasted image 20240615073438.png",
     "0 Help.md/attachments/Pasted Image 20240619105930_233.png",
     "0 Help.md/attachments/Pasted Image 20240619104133_108.png",
-    "0 Help.md/attachments/Pasted Image 20240619103650_650.png",
     "obsidian format/MathJax symbol reference .html",
     "Excalidraw/pngwing.com.png.crdownload",
     "Untitled.pdf",
