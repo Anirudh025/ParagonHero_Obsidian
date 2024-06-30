@@ -1,6 +1,8 @@
 ---
 tags:
   - "#physics"
+Status: incomplete
+Subject: Physics
 ---
 %% #physics/circularmotion The object performing the motion is always equidistant to the fixed point, r represents this distance from the centre of the circle
 There is continuous change in velocity therefore there constant acceleration, thus there is a force required%%

@@ -2,6 +2,8 @@
 tags:
   - physics
   - "#flashcard/physics"
+Status: incomplete
+Subject: Physics
 ---
 # Temperature
 ### Temperature scales

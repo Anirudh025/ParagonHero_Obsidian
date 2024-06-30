@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "School studies/Physics/Thermodynamics.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "School studies/Physics/Thermodynamics.md"
               }
             }
           }
@@ -158,7 +158,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "README.md"
+                "file": "School studies/Physics/Thermodynamics.md"
               }
             }
           },
@@ -199,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "School studies/Physics/Thermodynamics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "School studies/Physics/Thermodynamics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -258,8 +258,11 @@
   },
   "active": "69cc07cc3c94bfe8",
   "lastOpenFiles": [
-    "School studies/Chemistry/Benzene and its compounds.md",
+    "School studies/Physics/Thermal Physics.md",
+    "School studies/Physics/Ideal Gases.md",
+    "School studies/Physics/Circular Motion.md",
     "README.md",
+    "School studies/Chemistry/Benzene and its compounds.md",
     "School studies/Chemistry/Carboxylic Acids.md",
     "School studies/CS/Data Representation.md",
     "Excalidraw/benzene fast.gif",
@@ -269,14 +272,11 @@
     "A Level A Class Timetable.png",
     "conflict-files-obsidian-git.md",
     "0 Help.md/MathJax symbol reference.pdf",
-    "School studies/Physics/Thermal Physics.md",
     "0 Help.md/Obsidian-formatting.md",
-    "School studies/Physics/Ideal Gases.md",
     "School studies/Physics/Thermodynamics.md",
     "0 Help.md/MathJax.md",
     "0 Help.md/Flashcards.md",
     "0 Help.md/attachments",
-    "School studies/Physics/Circular Motion.md",
     "Laws of motion.md",
     "Excalidraw/binary-floating-point-explainer.excalidraw.md",
     "Excalidraw/Mantissa and exponent.excalidraw.md",
