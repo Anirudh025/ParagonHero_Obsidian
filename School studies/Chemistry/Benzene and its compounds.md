@@ -9,7 +9,9 @@ Benzene %% #chemistry/benzene %%:
 1. It has planar symmetry and each bond has a length of 0.139nm
 2. Each carbon atoms has 3 sigma bonds and 1 pi bond ![[benzenesigmapi.excalidraw|200]]
 There is resonance in the benzene compound where the double bonds keeps switching from carbon to carbon, it looks like this
-![](benezene%20slow.gif)
+![](benezene%20slow%201.gif)
+
+![](benzene%20fast.gif)
 
 ## Naming compounds
 ### General Names
