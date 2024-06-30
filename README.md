@@ -1,8 +1,9 @@
 
 ```dataview
-table Status, file.mtime as "Last Change", file.loc as "Loc"  
+table Status, file.mtime as "Last Change", file.folder as "Loc"  
 from ""
-where Status = "~complete" 
+where Status = "~complete" or Status = "incomplete" or Status = "progress"
+sort by Status = "~complete" asc, Status = "incomplete" or Status = "progress"
 ```
 
 
