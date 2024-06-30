@@ -16,7 +16,7 @@
                 "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": true
+                "source": false
               }
             }
           },
@@ -258,13 +258,13 @@
   },
   "active": "69cc07cc3c94bfe8",
   "lastOpenFiles": [
-    "School studies/CS/Data Representation.md",
-    "README.md",
     "School studies/Chemistry/Benzene and its compounds.md",
+    "README.md",
+    "School studies/Chemistry/Carboxylic Acids.md",
+    "School studies/CS/Data Representation.md",
     "Excalidraw/benzene fast.gif",
     "Excalidraw/benezene slow 1.gif",
     "Excalidraw/benezene slow.gif",
-    "School studies/Chemistry/Carboxylic Acids.md",
     "School studies/Chemistry/Chem unorganized.md",
     "A Level A Class Timetable.png",
     "conflict-files-obsidian-git.md",

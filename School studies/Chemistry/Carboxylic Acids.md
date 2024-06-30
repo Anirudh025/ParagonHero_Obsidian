@@ -2,6 +2,7 @@
 tags:
   - chemistry
 Status: progress
+Subject: Chemistry
 ---
 carbon compounds with a COOH group. 2 2 
 

@@ -2,6 +2,7 @@
 tags:
   - "#chemistry"
 Status: ~complete
+Subject: Chemistry
 ---
 ## Benzene Structure
 Benzene %% #chemistry/benzene %%:

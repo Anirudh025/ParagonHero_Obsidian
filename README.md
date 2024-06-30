@@ -1,6 +1,6 @@
 
 ```dataview
-table Status, file.mtime as "Last Change", file.folder as "Loc",   
+table Status, file.mtime as "Last Change", Subject   
 from ""
 where Status = "~complete" or Status = "incomplete" or Status = "progress"
 sort Status asc, file.folder asc
