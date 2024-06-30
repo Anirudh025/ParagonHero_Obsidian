@@ -1,6 +1,7 @@
 ---
 tags:
   - "#chemistry"
+Status: ~complete
 ---
 ## Benzene Structure
 Benzene %% #chemistry/benzene %%:

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9fecc349850e2117",
+        "id": "434b65e0b0f17725",
         "type": "tabs",
         "children": [
           {
-            "id": "69d03c7130a78315",
+            "id": "69cc07cc3c94bfe8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/Physics/Thermal Physics.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,15 @@
             }
           },
           {
-            "id": "3490196053426050",
+            "id": "2a7e74f2b9bb8604",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "0 Help.md/MathJax symbol reference.pdf"
+                "file": "School studies/Chemistry/Benzene and its compounds.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -122,12 +125,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/Physics/Thermal Physics.md"
+                "file": "README.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "cb675aca7cd66052",
@@ -155,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/Physics/Thermal Physics.md"
+                "file": "README.md"
               }
             }
           },
@@ -196,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Physics/Thermal Physics.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Physics/Thermal Physics.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -253,13 +255,15 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "8f13c2750f67f161",
+  "active": "9317a1770b4fbb1c",
   "lastOpenFiles": [
-    "0 Help.md/MathJax symbol reference.pdf",
-    "0 Help.md/Obsidian-formatting.md",
-    "School studies/Physics/Thermal Physics.md",
-    "School studies/Physics/Ideal Gases.md",
+    "conflict-files-obsidian-git.md",
     "README.md",
+    "School studies/Chemistry/Benzene and its compounds.md",
+    "0 Help.md/MathJax symbol reference.pdf",
+    "School studies/Physics/Thermal Physics.md",
+    "0 Help.md/Obsidian-formatting.md",
+    "School studies/Physics/Ideal Gases.md",
     "School studies/Physics/Thermodynamics.md",
     "A Level A Class Timetable.png",
     "School studies/CS/Data Representation.md",
@@ -267,12 +271,10 @@
     "0 Help.md/Flashcards.md",
     "0 Help.md/attachments",
     "School studies/Physics/Circular Motion.md",
-    "conflict-files-obsidian-git.md",
     "Laws of motion.md",
     "Excalidraw/binary-floating-point-explainer.excalidraw.md",
     "Excalidraw/Mantissa and exponent.excalidraw.md",
     "Excalidraw/chemthing.excalidraw.md",
-    "School studies/Chemistry/Benzene and its compounds.md",
     "School studies/Chemistry/0. Chem.md",
     "Excalidraw/bromo ortho-cloro benzene.excalidraw.md",
     "Excalidraw/somebenzenecompunds.excalidraw.md",

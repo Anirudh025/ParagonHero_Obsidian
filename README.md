@@ -1,7 +1,8 @@
 
 ```dataview
-table 
-from #todo
+table  
+from ""
+where Status = "~complete" 
 ```
 
 
