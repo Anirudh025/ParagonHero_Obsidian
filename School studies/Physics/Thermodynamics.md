@@ -1,6 +1,6 @@
 ---
 Status: progress
-Subject:
+Subject: Physics
 ---
 Internal Energy = Kinetic Energy + Potential Energy
 
