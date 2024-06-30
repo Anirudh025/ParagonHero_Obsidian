@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/CS/Data Representation.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/CS/Data Representation.md"
+                "file": "README.md"
               }
             }
           }
@@ -158,7 +158,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/CS/Data Representation.md"
+                "file": "README.md"
               }
             }
           },
@@ -199,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/CS/Data Representation.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/CS/Data Representation.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -258,13 +258,14 @@
   },
   "active": "69cc07cc3c94bfe8",
   "lastOpenFiles": [
+    "School studies/CS/Data Representation.md",
+    "README.md",
     "School studies/Chemistry/Benzene and its compounds.md",
     "Excalidraw/benzene fast.gif",
     "Excalidraw/benezene slow 1.gif",
     "Excalidraw/benezene slow.gif",
     "School studies/Chemistry/Carboxylic Acids.md",
     "School studies/Chemistry/Chem unorganized.md",
-    "README.md",
     "A Level A Class Timetable.png",
     "conflict-files-obsidian-git.md",
     "0 Help.md/MathJax symbol reference.pdf",
@@ -272,7 +273,6 @@
     "0 Help.md/Obsidian-formatting.md",
     "School studies/Physics/Ideal Gases.md",
     "School studies/Physics/Thermodynamics.md",
-    "School studies/CS/Data Representation.md",
     "0 Help.md/MathJax.md",
     "0 Help.md/Flashcards.md",
     "0 Help.md/attachments",
