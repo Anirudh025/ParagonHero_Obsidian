@@ -26,14 +26,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/Chemistry/Chem unorganized.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -256,20 +257,20 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "69cc07cc3c94bfe8",
+  "active": "2a7e74f2b9bb8604",
   "lastOpenFiles": [
+    "School studies/Chemistry/Chem unorganized.md",
+    "README.md",
     "School studies/Physics/Thermodynamics.md",
     "School studies/Physics/Thermal Physics.md",
     "School studies/Physics/Ideal Gases.md",
     "School studies/Physics/Circular Motion.md",
-    "README.md",
     "School studies/Chemistry/Benzene and its compounds.md",
     "School studies/Chemistry/Carboxylic Acids.md",
     "School studies/CS/Data Representation.md",
     "Excalidraw/benzene fast.gif",
     "Excalidraw/benezene slow 1.gif",
     "Excalidraw/benezene slow.gif",
-    "School studies/Chemistry/Chem unorganized.md",
     "A Level A Class Timetable.png",
     "conflict-files-obsidian-git.md",
     "0 Help.md/MathJax symbol reference.pdf",
