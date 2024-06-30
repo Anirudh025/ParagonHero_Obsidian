@@ -1,6 +1,6 @@
 
 ```dataview
-table  
+table Status, file.mtime as "Last Change", file.loc as "Loc"  
 from ""
 where Status = "~complete" 
 ```
