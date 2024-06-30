@@ -16,5 +16,5 @@
   "livePreview": true,
   "promptDelete": false,
   "showUnsupportedFiles": true,
-  "useMarkdownLinks": true
+  "useMarkdownLinks": false
 }
