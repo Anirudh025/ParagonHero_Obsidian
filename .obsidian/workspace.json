@@ -41,8 +41,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/Chemistry/Chemistry.md",
-                "mode": "source",
+                "file": "School studies/Chemistry/!Chemistry.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/Chemistry/Chemistry.md"
+                "file": "School studies/Chemistry/!Chemistry.md"
               }
             }
           }
@@ -174,7 +174,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/Chemistry/Chemistry.md"
+                "file": "School studies/Chemistry/!Chemistry.md"
               }
             }
           },
@@ -215,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Chemistry/Chemistry.md",
+                "file": "School studies/Chemistry/!Chemistry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Chemistry/Chemistry.md",
+                "file": "School studies/Chemistry/!Chemistry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -278,7 +278,7 @@
   "lastOpenFiles": [
     "School studies/Chemistry/Organic Chemistry/Carboxylic Acids.md",
     "School studies/Chemistry/Chem unorganized.md",
-    "School studies/Chemistry/Chemistry.md",
+    "School studies/Chemistry/!Chemistry.md",
     "School studies/Chemistry/Organic Chemistry",
     "School studies/Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
     "README.md",
