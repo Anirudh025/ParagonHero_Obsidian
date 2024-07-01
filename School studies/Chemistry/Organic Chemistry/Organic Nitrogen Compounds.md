@@ -8,4 +8,5 @@ Status: incomplete
 	3. Preparation of Amine
 - Questions to answer
 	1. Why is Amine basic
-	2. does basicity increase addition of CH3
+	2. Does basicity increase addition of CH<sub>3</sub>
+	3. 

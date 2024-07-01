@@ -42,5 +42,21 @@
       ],
       "key": "I"
     }
+  ],
+  "editing-toolbar:subscript": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
+  "editing-toolbar:superscript": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowUp"
+    }
   ]
 }
