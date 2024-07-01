@@ -9,4 +9,4 @@ Status: incomplete
 - Questions to answer
 	1. Why is Amine basic
 	2. Does basicity increase addition of CH<sub>3</sub>
-	3. Is A
+	3. Is Amine more basic with [[Be]]
