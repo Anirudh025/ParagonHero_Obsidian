@@ -23,35 +23,20 @@
             }
           },
           {
-            "id": "9cffd11531cf7197",
+            "id": "88f83fa793f098b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/Chemistry/Chem unorganized.md",
+                "file": "School studies/Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "32508a0c52fb7292",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -143,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "School studies/Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md"
               }
             }
           }
@@ -176,7 +161,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "README.md"
+                "file": "School studies/Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md"
               }
             }
           },
@@ -217,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "School studies/Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "School studies/Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -276,14 +261,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "32508a0c52fb7292",
+  "active": "88f83fa793f098b0",
   "lastOpenFiles": [
+    "README.md",
     "School studies/Chemistry/!Chemistry.md",
     "School studies/Chemistry/Organic Chemistry/Carboxylic Acids.md",
     "School studies/Chemistry/Chem unorganized.md",
     "School studies/Chemistry/Organic Chemistry",
     "School studies/Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
-    "README.md",
     "School studies/CS/Data Representation.md",
     "School studies/Chemistry/Organic Chemistry/Benzene and its compounds.md",
     "Excalidraw/Mantissa and exponent.excalidraw.md",
