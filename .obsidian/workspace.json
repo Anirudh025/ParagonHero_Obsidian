@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/CS/Data Representation.md",
+                "file": "School studies/Chemistry/Benzene and its compounds.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/CS/Data Representation.md"
+                "file": "School studies/Chemistry/Benzene and its compounds.md"
               }
             }
           }
@@ -174,7 +174,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/CS/Data Representation.md"
+                "file": "School studies/Chemistry/Benzene and its compounds.md"
               }
             }
           },
@@ -215,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/CS/Data Representation.md",
+                "file": "School studies/Chemistry/Benzene and its compounds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/CS/Data Representation.md",
+                "file": "School studies/Chemistry/Benzene and its compounds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -275,8 +275,10 @@
   },
   "active": "f685078164473bb9",
   "lastOpenFiles": [
-    "README.md",
+    "School studies/Chemistry/0. Chem.md",
+    "School studies/Chemistry/Carboxylic Acids.md",
     "School studies/CS/Data Representation.md",
+    "README.md",
     "Excalidraw/Mantissa and exponent.excalidraw.md",
     "School studies/Chemistry/Chem unorganized.md",
     "School studies/Physics/Thermodynamics.md",
@@ -284,7 +286,6 @@
     "School studies/Physics/Ideal Gases.md",
     "School studies/Physics/Circular Motion.md",
     "School studies/Chemistry/Benzene and its compounds.md",
-    "School studies/Chemistry/Carboxylic Acids.md",
     "Excalidraw/benzene fast.gif",
     "Excalidraw/benezene slow 1.gif",
     "Excalidraw/benezene slow.gif",
@@ -298,7 +299,6 @@
     "Laws of motion.md",
     "Excalidraw/binary-floating-point-explainer.excalidraw.md",
     "Excalidraw/chemthing.excalidraw.md",
-    "School studies/Chemistry/0. Chem.md",
     "Excalidraw/bromo ortho-cloro benzene.excalidraw.md",
     "Excalidraw/somebenzenecompunds.excalidraw.md",
     "Excalidraw/CS something.excalidraw.md",
