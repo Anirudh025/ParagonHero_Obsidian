@@ -1,3 +1,10 @@
 {
-  "preview": true
+  "search": false,
+  "editor": false,
+  "git-view": false,
+  "properties": false,
+  "file-explorer": false,
+  "bookmarks": false,
+  "outline": false,
+  "graph": false
 }

@@ -38,14 +38,16 @@
           {
             "id": "32508a0c52fb7292",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/Chemistry/!Chemistry.md",
-                "mode": "preview",
+                "file": "README.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
@@ -141,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/Chemistry/!Chemistry.md"
+                "file": "README.md"
               }
             }
           }
@@ -174,7 +176,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/Chemistry/!Chemistry.md"
+                "file": "README.md"
               }
             }
           },
@@ -215,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Chemistry/!Chemistry.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Chemistry/!Chemistry.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -276,9 +278,9 @@
   },
   "active": "32508a0c52fb7292",
   "lastOpenFiles": [
+    "School studies/Chemistry/!Chemistry.md",
     "School studies/Chemistry/Organic Chemistry/Carboxylic Acids.md",
     "School studies/Chemistry/Chem unorganized.md",
-    "School studies/Chemistry/!Chemistry.md",
     "School studies/Chemistry/Organic Chemistry",
     "School studies/Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
     "README.md",
