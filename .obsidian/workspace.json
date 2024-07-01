@@ -145,8 +145,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "cb675aca7cd66052",
@@ -251,8 +250,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5,
-    "collapsed": true
+    "width": 227.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -274,7 +272,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ee11cdb2b298002e",
+  "active": "9317a1770b4fbb1c",
   "lastOpenFiles": [
     "School_Studies/School_Studies.md",
     "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
