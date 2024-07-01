@@ -131,7 +131,7 @@ using 8 bits for Mantissa & 8 bits for exponent
 >$M = {0.703125}  \times  {2^4}$
 >$=11.02$
 
-###### Solved Examples
+##### Solved Examples
 
 >[!question]- Mantissa question 1
 >Mantissa:
