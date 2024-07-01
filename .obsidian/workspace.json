@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
+                "file": "School studies/Chemistry/!Chemistry.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "d967d98868519a35",
@@ -129,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md"
+                "file": "School studies/Chemistry/!Chemistry.md"
               }
             }
           }
@@ -162,7 +161,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md"
+                "file": "School studies/Chemistry/!Chemistry.md"
               }
             }
           },
@@ -203,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
+                "file": "School studies/Chemistry/!Chemistry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
+                "file": "School studies/Chemistry/!Chemistry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -264,10 +263,10 @@
   },
   "active": "ee11cdb2b298002e",
   "lastOpenFiles": [
-    "School studies/Chemistry/Organic Chemistry/Benzene and its compounds.md",
-    "School studies/Chemistry/Organic Chemistry/Benzene.md",
     "School studies/Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
     "README.md",
+    "School studies/Chemistry/Organic Chemistry/Benzene and its compounds.md",
+    "School studies/Chemistry/Organic Chemistry/Benzene.md",
     "Excalidraw/benzene.png",
     "School studies/Chemistry/!Chemistry.md",
     "School studies/Chemistry/Organic Chemistry/Carboxylic Acids.md",
