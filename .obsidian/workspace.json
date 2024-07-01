@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/Chemistry/0. Chem.md",
+                "file": "School studies/Chemistry/Chemistry.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/Chemistry/0. Chem.md"
+                "file": "School studies/Chemistry/Chemistry.md"
               }
             }
           }
@@ -174,7 +174,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/Chemistry/0. Chem.md"
+                "file": "School studies/Chemistry/Chemistry.md"
               }
             }
           },
@@ -215,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Chemistry/0. Chem.md",
+                "file": "School studies/Chemistry/Chemistry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Chemistry/0. Chem.md",
+                "file": "School studies/Chemistry/Chemistry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -276,13 +276,14 @@
   },
   "active": "32508a0c52fb7292",
   "lastOpenFiles": [
-    "School studies/Chemistry/Organic Nitrogen Compounds.md",
+    "School studies/Chemistry/Organic Chemistry/Carboxylic Acids.md",
     "School studies/Chemistry/Chem unorganized.md",
+    "School studies/Chemistry/Chemistry.md",
+    "School studies/Chemistry/Organic Chemistry",
+    "School studies/Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
     "README.md",
     "School studies/CS/Data Representation.md",
-    "School studies/Chemistry/Benzene and its compounds.md",
-    "School studies/Chemistry/0. Chem.md",
-    "School studies/Chemistry/Carboxylic Acids.md",
+    "School studies/Chemistry/Organic Chemistry/Benzene and its compounds.md",
     "Excalidraw/Mantissa and exponent.excalidraw.md",
     "School studies/Physics/Thermodynamics.md",
     "School studies/Physics/Thermal Physics.md",
@@ -307,7 +308,6 @@
     "Excalidraw/some rough work.excalidraw.md",
     "Excalidraw/Kinetic Energy Distribution of Ideal Gases.md",
     "0 Help.md/Ascii symbols.md",
-    "Excalidraw/Angular Velocity.excalidraw.md",
     "0 Help.md/attachments/Drawing Pallet.png",
     "Excalidraw/benzene Double bond.png",
     "0 Help.md/Pasted Image 20240619103445_600.png",
@@ -321,7 +321,6 @@
     "Cambridge International AS and A Levels Computer Science by David Watson, Helen Williams (z-lib.org).pdf",
     "School studies/Chemistry/Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
     "School studies/CS/Cambridge International AS and A Levels Computer Science by David Watson, Helen Williams (z-lib.org).pdf",
-    "School studies/CS/course Cambridge International AS and A Level Computer Science Coursebook.pdf",
     "Excalidraw/Untitled.canvas",
     "School studies/AS LEVEL/Chem notes/Organic chem.canvas",
     "School studies/AS LEVEL/CS/Logic gates.canvas",
