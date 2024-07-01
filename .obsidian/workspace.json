@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/Chemistry/Organic Chemistry/Benzene.md",
+                "file": "School studies/Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d967d98868519a35",
@@ -128,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/Chemistry/Organic Chemistry/Benzene.md"
+                "file": "School studies/Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md"
               }
             }
           }
@@ -161,7 +162,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/Chemistry/Organic Chemistry/Benzene.md"
+                "file": "School studies/Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md"
               }
             }
           },
@@ -202,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Chemistry/Organic Chemistry/Benzene.md",
+                "file": "School studies/Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Chemistry/Organic Chemistry/Benzene.md",
+                "file": "School studies/Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -263,8 +264,9 @@
   },
   "active": "ee11cdb2b298002e",
   "lastOpenFiles": [
-    "School studies/Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
+    "School studies/Chemistry/Organic Chemistry/Benzene and its compounds.md",
     "School studies/Chemistry/Organic Chemistry/Benzene.md",
+    "School studies/Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
     "README.md",
     "Excalidraw/benzene.png",
     "School studies/Chemistry/!Chemistry.md",
@@ -272,7 +274,6 @@
     "School studies/Chemistry/Chem unorganized.md",
     "School studies/Chemistry/Organic Chemistry",
     "School studies/CS/Data Representation.md",
-    "School studies/Chemistry/Organic Chemistry/Benzene and its compounds.md",
     "Excalidraw/Mantissa and exponent.excalidraw.md",
     "School studies/Physics/Thermodynamics.md",
     "School studies/Physics/Thermal Physics.md",
