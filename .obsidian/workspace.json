@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/School studies.md",
+                "file": "School_Studies/School_Studies.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/School studies.md"
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md"
               }
             }
           }
@@ -174,7 +174,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/School studies.md"
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md"
               }
             }
           },
@@ -215,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/School studies.md",
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/School studies.md",
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -274,26 +274,26 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3ab25ca22c8c302a",
+  "active": "ee11cdb2b298002e",
   "lastOpenFiles": [
-    "School studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
-    "School studies/School studies.md",
-    "School studies/!Chemistry/!Chemistry.md",
-    "School studies/!Physics/!Physics.md",
-    "School studies/!CS/!CS.md",
-    "School studies/!CS/Data Representation.md",
+    "School_Studies/School_Studies.md",
+    "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
+    "School_Studies/!Chemistry/!Chemistry.md",
+    "School_Studies/!Physics/!Physics.md",
+    "School_Studies/!CS/!CS.md",
+    "School_Studies/!CS/Data Representation.md",
     "README.md",
-    "School studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
-    "School studies/!Chemistry/Organic Chemistry/Benzene.md",
+    "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
+    "School_Studies/!Chemistry/Organic Chemistry/Benzene.md",
     "Excalidraw/benzene.png",
-    "School studies/!Chemistry/Organic Chemistry/Carboxylic Acids.md",
-    "School studies/!Chemistry/Chem unorganized.md",
-    "School studies/!Chemistry/Organic Chemistry",
+    "School_Studies/!Chemistry/Organic Chemistry/Carboxylic Acids.md",
+    "School_Studies/!Chemistry/Chem unorganized.md",
+    "School_Studies/!Chemistry/Organic Chemistry",
     "Excalidraw/Mantissa and exponent.excalidraw.md",
-    "School studies/!Physics/Thermodynamics.md",
-    "School studies/!Physics/Thermal Physics.md",
-    "School studies/!Physics/Ideal Gases.md",
-    "School studies/!Physics/Circular Motion.md",
+    "School_Studies/!Physics/Thermodynamics.md",
+    "School_Studies/!Physics/Thermal Physics.md",
+    "School_Studies/!Physics/Ideal Gases.md",
+    "School_Studies/!Physics/Circular Motion.md",
     "Excalidraw/benzene fast.gif",
     "Excalidraw/benezene slow 1.gif",
     "Excalidraw/benezene slow.gif",
