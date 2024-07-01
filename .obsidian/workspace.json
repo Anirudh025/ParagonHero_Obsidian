@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "2a7e74f2b9bb8604",
+            "id": "9cffd11531cf7197",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/CS/Data Representation.md",
+                "file": "School studies/Chemistry/Chem unorganized.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -36,13 +36,13 @@
             }
           },
           {
-            "id": "f685078164473bb9",
+            "id": "32508a0c52fb7292",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md",
-                "mode": "preview",
+                "file": "School studies/Chemistry/Untitled.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "d967d98868519a35",
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md"
+                "file": "School studies/Chemistry/Untitled.md"
               }
             }
           }
@@ -175,7 +174,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md"
+                "file": "School studies/Chemistry/Untitled.md"
               }
             }
           },
@@ -216,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md",
+                "file": "School studies/Chemistry/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Chemistry/Benzene and its compounds.md",
+                "file": "School studies/Chemistry/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -275,19 +274,20 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f685078164473bb9",
+  "active": "32508a0c52fb7292",
   "lastOpenFiles": [
+    "School studies/Chemistry/Chem unorganized.md",
+    "School studies/Chemistry/Untitled.md",
+    "README.md",
+    "School studies/CS/Data Representation.md",
+    "School studies/Chemistry/Benzene and its compounds.md",
     "School studies/Chemistry/0. Chem.md",
     "School studies/Chemistry/Carboxylic Acids.md",
-    "School studies/CS/Data Representation.md",
-    "README.md",
     "Excalidraw/Mantissa and exponent.excalidraw.md",
-    "School studies/Chemistry/Chem unorganized.md",
     "School studies/Physics/Thermodynamics.md",
     "School studies/Physics/Thermal Physics.md",
     "School studies/Physics/Ideal Gases.md",
     "School studies/Physics/Circular Motion.md",
-    "School studies/Chemistry/Benzene and its compounds.md",
     "Excalidraw/benzene fast.gif",
     "Excalidraw/benezene slow 1.gif",
     "Excalidraw/benezene slow.gif",
