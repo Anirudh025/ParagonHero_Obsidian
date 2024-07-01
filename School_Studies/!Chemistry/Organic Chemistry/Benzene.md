@@ -1,0 +1,1 @@
+C<sub>6</sub>H<sub>6</sub>![[ringbenzene|250]]

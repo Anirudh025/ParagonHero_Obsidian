@@ -1,15 +1,12 @@
+---
+Subject: Chemistry
+Status: "~"
+---
 stronger acid = stable conjugate base
 weaker acid = high negative conjugate base
 carboxylic is weak acid
-nitro group is strongest
+nitro group is strongest %%? strongest what?%% 
 #todo/chemistry/make_resonance_structure 
-wisemee
-
-
-
-- [ ] theme agenda
-- [ ] eb members
-- [ ] USGs
 
 
 
@@ -17,4 +14,7 @@ wisemee
 
 
 
-s
+
+
+
+
