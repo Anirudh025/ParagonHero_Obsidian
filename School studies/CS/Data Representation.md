@@ -180,7 +180,7 @@ using 8 bits for Mantissa & 8 bits for exponent
 >$= \frac{-13}{512}$
 >$= -0.0254$
 
-### Convert  denary numbers into binary floating-point numbers
+###### Convert  denary numbers into binary floating-point numbers
 >[!example]- Convert $4.5_{10}$ to binary floating point
 >$4_{10}$ to binary is $0100$
 >but for 0.5 we do 
@@ -196,7 +196,7 @@ using 8 bits for Mantissa & 8 bits for exponent
 >$73_{10}$ --$Binary$--> $01001001_{2}$
 >multiplication of 0.2062 gives 0010
 >01001001.0010
->0.10010010010 $\therefore$ Exponent of 7
+>0.10010010010 $\therefore$ Exponent of 0111 (7 shifts)
 >010010010010
 >
 
