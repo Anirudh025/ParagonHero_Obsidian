@@ -6,6 +6,7 @@ Status: "~"
 - [[Chem unorganized]]
 - **Organic Chemistry**
 	- [[Benzene and its compounds]]
+	- [[Benzene]]
 	- [[Carboxylic Acids]]
 	- [[Organic Nitrogen Compounds]]
 
