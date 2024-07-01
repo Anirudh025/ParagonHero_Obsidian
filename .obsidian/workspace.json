@@ -10,6 +10,7 @@
           {
             "id": "69cc07cc3c94bfe8",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,7 +18,8 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
@@ -32,9 +34,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f685078164473bb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School studies/CS/Data Representation.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,7 +145,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "cb675aca7cd66052",
@@ -257,11 +273,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2a7e74f2b9bb8604",
+  "active": "f685078164473bb9",
   "lastOpenFiles": [
-    "Excalidraw/Mantissa and exponent.excalidraw.md",
-    "School studies/CS/Data Representation.md",
     "README.md",
+    "School studies/CS/Data Representation.md",
+    "Excalidraw/Mantissa and exponent.excalidraw.md",
     "School studies/Chemistry/Chem unorganized.md",
     "School studies/Physics/Thermodynamics.md",
     "School studies/Physics/Thermal Physics.md",
