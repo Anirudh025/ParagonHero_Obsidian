@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
+                "file": "School_Studies/!Chemistry/!Chemistry.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md"
+                "file": "School_Studies/!Chemistry/!Chemistry.md"
               }
             }
           }
@@ -161,7 +161,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md"
+                "file": "School_Studies/!Chemistry/!Chemistry.md"
               }
             }
           },
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
+                "file": "School_Studies/!Chemistry/!Chemistry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
+                "file": "School_Studies/!Chemistry/!Chemistry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -262,13 +262,13 @@
   },
   "active": "3ab25ca22c8c302a",
   "lastOpenFiles": [
-    "School_Studies/!Chemistry/!Chemistry.md",
     "School_Studies/School_Studies.md",
+    "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
+    "School_Studies/!Chemistry/!Chemistry.md",
+    "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
     "School_Studies/!Chemistry/Chem unorganized.md",
     "School_Studies/!Physics/Circular Motion.md",
     "README.md",
-    "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
-    "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
     "School_Studies/!Physics/!Physics.md",
     "School_Studies/!CS/!CS.md",
     "School_Studies/!CS/Data Representation.md",
