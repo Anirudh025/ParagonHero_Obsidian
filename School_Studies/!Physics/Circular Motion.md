@@ -25,7 +25,7 @@ $1 \space radian (rad) = \frac{360}{2\pi} = 57.3 \degree$
 
 If $\theta = \frac{s}{r}$ 
 - Linear velocity = $v = 2\pi \frac{r}{T}$, where 'T' is time period.
-- Angular velocity= $\omega = \frac{\theta}{T}$
+- Angular velocity= $\omega = \frac{2\pi}{T}$
 > [!info] Angular Velocity ::: rate of change of Angular Displacement
 - $v = (\frac{2pi}{T}) * r$
 - $v = r\omega$
