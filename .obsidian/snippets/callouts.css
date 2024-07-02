@@ -1,0 +1,4 @@
+.callout[data-callout="spear"] {
+    --callout-color: 55, 65, 85;
+    --callout-icon: stone-spear-svgrepo-com;
+}

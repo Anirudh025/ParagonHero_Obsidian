@@ -3,5 +3,8 @@
   "baseFontSize": 21,
   "cssTheme": "Vanilla AMOLED",
   "translucency": false,
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "callouts"
+  ]
 }
