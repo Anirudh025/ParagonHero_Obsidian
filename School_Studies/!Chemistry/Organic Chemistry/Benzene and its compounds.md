@@ -48,7 +48,7 @@ to form Phenylehtanone: %% #chemistry/acylation%%
 ###### Hydrogenation of Benzene: 
 %% #chemistry/hydrogenation%%
 	- ![[Hydrogenation of benzene .excalidraw|500]]
-###### Formation of phenol with phenylamine:
+###### Formation of phenol with phenylamine HNO<sub>3</sub> and HCL:
 %% #chemistry/diazotization%%
 - ![[Diazotization.excalidraw]]
 
