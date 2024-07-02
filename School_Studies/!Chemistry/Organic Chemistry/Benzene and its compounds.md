@@ -48,7 +48,8 @@ to form Phenylehtanone: %% #chemistry/acylation%%
 ###### Hydrogenation of Benzene: 
 %% #chemistry/hydrogenation%%
 	- ![[Hydrogenation of benzene .excalidraw|500]]
-###### Formation of phy
+###### Formation of phenyl:
+%%#chemistry/di%%
 
 ==Due to its stability benzene does not undergo some of the addition reactions that other alkenes do== 
 #todo/chemistry/whyphenolismoreacididcthanethanol
