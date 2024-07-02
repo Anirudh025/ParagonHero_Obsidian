@@ -28,33 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School_Studies/School_Studies.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bf3e49437ff56950",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c75b9e3fb7318277",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School_Studies/!Physics/Circular Motion.md",
+                "file": "School_Studies/!Chemistry/Chem unorganized.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -62,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Studies/!Physics/Circular Motion.md"
+                "file": "School_Studies/!Chemistry/Chem unorganized.md"
               }
             }
           }
@@ -187,7 +161,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School_Studies/!Physics/Circular Motion.md"
+                "file": "School_Studies/!Chemistry/Chem unorganized.md"
               }
             }
           },
@@ -228,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Studies/!Physics/Circular Motion.md",
+                "file": "School_Studies/!Chemistry/Chem unorganized.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Studies/!Physics/Circular Motion.md",
+                "file": "School_Studies/!Chemistry/Chem unorganized.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -286,13 +260,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c75b9e3fb7318277",
+  "active": "3ab25ca22c8c302a",
   "lastOpenFiles": [
+    "School_Studies/!Chemistry/!Chemistry.md",
+    "School_Studies/School_Studies.md",
+    "School_Studies/!Physics/Circular Motion.md",
     "README.md",
     "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
-    "School_Studies/School_Studies.md",
     "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
-    "School_Studies/!Chemistry/!Chemistry.md",
     "School_Studies/!Physics/!Physics.md",
     "School_Studies/!CS/!CS.md",
     "School_Studies/!CS/Data Representation.md",
@@ -305,7 +280,6 @@
     "School_Studies/!Physics/Thermodynamics.md",
     "School_Studies/!Physics/Thermal Physics.md",
     "School_Studies/!Physics/Ideal Gases.md",
-    "School_Studies/!Physics/Circular Motion.md",
     "Excalidraw/benzene fast.gif",
     "Excalidraw/benezene slow 1.gif",
     "Excalidraw/benezene slow.gif",
