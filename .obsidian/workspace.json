@@ -41,12 +41,12 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-02 09.00.22.excalidraw.md"
+                "file": "Excalidraw/general amino acid formula.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-02 09.00.22.excalidraw.md"
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md"
               }
             }
           }
@@ -171,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-02 09.00.22.excalidraw.md"
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md"
               }
             }
           },
@@ -212,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-02 09.00.22.excalidraw.md",
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-02 09.00.22.excalidraw.md",
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -270,10 +270,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d2221d30453392c6",
+  "active": "056d8d2eeaadd5b5",
   "lastOpenFiles": [
+    "Excalidraw/general amino acid formula.excalidraw.md",
     "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
-    "Excalidraw/Drawing 2024-07-02 09.00.22.excalidraw.md",
     "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
     "Excalidraw/Diazotization.excalidraw.md",
     "README.md",

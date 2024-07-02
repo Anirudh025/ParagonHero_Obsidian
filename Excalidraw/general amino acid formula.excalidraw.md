@@ -12,6 +12,10 @@ HO-C-C-NH₂ ^lukGHrFW
 
 O= ^OSYLwTcq
 
+R ^YNClm1kK
+
+H ^xHG324DQ
+
 %%
 # Drawing
 ```json
@@ -177,6 +181,80 @@ O= ^OSYLwTcq
 					7.906008217915627
 				]
 			]
+		},
+		{
+			"id": "YNClm1kK",
+			"type": "text",
+			"x": -19.131963413025034,
+			"y": -92.52448981243923,
+			"width": 10.447967529296875,
+			"height": 19.27496257865207,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1245494897,
+			"version": 50,
+			"versionNonce": 1577299903,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1719891092468,
+			"link": null,
+			"locked": false,
+			"text": "R",
+			"rawText": "R",
+			"fontSize": 15.419970062921655,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 13,
+			"containerId": null,
+			"originalText": "R",
+			"lineHeight": 1.25
+		},
+		{
+			"type": "text",
+			"version": 85,
+			"versionNonce": 840412369,
+			"isDeleted": false,
+			"id": "xHG324DQ",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": -18.770621956096193,
+			"y": -48.18304684334204,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 8.49090576171875,
+			"height": 19.27496257865207,
+			"seed": 1572604927,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1719891097524,
+			"link": null,
+			"locked": false,
+			"fontSize": 15.419970062921655,
+			"fontFamily": 1,
+			"text": "H",
+			"rawText": "H",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "H",
+			"lineHeight": 1.25,
+			"baseline": 13
 		}
 	],
 	"appState": {
