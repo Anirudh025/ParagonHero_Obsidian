@@ -34,8 +34,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0ac02b13de3b5a21",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://excalidraw.com"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,9 +137,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -159,9 +168,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -201,7 +208,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +224,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -259,15 +264,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "69cc07cc3c94bfe8",
+  "active": "0ac02b13de3b5a21",
   "lastOpenFiles": [
+    "README.md",
     "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
     "Excalidraw/general amino acid formula.excalidraw.md",
     "Excalidraw/zwitter ion.excalidraw.md",
     "CSS snippets,",
     "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
     "Excalidraw/Diazotization.excalidraw.md",
-    "README.md",
     "School_Studies/!Chemistry/!Chemistry.md",
     "School_Studies/School_Studies.md",
     "School_Studies/!Chemistry/Chem unorganized.md",
