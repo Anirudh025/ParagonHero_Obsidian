@@ -19,7 +19,9 @@ Status: incomplete
 		2. Preparation of dye
 			- ![[Diazotization.excalidraw]]
 		3. 
+			- 
 			- ![[general amino acid formula.excalidraw]]
+			- ![[zwitter ion.excalidraw]]
 
 
 
