@@ -18,11 +18,11 @@ Status: incomplete
 			- All ortho and para positions will be brominated forming 2,4,6-Tribromophenylamine
 		2. Preparation of dye
 			- ![[Diazotization.excalidraw]]
-		3. 
+	8. 
 			- 
 			- ![[general amino acid formula.excalidraw]]
 			- ![[zwitter ion.excalidraw]]
-
+> 			[!info] 
 
 
 
