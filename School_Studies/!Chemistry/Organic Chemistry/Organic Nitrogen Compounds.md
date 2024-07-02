@@ -13,3 +13,4 @@ Status: incomplete
 	4. Secondary is more basic than primary, primary is more basic than Aryl
 	5. Preparing Amines  :> Halogenoalkane --> Cynoalkane --> Alkyl Amine
 	6. Preparing Phenyl Amine :> Nitrobenzene -(Sn+<sub>conc.</sub>HCl)-> Phenyl Amine
+	7. Reactions of Phenyl Amine
