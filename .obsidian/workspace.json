@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "README.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "README.md"
               }
             }
           },
@@ -195,6 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,6 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -243,10 +245,10 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "9317a1770b4fbb1c",
+  "active": "54c5a6e575f4cd1d",
   "lastOpenFiles": [
-    "README.md",
     "conflict-files-obsidian-git.md",
+    "README.md",
     "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
     "School_Studies/!Chemistry/Organic Chemistry/Carboxylic Acids.md",
     "School_Studies/!Chemistry/Organic Chemistry/Benzene.md",
