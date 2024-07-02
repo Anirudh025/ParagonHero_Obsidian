@@ -16,4 +16,5 @@ Status: incomplete
 	7. Reactions of Phenyl Amine 
 		1. Bromination
 			- All ortho and para positions will be brominated forming 2,4,6-Tribromophenylamine
-		2. Preparation of dye
+		2. Preparation of dye 
+			- ![[Diazotization.excalidraw]]
