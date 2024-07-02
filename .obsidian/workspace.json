@@ -34,9 +34,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d2221d30453392c6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-07-02 09.00.22.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -128,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md"
+                "file": "Excalidraw/Drawing 2024-07-02 09.00.22.excalidraw.md"
               }
             }
           }
@@ -161,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md"
+                "file": "Excalidraw/Drawing 2024-07-02 09.00.22.excalidraw.md"
               }
             }
           },
@@ -202,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
+                "file": "Excalidraw/Drawing 2024-07-02 09.00.22.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
+                "file": "Excalidraw/Drawing 2024-07-02 09.00.22.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -260,14 +270,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "056d8d2eeaadd5b5",
+  "active": "d2221d30453392c6",
   "lastOpenFiles": [
+    "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
+    "Excalidraw/Drawing 2024-07-02 09.00.22.excalidraw.md",
     "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
     "Excalidraw/Diazotization.excalidraw.md",
     "README.md",
     "School_Studies/!Chemistry/!Chemistry.md",
     "School_Studies/School_Studies.md",
-    "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
     "School_Studies/!Chemistry/Chem unorganized.md",
     "School_Studies/!Physics/Circular Motion.md",
     "School_Studies/!Physics/!Physics.md",
@@ -295,7 +306,6 @@
     "Excalidraw/binary-floating-point-explainer.excalidraw.md",
     "Excalidraw/chemthing.excalidraw.md",
     "Excalidraw/bromo ortho-cloro benzene.excalidraw.md",
-    "Excalidraw/somebenzenecompunds.excalidraw.md",
     "0 Help.md/attachments/Drawing Pallet.png",
     "Excalidraw/benzene Double bond.png",
     "0 Help.md/Pasted Image 20240619103445_600.png",
