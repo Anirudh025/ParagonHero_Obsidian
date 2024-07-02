@@ -15,5 +15,5 @@ Status: incomplete
 	6. Preparing Phenyl Amine :> Nitrobenzene -(Sn+<sub>conc.</sub>HCl)-> Phenyl Amine
 	7. Reactions of Phenyl Amine 
 		1. Bromination
-			- All 
+			- All ortho and para positions will be brominated forming 2,4,6-Tribromophenylamine
 		2. Preparation of dye
