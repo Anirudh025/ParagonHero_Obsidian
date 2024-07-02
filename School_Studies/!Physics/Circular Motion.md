@@ -11,6 +11,7 @@ Circular motion :: An object performing a motion such that the distance of the o
 >This is measured in radians
 
 # Angular Displacement
+Angular displacement:: angle subtended at the centre of the circle
 $\theta = s/r$
 Where $s = displacement$ and $r = angle$
 
@@ -28,7 +29,6 @@ If $\theta = \frac{s}{r}$
 - $v = (\frac{2pi}{T}) * r$
 - $v = r\omega$
 
-Angular displacement:: angle subtended at the center of the circle
 >[!info]- Any change in magnitude or direction of velocity is called acceleration
 > Due to [[Laws of motion#2]]
 
