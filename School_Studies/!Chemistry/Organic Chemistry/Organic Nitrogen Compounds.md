@@ -23,7 +23,8 @@ Status: incomplete
 			- ![[general amino acid formula.excalidraw]]
 			- ![[zwitter ion.excalidraw]]
 >[!info] Tautomerism :: shifting of atoms within molecule
->[!]
+
+>[!info] Electrometric effect :: Reagent inducing a charge  
 
 
 
