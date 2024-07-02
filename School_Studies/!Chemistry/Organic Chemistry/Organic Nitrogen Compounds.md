@@ -24,7 +24,9 @@ Status: incomplete
 			- ![[zwitter ion.excalidraw]]
 >[!info] Tautomerism :: shifting of atoms within molecule
 
->[!info] Electrometric effect :: Reagent inducing a charge  
+>[!info] Electrometric effect :: Reagent inducing a charge in reactant
+>
+
 
 
 
