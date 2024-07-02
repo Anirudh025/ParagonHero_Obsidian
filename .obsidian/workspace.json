@@ -34,8 +34,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bf3e49437ff56950",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -127,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md"
               }
             }
           }
@@ -160,7 +174,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "README.md"
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md"
               }
             }
           },
@@ -201,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -259,15 +273,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "69cc07cc3c94bfe8",
+  "active": "bf3e49437ff56950",
   "lastOpenFiles": [
+    "README.md",
     "School_Studies/School_Studies.md",
     "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
     "School_Studies/!Chemistry/!Chemistry.md",
     "School_Studies/!Physics/!Physics.md",
     "School_Studies/!CS/!CS.md",
     "School_Studies/!CS/Data Representation.md",
-    "README.md",
     "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
     "School_Studies/!Chemistry/Organic Chemistry/Benzene.md",
     "Excalidraw/benzene.png",
