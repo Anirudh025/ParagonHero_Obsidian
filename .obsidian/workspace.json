@@ -4,15 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "af9d2d26f360d72e",
+        "id": "434b65e0b0f17725",
         "type": "tabs",
         "children": [
           {
-            "id": "9a069a44a9fa7a3e",
+            "id": "69cc07cc3c94bfe8",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "3ab25ca22c8c302a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "School_Studies/School_Studies.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -39,21 +59,6 @@
             }
           },
           {
-            "id": "4b0ad9f429b2d16e",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
             "id": "002756a7baf7f748",
             "type": "leaf",
             "state": {
@@ -73,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.50418853759766
+    "width": 200
   },
   "right": {
     "id": "d967d98868519a35",
@@ -82,7 +87,7 @@
       {
         "id": "3a4f977b7dec7d16",
         "type": "tabs",
-        "dimension": 40.214216163583245,
+        "dimension": 72.1835883171071,
         "children": [
           {
             "id": "9317a1770b4fbb1c",
@@ -117,11 +122,13 @@
             }
           },
           {
-            "id": "363316b58ba63505",
+            "id": "40b33ddf6941da5e",
             "type": "leaf",
             "state": {
-              "type": "review-queue-list-view",
-              "state": {}
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ],
@@ -130,14 +137,21 @@
       {
         "id": "cb675aca7cd66052",
         "type": "tabs",
-        "dimension": 59.78578383641675,
+        "dimension": 27.816411682892905,
         "children": [
           {
-            "id": "40b33ddf6941da5e",
+            "id": "4b0ad9f429b2d16e",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {}
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -145,7 +159,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -185,6 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,9 +218,18 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
+            }
+          },
+          {
+            "id": "363316b58ba63505",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
             }
           }
         ],
@@ -211,7 +237,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 227.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,57 +255,58 @@
       "meld-encrypt:Convert to or from an Encrypted note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "mathpad:Open Mathpad": false
+      "mathpad:Open Mathpad": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "9a069a44a9fa7a3e",
+  "active": "69cc07cc3c94bfe8",
   "lastOpenFiles": [
+    "School_Studies/School_Studies.md",
     "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
-    "School_Studies/!Chemistry/Organic Chemistry/Carboxylic Acids.md",
-    "School_Studies/!Chemistry/Organic Chemistry/Benzene.md",
-    "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
-    "School_Studies/!Chemistry/Organic Chemistry",
-    "School_Studies/!Chemistry/Chem unorganized.md",
     "School_Studies/!Chemistry/!Chemistry.md",
+    "School_Studies/!Physics/!Physics.md",
+    "School_Studies/!CS/!CS.md",
+    "School_Studies/!CS/Data Representation.md",
+    "README.md",
+    "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
+    "School_Studies/!Chemistry/Organic Chemistry/Benzene.md",
+    "Excalidraw/benzene.png",
+    "School_Studies/!Chemistry/Organic Chemistry/Carboxylic Acids.md",
+    "School_Studies/!Chemistry/Chem unorganized.md",
+    "School_Studies/!Chemistry/Organic Chemistry",
+    "Excalidraw/Mantissa and exponent.excalidraw.md",
     "School_Studies/!Physics/Thermodynamics.md",
     "School_Studies/!Physics/Thermal Physics.md",
     "School_Studies/!Physics/Ideal Gases.md",
     "School_Studies/!Physics/Circular Motion.md",
-    "School_Studies/!Physics/!Physics.md",
-    "School_Studies/!CS/Data Representation.md",
-    "School_Studies/!CS/!CS.md",
-    "School_Studies/School_Studies.md",
-    "School_Studies/!Chemistry",
-    "School_Studies/!Physics",
-    "School_Studies/!CS",
-    "School_Studies",
-    "0 Help.md/Pasted Image 20240619105930_233.png",
-    "0 Help.md/attachments/Pasted Image 20240619105930_233.png",
-    "0 Help.md/attachments/Pasted Image 20240619104133_108.png",
-    "0 Help.md/attachments/Pasted Image 20240619103650_650.png",
-    "0 Help.md/attachments/Pasted Image 20240619103533_634.png",
-    "0 Help.md/attachments/markus-spiske-666905-unsplash.jpg",
-    "0 Help.md/attachments/Drawing Pallet.png",
-    "0 Help.md/attachments",
-    "0 Help.md/Pasted Image 20240619104133_108.png",
-    "0 Help.md/Pasted Image 20240619103650_650.png",
-    "0 Help.md/Pasted Image 20240619103533_634.png",
+    "Excalidraw/benzene fast.gif",
+    "Excalidraw/benezene slow 1.gif",
+    "Excalidraw/benezene slow.gif",
+    "A Level A Class Timetable.png",
+    "conflict-files-obsidian-git.md",
     "0 Help.md/MathJax symbol reference.pdf",
-    "Excalidraw/Boyles Law.excalidraw.md",
-    "Excalidraw/benzyl.excalidraw.md",
-    "Excalidraw/bromine.excalidraw.md",
-    "Excalidraw/CS something.excalidraw.md",
-    "Excalidraw/chloro benzene.excalidraw.md",
-    "Excalidraw/Charles Law.excalidraw.md",
-    "Excalidraw/bonding benzene.excalidraw.md",
+    "0 Help.md/Obsidian-formatting.md",
+    "0 Help.md/MathJax.md",
+    "0 Help.md/Flashcards.md",
+    "0 Help.md/attachments",
+    "Laws of motion.md",
+    "Excalidraw/binary-floating-point-explainer.excalidraw.md",
+    "Excalidraw/chemthing.excalidraw.md",
     "Excalidraw/bromo ortho-cloro benzene.excalidraw.md",
-    "School studies/Chemistry/Carboxylic Acids.md",
-    "School studies/Chemistry/Chem unorganized.md",
-    "School studies/Chemistry/Benzene and its compounds.md",
-    "School studies/Chemistry/0. Chem.md",
+    "Excalidraw/somebenzenecompunds.excalidraw.md",
+    "Excalidraw/CS something.excalidraw.md",
+    "0 Help.md/attachments/Drawing Pallet.png",
+    "Excalidraw/benzene Double bond.png",
+    "0 Help.md/Pasted Image 20240619103445_600.png",
+    "Excalidraw/Pasted image 20240615073438.png",
+    "0 Help.md/attachments/Pasted Image 20240619105930_233.png",
     "obsidian format/MathJax symbol reference .html",
     "Excalidraw/pngwing.com.png.crdownload",
     "Untitled.pdf",
+    "Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
+    "Cambridge International AS and A Levels Computer Science by David Watson, Helen Williams (z-lib.org).pdf",
+    "School studies/Chemistry/Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
+    "School studies/CS/Cambridge International AS and A Levels Computer Science by David Watson, Helen Williams (z-lib.org).pdf",
     "Excalidraw/Untitled.canvas",
     "School studies/AS LEVEL/Chem notes/Organic chem.canvas",
     "School studies/AS LEVEL/CS/Logic gates.canvas",
