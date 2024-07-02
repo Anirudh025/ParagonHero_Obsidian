@@ -34,19 +34,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0ac02b13de3b5a21",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://excalidraw.com"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,7 +127,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md"
+              }
             }
           }
         ],
@@ -168,7 +160,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md"
+              }
             }
           },
           {
@@ -208,6 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,6 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -264,7 +260,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "0ac02b13de3b5a21",
+  "active": "056d8d2eeaadd5b5",
   "lastOpenFiles": [
     "README.md",
     "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
