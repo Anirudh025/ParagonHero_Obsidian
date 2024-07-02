@@ -22,8 +22,8 @@ Status: incomplete
 			- 
 			- ![[general amino acid formula.excalidraw]]
 			- ![[zwitter ion.excalidraw]]
-> 			[!info] 
-
+>[!info] Tautomerism :: shifting of atoms within molecule
+>[!]
 
 
 
