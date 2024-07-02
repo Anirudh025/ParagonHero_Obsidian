@@ -34,29 +34,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d2221d30453392c6",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/general amino acid formula.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "ece5f732eda3c1ef",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/zwitter ion.excalidraw.md"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/zwitter ion.excalidraw.md"
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md"
               }
             }
           }
@@ -181,7 +161,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/zwitter ion.excalidraw.md"
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md"
               }
             }
           },
@@ -222,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/zwitter ion.excalidraw.md",
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/zwitter ion.excalidraw.md",
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -280,12 +260,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ece5f732eda3c1ef",
+  "active": "056d8d2eeaadd5b5",
   "lastOpenFiles": [
     "Excalidraw/general amino acid formula.excalidraw.md",
+    "Excalidraw/zwitter ion.excalidraw.md",
     "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
     "CSS snippets,",
-    "Excalidraw/zwitter ion.excalidraw.md",
     "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
     "Excalidraw/Diazotization.excalidraw.md",
     "README.md",
