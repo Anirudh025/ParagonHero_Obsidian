@@ -12,3 +12,6 @@ For an electric field:
 3. The strength of the electric field is indicated by the closeness of the field lines; the closer the field lines, the stronger the electric field.
 
 Electric Field Strength
+- The electric field strength at a point is defined as the force per unit charge acting on a small stationary positive charge placed at that point.
+
+E = F
