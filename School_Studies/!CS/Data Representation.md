@@ -207,11 +207,7 @@ using 8 bits for Mantissa & 8 bits for exponent
 01
 
 0.101001
-    1
-101001
-0101101
-	   1
----------
+
 
 
 100
