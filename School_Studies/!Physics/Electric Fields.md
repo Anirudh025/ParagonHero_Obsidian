@@ -9,6 +9,7 @@ Static Charge
 For an electric field: 
 1. A line of force starts on a positive charge and ends on a negative charge
 2. The lines of force are smooth curves that never touch or cross.
+3. The strength of the electric field is indicated by the closeness of the field lines; the closer the lines, the stronger the field.
 
 
 
