@@ -206,6 +206,7 @@ using 8 bits for Mantissa & 8 bits for exponent
 0.5 * 2 = 1.0
 01
 
+0.101001
 
-
-
+101001
+100
