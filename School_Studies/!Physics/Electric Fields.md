@@ -17,3 +17,4 @@ Electric Field Strength
 
 Uniform Electric Fields
 - A uniform field is where the electric field strength is the same at all points in the field
+- E = V/d
