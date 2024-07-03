@@ -200,6 +200,8 @@ using 8 bits for Mantissa & 8 bits for exponent
 >010010010010
 >
 
+-10.25
+-10 = -1010
 
 
 
