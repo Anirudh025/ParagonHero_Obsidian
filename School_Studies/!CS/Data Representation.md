@@ -202,7 +202,9 @@ using 8 bits for Mantissa & 8 bits for exponent
 
 -10.25
 -10 = -1010
-
+0.25 * 2 =  0.5
+0.5 * 2 = 1.0
+01
 
 
 
