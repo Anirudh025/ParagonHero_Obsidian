@@ -15,4 +15,5 @@ Electric Field Strength
 - The electric field strength at a point is defined as the force per unit charge acting on a small stationary positive charge placed at that point.
 - E = F/q E - Electric Field Strength 
 
-Inverse Square Law
+Uniform Electric Fields
+- A uniform field is hw
