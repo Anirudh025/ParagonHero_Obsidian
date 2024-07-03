@@ -8,34 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9a069a44a9fa7a3e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "10fe4c759313a966",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School_Studies/!Physics/!Physics.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fda6fccef0f95552",
             "type": "leaf",
             "state": {
@@ -47,48 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "062c9dc8cf70022c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9b43b57754932de0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School_Studies/!CS/Data Representation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "20eb11ccde40e740",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School_Studies/!CS/Data Representation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "School_Studies/!Physics/Electric Fields.md"
               }
             }
           },
@@ -220,7 +152,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "School_Studies/!Physics/Electric Fields.md"
               }
             }
           },
@@ -261,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "School_Studies/!Physics/Electric Fields.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -278,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "School_Studies/!Physics/Electric Fields.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -311,12 +243,12 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "9317a1770b4fbb1c",
+  "active": "fda6fccef0f95552",
   "lastOpenFiles": [
-    "School_Studies/!Physics/Electric Fields.md",
-    "conflict-files-obsidian-git.md",
-    "School_Studies/!Physics/!Physics.md",
     "README.md",
+    "conflict-files-obsidian-git.md",
+    "School_Studies/!Physics/Electric Fields.md",
+    "School_Studies/!Physics/!Physics.md",
     "School_Studies/!CS/Data Representation.md",
     "School_Studies/!Chemistry/!Chemistry.md",
     "School_Studies/!CS/!CS.md",
