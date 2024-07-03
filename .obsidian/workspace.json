@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Studies/!CS/Data Representation.md"
+                "file": "README.md"
               }
             }
           }
@@ -175,7 +174,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School_Studies/!CS/Data Representation.md"
+                "file": "README.md"
               }
             }
           },
@@ -216,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Studies/!CS/Data Representation.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Studies/!CS/Data Representation.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -252,8 +251,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5,
-    "collapsed": true
+    "width": 227.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -275,8 +273,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "5120f1af8f2b0f69",
+  "active": "69cc07cc3c94bfe8",
   "lastOpenFiles": [
+    "School_Studies/!CS/Data Representation.md",
     "README.md",
     "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
     "Excalidraw/general amino acid formula.excalidraw.md",
@@ -290,7 +289,6 @@
     "School_Studies/!Physics/Circular Motion.md",
     "School_Studies/!Physics/!Physics.md",
     "School_Studies/!CS/!CS.md",
-    "School_Studies/!CS/Data Representation.md",
     "School_Studies/!Chemistry/Organic Chemistry/Benzene.md",
     "Excalidraw/benzene.png",
     "School_Studies/!Chemistry/Organic Chemistry/Carboxylic Acids.md",
