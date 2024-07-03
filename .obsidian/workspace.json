@@ -11,9 +11,12 @@
             "id": "fda6fccef0f95552",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "0 Help.md/MathJax symbol reference.pdf"
+                "file": "School_Studies/!Physics/Electric Fields.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -139,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 Help.md/MathJax symbol reference.pdf"
+                "file": "School_Studies/!Physics/Electric Fields.md"
               }
             }
           },
@@ -149,7 +152,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0 Help.md/MathJax symbol reference.pdf"
+                "file": "School_Studies/!Physics/Electric Fields.md"
               }
             }
           },
@@ -190,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 Help.md/MathJax symbol reference.pdf",
+                "file": "School_Studies/!Physics/Electric Fields.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0 Help.md/MathJax symbol reference.pdf",
+                "file": "School_Studies/!Physics/Electric Fields.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -242,6 +245,7 @@
   },
   "active": "fda6fccef0f95552",
   "lastOpenFiles": [
+    "0 Help.md/MathJax symbol reference.pdf",
     "0 Help.md/MathJax.md",
     "School_Studies/!Physics/Electric Fields.md",
     "README.md",
@@ -276,7 +280,6 @@
     "0 Help.md/Pasted Image 20240619104133_108.png",
     "0 Help.md/Pasted Image 20240619103650_650.png",
     "0 Help.md/Pasted Image 20240619103533_634.png",
-    "0 Help.md/MathJax symbol reference.pdf",
     "Excalidraw/Boyles Law.excalidraw.md",
     "Excalidraw/benzyl.excalidraw.md",
     "Excalidraw/bromine.excalidraw.md",
@@ -284,7 +287,6 @@
     "Excalidraw/chloro benzene.excalidraw.md",
     "Excalidraw/Charles Law.excalidraw.md",
     "Excalidraw/bonding benzene.excalidraw.md",
-    "Excalidraw/bromo ortho-cloro benzene.excalidraw.md",
     "obsidian format/MathJax symbol reference .html",
     "Excalidraw/pngwing.com.png.crdownload",
     "Untitled.pdf",
