@@ -23,6 +23,45 @@
             }
           },
           {
+            "id": "10fe4c759313a966",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School_Studies/!Physics/!Physics.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fda6fccef0f95552",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School_Studies/!Physics/Electric Fields.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "062c9dc8cf70022c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9b43b57754932de0",
             "type": "leaf",
             "state": {
@@ -49,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -158,8 +197,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "cb675aca7cd66052",
@@ -172,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Studies/!CS/Data Representation.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -182,7 +220,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School_Studies/!CS/Data Representation.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -223,7 +261,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Studies/!CS/Data Representation.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,7 +278,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Studies/!CS/Data Representation.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -273,15 +311,17 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "20eb11ccde40e740",
+  "active": "9317a1770b4fbb1c",
   "lastOpenFiles": [
-    "School_Studies/!Chemistry/!Chemistry.md",
-    "School_Studies/!CS/Data Representation.md",
+    "School_Studies/!Physics/Electric Fields.md",
+    "conflict-files-obsidian-git.md",
+    "School_Studies/!Physics/!Physics.md",
     "README.md",
+    "School_Studies/!CS/Data Representation.md",
+    "School_Studies/!Chemistry/!Chemistry.md",
     "School_Studies/!CS/!CS.md",
     "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
     "School_Studies/!Chemistry/Chem unorganized.md",
-    "conflict-files-obsidian-git.md",
     "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
     "School_Studies/!Chemistry/Organic Chemistry/Carboxylic Acids.md",
     "School_Studies/!Chemistry/Organic Chemistry/Benzene.md",
@@ -290,7 +330,6 @@
     "School_Studies/!Physics/Thermal Physics.md",
     "School_Studies/!Physics/Ideal Gases.md",
     "School_Studies/!Physics/Circular Motion.md",
-    "School_Studies/!Physics/!Physics.md",
     "School_Studies/School_Studies.md",
     "School_Studies/!Chemistry",
     "School_Studies/!Physics",
@@ -317,7 +356,6 @@
     "Excalidraw/bonding benzene.excalidraw.md",
     "Excalidraw/bromo ortho-cloro benzene.excalidraw.md",
     "School studies/Chemistry/Carboxylic Acids.md",
-    "School studies/Chemistry/Chem unorganized.md",
     "obsidian format/MathJax symbol reference .html",
     "Excalidraw/pngwing.com.png.crdownload",
     "Untitled.pdf",
