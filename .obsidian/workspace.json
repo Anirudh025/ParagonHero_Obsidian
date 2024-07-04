@@ -91,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "d967d98868519a35",
@@ -145,8 +144,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "cb675aca7cd66052",
@@ -273,10 +271,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "69cc07cc3c94bfe8",
+  "active": "9317a1770b4fbb1c",
   "lastOpenFiles": [
-    "School_Studies/!CS/Data Representation.md",
+    "conflict-files-obsidian-git.md",
     "README.md",
+    "School_Studies/!Physics/Electric Fields.md",
+    "School_Studies/!CS/Data Representation.md",
     "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
     "Excalidraw/general amino acid formula.excalidraw.md",
     "Excalidraw/zwitter ion.excalidraw.md",
@@ -301,7 +301,6 @@
     "Excalidraw/benezene slow 1.gif",
     "Excalidraw/benezene slow.gif",
     "A Level A Class Timetable.png",
-    "conflict-files-obsidian-git.md",
     "0 Help.md/MathJax symbol reference.pdf",
     "0 Help.md/Obsidian-formatting.md",
     "0 Help.md/MathJax.md",
