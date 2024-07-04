@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
+                "file": "School_Studies/!CS/Data Representation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md"
+                "file": "School_Studies/!CS/Data Representation.md"
               }
             }
           }
@@ -144,7 +144,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md"
+                "file": "School_Studies/!CS/Data Representation.md"
               }
             }
           },
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
+                "file": "School_Studies/!CS/Data Representation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
+                "file": "School_Studies/!CS/Data Representation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -245,6 +245,8 @@
   },
   "active": "11083a66391c4290",
   "lastOpenFiles": [
+    "School_Studies/!CS/!CS.md",
+    "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
     "School_Studies/!Chemistry/!Chemistry.md",
     "School_Studies/School_Studies.md",
     "README.md",
@@ -255,12 +257,10 @@
     "Excalidraw/general amino acid formula.excalidraw.md",
     "Excalidraw/zwitter ion.excalidraw.md",
     "CSS snippets,",
-    "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
     "Excalidraw/Diazotization.excalidraw.md",
     "School_Studies/!Chemistry/Chem unorganized.md",
     "School_Studies/!Physics/Circular Motion.md",
     "School_Studies/!Physics/!Physics.md",
-    "School_Studies/!CS/!CS.md",
     "School_Studies/!Chemistry/Organic Chemistry/Benzene.md",
     "Excalidraw/benzene.png",
     "School_Studies/!Chemistry/Organic Chemistry/Carboxylic Acids.md",
