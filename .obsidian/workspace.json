@@ -4,52 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "434b65e0b0f17725",
+        "id": "518dab396ac8e17e",
         "type": "tabs",
         "children": [
           {
-            "id": "056d8d2eeaadd5b5",
+            "id": "11083a66391c4290",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
-            }
-          },
-          {
-            "id": "5120f1af8f2b0f69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School_Studies/!CS/Data Representation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eeb2934459e534e2",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -141,12 +112,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "cb675aca7cd66052",
@@ -174,7 +144,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "README.md"
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md"
               }
             }
           },
@@ -215,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -273,10 +243,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "eeb2934459e534e2",
+  "active": "11083a66391c4290",
   "lastOpenFiles": [
-    "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
+    "School_Studies/!Chemistry/!Chemistry.md",
+    "School_Studies/School_Studies.md",
     "README.md",
+    "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
     "conflict-files-obsidian-git.md",
     "School_Studies/!Physics/Electric Fields.md",
     "School_Studies/!CS/Data Representation.md",
@@ -285,8 +257,6 @@
     "CSS snippets,",
     "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
     "Excalidraw/Diazotization.excalidraw.md",
-    "School_Studies/!Chemistry/!Chemistry.md",
-    "School_Studies/School_Studies.md",
     "School_Studies/!Chemistry/Chem unorganized.md",
     "School_Studies/!Physics/Circular Motion.md",
     "School_Studies/!Physics/!Physics.md",
