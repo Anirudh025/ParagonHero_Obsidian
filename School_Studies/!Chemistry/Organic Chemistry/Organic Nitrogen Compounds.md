@@ -41,8 +41,8 @@ Status: incomplete
 				- R-C(=O)-Cl + NH₃ --> R-C(=O)-NH<sub>2</sub> 
 			2.  Secondary Amide:
 				1. R-C(=O)-Cl + NH₃ --> R-C(=O)-N(H)-C(=O)-R
-			3. Acyl chlorid:
-				1. N
+			3. Acyl chloride + Amine:
+				1. R-C(=O)-Cl + NH₃ --> R-C(=O)-N(H)-C(=O)-R
 
 
 
