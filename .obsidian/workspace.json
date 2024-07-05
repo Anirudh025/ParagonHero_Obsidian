@@ -19,8 +19,24 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8052b7382ac04b2d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,11 +128,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Studies/!CS/Data Representation.md"
+                "file": "README.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "cb675aca7cd66052",
@@ -144,7 +161,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School_Studies/!CS/Data Representation.md"
+                "file": "README.md"
               }
             }
           },
@@ -185,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Studies/!CS/Data Representation.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Studies/!CS/Data Representation.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -243,8 +260,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "11083a66391c4290",
+  "active": "8052b7382ac04b2d",
   "lastOpenFiles": [
+    "School_Studies/!CS/Data Representation.md",
     "School_Studies/!CS/!CS.md",
     "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
     "School_Studies/!Chemistry/!Chemistry.md",
@@ -253,7 +271,6 @@
     "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
     "conflict-files-obsidian-git.md",
     "School_Studies/!Physics/Electric Fields.md",
-    "School_Studies/!CS/Data Representation.md",
     "Excalidraw/general amino acid formula.excalidraw.md",
     "Excalidraw/zwitter ion.excalidraw.md",
     "CSS snippets,",
