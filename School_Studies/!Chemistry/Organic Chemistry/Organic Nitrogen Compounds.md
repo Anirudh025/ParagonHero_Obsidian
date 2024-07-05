@@ -38,7 +38,8 @@ Status: incomplete
 	13. Difference of Amide and Amine ![[amine amide.excalidraw]]
 		1. preparing amide:
 			1. R-C(=O)-Cl + NH₃ --> R-C(=O)-NH<sub>2</sub> 
-			2.  R-C(=O)-Cl + NH₃ --> R-C(=O)-NH<sub></sub> 
+			2.  R-C(=O)-Cl + NH₃ --> R-C(=O)-N(H)-C(=O)-R
+			3. 
 
 
 
