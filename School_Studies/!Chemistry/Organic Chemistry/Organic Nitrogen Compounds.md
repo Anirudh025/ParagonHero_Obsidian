@@ -43,6 +43,6 @@ Status: incomplete
 				1. R-C(=O)-Cl + NH₃ --> R-C(=O)-N(H)-C(=O)-R
 			3. Acyl chloride + Amine:
 				-  R-C(=O)-Cl + NH<sub>2</sub>CH<sub>3</sub> --> R-C(=O)-N(H)-C(=O)-CH<sub>3</sub>
-			4. 
+		2. Hydrolysis of amide ![[Hydrolysis of amide.excalidraw]]
 
 
