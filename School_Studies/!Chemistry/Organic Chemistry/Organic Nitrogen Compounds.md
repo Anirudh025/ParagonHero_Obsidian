@@ -37,7 +37,7 @@ Status: incomplete
 		1. when a C-N-C bond form from replacement of H-OH
 	13. Difference of Amide and Amine ![[amine amide.excalidraw]]
 		1. preparing amide:
-			1. Acyl
+			1. Acyl Chloride + NH₃ --> 
 
 
 
