@@ -25,10 +25,9 @@ Status: incomplete
 >[!info] Tautomerism :: shifting of atoms within molecule
 
 >[!info] Electrometric effect :: Reagent inducing a charge in reactant
->
+>		
 
-
-
+	 9. 
 
 
 
