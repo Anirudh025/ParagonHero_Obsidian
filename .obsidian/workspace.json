@@ -36,27 +36,17 @@
             }
           },
           {
-            "id": "b12c134f9549f3fc",
+            "id": "0fe626ab5e8f8b3c",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Hydrolysis of amide.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "90b6fda688dd6272",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/amine amide.excalidraw.md"
+                "file": "Excalidraw/Amine.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -148,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md"
+                "file": "Excalidraw/Amine.md"
               }
             }
           }
@@ -181,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md"
+                "file": "Excalidraw/Amine.md"
               }
             }
           },
@@ -222,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
+                "file": "Excalidraw/Amine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
+                "file": "Excalidraw/Amine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -280,10 +270,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e990237c48848b44",
+  "active": "0fe626ab5e8f8b3c",
   "lastOpenFiles": [
-    "Excalidraw/Hydrolysis of amide.excalidraw.md",
     "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
+    "Excalidraw/Amine.md",
+    "Excalidraw/Hydrolysis of amide.excalidraw.md",
     "Excalidraw/amine amide.excalidraw.md",
     "Excalidraw/peptide.excalidraw.md",
     "Excalidraw/electrophoresis.excalidraw.md",
@@ -315,7 +306,6 @@
     "Excalidraw/benezene slow.gif",
     "A Level A Class Timetable.png",
     "0 Help.md/MathJax symbol reference.pdf",
-    "0 Help.md/Obsidian-formatting.md",
     "0 Help.md/attachments",
     "0 Help.md/attachments/Drawing Pallet.png",
     "Excalidraw/benzene Double bond.png",
