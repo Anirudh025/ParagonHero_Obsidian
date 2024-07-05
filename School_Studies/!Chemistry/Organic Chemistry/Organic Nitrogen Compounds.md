@@ -27,10 +27,11 @@ Status: incomplete
 >[!info] Electrometric effect :: Reagent inducing a charge in reactant
 >		
 - Cont...
-	9. Remember formulae for lysine, glycine and alenine
-	10. Zwitter ion has pH of 7, electrically inert
-	11. When we decrease PH we get positive ion
-
+	9. Remember formulae for lysine, glycine and alanine
+	10. Zwitterion has pH of 7, electrically inert
+		1. When we decrease pH we get positive ion
+		2. When we increase pH we get anion
+	11.  
 
 
 
