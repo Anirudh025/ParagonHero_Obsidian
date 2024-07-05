@@ -27,7 +27,7 @@ Status: incomplete
 >[!info] Electrometric effect :: Reagent inducing a charge in reactant
 >		
 
-	 9. 
+	 9. Remember formulae for lysine, glycine and alenine 
 
 
 
