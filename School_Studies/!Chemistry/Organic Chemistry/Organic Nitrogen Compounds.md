@@ -32,8 +32,9 @@ Status: incomplete
 		1. When we decrease pH we get positive ion #todo/chemistry/draw
 		2. When we increase pH we get anion #todo/chemistry/draw
 		3. This is a technique used to separate amino acids
-	11.  Electrophoresis ![[electrophoresis.excalidraw]] 
-
+	11.  Electrophoresis ![[electrophoresis.excalidraw]]
+	12. Peptide linkages
+		1. when a C-N-C bond form from replacement of
 
 
 

@@ -59,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/electrophoresis.excalidraw.md"
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md"
               }
             }
           }
@@ -184,7 +184,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/electrophoresis.excalidraw.md"
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md"
               }
             }
           },
@@ -225,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/electrophoresis.excalidraw.md",
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +242,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/electrophoresis.excalidraw.md",
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -283,10 +283,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "fc6693d6e8e00a02",
+  "active": "e990237c48848b44",
   "lastOpenFiles": [
-    "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
     "Excalidraw/electrophoresis.excalidraw.md",
+    "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
     "README.md",
     "School_Studies/!CS/Data Representation.md",
     "School_Studies/!CS/!CS.md",
