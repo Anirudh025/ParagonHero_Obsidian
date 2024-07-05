@@ -12,6 +12,8 @@ Amine ^PD1qLESW
 
 H₃C-N-H ^yYHzP1C8
 
+H ^jBKDgcey
+
 %%
 # Drawing
 ```json
@@ -97,10 +99,10 @@ H₃C-N-H ^yYHzP1C8
 		{
 			"id": "YJoK2NM8DoF078k3UFAqP",
 			"type": "line",
-			"x": 59.9612259214033,
+			"x": 60.9612259214033,
 			"y": -174.12875801552636,
-			"width": 1.63574993671034,
-			"height": 7.360762398875892,
+			"width": 0.8178375295816238,
+			"height": 5.452408272032443,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -113,11 +115,11 @@ H₃C-N-H ^yYHzP1C8
 			"frameId": null,
 			"roundness": null,
 			"seed": 429714488,
-			"version": 45,
-			"versionNonce": 345257288,
+			"version": 97,
+			"versionNonce": 1825992776,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1720149519768,
+			"updated": 1720149555528,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -126,8 +128,8 @@ H₃C-N-H ^yYHzP1C8
 					0
 				],
 				[
-					-1.63574993671034,
-					7.360762398875892
+					0.8178375295816238,
+					5.452408272032443
 				]
 			],
 			"lastCommittedPoint": null,
@@ -135,6 +137,43 @@ H₃C-N-H ^yYHzP1C8
 			"endBinding": null,
 			"startArrowhead": null,
 			"endArrowhead": null
+		},
+		{
+			"id": "jBKDgcey",
+			"type": "text",
+			"x": 55.780242645244414,
+			"y": -172.31324143569017,
+			"width": 11.019989013671875,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 679329096,
+			"version": 31,
+			"versionNonce": 601575496,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1720149566699,
+			"link": null,
+			"locked": false,
+			"text": "H",
+			"rawText": "H",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 17,
+			"containerId": null,
+			"originalText": "H",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
