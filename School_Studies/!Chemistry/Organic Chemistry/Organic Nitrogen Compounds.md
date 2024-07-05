@@ -37,9 +37,12 @@ Status: incomplete
 		1. when a C-N-C bond form from replacement of H-OH
 	13. Difference of Amide and Amine ![[amine amide.excalidraw]]
 		1. preparing amide:
-			1. R-C(=O)-Cl + NH₃ --> R-C(=O)-NH<sub>2</sub> 
-			2.  R-C(=O)-Cl + NH₃ --> R-C(=O)-N(H)-C(=O)-R
-			3. 
+			1. Primary Amide
+				- R-C(=O)-Cl + NH₃ --> R-C(=O)-NH<sub>2</sub> 
+			2.  Secondary Amide:
+				1. R-C(=O)-Cl + NH₃ --> R-C(=O)-N(H)-C(=O)-R
+			3. Acyl chlorid:
+				1. N
 
 
 
