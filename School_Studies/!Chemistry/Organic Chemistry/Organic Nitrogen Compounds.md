@@ -29,8 +29,9 @@ Status: incomplete
 - Cont...
 	9. Remember formulae for lysine, glycine and alanine
 	10. Zwitterion has pH of 7, electrically inert
-		1. When we decrease pH we get positive ion
-		2. When we increase pH we get anion
+		1. When we decrease pH we get positive ion #todo/chemistry/draw
+		2. When we increase pH we get anion #todo/chemistry/draw
+		3. This is a technique used to separate amino acids
 	11.  
 
 
