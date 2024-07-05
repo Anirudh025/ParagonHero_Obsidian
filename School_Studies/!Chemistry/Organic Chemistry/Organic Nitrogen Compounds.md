@@ -35,7 +35,7 @@ Status: incomplete
 	11.  Electrophoresis ![[electrophoresis.excalidraw]]
 	12. Peptide linkages
 		1. when a C-N-C bond form from replacement of H-OH
-	13. 
+	13. Difference of Amide and Amine ![[amine amide.excalidraw]]
 
 
 
