@@ -34,7 +34,8 @@ Status: incomplete
 		3. This is a technique used to separate amino acids
 	11.  Electrophoresis ![[electrophoresis.excalidraw]]
 	12. Peptide linkages
-		1. when a C-N-C bond form from replacement of
+		1. when a C-N-C bond form from replacement of H-OH
+	13. 
 
 
 
