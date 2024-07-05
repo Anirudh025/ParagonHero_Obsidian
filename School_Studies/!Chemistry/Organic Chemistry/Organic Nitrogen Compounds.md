@@ -28,8 +28,8 @@ Status: incomplete
 >		
 
 	 9. Remember formulae for lysine, glycine and alenine 
-
-
+	 10. Zwitter ion has pH of 7, elecetrically inert
+	 11. When we decrease PH we get positive ion
 
 
 
