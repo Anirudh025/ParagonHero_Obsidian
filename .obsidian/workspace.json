@@ -36,6 +36,16 @@
             }
           },
           {
+            "id": "b12c134f9549f3fc",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-07-05 08.21.28.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "90b6fda688dd6272",
             "type": "leaf",
             "state": {
@@ -46,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md"
+                "file": "Excalidraw/Drawing 2024-07-05 08.21.28.excalidraw.md"
               }
             }
           }
@@ -171,7 +181,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md"
+                "file": "Excalidraw/Drawing 2024-07-05 08.21.28.excalidraw.md"
               }
             }
           },
@@ -212,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
+                "file": "Excalidraw/Drawing 2024-07-05 08.21.28.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +239,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
+                "file": "Excalidraw/Drawing 2024-07-05 08.21.28.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -270,10 +280,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e990237c48848b44",
+  "active": "b12c134f9549f3fc",
   "lastOpenFiles": [
-    "Excalidraw/amine amide.excalidraw.md",
     "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
+    "Excalidraw/Drawing 2024-07-05 08.21.28.excalidraw.md",
+    "Excalidraw/amine amide.excalidraw.md",
     "Excalidraw/peptide.excalidraw.md",
     "Excalidraw/electrophoresis.excalidraw.md",
     "README.md",
@@ -305,7 +316,6 @@
     "A Level A Class Timetable.png",
     "0 Help.md/MathJax symbol reference.pdf",
     "0 Help.md/Obsidian-formatting.md",
-    "0 Help.md/MathJax.md",
     "0 Help.md/attachments",
     "0 Help.md/attachments/Drawing Pallet.png",
     "Excalidraw/benzene Double bond.png",
