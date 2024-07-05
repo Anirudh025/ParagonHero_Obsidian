@@ -36,12 +36,12 @@
             }
           },
           {
-            "id": "a15c3f86789879be",
+            "id": "90b6fda688dd6272",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-05 08.03.38.excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-07-05 08.08.24.excalidraw.md"
               }
             }
           }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-05 08.03.38.excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-07-05 08.08.24.excalidraw.md"
               }
             }
           }
@@ -172,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-05 08.03.38.excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-07-05 08.08.24.excalidraw.md"
               }
             }
           },
@@ -213,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-05 08.03.38.excalidraw.md",
+                "file": "Excalidraw/Drawing 2024-07-05 08.08.24.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-05 08.03.38.excalidraw.md",
+                "file": "Excalidraw/Drawing 2024-07-05 08.08.24.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -249,8 +249,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5,
-    "collapsed": true
+    "width": 227.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -272,10 +271,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a15c3f86789879be",
+  "active": "90b6fda688dd6272",
   "lastOpenFiles": [
     "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
-    "Excalidraw/Drawing 2024-07-05 08.03.38.excalidraw.md",
+    "Excalidraw/Drawing 2024-07-05 08.08.24.excalidraw.md",
+    "Excalidraw/peptide.excalidraw.md",
     "Excalidraw/electrophoresis.excalidraw.md",
     "README.md",
     "School_Studies/!CS/Data Representation.md",
@@ -307,7 +307,6 @@
     "0 Help.md/MathJax symbol reference.pdf",
     "0 Help.md/Obsidian-formatting.md",
     "0 Help.md/MathJax.md",
-    "0 Help.md/Flashcards.md",
     "0 Help.md/attachments",
     "0 Help.md/attachments/Drawing Pallet.png",
     "Excalidraw/benzene Double bond.png",
