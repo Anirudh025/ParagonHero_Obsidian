@@ -35,8 +35,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md"
+                "file": "README.md"
               }
             }
           }
@@ -161,7 +160,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md"
+                "file": "README.md"
               }
             }
           },
@@ -202,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -260,10 +259,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e990237c48848b44",
+  "active": "8052b7382ac04b2d",
   "lastOpenFiles": [
-    "Excalidraw/Amine.md",
     "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
+    "Excalidraw/Amine.md",
     "Excalidraw/Drawing 2024-07-05 08.51.52.excalidraw.md",
     "Excalidraw/Hydrolysis of amide.excalidraw.md",
     "Excalidraw/amine amide.excalidraw.md",
