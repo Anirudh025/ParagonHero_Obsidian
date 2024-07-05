@@ -4,7 +4,7 @@ Status: incomplete
 ---
 - Chapter goals
 	1. What is Amine
-		- ![[Amine|150]]
+		- RNH![[Amine|100]]
 	2. Basicity of Amine
 	3. Preparation of Amine
 - Questions to answer
