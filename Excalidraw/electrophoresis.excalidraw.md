@@ -51,8 +51,8 @@ Range of pH gels ^inQ4GAXJ
 				"type": 3
 			},
 			"seed": 1763837496,
-			"version": 201,
-			"versionNonce": 782426936,
+			"version": 202,
+			"versionNonce": 1545391688,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -60,7 +60,7 @@ Range of pH gels ^inQ4GAXJ
 					"type": "arrow"
 				}
 			],
-			"updated": 1720146606167,
+			"updated": 1720146647420,
 			"link": null,
 			"locked": false
 		},
@@ -85,11 +85,11 @@ Range of pH gels ^inQ4GAXJ
 				"type": 2
 			},
 			"seed": 2012379720,
-			"version": 402,
-			"versionNonce": 242235448,
+			"version": 403,
+			"versionNonce": 462690872,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1720146597704,
+			"updated": 1720146647420,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -114,8 +114,8 @@ Range of pH gels ^inQ4GAXJ
 		},
 		{
 			"type": "line",
-			"version": 467,
-			"versionNonce": 2046330696,
+			"version": 468,
+			"versionNonce": 721143112,
 			"isDeleted": false,
 			"id": "6EJDyQK2sIl2zxkpu3AKc",
 			"fillStyle": "hachure",
@@ -137,7 +137,7 @@ Range of pH gels ^inQ4GAXJ
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1720146597704,
+			"updated": 1720146647420,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -181,11 +181,11 @@ Range of pH gels ^inQ4GAXJ
 				"type": 2
 			},
 			"seed": 328807736,
-			"version": 173,
-			"versionNonce": 623669560,
+			"version": 174,
+			"versionNonce": 1736708920,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1720146597704,
+			"updated": 1720146647420,
 			"link": null,
 			"locked": false
 		},
@@ -208,11 +208,16 @@ Range of pH gels ^inQ4GAXJ
 			"frameId": null,
 			"roundness": null,
 			"seed": 761424696,
-			"version": 164,
-			"versionNonce": 1727553096,
+			"version": 167,
+			"versionNonce": 937559352,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1720146597704,
+			"boundElements": [
+				{
+					"id": "N-yDA9zJBsJZuhbVUfgnn",
+					"type": "arrow"
+				}
+			],
+			"updated": 1720146654025,
 			"link": null,
 			"locked": false,
 			"text": "~",
@@ -228,8 +233,8 @@ Range of pH gels ^inQ4GAXJ
 		},
 		{
 			"type": "text",
-			"version": 224,
-			"versionNonce": 1777961528,
+			"version": 226,
+			"versionNonce": 1791695672,
 			"isDeleted": false,
 			"id": "0nxS7tt2",
 			"fillStyle": "hachure",
@@ -248,8 +253,13 @@ Range of pH gels ^inQ4GAXJ
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": [],
-			"updated": 1720146597704,
+			"boundElements": [
+				{
+					"id": "3jSvClgo4OPE4k-04SK4V",
+					"type": "arrow"
+				}
+			],
+			"updated": 1720146672351,
 			"link": null,
 			"locked": false,
 			"fontSize": 78.660328490495,
@@ -265,8 +275,8 @@ Range of pH gels ^inQ4GAXJ
 		},
 		{
 			"type": "text",
-			"version": 232,
-			"versionNonce": 1944409416,
+			"version": 233,
+			"versionNonce": 1337004872,
 			"isDeleted": false,
 			"id": "YqFdkTrL",
 			"fillStyle": "hachure",
@@ -286,7 +296,7 @@ Range of pH gels ^inQ4GAXJ
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1720146597704,
+			"updated": 1720146647421,
 			"link": null,
 			"locked": false,
 			"fontSize": 78.660328490495,
@@ -302,8 +312,8 @@ Range of pH gels ^inQ4GAXJ
 		},
 		{
 			"type": "text",
-			"version": 204,
-			"versionNonce": 666600248,
+			"version": 205,
+			"versionNonce": 236102968,
 			"isDeleted": false,
 			"id": "qa0hPElG",
 			"fillStyle": "hachure",
@@ -323,7 +333,7 @@ Range of pH gels ^inQ4GAXJ
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1720146597704,
+			"updated": 1720146647421,
 			"link": null,
 			"locked": false,
 			"fontSize": 78.660328490495,
@@ -339,8 +349,8 @@ Range of pH gels ^inQ4GAXJ
 		},
 		{
 			"type": "text",
-			"version": 237,
-			"versionNonce": 2145903672,
+			"version": 238,
+			"versionNonce": 230648392,
 			"isDeleted": false,
 			"id": "n3w7FPhJ",
 			"fillStyle": "hachure",
@@ -360,7 +370,7 @@ Range of pH gels ^inQ4GAXJ
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1720146618081,
+			"updated": 1720146647421,
 			"link": null,
 			"locked": false,
 			"fontSize": 78.660328490495,
@@ -376,8 +386,8 @@ Range of pH gels ^inQ4GAXJ
 		},
 		{
 			"type": "text",
-			"version": 297,
-			"versionNonce": 752245816,
+			"version": 299,
+			"versionNonce": 1014869816,
 			"isDeleted": false,
 			"id": "zFmy5jYP",
 			"fillStyle": "hachure",
@@ -396,8 +406,13 @@ Range of pH gels ^inQ4GAXJ
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": [],
-			"updated": 1720146597705,
+			"boundElements": [
+				{
+					"id": "cBywavnV_XSciuXVlRD73",
+					"type": "arrow"
+				}
+			],
+			"updated": 1720146681501,
 			"link": null,
 			"locked": false,
 			"fontSize": 78.660328490495,
@@ -432,11 +447,11 @@ Range of pH gels ^inQ4GAXJ
 				"type": 2
 			},
 			"seed": 659062856,
-			"version": 183,
-			"versionNonce": 2004263752,
+			"version": 184,
+			"versionNonce": 1173021000,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1720146597705,
+			"updated": 1720146647421,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -457,8 +472,8 @@ Range of pH gels ^inQ4GAXJ
 		},
 		{
 			"type": "line",
-			"version": 255,
-			"versionNonce": 1529746744,
+			"version": 256,
+			"versionNonce": 195344184,
 			"isDeleted": false,
 			"id": "8O1PfFQ4rgioXUofOLNyO",
 			"fillStyle": "hachure",
@@ -480,7 +495,7 @@ Range of pH gels ^inQ4GAXJ
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1720146597705,
+			"updated": 1720146647421,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -518,8 +533,8 @@ Range of pH gels ^inQ4GAXJ
 			"frameId": null,
 			"roundness": null,
 			"seed": 745809464,
-			"version": 119,
-			"versionNonce": 1750516280,
+			"version": 126,
+			"versionNonce": 373923128,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -529,9 +544,25 @@ Range of pH gels ^inQ4GAXJ
 				{
 					"id": "-IGMyp29Up_Dm0eFm8eiv",
 					"type": "arrow"
+				},
+				{
+					"id": "OW56DA4e5wMmh5cYdY3rE",
+					"type": "arrow"
+				},
+				{
+					"id": "N-yDA9zJBsJZuhbVUfgnn",
+					"type": "arrow"
+				},
+				{
+					"id": "3jSvClgo4OPE4k-04SK4V",
+					"type": "arrow"
+				},
+				{
+					"id": "cBywavnV_XSciuXVlRD73",
+					"type": "arrow"
 				}
 			],
-			"updated": 1720146622485,
+			"updated": 1720146681500,
 			"link": null,
 			"locked": false,
 			"text": "Range of pH gels",
@@ -566,11 +597,11 @@ Range of pH gels ^inQ4GAXJ
 				"type": 2
 			},
 			"seed": 664314952,
-			"version": 80,
-			"versionNonce": 942059064,
+			"version": 81,
+			"versionNonce": 628691000,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1720146597705,
+			"updated": 1720146647422,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -591,8 +622,8 @@ Range of pH gels ^inQ4GAXJ
 		},
 		{
 			"type": "line",
-			"version": 119,
-			"versionNonce": 1166831944,
+			"version": 120,
+			"versionNonce": 1451831112,
 			"isDeleted": false,
 			"id": "9_39JM9jcGMAB-SBhu1It",
 			"fillStyle": "hachure",
@@ -614,7 +645,7 @@ Range of pH gels ^inQ4GAXJ
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1720146597705,
+			"updated": 1720146647422,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -635,8 +666,8 @@ Range of pH gels ^inQ4GAXJ
 		},
 		{
 			"type": "line",
-			"version": 117,
-			"versionNonce": 2091132728,
+			"version": 118,
+			"versionNonce": 358238520,
 			"isDeleted": false,
 			"id": "PRh7wmICMqcGoxbJPOqyg",
 			"fillStyle": "hachure",
@@ -658,7 +689,7 @@ Range of pH gels ^inQ4GAXJ
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1720146597705,
+			"updated": 1720146647422,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -679,8 +710,8 @@ Range of pH gels ^inQ4GAXJ
 		},
 		{
 			"type": "line",
-			"version": 108,
-			"versionNonce": 746522696,
+			"version": 109,
+			"versionNonce": 993265224,
 			"isDeleted": false,
 			"id": "7zmysXVal9S6RSztKQChf",
 			"fillStyle": "hachure",
@@ -702,7 +733,7 @@ Range of pH gels ^inQ4GAXJ
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1720146597705,
+			"updated": 1720146647422,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -723,8 +754,8 @@ Range of pH gels ^inQ4GAXJ
 		},
 		{
 			"type": "line",
-			"version": 139,
-			"versionNonce": 621445176,
+			"version": 140,
+			"versionNonce": 1185702456,
 			"isDeleted": false,
 			"id": "vkMcxfROho2F8cfaZ28tS",
 			"fillStyle": "hachure",
@@ -746,7 +777,7 @@ Range of pH gels ^inQ4GAXJ
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1720146597706,
+			"updated": 1720146647422,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -767,8 +798,8 @@ Range of pH gels ^inQ4GAXJ
 		},
 		{
 			"type": "line",
-			"version": 164,
-			"versionNonce": 1728495432,
+			"version": 165,
+			"versionNonce": 309067080,
 			"isDeleted": false,
 			"id": "bHZzKmsUid2rOL_jgInV_",
 			"fillStyle": "hachure",
@@ -790,7 +821,7 @@ Range of pH gels ^inQ4GAXJ
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1720146597706,
+			"updated": 1720146647422,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -830,11 +861,11 @@ Range of pH gels ^inQ4GAXJ
 				"type": 2
 			},
 			"seed": 104113224,
-			"version": 275,
-			"versionNonce": 543034168,
+			"version": 276,
+			"versionNonce": 1383287624,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1720146618081,
+			"updated": 1720146647422,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -882,11 +913,11 @@ Range of pH gels ^inQ4GAXJ
 				"type": 2
 			},
 			"seed": 1826550344,
-			"version": 85,
-			"versionNonce": 1382069576,
+			"version": 86,
+			"versionNonce": 967830840,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1720146626397,
+			"updated": 1720146647422,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -914,6 +945,222 @@ Range of pH gels ^inQ4GAXJ
 			"endArrowhead": "arrow"
 		},
 		{
+			"id": "OW56DA4e5wMmh5cYdY3rE",
+			"type": "arrow",
+			"x": -70.25,
+			"y": 154.7604217529297,
+			"width": 5.33331298828125,
+			"height": 79.3333740234375,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1206713400,
+			"version": 49,
+			"versionNonce": 1803199048,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1720146647422,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-5.33331298828125,
+					-79.3333740234375
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "inQ4GAXJ",
+				"focus": -0.8994593434923637,
+				"gap": 1.666656494140625
+			},
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "N-yDA9zJBsJZuhbVUfgnn",
+			"type": "arrow",
+			"x": 155.08331298828125,
+			"y": 156.76039123535156,
+			"width": 78.6666259765625,
+			"height": 78,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 433893448,
+			"version": 373,
+			"versionNonce": 785893688,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1720146667749,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-3.99993896484375,
+					-36.6666259765625
+				],
+				[
+					-78.6666259765625,
+					-78
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "inQ4GAXJ",
+				"focus": 1.019362528989389,
+				"gap": 2.3227081298828125
+			},
+			"endBinding": {
+				"elementId": "WuKXAZ4W",
+				"focus": 0.852085484840022,
+				"gap": 3.6745893868812516
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "3jSvClgo4OPE4k-04SK4V",
+			"type": "arrow",
+			"x": 163.0833740234375,
+			"y": 174.09376525878906,
+			"width": 20.6666259765625,
+			"height": 91.3333740234375,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 842431816,
+			"version": 119,
+			"versionNonce": 341185336,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1720146676866,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					20.6666259765625,
+					-18
+				],
+				[
+					14,
+					-91.3333740234375
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "inQ4GAXJ",
+				"focus": 0.9297072823788761,
+				"gap": 10.322769165039062
+			},
+			"endBinding": {
+				"elementId": "0nxS7tt2",
+				"focus": 0.022593843735615685,
+				"gap": 11.503951187581265
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "cBywavnV_XSciuXVlRD73",
+			"type": "arrow",
+			"x": 157.75,
+			"y": 182.76039123535156,
+			"width": 106,
+			"height": 110.66665649414062,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 926880584,
+			"version": 104,
+			"versionNonce": 1207910984,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1720146683797,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					91.3333740234375,
+					-6.6666259765625
+				],
+				[
+					106,
+					-110.66665649414062
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "inQ4GAXJ",
+				"focus": 0.6804229413743196,
+				"gap": 4.9893951416015625
+			},
+			"endBinding": {
+				"elementId": "zFmy5jYP",
+				"focus": -0.1948248635088318,
+				"gap": 10.837294693440626
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
 			"id": "TVnyzIGjD3758q2xIRQvo",
 			"type": "arrow",
 			"x": -246.25,
@@ -934,11 +1181,11 @@ Range of pH gels ^inQ4GAXJ
 				"type": 2
 			},
 			"seed": 937721928,
-			"version": 110,
-			"versionNonce": 20822328,
+			"version": 111,
+			"versionNonce": 408116024,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1720146597706,
+			"updated": 1720146647422,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -978,11 +1225,11 @@ Range of pH gels ^inQ4GAXJ
 				"type": 2
 			},
 			"seed": 39251512,
-			"version": 440,
-			"versionNonce": 751144264,
+			"version": 441,
+			"versionNonce": 1301091400,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1720146599145,
+			"updated": 1720146647422,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1055,11 +1302,11 @@ Range of pH gels ^inQ4GAXJ
 			"frameId": null,
 			"roundness": null,
 			"seed": 664025912,
-			"version": 2,
-			"versionNonce": 282081608,
+			"version": 3,
+			"versionNonce": 1823683640,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1720146597225,
+			"updated": 1720146647422,
 			"link": null,
 			"locked": false,
 			"text": "",
@@ -1072,6 +1319,58 @@ Range of pH gels ^inQ4GAXJ
 			"containerId": "telDYY2mNkje5KqtsvHLW",
 			"originalText": "",
 			"lineHeight": 1.25
+		},
+		{
+			"id": "FHRoe7xzJom38etOuWrJF",
+			"type": "arrow",
+			"x": 91.0833740234375,
+			"y": 79.42707824707031,
+			"width": 44.6666259765625,
+			"height": 68.66668701171875,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 641138232,
+			"version": 59,
+			"versionNonce": 414025272,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1720146647422,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					44.6666259765625,
+					68.66668701171875
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "WuKXAZ4W",
+				"focus": 0.4387998575335386,
+				"gap": 4.341276398600002
+			},
+			"endBinding": {
+				"elementId": "inQ4GAXJ",
+				"focus": 0.9091382332811232,
+				"gap": 8.33331298828125
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
 		}
 	],
 	"appState": {
@@ -1089,8 +1388,8 @@ Range of pH gels ^inQ4GAXJ
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 509.25,
-		"scrollY": 297.42713928222656,
+		"scrollX": 239.25,
+		"scrollY": 361.42710876464844,
 		"zoom": {
 			"value": 1
 		},
