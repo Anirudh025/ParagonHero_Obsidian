@@ -11,12 +11,14 @@
             "id": "e990237c48848b44",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Untitled.canvas",
+                "viewState": {
+                  "x": 35.817385953344605,
+                  "y": 27.651459542175132,
+                  "zoom": 1
+                }
               }
             }
           }
@@ -112,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md"
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Untitled.canvas"
               }
             }
           }
@@ -144,7 +146,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md"
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Untitled.canvas"
               }
             }
           },
@@ -185,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -243,10 +245,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "54c5a6e575f4cd1d",
+  "active": "e990237c48848b44",
   "lastOpenFiles": [
-    "README.md",
     "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
+    "School_Studies/!Chemistry/Organic Chemistry/Untitled.canvas",
+    "README.md",
     "Excalidraw/Amine.md",
     "Excalidraw/Drawing 2024-07-05 08.51.52.excalidraw.md",
     "Excalidraw/Hydrolysis of amide.excalidraw.md",
@@ -273,7 +276,6 @@
     "School_Studies/!Chemistry/Organic Chemistry",
     "Excalidraw/Mantissa and exponent.excalidraw.md",
     "School_Studies/!Physics/Thermodynamics.md",
-    "School_Studies/!Physics/Thermal Physics.md",
     "Excalidraw/benzene fast.gif",
     "Excalidraw/benezene slow 1.gif",
     "Excalidraw/benezene slow.gif",
