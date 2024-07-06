@@ -4,31 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "518dab396ac8e17e",
+        "id": "af9d2d26f360d72e",
         "type": "tabs",
         "children": [
           {
-            "id": "e990237c48848b44",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Untitled.canvas",
-                "viewState": {
-                  "x": 196.37317922990763,
-                  "y": -274.05397049738633,
-                  "zoom": -1
-                }
-              }
-            }
-          },
-          {
-            "id": "3ad2d74d1612bd70",
+            "id": "fda6fccef0f95552",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
+                "file": "School_Studies/!Physics/Electric Fields.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -36,37 +21,22 @@
             }
           },
           {
-            "id": "d443c33dcb6e8810",
+            "id": "cba9f318400b20ef",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "surfing-view",
+              "type": "markdown",
               "state": {
-                "url": "file:///C:/Users/beast/OneDrive/Desktop/IA2_Organic_Reactions_Map.pdf"
-              }
-            }
-          },
-          {
-            "id": "8f79dbc873c190e7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Friedel craft Acylation of benzene.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "4492c16d78678b54",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-07-06 15.19.13.excalidraw.md"
-              }
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,6 +55,21 @@
             "state": {
               "type": "file-explorer",
               "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4b0ad9f429b2d16e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
@@ -109,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 226.50418853759766
   },
   "right": {
     "id": "d967d98868519a35",
@@ -118,7 +103,7 @@
       {
         "id": "3a4f977b7dec7d16",
         "type": "tabs",
-        "dimension": 72.1835883171071,
+        "dimension": 40.214216163583245,
         "children": [
           {
             "id": "9317a1770b4fbb1c",
@@ -153,33 +138,28 @@
             }
           },
           {
-            "id": "40b33ddf6941da5e",
+            "id": "363316b58ba63505",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "review-queue-list-view",
               "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
         "id": "cb675aca7cd66052",
         "type": "tabs",
-        "dimension": 27.816411682892905,
+        "dimension": 59.78578383641675,
         "children": [
           {
-            "id": "4b0ad9f429b2d16e",
+            "id": "40b33ddf6941da5e",
             "type": "leaf",
             "state": {
-              "type": "search",
+              "type": "outline",
               "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
+                "file": "README.md"
               }
             }
           },
@@ -188,7 +168,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -228,6 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,17 +227,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
-            }
-          },
-          {
-            "id": "363316b58ba63505",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
             }
           }
         ],
@@ -262,10 +238,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
       "workspaces:Manage workspace layouts": false,
       "markdown-importer:Open format converter": false,
       "switcher:Open quick switcher": false,
@@ -280,61 +257,57 @@
       "meld-encrypt:Convert to or from an Encrypted note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "mathpad:Open Mathpad": false,
-      "homepage:Open homepage": false,
-      "copilot:Copilot Chat": false,
-      "bmo-chatbot:BMO Chatbot": false
+      "mathpad:Open Mathpad": false
     }
   },
-  "active": "d443c33dcb6e8810",
+  "active": "cba9f318400b20ef",
   "lastOpenFiles": [
-    "IA2_Organic_Reactions_Map.pdf",
-    "Excalidraw/Drawing 2024-07-06 15.19.13.excalidraw.md",
-    "Excalidraw/Friedel craft Acylation of benzene.excalidraw.md",
     "School_Studies/!Chemistry/Organic Chemistry/Untitled.canvas",
-    "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
+    "IA2_Organic_Reactions_Map.pdf",
+    "Excalidraw/peptide.excalidraw.md",
+    "Excalidraw/electrophoresis.excalidraw.md",
+    "Excalidraw/amine amide.excalidraw.md",
+    "Excalidraw/Hydrolysis of amide.excalidraw.md",
+    "Excalidraw/Drawing 2024-07-06 15.19.13.excalidraw.md",
+    "Excalidraw/Amine.md",
     "BMO/Profiles/BMO.md",
     "BMO/Profiles",
     "BMO",
-    "School_Studies/!Chemistry/!Chemistry.md",
-    "School_Studies/!Chemistry/Organic Chemistry/Benzene.md",
-    "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
-    "README.md",
-    "Excalidraw/Amine.md",
-    "Excalidraw/Drawing 2024-07-05 08.51.52.excalidraw.md",
-    "Excalidraw/Hydrolysis of amide.excalidraw.md",
-    "Excalidraw/amine amide.excalidraw.md",
-    "Excalidraw/peptide.excalidraw.md",
-    "Excalidraw/electrophoresis.excalidraw.md",
-    "School_Studies/!CS/Data Representation.md",
-    "School_Studies/!CS/!CS.md",
-    "School_Studies/School_Studies.md",
-    "conflict-files-obsidian-git.md",
     "School_Studies/!Physics/Electric Fields.md",
-    "Excalidraw/general amino acid formula.excalidraw.md",
-    "Excalidraw/zwitter ion.excalidraw.md",
-    "CSS snippets,",
-    "Excalidraw/Diazotization.excalidraw.md",
-    "School_Studies/!Chemistry/Chem unorganized.md",
-    "School_Studies/!Physics/Circular Motion.md",
-    "School_Studies/!Physics/!Physics.md",
-    "Excalidraw/benzene.png",
-    "School_Studies/!Chemistry/Organic Chemistry",
-    "Excalidraw/benzene fast.gif",
-    "Excalidraw/benezene slow 1.gif",
-    "Excalidraw/benezene slow.gif",
-    "A Level A Class Timetable.png",
     "0 Help.md/MathJax symbol reference.pdf",
-    "0 Help.md/attachments",
-    "0 Help.md/attachments/Drawing Pallet.png",
-    "Excalidraw/benzene Double bond.png",
-    "0 Help.md/Pasted Image 20240619103445_600.png",
-    "Excalidraw/Pasted image 20240615073438.png",
+    "0 Help.md/MathJax.md",
+    "README.md",
+    "conflict-files-obsidian-git.md",
+    "School_Studies/!Physics/!Physics.md",
+    "School_Studies/!CS/Data Representation.md",
+    "School_Studies/!Chemistry/!Chemistry.md",
+    "School_Studies/!CS/!CS.md",
+    "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
+    "School_Studies/!Chemistry/Chem unorganized.md",
+    "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
+    "School_Studies/!Chemistry/Organic Chemistry/Carboxylic Acids.md",
+    "School_Studies/!Chemistry/Organic Chemistry/Benzene.md",
+    "School_Studies/!Chemistry/Organic Chemistry",
+    "School_Studies/!Physics/Thermodynamics.md",
+    "School_Studies/!Physics/Thermal Physics.md",
+    "School_Studies/!Physics/Ideal Gases.md",
+    "School_Studies/!Physics/Circular Motion.md",
+    "School_Studies/School_Studies.md",
+    "School_Studies/!Chemistry",
+    "School_Studies/!Physics",
+    "School_Studies/!CS",
+    "School_Studies",
+    "0 Help.md/Pasted Image 20240619105930_233.png",
     "0 Help.md/attachments/Pasted Image 20240619105930_233.png",
-    "obsidian format/MathJax symbol reference .html",
-    "Excalidraw/pngwing.com.png.crdownload",
-    "Untitled.pdf",
-    "Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
+    "0 Help.md/attachments/Pasted Image 20240619104133_108.png",
+    "0 Help.md/attachments/Pasted Image 20240619103650_650.png",
+    "0 Help.md/attachments/Pasted Image 20240619103533_634.png",
+    "0 Help.md/attachments/markus-spiske-666905-unsplash.jpg",
+    "0 Help.md/attachments/Drawing Pallet.png",
+    "0 Help.md/attachments",
+    "0 Help.md/Pasted Image 20240619104133_108.png",
+    "0 Help.md/Pasted Image 20240619103650_650.png",
+    "0 Help.md/Pasted Image 20240619103533_634.png",
     "Excalidraw/Untitled.canvas",
     "School studies/AS LEVEL/Chem notes/Organic chem.canvas",
     "School studies/AS LEVEL/CS/Logic gates.canvas",
