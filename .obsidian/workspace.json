@@ -34,17 +34,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "db3bb5886a8c02d7",
-            "type": "leaf",
-            "state": {
-              "type": "chatbot-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -270,7 +262,7 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "db3bb5886a8c02d7",
+  "active": "3ad2d74d1612bd70",
   "lastOpenFiles": [
     "BMO/Profiles/BMO.md",
     "BMO/Profiles",
