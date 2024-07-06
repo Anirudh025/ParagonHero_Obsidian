@@ -1,9 +1,9 @@
 {
 	"nodes":[
 		{"id":"9577b73d8d874551","x":-60,"y":0,"width":400,"height":400,"type":"file","file":"Excalidraw/ringbenzene.md"},
-		{"id":"23499aae2af45053","x":-60,"y":-320,"width":400,"height":120,"type":"file","file":"Excalidraw/Hydrogenation of benzene .excalidraw.md"}
+		{"id":"23499aae2af45053","x":-60,"y":-480,"width":400,"height":120,"type":"file","file":"Excalidraw/Hydrogenation of benzene .excalidraw.md"}
 	],
 	"edges":[
-		{"id":"7466a18494baef61","fromNode":"9577b73d8d874551","fromSide":"top","toNode":"23499aae2af45053","toSide":"bottom","label":"H₂ &  "}
+		{"id":"7466a18494baef61","fromNode":"9577b73d8d874551","fromSide":"top","toNode":"23499aae2af45053","toSide":"bottom","label":"H₂ & \nNickel "}
 	]
 }

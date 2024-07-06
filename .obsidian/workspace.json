@@ -15,9 +15,9 @@
               "state": {
                 "file": "School_Studies/!Chemistry/Organic Chemistry/Untitled.canvas",
                 "viewState": {
-                  "x": 211.68955884786433,
-                  "y": -115.98298891571136,
-                  "zoom": 0
+                  "x": 336.94113298039895,
+                  "y": -135.6543508378413,
+                  "zoom": -0.5
                 }
               }
             }
@@ -34,8 +34,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4c34f27d96b4da38",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Untitled.canvas"
-              }
+              "state": {}
             }
           }
         ]
@@ -158,9 +165,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Untitled.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -200,7 +205,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +221,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -258,10 +261,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e990237c48848b44",
+  "active": "4c34f27d96b4da38",
   "lastOpenFiles": [
-    "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
     "School_Studies/!Chemistry/Organic Chemistry/Untitled.canvas",
+    "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
     "School_Studies/!Chemistry/!Chemistry.md",
     "School_Studies/!Chemistry/Organic Chemistry/Benzene.md",
     "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
