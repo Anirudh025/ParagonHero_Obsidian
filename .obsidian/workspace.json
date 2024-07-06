@@ -36,10 +36,10 @@
             }
           },
           {
-            "id": "49261ffcf9651011",
+            "id": "262b6933ec57b04d",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "copilot-chat-view",
               "state": {}
             }
           }
@@ -138,7 +138,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "cb675aca7cd66052",
@@ -258,10 +259,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "mathpad:Open Mathpad": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "copilot:Copilot Chat": false
     }
   },
-  "active": "49261ffcf9651011",
+  "active": "262b6933ec57b04d",
   "lastOpenFiles": [
     "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
     "School_Studies/!Chemistry/Organic Chemistry/Untitled.canvas",
