@@ -15,9 +15,9 @@
               "state": {
                 "file": "School_Studies/!Chemistry/Organic Chemistry/Untitled.canvas",
                 "viewState": {
-                  "x": 317.2400444000196,
-                  "y": 226.9801045044477,
-                  "zoom": -1.5
+                  "x": 376.0477295964524,
+                  "y": 155.7538133050535,
+                  "zoom": -0.5
                 }
               }
             }
@@ -35,8 +35,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md"
+                "file": "Excalidraw/Hydrogenation of benzene .excalidraw.md"
               }
             }
           }
@@ -160,7 +159,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md"
+                "file": "Excalidraw/Hydrogenation of benzene .excalidraw.md"
               }
             }
           },
@@ -201,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
+                "file": "Excalidraw/Hydrogenation of benzene .excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
+                "file": "Excalidraw/Hydrogenation of benzene .excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -259,11 +258,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3ad2d74d1612bd70",
+  "active": "e990237c48848b44",
   "lastOpenFiles": [
+    "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
+    "School_Studies/!Chemistry/Organic Chemistry/Untitled.canvas",
     "School_Studies/!Chemistry/!Chemistry.md",
     "School_Studies/!Chemistry/Organic Chemistry/Benzene.md",
-    "School_Studies/!Chemistry/Organic Chemistry/Untitled.canvas",
     "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
     "README.md",
     "Excalidraw/Amine.md",
@@ -274,7 +274,6 @@
     "Excalidraw/electrophoresis.excalidraw.md",
     "School_Studies/!CS/Data Representation.md",
     "School_Studies/!CS/!CS.md",
-    "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
     "School_Studies/School_Studies.md",
     "conflict-files-obsidian-git.md",
     "School_Studies/!Physics/Electric Fields.md",
