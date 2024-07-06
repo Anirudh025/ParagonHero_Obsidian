@@ -15,8 +15,8 @@
               "state": {
                 "file": "School_Studies/!Chemistry/Organic Chemistry/Untitled.canvas",
                 "viewState": {
-                  "x": 267.03992727678263,
-                  "y": -30.38734452082383,
+                  "x": 196.37317922990763,
+                  "y": -274.05397049738633,
                   "zoom": -1
                 }
               }
@@ -34,8 +34,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d443c33dcb6e8810",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "file:///C:/Users/beast/OneDrive/Desktop/IA2_Organic_Reactions_Map.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,9 +137,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Untitled.canvas"
-              }
+              "state": {}
             }
           }
         ],
@@ -159,9 +168,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Untitled.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -201,7 +208,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +224,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -261,13 +266,13 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "e990237c48848b44",
+  "active": "d443c33dcb6e8810",
   "lastOpenFiles": [
+    "School_Studies/!Chemistry/Organic Chemistry/Untitled.canvas",
     "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
     "BMO/Profiles/BMO.md",
     "BMO/Profiles",
     "BMO",
-    "School_Studies/!Chemistry/Organic Chemistry/Untitled.canvas",
     "School_Studies/!Chemistry/!Chemistry.md",
     "School_Studies/!Chemistry/Organic Chemistry/Benzene.md",
     "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
@@ -294,7 +299,6 @@
     "School_Studies/!Chemistry/Organic Chemistry/Carboxylic Acids.md",
     "School_Studies/!Chemistry/Organic Chemistry",
     "Excalidraw/Mantissa and exponent.excalidraw.md",
-    "School_Studies/!Physics/Thermodynamics.md",
     "Excalidraw/benzene fast.gif",
     "Excalidraw/benezene slow 1.gif",
     "Excalidraw/benezene slow.gif",
