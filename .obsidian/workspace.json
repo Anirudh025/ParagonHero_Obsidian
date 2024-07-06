@@ -15,14 +15,23 @@
               "state": {
                 "file": "School_Studies/!Chemistry/Organic Chemistry/Untitled.canvas",
                 "viewState": {
-                  "x": 35.817385953344605,
-                  "y": 27.651459542175132,
-                  "zoom": 0
+                  "x": 317.2400444000196,
+                  "y": 226.9801045044477,
+                  "zoom": -1.5
                 }
               }
             }
+          },
+          {
+            "id": "3ad2d74d1612bd70",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Untitled.canvas"
-              }
+              "state": {}
             }
           }
         ]
@@ -145,9 +152,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Untitled.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -187,7 +192,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +208,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -245,10 +248,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e990237c48848b44",
+  "active": "3ad2d74d1612bd70",
   "lastOpenFiles": [
-    "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
     "School_Studies/!Chemistry/Organic Chemistry/Untitled.canvas",
+    "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
     "README.md",
     "Excalidraw/Amine.md",
     "Excalidraw/Drawing 2024-07-05 08.51.52.excalidraw.md",

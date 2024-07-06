@@ -1,4 +1,6 @@
 {
-	"nodes":[],
+	"nodes":[
+		{"id":"9577b73d8d874551","x":36,"y":28,"width":400,"height":400,"type":"file","file":"Excalidraw/ringbenzene.md"}
+	],
 	"edges":[]
 }
