@@ -15,9 +15,9 @@
               "state": {
                 "file": "School_Studies/!Chemistry/Organic Chemistry/Untitled.canvas",
                 "viewState": {
-                  "x": 336.94113298039895,
-                  "y": -135.6543508378413,
-                  "zoom": -0.5
+                  "x": 175.03992727678263,
+                  "y": -430.1851993367296,
+                  "zoom": 0.5
                 }
               }
             }
@@ -35,8 +35,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md"
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Untitled.canvas"
               }
             }
           }
@@ -161,7 +160,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md"
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Untitled.canvas"
               }
             }
           },
@@ -202,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -262,12 +261,12 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "3ad2d74d1612bd70",
+  "active": "e990237c48848b44",
   "lastOpenFiles": [
+    "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
     "BMO/Profiles/BMO.md",
     "BMO/Profiles",
     "BMO",
-    "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
     "School_Studies/!Chemistry/Organic Chemistry/Untitled.canvas",
     "School_Studies/!Chemistry/!Chemistry.md",
     "School_Studies/!Chemistry/Organic Chemistry/Benzene.md",
