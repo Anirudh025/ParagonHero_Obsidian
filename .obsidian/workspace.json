@@ -260,11 +260,15 @@
       "obsidian-spaced-repetition:Review flashcards": false,
       "mathpad:Open Mathpad": false,
       "homepage:Open homepage": false,
-      "copilot:Copilot Chat": false
+      "copilot:Copilot Chat": false,
+      "bmo-chatbot:BMO Chatbot": false
     }
   },
   "active": "262b6933ec57b04d",
   "lastOpenFiles": [
+    "BMO/Profiles/BMO.md",
+    "BMO/Profiles",
+    "BMO",
     "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
     "School_Studies/!Chemistry/Organic Chemistry/Untitled.canvas",
     "School_Studies/!Chemistry/!Chemistry.md",
@@ -309,8 +313,6 @@
     "Excalidraw/pngwing.com.png.crdownload",
     "Untitled.pdf",
     "Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
-    "Cambridge International AS and A Levels Computer Science by David Watson, Helen Williams (z-lib.org).pdf",
-    "School studies/Chemistry/Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
     "Excalidraw/Untitled.canvas",
     "School studies/AS LEVEL/Chem notes/Organic chem.canvas",
     "School studies/AS LEVEL/CS/Logic gates.canvas",
