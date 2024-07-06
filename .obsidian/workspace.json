@@ -36,10 +36,10 @@
             }
           },
           {
-            "id": "262b6933ec57b04d",
+            "id": "db3bb5886a8c02d7",
             "type": "leaf",
             "state": {
-              "type": "copilot-chat-view",
+              "type": "chatbot-view",
               "state": {}
             }
           }
@@ -135,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md"
+              }
             }
           }
         ],
@@ -166,7 +168,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md"
+              }
             }
           },
           {
@@ -206,6 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,6 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -264,7 +270,7 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "262b6933ec57b04d",
+  "active": "db3bb5886a8c02d7",
   "lastOpenFiles": [
     "BMO/Profiles/BMO.md",
     "BMO/Profiles",

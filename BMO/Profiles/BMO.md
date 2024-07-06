@@ -1,8 +1,8 @@
 ---
 model: ""
 max_tokens: .nan
-temperature: 1
-enable_reference_current_note: false
+temperature: 0.1
+enable_reference_current_note: true
 prompt: ""
 user_name: YOU
 enable_header: true
