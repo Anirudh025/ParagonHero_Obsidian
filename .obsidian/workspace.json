@@ -11,9 +11,9 @@
             "id": "d443c33dcb6e8810",
             "type": "leaf",
             "state": {
-              "type": "surfing-view",
+              "type": "pdf",
               "state": {
-                "url": "file:///C:/Users/beast/OneDrive/Desktop/IA2_Organic_Reactions_Map.pdf"
+                "file": "IA2_Organic_Reactions_Map.pdf"
               }
             }
           },
@@ -156,11 +156,12 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "IA2_Organic_Reactions_Map.pdf"
+              }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "cb675aca7cd66052",
@@ -187,7 +188,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "IA2_Organic_Reactions_Map.pdf"
+              }
             }
           },
           {
@@ -227,6 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "IA2_Organic_Reactions_Map.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,6 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "IA2_Organic_Reactions_Map.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -285,7 +290,7 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "d443c33dcb6e8810",
+  "active": "9317a1770b4fbb1c",
   "lastOpenFiles": [
     "School_Studies/!Chemistry/Organic Chemistry/Untitled.canvas",
     "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
