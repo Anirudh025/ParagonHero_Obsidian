@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"9577b73d8d874551","x":-60,"y":0,"width":400,"height":400,"color":"#ff0000","type":"file","file":"Excalidraw/ringbenzene.md"},
+		{"id":"9577b73d8d874551","x":-60,"y":0,"width":400,"height":400,"color":"6","type":"file","file":"Excalidraw/ringbenzene.md"},
 		{"id":"23499aae2af45053","x":-60,"y":-480,"width":400,"height":120,"color":"5","type":"file","file":"Excalidraw/Hydrogenation of benzene .excalidraw.md"}
 	],
 	"edges":[
