@@ -65,7 +65,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -157,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IA2_Organic_Reactions_Map.pdf"
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Untitled.canvas"
               }
             }
           }
@@ -190,7 +191,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "IA2_Organic_Reactions_Map.pdf"
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Untitled.canvas"
               }
             }
           },
@@ -231,7 +232,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IA2_Organic_Reactions_Map.pdf",
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +249,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IA2_Organic_Reactions_Map.pdf",
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -288,13 +289,13 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "9317a1770b4fbb1c",
+  "active": "e990237c48848b44",
   "lastOpenFiles": [
+    "IA2_Organic_Reactions_Map.pdf",
     "School_Studies/!Chemistry/Organic Chemistry/Untitled.canvas",
     "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
     "Excalidraw/Friedel craft Acylation of benzene.excalidraw.md",
     "Excalidraw/Drawing 2024-07-06 15.19.13.excalidraw.md",
-    "IA2_Organic_Reactions_Map.pdf",
     "BMO/Profiles/BMO.md",
     "BMO/Profiles",
     "BMO",
