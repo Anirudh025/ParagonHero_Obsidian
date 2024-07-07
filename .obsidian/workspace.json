@@ -65,8 +65,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Untitled.canvas"
+                "file": "IA2_Organic_Reactions_Map.pdf"
               }
             }
           }
@@ -191,7 +190,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Untitled.canvas"
+                "file": "IA2_Organic_Reactions_Map.pdf"
               }
             }
           },
@@ -232,7 +231,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Untitled.canvas",
+                "file": "IA2_Organic_Reactions_Map.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -249,7 +248,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Untitled.canvas",
+                "file": "IA2_Organic_Reactions_Map.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -289,10 +288,10 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "e990237c48848b44",
+  "active": "d443c33dcb6e8810",
   "lastOpenFiles": [
-    "IA2_Organic_Reactions_Map.pdf",
     "School_Studies/!Chemistry/Organic Chemistry/Untitled.canvas",
+    "IA2_Organic_Reactions_Map.pdf",
     "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
     "Excalidraw/Friedel craft Acylation of benzene.excalidraw.md",
     "Excalidraw/Drawing 2024-07-06 15.19.13.excalidraw.md",
