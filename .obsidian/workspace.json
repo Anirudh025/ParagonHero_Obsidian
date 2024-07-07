@@ -161,7 +161,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "cb675aca7cd66052",
@@ -284,10 +285,7 @@
       "meld-encrypt:Convert to or from an Encrypted note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "mathpad:Open Mathpad": false,
-      "homepage:Open homepage": false,
-      "copilot:Copilot Chat": false,
-      "bmo-chatbot:BMO Chatbot": false
+      "mathpad:Open Mathpad": false
     }
   },
   "active": "9317a1770b4fbb1c",
