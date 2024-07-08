@@ -1204,8 +1204,8 @@ f3d9595f315f9fb682458c54152bd5f33f81e447: [[ringbenzene]]
 		},
 		{
 			"type": "text",
-			"version": 99,
-			"versionNonce": 759536598,
+			"version": 100,
+			"versionNonce": 434629910,
 			"isDeleted": false,
 			"id": "VEipNHNG",
 			"fillStyle": "hachure",
@@ -1224,8 +1224,13 @@ f3d9595f315f9fb682458c54152bd5f33f81e447: [[ringbenzene]]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": [],
-			"updated": 1720406157115,
+			"boundElements": [
+				{
+					"id": "L9i39Y6N7VB58suxMZqEz",
+					"type": "arrow"
+				}
+			],
+			"updated": 1720406216473,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2013,46 +2018,54 @@ f3d9595f315f9fb682458c54152bd5f33f81e447: [[ringbenzene]]
 			]
 		},
 		{
-			"type": "line",
-			"version": 67,
-			"versionNonce": 1722923850,
-			"isDeleted": true,
-			"id": "l5ZhWPN_2ET1QWHVVc-TO",
+			"id": "L9i39Y6N7VB58suxMZqEz",
+			"type": "arrow",
+			"x": -247.86956045611214,
+			"y": 23.123075095422777,
+			"width": 45.392696521755,
+			"height": 27.03159726814367,
+			"angle": 0,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
 			"fillStyle": "hachure",
-			"strokeWidth": 1,
+			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
-			"angle": 0,
-			"x": -293.4601908276201,
-			"y": 5.799693216337673,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 9.809774976520998,
-			"height": 7.474107139954754,
-			"seed": 1672608891,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": [],
-			"updated": 1720406149855,
+			"seed": 2048548554,
+			"version": 94,
+			"versionNonce": 65533974,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1720406236827,
 			"link": null,
 			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
 			"points": [
 				[
 					0,
 					0
 				],
 				[
-					9.809774976520998,
-					7.474107139954754
+					-24.481450106595048,
+					10.455611533914904
+				],
+				[
+					-45.392696521755,
+					-16.575985734228766
 				]
-			]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": {
+				"elementId": "VEipNHNG",
+				"focus": 1.6393638977135605,
+				"gap": 13.60595397496786
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
 		}
 	],
 	"appState": {
@@ -2061,7 +2074,7 @@ f3d9595f315f9fb682458c54152bd5f33f81e447: [[ringbenzene]]
 		"currentItemStrokeColor": "#1971c2",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "hachure",
-		"currentItemStrokeWidth": 1,
+		"currentItemStrokeWidth": 0.5,
 		"currentItemStrokeStyle": "solid",
 		"currentItemRoughness": 0,
 		"currentItemOpacity": 100,
@@ -2070,10 +2083,10 @@ f3d9595f315f9fb682458c54152bd5f33f81e447: [[ringbenzene]]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 357.1243344304987,
-		"scrollY": 74.71934349644576,
+		"scrollX": 394.37573843776687,
+		"scrollY": 93.4905587969833,
 		"zoom": {
-			"value": 3.1645339929477765
+			"value": 2.6142242277862073
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,
