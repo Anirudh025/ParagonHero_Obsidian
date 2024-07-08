@@ -23,7 +23,7 @@ Benzene %% #chemistry/benzene %%:
 	![[naming benzene compunds with other functional groups.excalidraw]]
 	- Some benzene examples: ![[somebenzenecompunds.excalidraw|500]]
 ### Special benzene compounds: 
-	![[benzenecoumpounds with special names.excalidraw | 500]]
+![[benzenecoumpounds with special names.excalidraw|500]]
 ### Ortho Meta Para Naming
 ![[OrthoMetaParabenzene.excalidraw|500]]
 ![[bromo ortho-cloro benzene.excalidraw|500]]
