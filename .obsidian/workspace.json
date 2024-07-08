@@ -8,47 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d443c33dcb6e8810",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e990237c48848b44",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Untitled.canvas",
-                "viewState": {
-                  "x": 196.37317922990763,
-                  "y": 283.94602950261367,
-                  "zoom": -1
-                }
-              }
-            }
-          },
-          {
-            "id": "3ad2d74d1612bd70",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8f79dbc873c190e7",
             "type": "leaf",
             "state": {
@@ -111,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d967d98868519a35",
@@ -160,12 +120,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md"
+                "file": "Excalidraw/Friedel craft Acylation of benzene.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "cb675aca7cd66052",
@@ -193,7 +152,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md"
+                "file": "Excalidraw/Friedel craft Acylation of benzene.excalidraw.md"
               }
             }
           },
@@ -234,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
+                "file": "Excalidraw/Friedel craft Acylation of benzene.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -251,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
+                "file": "Excalidraw/Friedel craft Acylation of benzene.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -270,7 +229,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 227.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -291,12 +251,12 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "8f13c2750f67f161",
+  "active": "8f79dbc873c190e7",
   "lastOpenFiles": [
+    "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
+    "School_Studies/!Chemistry/Organic Chemistry/Untitled.canvas",
     "School_Studies/!Chemistry/Organic Chemistry/Benzene.md",
     "IA2_Organic_Reactions_Map.pdf",
-    "School_Studies/!Chemistry/Organic Chemistry/Untitled.canvas",
-    "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
     "Excalidraw/Friedel craft Acylation of benzene.excalidraw.md",
     "Excalidraw/Drawing 2024-07-06 15.19.13.excalidraw.md",
     "BMO/Profiles/BMO.md",
