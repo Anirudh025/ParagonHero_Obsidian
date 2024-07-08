@@ -37,7 +37,7 @@
               "type": "markdown",
               "state": {
                 "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md"
               }
             }
           }
@@ -188,7 +188,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md"
               }
             }
           },
@@ -229,6 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,6 +246,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -284,10 +286,10 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "9317a1770b4fbb1c",
+  "active": "3ad2d74d1612bd70",
   "lastOpenFiles": [
-    "School_Studies/!Chemistry/Organic Chemistry/Carboxylic Acids.md",
     "conflict-files-obsidian-git.md",
+    "School_Studies/!Chemistry/Organic Chemistry/Carboxylic Acids.md",
     "School_Studies/!Chemistry/!Chemistry.md",
     "School_Studies/!Chemistry/Organic Chemistry/Untitled.canvas",
     "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
