@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
-                "mode": "preview",
+                "file": "School_Studies/!Chemistry/!Chemistry.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md"
+                "file": "School_Studies/!Chemistry/!Chemistry.md"
               }
             }
           }
@@ -144,7 +144,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md"
+                "file": "School_Studies/!Chemistry/!Chemistry.md"
               }
             }
           },
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
+                "file": "School_Studies/!Chemistry/!Chemistry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
+                "file": "School_Studies/!Chemistry/!Chemistry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -245,17 +245,18 @@
   },
   "active": "19fbc34569c20e13",
   "lastOpenFiles": [
+    "School_Studies/!Chemistry/Organic Chemistry/Untitled.canvas",
+    "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
+    "School_Studies/!Chemistry/Organic Chemistry/Carboxylic Acids.md",
+    "School_Studies/!Chemistry/Organic Chemistry/Benzene.md",
+    "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
     "Excalidraw/Drawing 2024-07-06 15.19.13.excalidraw.md",
     "Excalidraw/Friedel craft Acylation of benzene.excalidraw.md",
-    "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
-    "School_Studies/!Chemistry/Organic Chemistry/Untitled.canvas",
-    "School_Studies/!Chemistry/Organic Chemistry/Benzene.md",
     "IA2_Organic_Reactions_Map.pdf",
     "BMO/Profiles/BMO.md",
     "BMO/Profiles",
     "BMO",
     "School_Studies/!Chemistry/!Chemistry.md",
-    "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
     "README.md",
     "Excalidraw/Amine.md",
     "Excalidraw/Drawing 2024-07-05 08.51.52.excalidraw.md",
@@ -274,7 +275,6 @@
     "Excalidraw/Diazotization.excalidraw.md",
     "School_Studies/!Chemistry/Chem unorganized.md",
     "School_Studies/!Physics/Circular Motion.md",
-    "School_Studies/!Physics/!Physics.md",
     "Excalidraw/benzene.png",
     "School_Studies/!Chemistry/Organic Chemistry",
     "Excalidraw/benzene fast.gif",
