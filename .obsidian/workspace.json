@@ -54,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Reaction mechanism no2+benzene.excalidraw.md"
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md"
               }
             }
           }
@@ -179,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Reaction mechanism no2+benzene.excalidraw.md"
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md"
               }
             }
           },
@@ -220,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Reaction mechanism no2+benzene.excalidraw.md",
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,7 +237,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Reaction mechanism no2+benzene.excalidraw.md",
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -276,12 +276,12 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "8f13c2750f67f161",
+  "active": "f6ae2cca426edb1e",
   "lastOpenFiles": [
+    "Excalidraw/Reaction mechanism no2+benzene.excalidraw.md",
     "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
     "Excalidraw/somebenzenecompunds.excalidraw.md",
     "School_Studies/!Chemistry/Organic Chemistry/Carboxylic Acids.md",
-    "Excalidraw/Reaction mechanism no2+benzene.excalidraw.md",
     "conflict-files-obsidian-git.md",
     "Excalidraw/Drawing 2024-07-06 15.19.13.excalidraw.md",
     "School_Studies/!Chemistry/!Chemistry.md",
