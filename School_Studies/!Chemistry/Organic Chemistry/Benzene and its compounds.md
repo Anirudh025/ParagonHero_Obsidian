@@ -42,11 +42,9 @@ to form Phenylehtanone: %% #chemistry/acylation%% ![[Friedel craft Acylation of 
 ###### Oxidation of Benzene:
 %% #chemistry/oxidation%%![[Oxidation of benzene.excalidraw|500]]
 ###### Hydrogenation of Benzene: 
-%% #chemistry/hydrogenation%%
-	- ![[Hydrogenation of benzene .excalidraw|500]]
+%% #chemistry/hydrogenation%% ![[Hydrogenation of benzene .excalidraw|500]]
 ###### Formation of phenol with phenylamine HNO<sub>3</sub> and HCL:
-%% #chemistry/diazotization%%
-- ![[Diazotization.excalidraw|600]]
+%% #chemistry/diazotization%% ![[Diazotization.excalidraw|600]]
 
 ==Due to its stability benzene does not undergo some of the addition reactions that other alkenes do== 
 #todo/chemistry/whyphenolismoreacididcthanethanol
