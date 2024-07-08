@@ -754,8 +754,8 @@ f3d9595f315f9fb682458c54152bd5f33f81e447: [[ringbenzene]]
 		},
 		{
 			"type": "line",
-			"version": 99,
-			"versionNonce": 1237280182,
+			"version": 168,
+			"versionNonce": 937258184,
 			"isDeleted": false,
 			"id": "UDgI1QJOMI5CoQqtqHM5l",
 			"fillStyle": "hachure",
@@ -764,18 +764,18 @@ f3d9595f315f9fb682458c54152bd5f33f81e447: [[ringbenzene]]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 42.64133525856488,
-			"y": -92.36100489618013,
+			"x": 19.610995237258066,
+			"y": -108.72464125981651,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 14.01392148494807,
-			"height": 9.342649962652729,
+			"width": 21.286648757675323,
+			"height": 1.4638713316157919,
 			"seed": 1987721979,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1718434054852,
+			"updated": 1720404649395,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -789,8 +789,8 @@ f3d9595f315f9fb682458c54152bd5f33f81e447: [[ringbenzene]]
 					0
 				],
 				[
-					14.01392148494807,
-					-9.342649962652729
+					21.286648757675323,
+					-1.4638713316157919
 				]
 			]
 		},
@@ -833,8 +833,8 @@ f3d9595f315f9fb682458c54152bd5f33f81e447: [[ringbenzene]]
 		},
 		{
 			"type": "text",
-			"version": 38,
-			"versionNonce": 1131757302,
+			"version": 117,
+			"versionNonce": 1292086456,
 			"isDeleted": false,
 			"id": "nYX4e2xO",
 			"fillStyle": "hachure",
@@ -843,8 +843,8 @@ f3d9595f315f9fb682458c54152bd5f33f81e447: [[ringbenzene]]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 57.82310135360228,
-			"y": -111.74697095867563,
+			"x": 43.88372590971022,
+			"y": -122.6560341245137,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 11.019989013671875,
@@ -859,7 +859,7 @@ f3d9595f315f9fb682458c54152bd5f33f81e447: [[ringbenzene]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1718434054853,
+			"updated": 1720404652864,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -875,8 +875,8 @@ f3d9595f315f9fb682458c54152bd5f33f81e447: [[ringbenzene]]
 		},
 		{
 			"type": "arrow",
-			"version": 222,
-			"versionNonce": 1220203370,
+			"version": 301,
+			"versionNonce": 442324408,
 			"isDeleted": false,
 			"id": "NGkv6EMk2JJZSyQCoMJzf",
 			"fillStyle": "hachure",
@@ -885,18 +885,18 @@ f3d9595f315f9fb682458c54152bd5f33f81e447: [[ringbenzene]]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 48.94761917204278,
-			"y": -95.86448526741714,
+			"x": 55.49445533224619,
+			"y": -88.80023321637921,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
 			"width": 52.31881413052048,
-			"height": 26.626532079128538,
+			"height": 19.562280028090612,
 			"seed": 2011897563,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1718434054853,
+			"updated": 1720404652865,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -918,12 +918,12 @@ f3d9595f315f9fb682458c54152bd5f33f81e447: [[ringbenzene]]
 					0
 				],
 				[
-					29.42932492956311,
-					26.626532079128538
+					22.882488769359696,
+					19.562280028090612
 				],
 				[
-					-22.88948920095737,
-					21.95521778960841
+					-29.436325361160783,
+					14.890965738570486
 				]
 			]
 		},
@@ -1957,7 +1957,7 @@ f3d9595f315f9fb682458c54152bd5f33f81e447: [[ringbenzene]]
 			"y": -14.879223323266018,
 			"strokeColor": "transparent",
 			"backgroundColor": "transparent",
-			"width": 62.208531685755446,
+			"width": 62.20853168575544,
 			"height": 70.3226879925931,
 			"seed": 89007,
 			"groupIds": [],
@@ -2070,10 +2070,10 @@ f3d9595f315f9fb682458c54152bd5f33f81e447: [[ringbenzene]]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 525.2622341548558,
-		"scrollY": 347.775230188166,
+		"scrollX": 384.56249372797953,
+		"scrollY": 329.40699073790523,
 		"zoom": {
-			"value": 0.9932393843830877
+			"value": 1.1
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,
