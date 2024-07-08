@@ -97,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d967d98868519a35",
@@ -163,7 +164,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#todo/chemistry/whyphenolismoreacididcthanethanol",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -254,7 +255,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 227.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -275,7 +277,7 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "9317a1770b4fbb1c",
+  "active": "4b0ad9f429b2d16e",
   "lastOpenFiles": [
     "Excalidraw/Reaction mechanism no2+benzene.excalidraw.md",
     "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
