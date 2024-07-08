@@ -4,26 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "518dab396ac8e17e",
+        "id": "0b14a1cb37e47dae",
         "type": "tabs",
         "children": [
           {
-            "id": "8f79dbc873c190e7",
+            "id": "19fbc34569c20e13",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Friedel craft Acylation of benzene.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "4492c16d78678b54",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-07-06 15.19.13.excalidraw.md"
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -70,8 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "d967d98868519a35",
@@ -120,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Friedel craft Acylation of benzene.excalidraw.md"
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md"
               }
             }
           }
@@ -152,7 +144,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Friedel craft Acylation of benzene.excalidraw.md"
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md"
               }
             }
           },
@@ -193,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Friedel craft Acylation of benzene.excalidraw.md",
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Friedel craft Acylation of benzene.excalidraw.md",
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -251,14 +243,14 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "8f79dbc873c190e7",
+  "active": "19fbc34569c20e13",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-07-06 15.19.13.excalidraw.md",
+    "Excalidraw/Friedel craft Acylation of benzene.excalidraw.md",
     "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
     "School_Studies/!Chemistry/Organic Chemistry/Untitled.canvas",
     "School_Studies/!Chemistry/Organic Chemistry/Benzene.md",
     "IA2_Organic_Reactions_Map.pdf",
-    "Excalidraw/Friedel craft Acylation of benzene.excalidraw.md",
-    "Excalidraw/Drawing 2024-07-06 15.19.13.excalidraw.md",
     "BMO/Profiles/BMO.md",
     "BMO/Profiles",
     "BMO",
