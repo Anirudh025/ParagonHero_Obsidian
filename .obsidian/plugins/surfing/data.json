@@ -46,19 +46,7 @@
     ],
     "defaultFilterType": "tree"
   },
-  "treeData": [
-    {
-      "id": "d443c33dcb6e8810",
-      "parent": 0,
-      "droppable": true,
-      "text": "IA2_Organic_Reactions_Map.pdf",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    }
-  ],
+  "treeData": [],
   "enableHtmlPreview": true,
   "supportLivePreviewInlineUrl": false,
   "enableTreeView": true

@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
-                "mode": "source",
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -63,7 +63,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d967d98868519a35",
@@ -112,11 +113,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "cb675aca7cd66052",
@@ -144,7 +146,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md"
               }
             }
           },
@@ -185,6 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,6 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -240,7 +244,7 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "9317a1770b4fbb1c",
+  "active": "19fbc34569c20e13",
   "lastOpenFiles": [
     "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
     "conflict-files-obsidian-git.md",
