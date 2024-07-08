@@ -21,14 +21,12 @@
             "id": "e990237c48848b44",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Untitled.canvas",
-                "viewState": {
-                  "x": 196.37317922990763,
-                  "y": 283.94602950261367,
-                  "zoom": -1
-                }
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Carboxylic Acids.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -66,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,12 +156,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md"
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Carboxylic Acids.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "cb675aca7cd66052",
@@ -191,7 +188,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md"
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Carboxylic Acids.md"
               }
             }
           },
@@ -232,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Carboxylic Acids.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -249,7 +246,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Carboxylic Acids.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -289,17 +286,17 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "3ad2d74d1612bd70",
+  "active": "e990237c48848b44",
   "lastOpenFiles": [
-    "IA2_Organic_Reactions_Map.pdf",
+    "School_Studies/!Chemistry/!Chemistry.md",
     "School_Studies/!Chemistry/Organic Chemistry/Untitled.canvas",
     "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
+    "IA2_Organic_Reactions_Map.pdf",
     "Excalidraw/Friedel craft Acylation of benzene.excalidraw.md",
     "Excalidraw/Drawing 2024-07-06 15.19.13.excalidraw.md",
     "BMO/Profiles/BMO.md",
     "BMO/Profiles",
     "BMO",
-    "School_Studies/!Chemistry/!Chemistry.md",
     "School_Studies/!Chemistry/Organic Chemistry/Benzene.md",
     "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
     "README.md",
