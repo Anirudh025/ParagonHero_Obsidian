@@ -37,7 +37,7 @@
               "type": "markdown",
               "state": {
                 "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -54,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Carboxylic Acids.md"
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md"
               }
             }
           }
@@ -179,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Carboxylic Acids.md"
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md"
               }
             }
           },
@@ -220,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Carboxylic Acids.md",
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,7 +237,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Carboxylic Acids.md",
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -276,11 +276,11 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "e990237c48848b44",
+  "active": "f6ae2cca426edb1e",
   "lastOpenFiles": [
+    "School_Studies/!Chemistry/Organic Chemistry/Carboxylic Acids.md",
     "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
     "Excalidraw/Reaction mechanism no2+benzene.excalidraw.md",
-    "School_Studies/!Chemistry/Organic Chemistry/Carboxylic Acids.md",
     "conflict-files-obsidian-git.md",
     "Excalidraw/Drawing 2024-07-06 15.19.13.excalidraw.md",
     "School_Studies/!Chemistry/!Chemistry.md",
