@@ -41,10 +41,9 @@ to form methyl-benzene: %% #chemistry/alkylation%%
 to form Phenylehtanone: %% #chemistry/acylation%%
 	- ![[Friedel craft Acylation of benzene.excalidraw|650]]
 ###### Site Change Reaction of benzene: 
-	- ![[Site change electrophyllic reaction.excalidraw|500]]
+	![[Site change electrophyllic reaction.excalidraw|500]]
 ###### Oxidation of Benzene:
-%% #chemistry/oxidation%%
-	- ![[Oxidation of benzene.excalidraw|500]]
+%% #chemistry/oxidation%%![[Oxidation of benzene.excalidraw|500]]
 ###### Hydrogenation of Benzene: 
 %% #chemistry/hydrogenation%%
 	- ![[Hydrogenation of benzene .excalidraw|500]]
