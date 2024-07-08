@@ -34,9 +34,12 @@
             "id": "f6ae2cca426edb1e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/somebenzenecompunds.excalidraw.md"
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -51,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -143,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/somebenzenecompunds.excalidraw.md"
+                "file": "Excalidraw/Reaction mechanism no2+benzene.excalidraw.md"
               }
             }
           }
@@ -176,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/somebenzenecompunds.excalidraw.md"
+                "file": "Excalidraw/Reaction mechanism no2+benzene.excalidraw.md"
               }
             }
           },
@@ -217,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/somebenzenecompunds.excalidraw.md",
+                "file": "Excalidraw/Reaction mechanism no2+benzene.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +237,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/somebenzenecompunds.excalidraw.md",
+                "file": "Excalidraw/Reaction mechanism no2+benzene.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -273,9 +276,10 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "f6ae2cca426edb1e",
+  "active": "8f13c2750f67f161",
   "lastOpenFiles": [
     "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
+    "Excalidraw/somebenzenecompunds.excalidraw.md",
     "School_Studies/!Chemistry/Organic Chemistry/Carboxylic Acids.md",
     "Excalidraw/Reaction mechanism no2+benzene.excalidraw.md",
     "conflict-files-obsidian-git.md",
@@ -305,7 +309,6 @@
     "CSS snippets,",
     "Excalidraw/Diazotization.excalidraw.md",
     "School_Studies/!Chemistry/Chem unorganized.md",
-    "School_Studies/!Physics/Circular Motion.md",
     "Excalidraw/benzene.png",
     "School_Studies/!Chemistry/Organic Chemistry",
     "Excalidraw/benzene fast.gif",
