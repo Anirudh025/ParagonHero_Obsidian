@@ -70,8 +70,8 @@ Recieving ^b5N0EKUO
 		{
 			"id": "b5N0EKUO",
 			"type": "text",
-			"x": 158.41668701171875,
-			"y": -142.57290649414062,
+			"x": 109.75006103515625,
+			"y": -121.90625,
 			"width": 84.05992126464844,
 			"height": 25,
 			"angle": 0,
@@ -86,11 +86,16 @@ Recieving ^b5N0EKUO
 			"frameId": null,
 			"roundness": null,
 			"seed": 1585903623,
-			"version": 28,
-			"versionNonce": 1040912039,
+			"version": 70,
+			"versionNonce": 2014404935,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1720578256395,
+			"boundElements": [
+				{
+					"id": "8c40ne3pub92wsMCRr2fq",
+					"type": "arrow"
+				}
+			],
+			"updated": 1720578703773,
 			"link": null,
 			"locked": false,
 			"text": "Recieving",
@@ -123,16 +128,11 @@ Recieving ^b5N0EKUO
 			"frameId": null,
 			"roundness": null,
 			"seed": 108750537,
-			"version": 98,
-			"versionNonce": 600314503,
+			"version": 99,
+			"versionNonce": 990310729,
 			"isDeleted": false,
-			"boundElements": [
-				{
-					"id": "BEE_KXsoViNLRNSf7fk8l",
-					"type": "arrow"
-				}
-			],
-			"updated": 1720578667174,
+			"boundElements": [],
+			"updated": 1720578682817,
 			"link": null,
 			"locked": false,
 			"text": "4 Application Layer\n3 Transport Layer\n2 Internet (Network) Layer\n1 Link Network",
@@ -149,10 +149,10 @@ Recieving ^b5N0EKUO
 		{
 			"id": "BEE_KXsoViNLRNSf7fk8l",
 			"type": "arrow",
-			"x": -158.16727711010282,
-			"y": -92.59243276738965,
-			"width": 2.583903086665316,
-			"height": 110.68618276738965,
+			"x": -169.16727711010282,
+			"y": -91.9257457556709,
+			"width": 0.5839030866653161,
+			"height": 110.0194957556709,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -167,11 +167,11 @@ Recieving ^b5N0EKUO
 				"type": 2
 			},
 			"seed": 1953878279,
-			"version": 170,
-			"versionNonce": 1450667625,
+			"version": 222,
+			"versionNonce": 1137459849,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1720578676033,
+			"updated": 1720578690909,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -180,17 +180,61 @@ Recieving ^b5N0EKUO
 					0
 				],
 				[
-					2.583903086665316,
-					110.68618276738965
+					0.5839030866653161,
+					110.0194957556709
 				]
 			],
 			"lastCommittedPoint": null,
-			"startBinding": {
-				"elementId": "6mkRYxUX",
-				"focus": 1.106116192821169,
-				"gap": 17.25062061596219
-			},
+			"startBinding": null,
 			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "8c40ne3pub92wsMCRr2fq",
+			"type": "arrow",
+			"x": 159.41668701171875,
+			"y": 28.09378051757813,
+			"width": 0.6261319390077347,
+			"height": 120,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1722375591,
+			"version": 130,
+			"versionNonce": 460204775,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1720578717161,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-0.6261319390077347,
+					-120
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": {
+				"elementId": "b5N0EKUO",
+				"focus": -0.1643708826733673,
+				"gap": 5.000030517578125
+			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
 		},
