@@ -39,12 +39,12 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-10 07.53.49.excalidraw.md"
+                "file": "Excalidraw/tcpip.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-10 07.53.49.excalidraw.md"
+                "file": "School_Studies/!CS/Communications.md"
               }
             }
           }
@@ -169,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-10 07.53.49.excalidraw.md"
+                "file": "School_Studies/!CS/Communications.md"
               }
             }
           },
@@ -210,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-10 07.53.49.excalidraw.md",
+                "file": "School_Studies/!CS/Communications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-10 07.53.49.excalidraw.md",
+                "file": "School_Studies/!CS/Communications.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -266,10 +266,10 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "dc41d0ac92311cb3",
+  "active": "43a74340aa488194",
   "lastOpenFiles": [
+    "Excalidraw/tcpip.excalidraw.md",
     "School_Studies/!CS/Communications.md",
-    "Excalidraw/Drawing 2024-07-10 07.53.49.excalidraw.md",
     "School_Studies/!CS/Data Representation.md",
     "School_Studies/!CS/!CS.md",
     "Excalidraw/Reaction mechanism no2+benzene.excalidraw.md",

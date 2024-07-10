@@ -12,6 +12,11 @@ Sending ^Vlf5rAyj
 
 Recieving ^b5N0EKUO
 
+4 Application Layer
+3 Transport Layer
+2 Internet (Network) Layer
+1  ^6mkRYxUX
+
 %%
 # Drawing
 ```json
@@ -92,6 +97,80 @@ Recieving ^b5N0EKUO
 			"baseline": 17,
 			"containerId": null,
 			"originalText": "Recieving",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "6mkRYxUX",
+			"type": "text",
+			"x": -138.91665649414062,
+			"y": -80.57293701171875,
+			"width": 272.9197998046875,
+			"height": 100,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 108750537,
+			"version": 82,
+			"versionNonce": 658489191,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1720578312884,
+			"link": null,
+			"locked": false,
+			"text": "4 Application Layer\n3 Transport Layer\n2 Internet (Network) Layer\n1 ",
+			"rawText": "4 Application Layer\n3 Transport Layer\n2 Internet (Network) Layer\n1 ",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 92,
+			"containerId": null,
+			"originalText": "4 Application Layer\n3 Transport Layer\n2 Internet (Network) Layer\n1 ",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "DAGWQHir",
+			"type": "text",
+			"x": -112.25,
+			"y": -42.57293701171875,
+			"width": 10,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 710332647,
+			"version": 2,
+			"versionNonce": 873122793,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1720578277692,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 17,
+			"containerId": null,
+			"originalText": "",
 			"lineHeight": 1.25
 		}
 	],
