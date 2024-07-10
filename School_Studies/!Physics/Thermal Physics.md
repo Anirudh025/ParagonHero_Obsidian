@@ -79,4 +79,6 @@ units are JK<sup>-1</sup> mol<sup>-1</sup>
 	- $pV ∝nT$
 - Which becomes
 	- $pV=nRT$
+	- $n=\frac{N}{N_a}$
+	- 
 - This is can be written as $pV=NkT$ 
