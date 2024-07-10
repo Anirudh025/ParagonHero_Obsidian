@@ -15,6 +15,9 @@ Recieving ^b5N0EKUO
 4 Application Layer
  ^6mkRYxUX
 
+3 Transport Layer
+ ^wjCZewT1
+
 %%
 # Drawing
 ```json
@@ -237,6 +240,43 @@ Recieving ^b5N0EKUO
 			"endArrowhead": "arrow"
 		},
 		{
+			"id": "wjCZewT1",
+			"type": "text",
+			"x": -102.9166259765625,
+			"y": -52.57293701171875,
+			"width": 186.91986083984375,
+			"height": 50,
+			"angle": 0,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 150099015,
+			"version": 188,
+			"versionNonce": 387517191,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1720579292248,
+			"link": null,
+			"locked": false,
+			"text": "3 Transport Layer\n",
+			"rawText": "3 Transport Layer\n",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 42,
+			"containerId": null,
+			"originalText": "3 Transport Layer\n",
+			"lineHeight": 1.25
+		},
+		{
 			"id": "DAGWQHir",
 			"type": "text",
 			"x": -112.25,
@@ -272,12 +312,49 @@ Recieving ^b5N0EKUO
 			"containerId": null,
 			"originalText": "",
 			"lineHeight": 1.25
+		},
+		{
+			"id": "xoyfm5dQ",
+			"type": "text",
+			"x": -96.9166259765625,
+			"y": 18.760406494140625,
+			"width": 10,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#c0504d",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1489676041,
+			"version": 2,
+			"versionNonce": 415306023,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1720579242454,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 17,
+			"containerId": null,
+			"originalText": "",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#c0504d",
+		"currentItemStrokeColor": "#f08c00",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "hachure",
 		"currentItemStrokeWidth": 1,
