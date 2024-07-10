@@ -81,4 +81,5 @@ units are JK<sup>-1</sup> mol<sup>-1</sup>
 	- $pV=nRT$
 - Since $n=\frac{N}{N_a}$
 	- $k=\frac{R}{N_a}$ or $R = kN_A$
-- This is can be written as $pV=NkT$ 
+- This is can be written as $pV=NkT$
+- $K =$ Boltzman constant
