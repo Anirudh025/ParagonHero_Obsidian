@@ -1,8 +1,8 @@
 # OSI
-**A**pplication layer
-**P**resentation layer
-**S**ession layer
-**T**ransport layer
+**A**pplication layer - App itself
+**P**resentation layer - Looks of the app
+**S**ession layer - User Credentials
+**T**ransport layer - 
 **N**etwork layer
 **D**atatype layer
 **P**hysical layer
