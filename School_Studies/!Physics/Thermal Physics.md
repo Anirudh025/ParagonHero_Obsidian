@@ -80,5 +80,5 @@ units are JK<sup>-1</sup> mol<sup>-1</sup>
 - Which becomes
 	- $pV=nRT$
 - Since $n=\frac{N}{N_a}$
-	- $k=\frac{R}{N_a}$
+	- $k=\frac{R}{N_a}$ or $R = kN_A$
 - This is can be written as $pV=NkT$ 
