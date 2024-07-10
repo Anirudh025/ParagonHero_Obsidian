@@ -13,9 +13,7 @@ Sending ^Vlf5rAyj
 Recieving ^b5N0EKUO
 
 4 Application Layer
-3 Transport Layer
-2 Internet (Network) Layer
-1 Link Network ^6mkRYxUX
+ ^6mkRYxUX
 
 %%
 # Drawing
@@ -44,8 +42,8 @@ Recieving ^b5N0EKUO
 			"frameId": null,
 			"roundness": null,
 			"seed": 1458626345,
-			"version": 80,
-			"versionNonce": 1263197415,
+			"version": 81,
+			"versionNonce": 1743237481,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -53,7 +51,7 @@ Recieving ^b5N0EKUO
 					"type": "arrow"
 				}
 			],
-			"updated": 1720578677988,
+			"updated": 1720579152621,
 			"link": null,
 			"locked": false,
 			"text": "Sending",
@@ -86,8 +84,8 @@ Recieving ^b5N0EKUO
 			"frameId": null,
 			"roundness": null,
 			"seed": 1585903623,
-			"version": 70,
-			"versionNonce": 2014404935,
+			"version": 71,
+			"versionNonce": 817182119,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -95,7 +93,7 @@ Recieving ^b5N0EKUO
 					"type": "arrow"
 				}
 			],
-			"updated": 1720578703773,
+			"updated": 1720579152621,
 			"link": null,
 			"locked": false,
 			"text": "Recieving",
@@ -114,10 +112,10 @@ Recieving ^b5N0EKUO
 			"type": "text",
 			"x": -140.91665649414062,
 			"y": -79.23959350585938,
-			"width": 272.9197998046875,
-			"height": 100,
+			"width": 188.99984741210938,
+			"height": 50,
 			"angle": 0,
-			"strokeColor": "#1e1e1e",
+			"strokeColor": "#c2255c",
 			"backgroundColor": "transparent",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -128,22 +126,22 @@ Recieving ^b5N0EKUO
 			"frameId": null,
 			"roundness": null,
 			"seed": 108750537,
-			"version": 99,
-			"versionNonce": 990310729,
+			"version": 133,
+			"versionNonce": 1736953513,
 			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1720578682817,
+			"updated": 1720579161548,
 			"link": null,
 			"locked": false,
-			"text": "4 Application Layer\n3 Transport Layer\n2 Internet (Network) Layer\n1 Link Network",
-			"rawText": "4 Application Layer\n3 Transport Layer\n2 Internet (Network) Layer\n1 Link Network",
+			"text": "4 Application Layer\n",
+			"rawText": "4 Application Layer\n",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 92,
+			"baseline": 42,
 			"containerId": null,
-			"originalText": "4 Application Layer\n3 Transport Layer\n2 Internet (Network) Layer\n1 Link Network",
+			"originalText": "4 Application Layer\n",
 			"lineHeight": 1.25
 		},
 		{
@@ -167,11 +165,11 @@ Recieving ^b5N0EKUO
 				"type": 2
 			},
 			"seed": 1953878279,
-			"version": 222,
-			"versionNonce": 1137459849,
+			"version": 223,
+			"versionNonce": 1691822889,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1720578690909,
+			"updated": 1720579152622,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -211,11 +209,11 @@ Recieving ^b5N0EKUO
 				"type": 2
 			},
 			"seed": 1722375591,
-			"version": 130,
-			"versionNonce": 460204775,
+			"version": 131,
+			"versionNonce": 1474508775,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1720578717161,
+			"updated": 1720579152622,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -257,11 +255,11 @@ Recieving ^b5N0EKUO
 			"frameId": null,
 			"roundness": null,
 			"seed": 710332647,
-			"version": 2,
-			"versionNonce": 873122793,
+			"version": 3,
+			"versionNonce": 1218419785,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1720578277692,
+			"updated": 1720579152622,
 			"link": null,
 			"locked": false,
 			"text": "",
@@ -279,7 +277,7 @@ Recieving ^b5N0EKUO
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#1e1e1e",
+		"currentItemStrokeColor": "#c2255c",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "hachure",
 		"currentItemStrokeWidth": 1,
