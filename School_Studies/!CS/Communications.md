@@ -1,9 +1,9 @@
 # OSI
-**A**pplication
-**P**resentation
-**S**ession
-**T**ransport
+**A**pplication layer
+**P**resentation layer
+**S**ession layer
+**T**ransport layer
 **N**etwork layer
-**D**atatype Layer
-Physical layer
+**D**atatype layer
+**P**hysical layer
 All People Seem To Need Data Processing
