@@ -15,7 +15,7 @@ Recieving ^b5N0EKUO
 4 Application Layer
 3 Transport Layer
 2 Internet (Network) Layer
-1  ^6mkRYxUX
+1 Link Network ^6mkRYxUX
 
 %%
 # Drawing
@@ -28,8 +28,8 @@ Recieving ^b5N0EKUO
 		{
 			"id": "Vlf5rAyj",
 			"type": "text",
-			"x": -248.91665649414062,
-			"y": -140.57293701171875,
+			"x": -187.58331298828125,
+			"y": -113.2396240234375,
 			"width": 67.5599365234375,
 			"height": 25,
 			"angle": 0,
@@ -44,11 +44,16 @@ Recieving ^b5N0EKUO
 			"frameId": null,
 			"roundness": null,
 			"seed": 1458626345,
-			"version": 8,
-			"versionNonce": 1521778119,
+			"version": 80,
+			"versionNonce": 1263197415,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1720578245627,
+			"boundElements": [
+				{
+					"id": "BEE_KXsoViNLRNSf7fk8l",
+					"type": "arrow"
+				}
+			],
+			"updated": 1720578677988,
 			"link": null,
 			"locked": false,
 			"text": "Sending",
@@ -102,8 +107,8 @@ Recieving ^b5N0EKUO
 		{
 			"id": "6mkRYxUX",
 			"type": "text",
-			"x": -138.91665649414062,
-			"y": -80.57293701171875,
+			"x": -140.91665649414062,
+			"y": -79.23959350585938,
 			"width": 272.9197998046875,
 			"height": 100,
 			"angle": 0,
@@ -118,23 +123,76 @@ Recieving ^b5N0EKUO
 			"frameId": null,
 			"roundness": null,
 			"seed": 108750537,
-			"version": 82,
-			"versionNonce": 658489191,
+			"version": 98,
+			"versionNonce": 600314503,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1720578312884,
+			"boundElements": [
+				{
+					"id": "BEE_KXsoViNLRNSf7fk8l",
+					"type": "arrow"
+				}
+			],
+			"updated": 1720578667174,
 			"link": null,
 			"locked": false,
-			"text": "4 Application Layer\n3 Transport Layer\n2 Internet (Network) Layer\n1 ",
-			"rawText": "4 Application Layer\n3 Transport Layer\n2 Internet (Network) Layer\n1 ",
+			"text": "4 Application Layer\n3 Transport Layer\n2 Internet (Network) Layer\n1 Link Network",
+			"rawText": "4 Application Layer\n3 Transport Layer\n2 Internet (Network) Layer\n1 Link Network",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"baseline": 92,
 			"containerId": null,
-			"originalText": "4 Application Layer\n3 Transport Layer\n2 Internet (Network) Layer\n1 ",
+			"originalText": "4 Application Layer\n3 Transport Layer\n2 Internet (Network) Layer\n1 Link Network",
 			"lineHeight": 1.25
+		},
+		{
+			"id": "BEE_KXsoViNLRNSf7fk8l",
+			"type": "arrow",
+			"x": -158.16727711010282,
+			"y": -92.59243276738965,
+			"width": 2.583903086665316,
+			"height": 110.68618276738965,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1953878279,
+			"version": 170,
+			"versionNonce": 1450667625,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1720578676033,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					2.583903086665316,
+					110.68618276738965
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "6mkRYxUX",
+				"focus": 1.106116192821169,
+				"gap": 17.25062061596219
+			},
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
 		},
 		{
 			"id": "DAGWQHir",
