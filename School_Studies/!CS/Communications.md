@@ -1,5 +1,5 @@
 # OSI
-**OSI** :: **O**pen **S**ystem **I**nterconnection
+**OSI** :: **O**pen **S**ystem **I**nterconnection/**I**nterface
 **A**pplication layer - App itself
 **P**resentation layer - Looks of the app
 **S**ession layer - User Credentials
