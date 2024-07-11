@@ -126,11 +126,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "School_Studies/!Physics/Thermal Physics.md"
               }
             }
+          },
+          {
+            "id": "e39a15d0cbb0c2cb",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
         "id": "cb675aca7cd66052",
@@ -158,7 +167,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "School_Studies/!Physics/Thermal Physics.md"
               }
             }
           },
@@ -199,6 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "School_Studies/!Physics/Thermal Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,17 +225,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "School_Studies/!Physics/Thermal Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
-            }
-          },
-          {
-            "id": "363316b58ba63505",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
             }
           }
         ],
@@ -251,13 +254,14 @@
       "meld-encrypt:Convert to or from an Encrypted note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "mathpad:Open Mathpad": false
+      "mathpad:Open Mathpad": false,
+      "meld-encrypt:Encrypt/Decrypt": false
     }
   },
-  "active": "9317a1770b4fbb1c",
+  "active": "e39a15d0cbb0c2cb",
   "lastOpenFiles": [
-    "School_Studies/!Physics/Thermal Physics.md",
     "conflict-files-obsidian-git.md",
+    "School_Studies/!Physics/Thermal Physics.md",
     "School_Studies/!CS/Communications.md",
     "Excalidraw/tcpip.excalidraw.md",
     "School_Studies/!CS/Data Representation.md",
