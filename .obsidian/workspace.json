@@ -19,8 +19,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "03ef54c5cc325fe3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School_Studies/!Physics/Electric Fields.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eae395c44a0cfd23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,12 +139,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "cb675aca7cd66052",
@@ -145,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -186,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -243,12 +269,18 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "19fbc34569c20e13",
+  "active": "9317a1770b4fbb1c",
   "lastOpenFiles": [
-    "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
     "conflict-files-obsidian-git.md",
-    "School_Studies/!Chemistry/Organic Chemistry/Carboxylic Acids.md",
+    "School_Studies/!Physics/Electric Fields.md",
+    "School_Studies/!Physics/Thermodynamics.md",
+    "School_Studies/!Physics/Thermal Physics.md",
+    "School_Studies/!Physics/Ideal Gases.md",
+    "School_Studies/!Physics/Circular Motion.md",
+    "School_Studies/!Physics/!Physics.md",
     "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
+    "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
+    "School_Studies/!Chemistry/Organic Chemistry/Carboxylic Acids.md",
     "School_Studies/!Chemistry/Chem unorganized.md",
     "School_Studies/!Chemistry/!Chemistry.md",
     "School_Studies/!Chemistry/Organic Chemistry/Untitled.canvas",
@@ -269,12 +301,7 @@
     "School_Studies/!CS/Data Representation.md",
     "School_Studies/!CS/!CS.md",
     "School_Studies/School_Studies.md",
-    "School_Studies/!Physics/Electric Fields.md",
-    "Excalidraw/general amino acid formula.excalidraw.md",
-    "Excalidraw/zwitter ion.excalidraw.md",
     "CSS snippets,",
-    "Excalidraw/Diazotization.excalidraw.md",
-    "School_Studies/!Physics/Circular Motion.md",
     "Excalidraw/benzene.png",
     "School_Studies/!Chemistry/Organic Chemistry",
     "Excalidraw/benzene fast.gif",

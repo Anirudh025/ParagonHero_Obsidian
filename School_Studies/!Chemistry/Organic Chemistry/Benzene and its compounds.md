@@ -23,7 +23,7 @@ Benzene %% #chemistry/benzene %%:
 	![[naming benzene compunds with other functional groups.excalidraw]]
 	- Some benzene examples: ![[somebenzenecompunds.excalidraw|500]]
 ### Special benzene compounds: 
-	![[benzenecoumpounds with special names.excalidraw|500]]
+![[benzenecoumpounds with special names.excalidraw|500]]
 ### Ortho Meta Para Naming
 ![[OrthoMetaParabenzene.excalidraw|500]]
 ![[bromo ortho-cloro benzene.excalidraw|500]]
@@ -32,25 +32,19 @@ Benzene %% #chemistry/benzene %%:
 We can create Chlorobenzene %% #chemistry/chlorination%%
 	- ![[benzne+cl2 (alcl3).excalidraw|550]]
 ###### Benzene reacts with HNO₃ 
-To form Nitrobenzene: %% #chemistry/nitration%%
-	- ![[Reaction mechanism no2+benzene.excalidraw|600]]
+To form Nitrobenzene: %% #chemistry/nitration%% ![[Reaction mechanism no2+benzene.excalidraw|600]]
 ###### Benzene reacts with  CH₃Cl 
-to form methyl-benzene: %% #chemistry/alkylation%%
-	- ![[Friedel Craft Alkylation of benzene.excalidraw|550]]
+to form methyl-benzene: %% #chemistry/alkylation%% ![[Friedel Craft Alkylation of benzene.excalidraw|550]]
 ###### Benzene reacts with Ch₃C(O)Cl 
-to form Phenylehtanone: %% #chemistry/acylation%%
-	- ![[Friedel craft Acylation of benzene.excalidraw|650]]
+to form Phenylehtanone: %% #chemistry/acylation%% ![[Friedel craft Acylation of benzene.excalidraw|650]]
 ###### Site Change Reaction of benzene: 
-	- ![[Site change electrophyllic reaction.excalidraw|500]]
+![[Site change electrophyllic reaction.excalidraw|500]]
 ###### Oxidation of Benzene:
-%% #chemistry/oxidation%%
-	- ![[Oxidation of benzene.excalidraw|500]]
+%% #chemistry/oxidation%%![[Oxidation of benzene.excalidraw|500]]
 ###### Hydrogenation of Benzene: 
-%% #chemistry/hydrogenation%%
-	- ![[Hydrogenation of benzene .excalidraw|500]]
+%% #chemistry/hydrogenation%% ![[Hydrogenation of benzene .excalidraw|500]]
 ###### Formation of phenol with phenylamine HNO<sub>3</sub> and HCL:
-%% #chemistry/diazotization%%
-- ![[Diazotization.excalidraw]]
+%% #chemistry/diazotization%% ![[Diazotization.excalidraw|600]]
 
 ==Due to its stability benzene does not undergo some of the addition reactions that other alkenes do== 
 #todo/chemistry/whyphenolismoreacididcthanethanol
