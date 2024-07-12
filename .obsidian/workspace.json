@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School_Studies/!Physics/Ideal Gases.md",
+                "file": "School_Studies/!Physics/Thermal Physics.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School_Studies/!Physics/Ideal Gases.md"
+                "file": "School_Studies/!Physics/Thermal Physics.md"
               }
             }
           },
@@ -167,7 +167,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School_Studies/!Physics/Ideal Gases.md"
+                "file": "School_Studies/!Physics/Thermal Physics.md"
               }
             }
           },
@@ -208,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School_Studies/!Physics/Ideal Gases.md",
+                "file": "School_Studies/!Physics/Thermal Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +225,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School_Studies/!Physics/Ideal Gases.md",
+                "file": "School_Studies/!Physics/Thermal Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -259,10 +259,10 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "54c5a6e575f4cd1d",
+  "active": "03ef54c5cc325fe3",
   "lastOpenFiles": [
-    "School_Studies/!Physics/Thermodynamics.md",
     "School_Studies/!Physics/Ideal Gases.md",
+    "School_Studies/!Physics/Thermodynamics.md",
     "School_Studies/!Physics/Thermal Physics.md",
     "School_Studies/!Physics/Electric Fields.md",
     "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
