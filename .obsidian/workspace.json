@@ -4,42 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "30e363df315b920f",
+        "id": "0b14a1cb37e47dae",
         "type": "tabs",
         "children": [
           {
-            "id": "7f943401d84e7de3",
+            "id": "19fbc34569c20e13",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School_Studies/!CS/Data Representation.md",
-                "mode": "source",
+                "file": "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "43a74340aa488194",
+            "id": "03ef54c5cc325fe3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "School_Studies/!Physics/Thermal Physics.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "dc41d0ac92311cb3",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/tcpip.excalidraw.md"
               }
             }
           }
@@ -139,6 +129,14 @@
                 "file": "School_Studies/!Physics/Thermal Physics.md"
               }
             }
+          },
+          {
+            "id": "e39a15d0cbb0c2cb",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
         ],
         "currentTab": 2
@@ -232,16 +230,9 @@
                 "unlinkedCollapsed": false
               }
             }
-          },
-          {
-            "id": "363316b58ba63505",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -263,31 +254,35 @@
       "meld-encrypt:Convert to or from an Encrypted note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "mathpad:Open Mathpad": false
+      "mathpad:Open Mathpad": false,
+      "meld-encrypt:Encrypt/Decrypt": false
     }
   },
-  "active": "43a74340aa488194",
+  "active": "03ef54c5cc325fe3",
   "lastOpenFiles": [
-    "School_Studies/!CS/Data Representation.md",
-    "Excalidraw/tcpip.excalidraw.md",
-    "School_Studies/!CS/Communications.md",
-    "School_Studies/!CS/!CS.md",
-    "School_Studies/!CS/Untitled.md",
-    "Excalidraw/Reaction mechanism no2+benzene.excalidraw.md",
+    "School_Studies/!Physics/Thermodynamics.md",
+    "School_Studies/!Physics/Thermal Physics.md",
     "School_Studies/!Chemistry/Organic Chemistry/Benzene and its compounds.md",
-    "Excalidraw/somebenzenecompunds.excalidraw.md",
-    "School_Studies/!Chemistry/Organic Chemistry/Carboxylic Acids.md",
     "conflict-files-obsidian-git.md",
-    "Excalidraw/Drawing 2024-07-06 15.19.13.excalidraw.md",
+    "School_Studies/!CS/Communications.md",
+    "Excalidraw/tcpip.excalidraw.md",
+    "School_Studies/!CS/Data Representation.md",
+    "School_Studies/!Physics/Electric Fields.md",
+    "School_Studies/!Physics/Ideal Gases.md",
+    "School_Studies/!Physics/Circular Motion.md",
+    "School_Studies/!Physics/!Physics.md",
+    "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
+    "School_Studies/!Chemistry/Organic Chemistry/Carboxylic Acids.md",
+    "School_Studies/!Chemistry/Chem unorganized.md",
     "School_Studies/!Chemistry/!Chemistry.md",
     "School_Studies/!Chemistry/Organic Chemistry/Untitled.canvas",
-    "IA2_Organic_Reactions_Map.pdf",
+    "School_Studies/!Chemistry/Organic Chemistry/Benzene.md",
+    "Excalidraw/Drawing 2024-07-06 15.19.13.excalidraw.md",
     "Excalidraw/Friedel craft Acylation of benzene.excalidraw.md",
+    "IA2_Organic_Reactions_Map.pdf",
     "BMO/Profiles/BMO.md",
     "BMO/Profiles",
     "BMO",
-    "School_Studies/!Chemistry/Organic Chemistry/Benzene.md",
-    "School_Studies/!Chemistry/Organic Chemistry/Organic Nitrogen Compounds.md",
     "README.md",
     "Excalidraw/Amine.md",
     "Excalidraw/Drawing 2024-07-05 08.51.52.excalidraw.md",
@@ -295,9 +290,6 @@
     "Excalidraw/amine amide.excalidraw.md",
     "Excalidraw/peptide.excalidraw.md",
     "Excalidraw/electrophoresis.excalidraw.md",
-    "School_Studies/School_Studies.md",
-    "School_Studies/!Physics/Electric Fields.md",
-    "Excalidraw/general amino acid formula.excalidraw.md",
     "CSS snippets,",
     "Excalidraw/benzene.png",
     "School_Studies/!Chemistry/Organic Chemistry",
